@@ -7,6 +7,13 @@ import sys
 REQUIRED_CATEGORIES = ["money", "sidehustle", "scam"]
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
+# 投資助言非該当を守るための禁止表現（完全自動運用のガードレール）
+BANNED_PHRASES = [
+    "必ず儲かる", "絶対に儲かる", "確実に儲かる", "必ず稼げる", "絶対に稼げる",
+    "確実に稼げる", "元本保証で増える", "100%勝てる", "絶対に上がる", "確実に上がる",
+    "買うべきです", "売るべきです", "今すぐ買", "推奨銘柄",
+]
+
 
 def fail(msg):
     print(f"NG: {msg}")
@@ -65,6 +72,10 @@ def main(path):
             for s in sources:
                 if not s.get("url", "").startswith("https://"):
                     fail(f"{aid}: source url が https ではありません: {s.get('url')}")
+            all_text = a["title"] + " ".join(flash) + a.get("comment", "")
+            for ng in BANNED_PHRASES:
+                if ng in all_text:
+                    fail(f"{aid}: 禁止表現「{ng}」が含まれています（投資助言非該当ルール）")
             if a["category"] == "scam":
                 joined = a["comment"] + a["title"] + " ".join(flash)
                 words = ["詐欺", "フィッシング", "手口", "悪質", "被害", "なりすまし"]
