@@ -8,7 +8,7 @@
         {
           "id": "2026-07-18-money",
           "category": "money",
-          "title": "新NISA、成長投資枠の「使い切り」に注意。年内の枠復活はない",
+          "title": "【配信テスト】新NISA、成長投資枠の「使い切り」に注意。年内の枠復活はない",
           "flash": [
             "新NISAの成長投資枠(年240万円)は売却しても年内は枠が戻らない。",
             "枠の復活は翌年。年後半の入れ替え売買は非課税枠を実質的に消費する。",
@@ -16,7 +16,10 @@
           ],
           "comment": "私も相談をよく受けますが、「売れば枠が戻る」と誤解したまま回転売買している人が本当に多いです。新NISAは長期前提の器。年後半に銘柄を入れ替えたくなったら、まず特定口座側で調整するのが基本です。非課税の器の中では「売る理由」を厳しめに問うこと。これだけで生涯の非課税メリットが大きく変わります。",
           "sources": [
-            { "title": "金融庁 NISA特設ウェブサイト", "url": "https://www.fsa.go.jp/policy/nisa2/" }
+            {
+              "title": "金融庁 NISA特設ウェブサイト",
+              "url": "https://www.fsa.go.jp/policy/nisa2/"
+            }
           ]
         },
         {
@@ -30,7 +33,10 @@
           ],
           "comment": "私はこの1年でアプリを20本以上ストアに出しましたが、正直、コードを書く部分の難しさはもう消えました。差がつくのは審査対応・課金設計・スクショ・説明文という「地味な残り2割」です。ここを仕組み化した人だけが量産できる。逆に言えば、今から始める人も1本目の「出し切る経験」さえ作れば一気に景色が変わります。",
           "sources": [
-            { "title": "Apple Developer - App Store 審査ガイドライン", "url": "https://developer.apple.com/jp/app-store/review/guidelines/" }
+            {
+              "title": "Apple Developer - App Store 審査ガイドライン",
+              "url": "https://developer.apple.com/jp/app-store/review/guidelines/"
+            }
           ]
         },
         {
@@ -44,8 +50,14 @@
           ],
           "comment": "断言します。「有名投資家の限定グループ」「専用アプリで運用」「振込先が個人名義や聞いたことのない法人」——この3つのどれか1つでも出たら、その時点で詐欺です。本物の証券会社は個人口座に振り込ませることは絶対にありません。家族、特に親世代に今日このまま共有してください。被害の中心は50〜70代です。",
           "sources": [
-            { "title": "金融庁 SNS上の投資詐欺にご注意", "url": "https://www.fsa.go.jp/receipt/toushisagi_koukoku/shuhou.html" },
-            { "title": "警察庁 SNS型投資詐欺", "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/" }
+            {
+              "title": "金融庁 SNS上の投資詐欺にご注意",
+              "url": "https://www.fsa.go.jp/receipt/toushisagi_koukoku/shuhou.html"
+            },
+            {
+              "title": "警察庁 SNS型投資詐欺",
+              "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
+            }
           ]
         }
       ]
@@ -66,7 +78,10 @@
           ],
           "comment": "「ドルで増えます」は嘘ではないが、あなたが使うのは円です。為替リスクを取るなら、コストが透明な投資信託で取る方が合理的。保険は保障のため、運用は運用のため。この分離だけで金融商品選びの失敗の大半は防げます。",
           "sources": [
-            { "title": "金融庁 外貨建て保険に関する注意喚起", "url": "https://www.fsa.go.jp/ordinary/chuui/chuui.html" }
+            {
+              "title": "金融庁 外貨建て保険に関する注意喚起",
+              "url": "https://www.fsa.go.jp/ordinary/chuui/chuui.html"
+            }
           ]
         },
         {
@@ -80,7 +95,10 @@
           ],
           "comment": "自動化そのものは正義です。ただし「自動化で作った、どこにでもある動画」は収益化審査で確実に弾かれる時代になりました。私の結論は、自動化するのは作業で、独自性は人間が出す。この役割分担を間違えたチャンネルから消えていきます。",
           "sources": [
-            { "title": "YouTube ヘルプ - チャンネル収益化ポリシー", "url": "https://support.google.com/youtube/answer/1311392?hl=ja" }
+            {
+              "title": "YouTube ヘルプ - チャンネル収益化ポリシー",
+              "url": "https://support.google.com/youtube/answer/1311392?hl=ja"
+            }
           ]
         },
         {
@@ -94,7 +112,10 @@
           ],
           "comment": "見分け方はシンプルで、「稼げる金額」を先に言う商材は全部疑ってください。まともな副業情報は「何をするか」から入ります。「いくら稼げるか」から入るのは、あなたを稼がせる気がない証拠。電話勧誘に乗る前に、業者名+「消費者庁」で検索する癖をつけましょう。",
           "sources": [
-            { "title": "消費者庁 注意喚起情報", "url": "https://www.caa.go.jp/policies/policy/consumer_policy/caution/" }
+            {
+              "title": "消費者庁 注意喚起情報",
+              "url": "https://www.caa.go.jp/policies/policy/consumer_policy/caution/"
+            }
           ]
         }
       ]
@@ -115,7 +136,10 @@
           ],
           "comment": "ポイントはおまけです。0.5%の還元差を追って口座を3つに分けるより、入金力を月1万円増やす方が資産形成には効きます。とはいえ設定を一度も見直していない人は損している可能性が高い。年1回、今日みたいな日に確認しましょう。",
           "sources": [
-            { "title": "日本証券業協会 投資信託のクレカ積立", "url": "https://www.jsda.or.jp/" }
+            {
+              "title": "日本証券業協会 投資信託のクレカ積立",
+              "url": "https://www.jsda.or.jp/"
+            }
           ]
         },
         {
@@ -129,7 +153,10 @@
           ],
           "comment": "手数料の安い場所で売れない100本より、手数料が高くても売れる10本。最初は集客力のあるプラットフォームに乗り、ファンがついたら自前導線に移す。この順番を逆にすると、誰も来ない自作ショップで消耗します。",
           "sources": [
-            { "title": "経済産業省 電子商取引に関する市場調査", "url": "https://www.meti.go.jp/policy/it_policy/statistics/outlook/ie_outlook.html" }
+            {
+              "title": "経済産業省 電子商取引に関する市場調査",
+              "url": "https://www.meti.go.jp/policy/it_policy/statistics/outlook/ie_outlook.html"
+            }
           ]
         },
         {
@@ -143,8 +170,14 @@
           ],
           "comment": "今すぐやることは2つ。①証券口座の多要素認証を今日オンにする。②SMSやメールのリンクから絶対にログインしない（必ずブックマークかアプリから）。この2つだけで被害の9割は防げます。資産を増やす前に、抜かれない守りを固めてください。",
           "sources": [
-            { "title": "金融庁 フィッシングによる証券口座の乗っ取りに注意", "url": "https://www.fsa.go.jp/ordinary/chuui/chuui.html" },
-            { "title": "フィッシング対策協議会", "url": "https://www.antiphishing.jp/" }
+            {
+              "title": "金融庁 フィッシングによる証券口座の乗っ取りに注意",
+              "url": "https://www.fsa.go.jp/ordinary/chuui/chuui.html"
+            },
+            {
+              "title": "フィッシング対策協議会",
+              "url": "https://www.antiphishing.jp/"
+            }
           ]
         }
       ]
@@ -165,7 +198,10 @@
           ],
           "comment": "情報は多いほど良い、は嘘です。判断を変えないニュースは全部ノイズ。私が毎朝、財布に効く3本だけに絞ります。3分で読んで、あとは自分の人生に時間を使ってください。",
           "sources": [
-            { "title": "Money Flash について", "url": "https://jack-invest.com/" }
+            {
+              "title": "Money Flash について",
+              "url": "https://jack-invest.com/"
+            }
           ]
         },
         {
@@ -179,7 +215,10 @@
           ],
           "comment": "この枠では、私自身が実際にやって数字が出たものだけを扱います。理論より実録。失敗も含めて出します。",
           "sources": [
-            { "title": "副業の番人 jack-invest.com", "url": "https://jack-invest.com/" }
+            {
+              "title": "副業の番人 jack-invest.com",
+              "url": "https://jack-invest.com/"
+            }
           ]
         },
         {
@@ -193,7 +232,10 @@
           ],
           "comment": "詐欺被害の取材をしていて毎回思うのは、「この手口を前日に知ってさえいれば」ということ。だからこの枠を作りました。あなたと、あなたの家族を守る3分です。",
           "sources": [
-            { "title": "警察庁 SOS47 特殊詐欺対策ページ", "url": "https://www.npa.go.jp/bureau/safetylife/sos47/" }
+            {
+              "title": "警察庁 SOS47 特殊詐欺対策ページ",
+              "url": "https://www.npa.go.jp/bureau/safetylife/sos47/"
+            }
           ]
         }
       ]
