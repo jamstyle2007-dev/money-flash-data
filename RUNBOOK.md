@@ -49,3 +49,4 @@ draft.json の形式:
 - リポジトリ: https://github.com/jamstyle2007-dev/money-flash-data （公開）
 - アプリ取得URL: https://raw.githubusercontent.com/jamstyle2007-dev/money-flash-data/main/issues.json
 - アプリ側フォールバック: リモート失敗時はキャッシュ → 同梱データの順で表示（配信事故でもアプリは死なない）
+- **注意: raw.githubusercontent.com はCDNキャッシュ最大5分（max-age=300）。** 通知時刻（デフォルト朝7時）の5分以上前に publish.sh を済ませること
