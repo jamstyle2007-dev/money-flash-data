@@ -24,19 +24,26 @@ fi
 
 rm -f draft_today.json
 
+notify_fail() {
+  osascript -e "display notification \"$1\" with title \"Money Flash 配信失敗\" sound name \"Basso\"" 2>/dev/null || true
+}
+
 # 1) AIがドラフト生成（git操作は許可しない）
 claude -p "$(cat MORNING_PROMPT.md)" \
-  --allowedTools "WebSearch" "WebFetch" "Read" "Write" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" \
+  --allowedTools "WebSearch" "WebFetch" "Read" "Write" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" "Bash(python3 tools/checkdraft.py:*)" \
   --max-turns 40
 echo "claude exit: $?"
 
-# 2) ドラフト検証＋追加（NGならここで止まる）
+# 2) ドラフト検証＋追加（NGなら自動修復を1回試してから止まる）
 if [ ! -f draft_today.json ]; then
   echo "★draft_today.json が無い。生成失敗のため公開せず終了"
+  notify_fail "ドラフト未生成（$TODAY）。ログを確認してください"
   exit 1
 fi
+python3 tools/checkdraft.py --fix || true
 if ! python3 tools/add_issue.py draft_today.json; then
   echo "★検証NG。公開せず終了（draft_today.json を残置）"
+  notify_fail "検証NGで未配信（$TODAY）。draft_today.json を確認してください"
   exit 1
 fi
 
@@ -46,5 +53,6 @@ if ./publish.sh "Auto publish $TODAY"; then
   rm -f draft_today.json
 else
   echo "★publish失敗"
+  notify_fail "push失敗（$TODAY）。ネットワーク/認証を確認してください"
   exit 1
 fi

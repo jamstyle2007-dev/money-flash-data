@@ -22,6 +22,11 @@
 }
 ```
 
+# JSONルール（厳守・2026-07-22追加）
+
+- **文字列の値の中に半角ダブルクォート（"）を絶対に書かない。** 引用・強調は必ず「」を使う（例: NG `"利用券"が必要` → OK `「利用券」が必要`）。ソース記事タイトルをコピーする時も置換すること
+- draft_today.json を書き終えたら、必ず `python3 tools/checkdraft.py` を実行して構文チェックを通すこと。NGなら修正して再チェックし、OKになるまで終了しない
+
 # 執筆ルール（厳守）
 
 - flash は事実のみ3行。comment（JACKの視点）に意見・判断を書く。事実と意見を分ける
@@ -37,4 +42,4 @@
 - git操作（add/commit/push）は一切しない。公開はスクリプト側が検証後に行う
 - issues.json を直接編集しない。書くのは draft_today.json のみ
 
-完了したら「DONE: draft_today.json 作成済み」とだけ出力して終了してください。
+完了条件: `python3 tools/checkdraft.py` がOKを返すこと。確認できたら「DONE: draft_today.json 作成済み」とだけ出力して終了してください。
