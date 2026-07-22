@@ -1,13 +1,130 @@
 {
-  "updated": "2026-07-22T23:14",
+  "updated": "2026-07-23T06:10",
   "market": [
     { "symbol": "N225",   "name": "日経平均",  "value": "66,115.60", "change": "-116.59", "changePct": "-0.18%" },
     { "symbol": "TOPIX",  "name": "TOPIX",    "value": "4,033.13",  "change": "+18.18",  "changePct": "+0.45%" },
-    { "symbol": "USDJPY", "name": "ドル円",    "value": "163.20",    "change": "+0.95",   "changePct": "+0.59%" },
+    { "symbol": "USDJPY", "name": "ドル円",    "value": "163.15",    "change": "-0.05",   "changePct": "-0.03%" },
     { "symbol": "SPX",    "name": "S&P500",   "value": "7,509.20",  "change": "+62",     "changePct": "+0.83%" },
-    { "symbol": "BTC",    "name": "BTC",      "value": "¥10.85M",   "change": "-1.45%",  "changePct": "-1.45%" }
+    { "symbol": "BTC",    "name": "BTC",      "value": "¥10.74M",   "change": "-1.0%",   "changePct": "-1.0%" }
   ],
   "items": [
+    {
+      "id": "20260723-0600-01",
+      "time": "2026-07-23T06:00",
+      "category": "usstock",
+      "title": "米市場は大手テック決算を前に様子見 引け後にアルファベット・テスラ・IBMが発表",
+      "summary": [
+        "22日の米株式市場でNYダウは小幅続伸で始まったが、大手テック決算を前に慎重姿勢が広がった",
+        "取引終了後にアルファベット、テスラ、IBMが四半期決算を発表。アルファベットは広告・クラウド事業とAI関連投資、テスラは利益率や販売見通しが注目点とされた",
+        "日中はナスダック100先物が下落するなど、AI・ハイテク関連には利益確定売りの動きも見られた"
+      ],
+      "sources": [
+        { "title": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOFL22B220S6A720C2000000/" },
+        { "title": "財経新聞", "url": "https://www.zaikei.co.jp/article/20260718/861863.html" }
+      ]
+    },
+    {
+      "id": "20260723-0545-02",
+      "time": "2026-07-23T05:45",
+      "category": "fx",
+      "title": "ドル円163円台前半で高止まり 39年7カ月ぶり円安水準、当局の介入警戒が継続",
+      "summary": [
+        "23日早朝のニューヨーク市場でドル円は163円台前半で推移し、1986年12月以来約39年7カ月ぶりの円安水準での取引が続いた",
+        "中東情勢の緊迫化に伴う有事のドル買いと米長期金利の上昇が円売り圧力の背景となっている",
+        "市場では投機筋の円売りポジションの積み上がりを受け、政府・日銀による円買い介入への警戒感が高まっている"
+      ],
+      "sources": [
+        { "title": "みんかぶFX", "url": "https://fx.minkabu.jp/news/373900" },
+        { "title": "外為どっとコム マネ育チャンネル", "url": "https://www.gaitame.com/media/entry/2026/07/22/080010" }
+      ]
+    },
+    {
+      "id": "20260723-0530-03",
+      "time": "2026-07-23T05:30",
+      "category": "crypto",
+      "title": "ビットコインは6万5,800ドル近辺で推移 クラリティ法案の審議動向を注視",
+      "summary": [
+        "22日の海外市場でビットコインは6万5,700〜6万5,900ドル前後（円建てで約1,070万円）で推移した",
+        "米クラリティ法案を巡る進展期待が相場を下支えする一方、原油高と米長期金利の上昇が上値を抑えた",
+        "2025年に付けた12万6,000ドル超の高値は依然更新できておらず、2026年を通じて上値の重い展開が続いている"
+      ],
+      "sources": [
+        { "title": "Fortune", "url": "https://fortune.com/article/price-of-bitcoin-07-22-2026/" },
+        { "title": "Yahoo Finance", "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html" }
+      ]
+    },
+    {
+      "id": "20260723-0515-04",
+      "time": "2026-07-23T05:15",
+      "category": "market",
+      "title": "原油高が世界株の重荷に S&P500の割高感を指摘する声も",
+      "summary": [
+        "中東情勢の緊迫化による原油高がインフレ再燃懸念につながり、米株相場の上値を抑える要因となっている",
+        "21日のS&P500はほぼ横ばいで引け、原油価格の上昇が株式相場の圧迫要因になったと報じられた",
+        "S&P500のバリュエーションはドットコムバブル期以来の高水準にあるとの指摘もあり、割高感への警戒が意識されている"
+      ],
+      "sources": [
+        { "title": "CNBC", "url": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html" },
+        { "title": "The Motley Fool", "url": "https://www.fool.com/investing/2026/07/22/last-time-sp-500-valuation-stock-market-crashed/" }
+      ]
+    },
+    {
+      "id": "20260723-0500-05",
+      "time": "2026-07-23T05:00",
+      "category": "seido",
+      "title": "NISA口座の所在地確認を廃止へ 2026年度税制改正で手続き簡素化・指定指数の拡充も",
+      "summary": [
+        "2026年度税制改正では、NISA口座に関する所在地確認の廃止が盛り込まれ、口座手続きの簡素化が図られる",
+        "対象商品では債券中心・バランス型の投資信託の追加のほか、読売株価指数やJPXプライム150指数などの指定指数の拡充が示された",
+        "つみたて投資枠の年齢要件撤廃（未成年への拡大）とあわせ、2026年中の施行が予定されている"
+      ],
+      "sources": [
+        { "title": "金融庁", "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf" },
+        { "title": "大和ネクスト銀行", "url": "https://www.bank-daiwa.co.jp/column/articles/2026/2026_565.html" }
+      ]
+    },
+    {
+      "id": "20260723-0445-06",
+      "time": "2026-07-23T04:45",
+      "category": "point",
+      "title": "PayPayカード、6月改定の影響続く 公共料金の還元半減・交通系ICチャージは対象外に",
+      "summary": [
+        "PayPayカードは2026年6月2日の改定で、公共料金のカード払いのポイント還元率が半減し、交通系ICカードへのチャージはポイント付与の対象外となった",
+        "PayPayステップの達成条件も変更されており、利用状況によっては還元率が従来より低下するケースがある",
+        "固定費の支払いカードやチャージ経路の見直しなど、利用者側の対策の必要性が指摘されている"
+      ],
+      "sources": [
+        { "title": "Yahoo!ニュース エキスパート", "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3" }
+      ]
+    },
+    {
+      "id": "20260723-0430-07",
+      "time": "2026-07-23T04:30",
+      "category": "sidehustle",
+      "title": "フリーランス市場は拡大続く プラットフォーム市場規模99.1億ドルへ、動画編集の需要増が最大",
+      "summary": [
+        "フリーランス人材白書2026によると、フリーランスプラットフォーム市場は2025年の83.5億ドルから99.1億ドル規模へと成長が見込まれている",
+        "職種別の需要増加率は動画編集者が25%と最も高く、ライターが22%で続いた",
+        "企業の56.4%が副業を容認しており、会社員が複数の収入源を持つ動きが引き続き広がっている"
+      ],
+      "sources": [
+        { "title": "フリーランス人材白書2026（リアラボ）", "url": "https://rialab.jp/blog/2026-05-21-173460/" }
+      ]
+    },
+    {
+      "id": "20260723-0420-08",
+      "time": "2026-07-23T04:20",
+      "category": "scam",
+      "title": "【警戒】金融庁、無登録の海外業者リストを7月22日付で更新 MYFX Marketsなどに警告",
+      "summary": [
+        "金融庁は2026年7月22日付で、無登録で金融商品取引業を行う者の名称等の公表リストを更新した",
+        "2026年7月分として、MYFX Markets Pty Ltdほか2社、Capital Crest Ltd、IS6 Technologies Ltdなど海外所在の無登録業者への警告が掲載されている",
+        "金融商品の勧誘には原則として金融商品取引業の登録が必要で、金融庁は取引前に登録の有無を確認するよう呼びかけている"
+      ],
+      "sources": [
+        { "title": "金融庁", "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku/04.html" }
+      ]
+    },
     {
       "id": "20260722-2300-01",
       "time": "2026-07-22T23:00",
