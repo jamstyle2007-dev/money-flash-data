@@ -1,41 +1,11 @@
 {
   "updated": "2026-07-23T06:10",
   "market": [
-    {
-      "symbol": "N225",
-      "name": "日経平均",
-      "value": "66,115.60",
-      "change": "-116.59",
-      "changePct": "-0.18%"
-    },
-    {
-      "symbol": "TOPIX",
-      "name": "TOPIX",
-      "value": "4,033.13",
-      "change": "+18.18",
-      "changePct": "+0.45%"
-    },
-    {
-      "symbol": "USDJPY",
-      "name": "ドル円",
-      "value": "163.15",
-      "change": "-0.05",
-      "changePct": "-0.03%"
-    },
-    {
-      "symbol": "SPX",
-      "name": "S&P500",
-      "value": "7,509.20",
-      "change": "+62",
-      "changePct": "+0.83%"
-    },
-    {
-      "symbol": "BTC",
-      "name": "BTC",
-      "value": "¥10.74M",
-      "change": "-1.0%",
-      "changePct": "-1.0%"
-    }
+    { "symbol": "N225",   "name": "日経平均",  "value": "66,115.60", "change": "-116.59", "changePct": "-0.18%" },
+    { "symbol": "TOPIX",  "name": "TOPIX",    "value": "4,033.13",  "change": "+18.18",  "changePct": "+0.45%" },
+    { "symbol": "USDJPY", "name": "ドル円",    "value": "163.15",    "change": "-0.05",   "changePct": "-0.03%" },
+    { "symbol": "SPX",    "name": "S&P500",   "value": "7,509.20",  "change": "+62",     "changePct": "+0.83%" },
+    { "symbol": "BTC",    "name": "BTC",      "value": "¥10.74M",   "change": "-1.0%",   "changePct": "-1.0%" }
   ],
   "items": [
     {
@@ -49,17 +19,9 @@
         "日中はナスダック100先物が下落するなど、AI・ハイテク関連には利益確定売りの動きも見られた"
       ],
       "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL22B220S6A720C2000000/"
-        },
-        {
-          "title": "財経新聞",
-          "url": "https://www.zaikei.co.jp/article/20260718/861863.html"
-        }
-      ],
-      "jackView": "決算またぎは、初心者が最も損をしやすい場面です。私は結果を見てから動いても遅くないと考えています。",
-      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOFL22B220S6A720C2000000/" },
+        { "title": "財経新聞", "url": "https://www.zaikei.co.jp/article/20260718/861863.html" }
+      ]
     },
     {
       "id": "20260723-0545-02",
@@ -72,17 +34,9 @@
         "市場では投機筋の円売りポジションの積み上がりを受け、政府・日銀による円買い介入への警戒感が高まっている"
       ],
       "sources": [
-        {
-          "title": "みんかぶFX",
-          "url": "https://fx.minkabu.jp/news/373900"
-        },
-        {
-          "title": "外為どっとコム マネ育チャンネル",
-          "url": "https://www.gaitame.com/media/entry/2026/07/22/080010"
-        }
-      ],
-      "jackView": "介入は水準そのものより、変動の速さに反応します。急変動の直後に飛び乗るのが一番危険です。",
-      "image": "https://images.pexels.com/photos/7235895/pexels-photo-7235895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "みんかぶFX", "url": "https://fx.minkabu.jp/news/373900" },
+        { "title": "外為どっとコム マネ育チャンネル", "url": "https://www.gaitame.com/media/entry/2026/07/22/080010" }
+      ]
     },
     {
       "id": "20260723-0530-03",
@@ -95,17 +49,9 @@
         "2025年に付けた12万6,000ドル超の高値は依然更新できておらず、2026年を通じて上値の重い展開が続いている"
       ],
       "sources": [
-        {
-          "title": "Fortune",
-          "url": "https://fortune.com/article/price-of-bitcoin-07-22-2026/"
-        },
-        {
-          "title": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html"
-        }
-      ],
-      "jackView": "法整備は長期ではプラス材料ですが、審議のたびに乱高下します。値動きに理由を後付けしないことが大切です。",
-      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "Fortune", "url": "https://fortune.com/article/price-of-bitcoin-07-22-2026/" },
+        { "title": "Yahoo Finance", "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html" }
+      ]
     },
     {
       "id": "20260723-0515-04",
@@ -118,17 +64,9 @@
         "S&P500のバリュエーションはドットコムバブル期以来の高水準にあるとの指摘もあり、割高感への警戒が意識されている"
       ],
       "sources": [
-        {
-          "title": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/22/last-time-sp-500-valuation-stock-market-crashed/"
-        }
-      ],
-      "jackView": "原油高はガソリンや電気代を通じて家計にも届きます。株の話ではなく生活コストの話として見るのが私の読み方です。",
-      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "CNBC", "url": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html" },
+        { "title": "The Motley Fool", "url": "https://www.fool.com/investing/2026/07/22/last-time-sp-500-valuation-stock-market-crashed/" }
+      ]
     },
     {
       "id": "20260723-0500-05",
@@ -141,17 +79,9 @@
         "つみたて投資枠の年齢要件撤廃（未成年への拡大）とあわせ、2026年中の施行が予定されている"
       ],
       "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
-        },
-        {
-          "title": "大和ネクスト銀行",
-          "url": "https://www.bank-daiwa.co.jp/column/articles/2026/2026_565.html"
-        }
-      ],
-      "jackView": "手続きの簡素化自体は歓迎です。ただ、制度が便利になることと、その商品があなたに合うことは別問題です。",
-      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "金融庁", "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf" },
+        { "title": "大和ネクスト銀行", "url": "https://www.bank-daiwa.co.jp/column/articles/2026/2026_565.html" }
+      ]
     },
     {
       "id": "20260723-0445-06",
@@ -164,13 +94,8 @@
         "固定費の支払いカードやチャージ経路の見直しなど、利用者側の対策の必要性が指摘されている"
       ],
       "sources": [
-        {
-          "title": "Yahoo!ニュース エキスパート",
-          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3"
-        }
-      ],
-      "jackView": "還元の改悪は静かに進みます。年に一度は自分のカードの還元条件を見直してください。放置が一番の損です。",
-      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "Yahoo!ニュース エキスパート", "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3" }
+      ]
     },
     {
       "id": "20260723-0430-07",
@@ -183,13 +108,8 @@
         "企業の56.4%が副業を容認しており、会社員が複数の収入源を持つ動きが引き続き広がっている"
       ],
       "sources": [
-        {
-          "title": "フリーランス人材白書2026（リアラボ）",
-          "url": "https://rialab.jp/blog/2026-05-21-173460/"
-        }
-      ],
-      "jackView": "市場が伸びる場所には人も殺到します。スキル単体より、AIを組み合わせて速く安く出せる人が残ると私は見ています。",
-      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "フリーランス人材白書2026（リアラボ）", "url": "https://rialab.jp/blog/2026-05-21-173460/" }
+      ]
     },
     {
       "id": "20260723-0420-08",
@@ -202,17 +122,8 @@
         "金融商品の勧誘には原則として金融商品取引業の登録が必要で、金融庁は取引前に登録の有無を確認するよう呼びかけている"
       ],
       "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku/04.html"
-        }
-      ],
-      "jackView": "無登録業者はリスト入りした後、名前を変えて再登場します。業者名ではなく手口で覚えるのが防御の基本です。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "金融庁", "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku/04.html" }
+      ]
     },
     {
       "id": "20260722-2300-01",
@@ -225,17 +136,9 @@
         "片山財務相は円安について「必要な時はいつでも適切かつ断固たる対応をとる」と述べ、市場を牽制した"
       ],
       "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL220B80S6A720C2000000/"
-        },
-        {
-          "title": "三井住友DSアセットマネジメント",
-          "url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260722/"
-        }
-      ],
-      "jackView": "口先介入の段階では、流れは変わらないことが多いです。発言そのものより、発言後の値動きで本気度を測ってください。",
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOFL220B80S6A720C2000000/" },
+        { "title": "三井住友DSアセットマネジメント", "url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260722/" }
+      ]
     },
     {
       "id": "20260722-2230-02",
@@ -248,13 +151,8 @@
         "BTC円は一時1,090万円にタッチした後、中東情勢悪化による原油高と米国債利回り上昇が重荷となり、1,080万円周辺まで押し戻された"
       ],
       "sources": [
-        {
-          "title": "ビットバンクプラス",
-          "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-22"
-        }
-      ],
-      "jackView": "成立確率という数字自体が投機の材料になっています。確率に賭けるのは投資ではなく予想ゲームです。",
-      "image": "https://images.pexels.com/photos/5980599/pexels-photo-5980599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "ビットバンクプラス", "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-22" }
+      ]
     },
     {
       "id": "20260722-2100-03",
@@ -267,17 +165,9 @@
         "22日のアジア時間もビットコインが6万6,300ドル近辺で推移するなどリスク資産は総じて底堅く推移した"
       ],
       "sources": [
-        {
-          "title": "Trading Economics",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
-        },
-        {
-          "title": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low"
-        }
-      ],
-      "jackView": "最高値圏で買い始める人が、一番高値掴みをしやすいです。乗り遅れた焦りで判断しないでください。",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "Trading Economics", "url": "https://tradingeconomics.com/united-states/stock-market" },
+        { "title": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low" }
+      ]
     },
     {
       "id": "20260722-1600-04",
@@ -290,17 +180,8 @@
         "朝方は米半導体株高を受けて買いが先行したが、AI・半導体関連に利益確定売りが増加。原油高によるインフレ懸念から小売・食品など内需株にも売りが出た"
       ],
       "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL225KH0S6A720C2000000/"
-        }
-      ],
-      "jackView": "指数の小反落より、インフレが長引くかどうかの方が家計には重要です。私は物価関連の記事を優先して読んでいます。",
-      "jackLink": {
-        "title": "ニュースの深掘りはマネーラボで",
-        "url": "https://jack-money-lab.com"
-      },
-      "image": "https://images.pexels.com/photos/5835417/pexels-photo-5835417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOFL225KH0S6A720C2000000/" }
+      ]
     },
     {
       "id": "20260722-1530-05",
@@ -313,13 +194,8 @@
         "一方、輸入コスト増が逆風となる小売・食品株は軟調だった"
       ],
       "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL225KH0S6A720C2000000/"
-        }
-      ],
-      "jackView": "利上げ観測で銀行株が買われるのは教科書どおりの動きです。続くかどうかは別として、型として覚えておく価値はあります。",
-      "image": "https://images.pexels.com/photos/14089266/pexels-photo-14089266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOFL225KH0S6A720C2000000/" }
+      ]
     },
     {
       "id": "20260722-1500-06",
@@ -331,13 +207,8 @@
         "同社に対しハッカー集団が犯行声明を出したとの報道が伝わり、システム障害や情報流出への警戒から売りが優勢となった"
       ],
       "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUB220GC0S6A720C2000000/"
-        }
-      ],
-      "jackView": "サイバー攻撃は、いまやどの企業にも起こり得る経営リスクです。保有銘柄の急落理由は、まず一次情報で確かめてください。",
-      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOUB220GC0S6A720C2000000/" }
+      ]
     },
     {
       "id": "20260722-1200-07",
@@ -350,17 +221,9 @@
         "NISA口座数は2025年6月末時点で約2,700万口座。政府目標3,400万口座に向け、若年層・高齢者層への普及が課題となっている"
       ],
       "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
-        },
-        {
-          "title": "Yahoo!ニュース（NRI研究員の時事解説）",
-          "url": "https://news.yahoo.co.jp/articles/36e0bc159f35a26de49fbe82843e70ec446f39b7"
-        }
-      ],
-      "jackView": "子ども名義の枠が増えるほど、家庭の金融リテラシーの差が資産の差になります。まず親が仕組みを理解することが先です。",
-      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "金融庁", "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf" },
+        { "title": "Yahoo!ニュース（NRI研究員の時事解説）", "url": "https://news.yahoo.co.jp/articles/36e0bc159f35a26de49fbe82843e70ec446f39b7" }
+      ]
     },
     {
       "id": "20260722-1100-08",
@@ -373,13 +236,8 @@
         "ローソンPontaプラスの最大15%還元も条件が変更され、リボ払い手数料が必要になるなど達成条件が厳しくなった"
       ],
       "sources": [
-        {
-          "title": "ライブドアニュース",
-          "url": "https://news.livedoor.com/article/detail/31681859/"
-        }
-      ],
-      "jackView": "ポイントのルール変更は告知が地味で気づきにくいです。使っている決済手段の公式のお知らせだけは月一で確認しましょう。",
-      "image": "https://images.pexels.com/photos/8062357/pexels-photo-8062357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "ライブドアニュース", "url": "https://news.livedoor.com/article/detail/31681859/" }
+      ]
     },
     {
       "id": "20260722-1030-09",
@@ -391,13 +249,8 @@
         "クレカ積立の還元率アップなどの改善も伝えられており、メインとサブのカードを使い分ける戦略の重要性が高まっている"
       ],
       "sources": [
-        {
-          "title": "ライブドアニュース",
-          "url": "https://news.livedoor.com/article/detail/31681859/"
-        }
-      ],
-      "jackView": "高還元には必ず条件があります。還元率の数字より、自分の生活圏で無理なく使えるかで選ぶのが失敗しないコツです。",
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "ライブドアニュース", "url": "https://news.livedoor.com/article/detail/31681859/" }
+      ]
     },
     {
       "id": "20260722-1000-10",
@@ -410,17 +263,8 @@
         "企業の56.4%が副業を容認しており、複数の収入源を持つ働き方が広がっている"
       ],
       "sources": [
-        {
-          "title": "Forbes JAPAN",
-          "url": "https://forbesjapan.com/articles/detail/97519"
-        }
-      ],
-      "jackView": "AIを使うか使わないかで、同じ副業でも収入差が開き始めています。まずは無料でもいいので毎日触ることです。",
-      "jackLink": {
-        "title": "私がAIで作ったiOSアプリの実例一覧",
-        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
-      },
-      "image": "https://images.pexels.com/photos/243242/pexels-photo-243242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "Forbes JAPAN", "url": "https://forbesjapan.com/articles/detail/97519" }
+      ]
     },
     {
       "id": "20260722-0900-11",
@@ -433,17 +277,9 @@
         "金融商品の勧誘には原則として金融商品取引業の登録が必要。金融庁は無登録業者の名称をウェブサイトで公表しており、取引前の確認が推奨される"
       ],
       "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
-        },
-        {
-          "title": "警察庁 SOS47",
-          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
-        }
-      ],
-      "jackView": "SNSで知り合った相手から投資の話が出た時点で、疑うのが正解です。有名人の広告も本物とは限りません。",
-      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "金融庁", "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html" },
+        { "title": "警察庁 SOS47", "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/" }
+      ]
     },
     {
       "id": "20260722-0830-12",
@@ -456,17 +292,9 @@
         "過去の介入局面ではドル円が一時155円台まで急落した例もあり、追加介入の有無と効果の持続性が焦点となっている"
       ],
       "sources": [
-        {
-          "title": "野村證券 NOMURAウェルスタイル",
-          "url": "https://www.nomura.co.jp/wealthstyle/article/0715/"
-        },
-        {
-          "title": "三井住友DSアセットマネジメント",
-          "url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260722/"
-        }
-      ],
-      "jackView": "介入で作られた円高は長続きしにくいというのが過去の教訓です。急変時こそ、慌てて外貨商品に手を出さないでください。",
-      "image": "https://images.pexels.com/photos/479356/pexels-photo-479356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        { "title": "野村證券 NOMURAウェルスタイル", "url": "https://www.nomura.co.jp/wealthstyle/article/0715/" },
+        { "title": "三井住友DSアセットマネジメント", "url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260722/" }
+      ]
     }
   ]
 }

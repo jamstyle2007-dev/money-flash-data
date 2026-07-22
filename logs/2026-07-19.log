@@ -1,0 +1,14 @@
+===== run_morning 2026-07-19 08:27:59 =====
+DONE: draft_today.json 作成済み
+claude exit: 0
+OK: 5号・全15記事の検証を通過
+追加しました: #005 2026-07-19（公開は ./publish.sh）
+▶ 検証中...
+OK: 5号・全15記事の検証を通過
+[main 927bccc] Auto publish 2026-07-19
+ 1 file changed, 66 insertions(+)
+▶ push 中...
+To https://github.com/jamstyle2007-dev/money-flash-data.git
+   8ceac3f..927bccc  main -> main
+✅ 公開しました。アプリは次回起動時に最新号を取得します。
+公開完了: 2026-07-19

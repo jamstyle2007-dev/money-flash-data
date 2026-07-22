@@ -47,7 +47,11 @@ if ! python3 tools/add_issue.py draft_today.json; then
   exit 1
 fi
 
-# 3) 公開
+# 3) 画像付与（失敗しても公開は止めない。画像なしでもアプリは表示できる）
+python3 tools/add_images.py issues.json || echo "（画像付与に失敗。画像なしで公開続行）"
+python3 tools/validate.py issues.json || { echo "★画像付与後の検証NG"; notify_fail "画像付与後の検証NG（$TODAY）"; exit 1; }
+
+# 4) 公開
 if ./publish.sh "Auto publish $TODAY"; then
   echo "公開完了: $TODAY"
   rm -f draft_today.json

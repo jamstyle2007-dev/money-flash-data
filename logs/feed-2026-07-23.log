@@ -1,0 +1,21 @@
+===== run_feed 2026-07-23 06:10:05 =====
+DONE
+
+Sources:
+- [日本経済新聞（NYダウ、大手テック決算前）](https://www.nikkei.com/article/DGXZQOFL22B220S6A720C2000000/)
+- [財経新聞（米国株式市場見通し）](https://www.zaikei.co.jp/article/20260718/861863.html)
+- [みんかぶFX（ドル円163円台）](https://fx.minkabu.jp/news/373900)
+- [外為どっとコム](https://www.gaitame.com/media/entry/2026/07/22/080010)
+- [Fortune（Bitcoin価格）](https://fortune.com/article/price-of-bitcoin-07-22-2026/)
+- [CNBC](https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html)
+- [金融庁（無登録業者）](https://www.fsa.go.jp/ordinary/chuui/mutouroku/04.html)
+- [金融庁（税制改正）](https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf)
+- [Yahoo!ニュース エキスパート（PayPayカード改定）](https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3)
+- [フリーランス人材白書2026](https://rialab.jp/blog/2026-05-21-173460/)
+claude exit: 0
+OK: market 5指標・items 20件の検証を通過
+[main ab7db14] Feed update 2026-07-23 06:16
+ 1 file changed, 120 insertions(+), 3 deletions(-)
+To https://github.com/jamstyle2007-dev/money-flash-data.git
+   ab551fc..ab7db14  main -> main
+フィード公開完了
