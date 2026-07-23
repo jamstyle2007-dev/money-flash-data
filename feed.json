@@ -1,43 +1,288 @@
 {
-  "updated": "2026-07-23T06:10",
+  "updated": "2026-07-23T12:00",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "66,115.60",
-      "change": "-116.59",
-      "changePct": "-0.18%"
+      "value": "66,421.01",
+      "change": "+305.41",
+      "changePct": "+0.46%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,033.13",
-      "change": "+18.18",
-      "changePct": "+0.45%"
+      "value": "4,035.57",
+      "change": "+2.44",
+      "changePct": "+0.06%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.15",
-      "change": "-0.05",
-      "changePct": "-0.03%"
+      "value": "163.20",
+      "change": "+0.05",
+      "changePct": "+0.03%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,509.20",
-      "change": "+62",
-      "changePct": "+0.83%"
+      "value": "7,498.96",
+      "change": "-10.24",
+      "changePct": "-0.14%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.74M",
-      "change": "-1.0%",
-      "changePct": "-1.0%"
+      "value": "¥10.75M",
+      "change": "-0.7%",
+      "changePct": "-0.7%"
     }
   ],
   "items": [
+    {
+      "id": "20260723-1145-01",
+      "time": "2026-07-23T11:45",
+      "category": "market",
+      "title": "日経平均は反発、一時800円超高 米半導体株高と韓国株高を追い風にAI関連へ買い",
+      "summary": [
+        "23日午前の東京株式市場で日経平均は反発し、前日比305円41銭高の66,421円01銭で寄り付いた後、一時800円超高の66,900円台まで上昇した",
+        "22日の米市場で半導体株が買われた流れを引き継ぎ、東京市場でもAI・半導体関連に買いが先行した",
+        "韓国株の上昇もアジア市場全体のリスク選好を支えた"
+      ],
+      "jackView": "強い日ほど冷静さが必要だと私は考えています。指数の上げ幅より、買われている業種の偏りに注目してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL230J90T20C26A7000000/"
+        },
+        {
+          "title": "時事通信（Yahoo!ファイナンス）",
+          "url": "https://finance.yahoo.co.jp/news/detail/ecc2d529616b6738b58b9eba79c80d6d308c9777"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1130-02",
+      "time": "2026-07-23T11:30",
+      "category": "usstock",
+      "title": "テスラ4-6月期決算、1株利益が予想未達 フリーキャッシュフローは2年超ぶりの赤字に",
+      "summary": [
+        "テスラが22日引け後に発表した4-6月期決算は、売上高が予想を上回った一方、1株利益は市場予想を下回った",
+        "フリーキャッシュフローは約109億ドルの赤字となり、2年超ぶりのマイナスに転落した",
+        "決算を受けて株価は時間外取引で2.5%前後下落した"
+      ],
+      "jackView": "私は損益よりキャッシュフローの赤字転落の方が重い情報だと見ています。企業の体力は現金の増減で確認する習慣をつけてください。",
+      "sources": [
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/n202607230109/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7691749/pexels-photo-7691749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1115-03",
+      "time": "2026-07-23T11:15",
+      "category": "usstock",
+      "title": "アルファベット決算は好調も時間外で売買交錯 AI設備投資の増額計画に警戒感",
+      "summary": [
+        "アルファベットが22日引け後に発表した4-6月期決算は広告・クラウドとも堅調だったが、時間外取引では売り買いが交錯した",
+        "AI関連の設備投資（capex）を増額する方針が示され、投資回収への警戒から上値が抑えられたと報じられた",
+        "巨額のAI投資が収益化できるかを測る試金石として、今週の大手テック決算が注目されている"
+      ],
+      "jackView": "好決算でも設備投資の増額で売られるのが今の相場の特徴です。市場がAI投資の回収時期を測り始めたと私は見ています。",
+      "sources": [
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/n202607230042/"
+        },
+        {
+          "title": "財経新聞",
+          "url": "https://zaikei.co.jp/article/20260721/862128.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1100-04",
+      "time": "2026-07-23T11:00",
+      "category": "market",
+      "title": "22日の米市場はS&P500が小幅安7,498.96 原油高が重荷、ブレントは一時95ドル超え",
+      "summary": [
+        "22日の米株式市場でS&P500は前日比0.14%安の7,498.96、ナスダック総合は0.57%安の25,690.90、NYダウはほぼ横ばいの52,218.58で取引を終えた",
+        "ブレント原油先物は約3.4%高の1バレル94.07ドルと1カ月超ぶりの高値を付け、一時95ドルを上回った",
+        "個別ではスーパー・マイクロ・コンピューターが受注残の過去最高を受けて26%高、AT&Tも決算好調で4%高となった"
+      ],
+      "jackView": "原油94ドル台はインフレ再燃の入り口になり得ます。株価より先に、ガソリンや光熱費への波及を意識しておきたいところです。",
+      "sources": [
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.co.jp/news/detail/ecc2d529616b6738b58b9eba79c80d6d308c9777"
+        },
+        {
+          "title": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-today-july-22-nasdaq-slides-prior-to-tesla-and-alphabet-s-earnings-after-market-close/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1045-05",
+      "time": "2026-07-23T10:45",
+      "category": "fx",
+      "title": "ドル円は163円台前半でほぼ変わらず 日銀の利上げペース巡る報道で朝方は円高に振れる場面",
+      "summary": [
+        "23日のドル円は163円台前半で推移し、前日終値とほぼ同水準での取引が続いている",
+        "日銀が利上げペースの加速に柔軟な姿勢を取るとの報道を受け、朝方は緩やかに円高が進む場面があった",
+        "その後は円買いが一巡し、再び円安方向に戻す展開となった。片山財務相は必要があればいつでも断固たる対応を取ると改めて牽制している"
+      ],
+      "jackView": "円高に振れてもすぐ戻る、この戻りの速さこそ円売り圧力の強さの証拠だと私は見ています。介入時の乱高下には十分注意してください。",
+      "sources": [
+        {
+          "title": "OANDA証券",
+          "url": "https://www.oanda.jp/lab-education/market_news/2026_07_23_usdjpy/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1030-06",
+      "time": "2026-07-23T10:30",
+      "category": "jpstock",
+      "title": "本日はディスコ・KOAなど7社が決算発表 半導体関連の思惑買いが先行",
+      "summary": [
+        "23日はディスコ、KOA、信越ポリマー、未来工業など7社が決算発表を予定している",
+        "半導体製造装置関連のディスコと電子部品のKOAが注目決算とされ、朝方から半導体関連には買いが先行した",
+        "今週は信越化学工業や中外製薬など主力企業の決算発表も控えている"
+      ],
+      "jackView": "決算当日の値動きは荒れやすいものです。私は発表前の思惑買いには乗らず、内容と翌日の市場の反応を確かめる派です。",
+      "sources": [
+        {
+          "title": "株探",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607230106"
+        },
+        {
+          "title": "株式新聞Web",
+          "url": "https://kabushiki.jp/news/758807"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1015-07",
+      "time": "2026-07-23T10:15",
+      "category": "crypto",
+      "title": "ビットコインは6万5,800ドル台に小幅安 円建ては1,070万円台で推移",
+      "summary": [
+        "ビットコインは22日朝（米東部時間）時点で6万5,858ドルと、前日の6万6,310ドルから小幅に下落した",
+        "円建てでは1,070万円台での推移が続いている",
+        "米クラリティ法案への期待が下支えする一方、原油高に伴う米長期金利の上昇がリスク資産全般の上値を抑えている"
+      ],
+      "jackView": "株が最高値圏でもビットコインは昨年の高値を更新できていません。資金の流れが偏っているサインとして私は見ています。",
+      "sources": [
+        {
+          "title": "Fortune",
+          "url": "https://fortune.com/article/price-of-bitcoin-07-22-2026/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1000-08",
+      "time": "2026-07-23T10:00",
+      "category": "seido",
+      "title": "未成年NISA、18歳で成人のつみたて枠へ自動移行 12歳以降は例外的な払い出しも可能に",
+      "summary": [
+        "2026年度税制改正で創設される0〜17歳向けのNISAつみたて投資枠は、年間60万円・非課税保有限度額600万円で設計されている",
+        "18歳になると成人のつみたて投資枠へ自動的に移行する仕組みで、12歳以降は例外的な払い出しも認められる",
+        "あわせて債券中心・バランス型投資信託の対象追加や、NISA口座の所在地確認の廃止など手続き簡素化も盛り込まれた"
+      ],
+      "jackView": "18歳で自動的に本人管理へ移る設計は、親の目が離れる時期と重なります。枠を渡す前の金銭教育こそが本体だと私は考えています。",
+      "sources": [
+        {
+          "title": "金融庁",
+          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
+        },
+        {
+          "title": "ニッセイ基礎研究所",
+          "url": "https://www.nli-research.co.jp/report/detail/id=84747?site=nli"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4476375/pexels-photo-4476375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-0945-09",
+      "time": "2026-07-23T09:45",
+      "category": "point",
+      "title": "楽天Edyから楽天キャッシュへのチャージ上限、月10万円から1万円に 8月1日から適用",
+      "summary": [
+        "楽天ペイメントは楽天キャッシュ会員規約の改定を発表し、楽天Edyから楽天キャッシュへの月間チャージ上限額を10万円から1万円に引き下げる",
+        "2026年8月1日以降のチャージ分から適用され、毎月1日から末日までの合計チャージ額が対象となる",
+        "チャージ済みの楽天キャッシュ残高の利用や、楽天Edyとしての決済機能は従来どおり利用できる"
+      ],
+      "jackView": "10万円から1万円への引き下げは事実上のルート封鎖です。ポイ活は一つの経路に依存しない設計が最大の守りになります。",
+      "sources": [
+        {
+          "title": "ASCII.jp",
+          "url": "https://ascii.jp/elem/000/004/415/4415296/"
+        },
+        {
+          "title": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/cfd775397a71efeb04750d418ef79a24b2d52e9a"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-0930-10",
+      "time": "2026-07-23T09:30",
+      "category": "sidehustle",
+      "title": "副業収入は月1〜3万円が約半数 継続2年以上で中央値は3〜5万円に上昇との調査",
+      "summary": [
+        "副業をしている人の約半数は月収1〜3万円の範囲にとどまるとの調査結果が報じられた",
+        "副業歴1年未満の月収中央値は1万円程度だが、2年以上継続する層では3〜5万円まで上昇する傾向がある",
+        "2026年の副業市場は生成AIの実務活用が進み、AIを使いこなす層と専門性の高い層に収入が集まる二極化が指摘されている"
+      ],
+      "jackView": "平均値は一部の高収入者が押し上げています。まず月1万円を安定して稼ぐ仕組みを作り、2年続けることが現実的な路線だと私は考えています。",
+      "sources": [
+        {
+          "title": "poten（副業収入調査）",
+          "url": "https://poten.co.jp/2025fukugyo-heikinsyunyu/"
+        },
+        {
+          "title": "PR TIMES（副業関連リリース）",
+          "url": "https://prtimes.jp/topics/keywords/%E5%89%AF%E6%A5%AD"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3811593/pexels-photo-3811593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-0915-11",
+      "time": "2026-07-23T09:15",
+      "category": "scam",
+      "title": "【警戒】SNS型投資詐欺の入り口はInstagramが最多 YouTube広告経由も増加、警察庁・金融庁が注意喚起",
+      "summary": [
+        "警察庁の統計によると、SNS型投資詐欺の被害額は特殊詐欺・SNS型詐欺全体の被害額の6割超を占めている",
+        "被害者との当初接触ツールはInstagramが最多で、YouTube経由も増加傾向にあると報告されている",
+        "金融庁はSNS上の投資詐欺が疑われる広告等に関する情報受付窓口を設置し、著名人をかたる広告からの投資勧誘に注意を呼びかけている"
+      ],
+      "jackView": "広告から投資話に誘導された時点で、一度立ち止まるのが正解です。有名人の顔写真は本人の許可なく使われている前提で見てください。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "警察庁 SOS47",
+          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/"
+        },
+        {
+          "title": "金融庁",
+          "url": "https://www.fsa.go.jp/receipt/toushisagi_koukoku/shuhou.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260723-0600-01",
       "time": "2026-07-23T06:00",
