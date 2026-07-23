@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T18:00",
+  "updated": "2026-07-24T06:10",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,244 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.05",
-      "change": "-0.15",
-      "changePct": "-0.09%"
+      "value": "163.90",
+      "change": "+0.85",
+      "changePct": "+0.52%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,498.96",
-      "change": "-10.24",
-      "changePct": "-0.14%"
+      "value": "7,408.30",
+      "change": "-90.66",
+      "changePct": "-1.21%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.80M",
-      "change": "+0.5%",
-      "changePct": "+0.5%"
+      "value": "¥10.6M",
+      "change": "-1.9%",
+      "changePct": "-1.9%"
     }
   ],
   "items": [
+    {
+      "id": "20260724-0600-01",
+      "time": "2026-07-24T06:00",
+      "category": "market",
+      "title": "米株大幅安 ナスダック2.15%安・S&P500は7,408に下落 原油100ドルとAI投資警戒が重荷",
+      "summary": [
+        "23日の米株式市場でS&P500は前日比1.21%安の7,408.30、ナスダック総合は2.15%安の25,137.69と大幅に下落し、NYダウも約0.9%下げた",
+        "中東情勢の激化に伴う原油急騰でインフレ懸念が再燃したほか、アルファベットの決算を受けてAI設備投資の膨張への警戒が広がった",
+        "決算を発表したアルファベットは6%超安、テスラは14%超安となり、ハイテク株全般に売りが波及した"
+      ],
+      "jackView": "株高の主役だったAI関連が売られ、原油と金利が上がる組み合わせには注意が必要です。私は下げ幅そのものより、下げの理由が変わってきた点に注目しています。",
+      "sources": [
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html"
+        },
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0555-02",
+      "time": "2026-07-24T05:55",
+      "category": "usstock",
+      "title": "テスラ14.5%安・アルファベット6%超安 決算後の売りが本市場でも加速",
+      "summary": [
+        "23日の米市場でテスラは14.52%安と急落した。前日発表の4-6月期決算で1株利益が予想を下回り、フリーキャッシュフローが赤字に転落したことが売り材料となった",
+        "アルファベットも6%超下落した。売上高・利益は予想を上回ったものの、年間設備投資見通しを2,050億ドルへ引き上げたことでAI投資の回収への懸念が強まった",
+        "両銘柄の下げがハイテク株全般に波及し、ナスダック総合は2%超の下落となった"
+      ],
+      "jackView": "決算内容そのものより、市場の受け止め方が変わった点が重要です。好材料に反応せず悪材料に敏感になる局面では、私なら保有銘柄の持ち高をまず点検します。",
+      "sources": [
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html"
+        },
+        {
+          "title": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7691749/pexels-photo-7691749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0550-03",
+      "time": "2026-07-24T05:50",
+      "category": "fx",
+      "title": "円安さらに加速、NY市場で一時163円台後半 原油急騰で有事のドル買い続く",
+      "summary": [
+        "23日のニューヨーク外国為替市場で円は一段安となり、一時1ドル=163円台後半まで下落した。午前11時時点では163円90銭から164円00銭で推移した",
+        "米国とイランの対立激化でホルムズ海峡の封鎖が長期化するとの観測が再燃し、原油高とともに円売り・ドル買いが加速した",
+        "米長期金利の上昇もドルを支え、約40年ぶりの円安水準の更新が続いている"
+      ],
+      "jackView": "原油高と円安が同時に進むと、輸入物価への打撃は二重になります。介入警戒圏に入っているため、急な乱高下に備えて外貨ポジションは軽めが無難だと私は見ています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOGN23BJ50T20C26A7000000/"
+        },
+        {
+          "title": "時事通信（Yahoo!ファイナンス）",
+          "url": "https://finance.yahoo.co.jp/news/detail/a7565aff58f24a1bed1538b7dca3d44568479a80"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0545-04",
+      "time": "2026-07-24T05:45",
+      "category": "market",
+      "title": "ブレント原油が100ドル突破 米10年債利回りは4.7%と1年半ぶり高水準に",
+      "summary": [
+        "中東情勢の緊迫化を受けて原油高が加速し、ブレント原油は節目の1バレル100ドルを超えた。WTI原油先物も92ドル台まで上昇した",
+        "フーシ派が紅海沿岸の港湾封鎖の動きを見せるなど供給不安が強まり、インフレ再燃への懸念が高まっている",
+        "米10年債利回りは約1年半ぶりの高水準となる4.7%に達し、株式など リスク資産の重荷となった"
+      ],
+      "jackView": "原油100ドルは株だけでなく家計にも確実に効いてきます。ガソリンや電気代への波及まで含め、生活防衛の視点でこのニュースを読むことを私はおすすめします。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOGN23BJ50T20C26A7000000/"
+        },
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0540-05",
+      "time": "2026-07-24T05:40",
+      "category": "crypto",
+      "title": "ビットコインは6万5,000ドル台前半に下落 米金利上昇とハイテク株安が重荷",
+      "summary": [
+        "23日朝（米東部時間）のビットコインは6万5,658ドルと前日から下落し、その後も6万5,000ドルを挟む軟調な推移となった",
+        "円建てでは1,060万円前後と、前日の1,080万円近辺から水準を切り下げた",
+        "米10年債利回りが4.7%へ上昇したことやナスダックの大幅安を受け、リスク資産全般から資金が逃避する流れとなった"
+      ],
+      "jackView": "金利上昇局面ではビットコインも安全資産にはなりません。株と一緒に下がる資産だという前提で、資金全体のリスク量を管理してください。",
+      "sources": [
+        {
+          "title": "Fortune",
+          "url": "https://fortune.com/article/price-of-bitcoin-07-23-2026/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0535-06",
+      "time": "2026-07-24T05:35",
+      "category": "jpstock",
+      "title": "24日の東京市場は米ハイテク決算が懸念材料 半導体関連への売り波及に警戒",
+      "summary": [
+        "24日の東京株式市場は、アルファベットやテスラの決算を受けた米ハイテク株の大幅安が懸念材料になると先読みされている",
+        "前日23日の日経平均は307円高の66,422円60銭と反発していたが、日本時間午後の時間外取引で米株価指数先物が下落し、利益確定売りが出ていた",
+        "原油高によるインフレ懸念と円安の進行も、小売・食品など内需株の重荷になるとみられている"
+      ],
+      "jackView": "米ハイテク安の翌日は半導体関連の下げから始まりやすいものです。私は寄り付きの安値で慌てて売らず、後場にかけての戻りの強弱まで確認する派です。",
+      "sources": [
+        {
+          "title": "日本経済新聞（先読み株式相場）",
+          "url": "https://www.nikkei.com/article/DGXZQOFL230200T20C26A7000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0530-07",
+      "time": "2026-07-24T05:30",
+      "category": "seido",
+      "title": "NISA売却分の非課税枠、復活が「翌年」から「当年中」に 2026年度改正で商品入れ替えが容易に",
+      "summary": [
+        "2026年度税制改正では、NISAで商品を売却した場合の簿価分の非課税保有限度額の復活タイミングを、従来の翌年から当年中へ早めることが盛り込まれた",
+        "年の途中で売却しても同じ年のうちに枠を再利用できるようになり、保有商品の入れ替えがしやすくなる",
+        "未成年へのつみたて投資枠の解禁、債券中心・バランス型投資信託の対象追加とあわせた3つの柱として、2026年中の施行が予定されている"
+      ],
+      "jackView": "枠が同じ年に復活するのは柔軟性の面で大きな前進です。ただ短期の回転売買を誘発しやすい仕組みでもあるので、長期積立という軸は崩さないでください。",
+      "sources": [
+        {
+          "title": "東洋経済オンライン",
+          "url": "https://toyokeizai.net/articles/-/924667"
+        },
+        {
+          "title": "金融庁",
+          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0525-08",
+      "time": "2026-07-24T05:25",
+      "category": "point",
+      "title": "ドコモ、8月にdポイント最大15%増量キャンペーン 全員8%増量・抽選で10人に1人が15%",
+      "summary": [
+        "NTTドコモは「ポイント交換でdポイント最大15%増量キャンペーン」を2026年8月1日から8月31日まで開催する。エントリーは7月7日から受付中",
+        "期間中に永久不滅ポイントやJALマイル、PeXなど40以上の対象ポイントをdポイントへ交換すると、全員に交換分の8%が増量され、抽選で10人に1人にさらに7%が追加される",
+        "抽選分の進呈上限は1アカウント10万ポイントで、確定分の8%には上限がない。実質の期待値は約8.7%増量と前回より縮小したとの指摘もある"
+      ],
+      "jackView": "最大15%という見た目の数字に釣られないことです。確定は8%だと割り切った上で、交換先で本当に使うポイントかを先に確認するのが私の流儀です。",
+      "sources": [
+        {
+          "title": "NTTドコモ（報道発表）",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260707_x1.pdf"
+        },
+        {
+          "title": "dポイントクラブ（公式）",
+          "url": "https://dpoint.docomo.ne.jp/cp_7/alliance_260707_7600/index.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0520-09",
+      "time": "2026-07-24T05:20",
+      "category": "sidehustle",
+      "title": "フリーランス人口は210万人へ増加見通し 副業人材を活用する企業は約2割で横ばい",
+      "summary": [
+        "2026年版の副業・フリーランス人材白書によると、フリーランス人口は2026年に前年比約7.7%増の210万人に達する見通しとなった",
+        "副業・フリーランス人材を活用している企業は約2割で前年から横ばい、副業をしている会社員は約1割で前年から微減となっている",
+        "25〜45歳の働き盛り層の副業開始が増えており、キャリアチェンジやスキル拡張を目的とした参入が目立つと分析されている"
+      ],
+      "jackView": "フリーランス人口が増えるほど単価競争は激しくなります。私はAIスキルと本業で培った専門性の掛け合わせこそが、生き残りの近道だと見ています。",
+      "sources": [
+        {
+          "title": "HiPro 2026年 副業・フリーランス人材白書",
+          "url": "https://hipro-job.jp/skilljunkan/hr_report/2026/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-0515-10",
+      "time": "2026-07-24T05:15",
+      "category": "scam",
+      "title": "【警戒】投資詐欺の「受け子」役の疑いで44歳男を逮捕 70代女性から現金・金塊9,000万円相当の被害",
+      "summary": [
+        "警視庁は、都内の70代女性が現金や金塊約9,000万円相当をだまし取られた投資詐欺事件で、受け子役とみられる44歳の容疑者を逮捕した",
+        "投資名目で信用させたうえで、現金や金塊を直接受け取りに来る手口が確認されている",
+        "警察庁はSNSをきっかけとする投資詐欺への注意を呼びかけており、現物や現金の手渡しを求められた場合は詐欺を疑うよう促している"
+      ],
+      "jackView": "投資名目で現金や金塊を自宅で手渡しさせる話は、その時点で詐欺と考えて構いません。正規の金融機関が現物の受け渡しを求めることはないと覚えてください。",
+      "sources": [
+        {
+          "title": "NHKニュース",
+          "url": "https://news.web.nhk/newsweb/na/nb-1000130349"
+        },
+        {
+          "title": "警察庁 SOS47",
+          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260723-1700-01",
       "time": "2026-07-23T17:00",
