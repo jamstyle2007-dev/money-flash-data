@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-23T12:00",
+  "updated": "2026-07-23T18:00",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "66,421.01",
-      "change": "+305.41",
+      "value": "66,422.60",
+      "change": "+307.00",
       "changePct": "+0.46%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,035.57",
-      "change": "+2.44",
-      "changePct": "+0.06%"
+      "value": "4,053.88",
+      "change": "+20.75",
+      "changePct": "+0.51%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.20",
-      "change": "+0.05",
-      "changePct": "+0.03%"
+      "value": "163.05",
+      "change": "-0.15",
+      "changePct": "-0.09%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,219 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.75M",
-      "change": "-0.7%",
-      "changePct": "-0.7%"
+      "value": "¥10.80M",
+      "change": "+0.5%",
+      "changePct": "+0.5%"
     }
   ],
   "items": [
+    {
+      "id": "20260723-1700-01",
+      "time": "2026-07-23T17:00",
+      "category": "market",
+      "title": "東証大引け 日経平均は反発307円高の66,422円 TOPIXは3日続伸で4,053",
+      "summary": [
+        "23日の東京株式市場で日経平均は前日比307円00銭（0.46%）高の66,422円60銭と反発した",
+        "TOPIXは20.75ポイント（0.51%）高の4,053.88と3日続伸した",
+        "前日の米半導体株高を引き継ぎAI・半導体関連に買いが先行し、序盤には900円ほど上昇する場面もあった。業種別では鉱業・銀行・非鉄金属が上昇し、不動産・食料品・小売は下落した"
+      ],
+      "jackView": "序盤の900円高を維持できなかった点に私は注目しています。買い戻し一巡後の失速は、上値の重さを示すサインとして見ておきたいところです。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL235CM0T20C26A7000000/"
+        },
+        {
+          "title": "株探ニュース（Yahoo!ファイナンス）",
+          "url": "https://finance.yahoo.co.jp/news/detail/f38b7335a17a842fa6991defbd96aa911a7a6f24"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1645-02",
+      "time": "2026-07-23T16:45",
+      "category": "jpstock",
+      "title": "ディスコ4-6月期は経常42.5%増の484億円 上期は3期連続最高益見通し、配当は171円に増配",
+      "summary": [
+        "ディスコが23日発表した2027年3月期第1四半期の連結経常利益は、前年同期比42.5%増の484億円だった",
+        "非開示だった上期の連結経常利益予想は前年同期比31.9%増の1,048億円とし、3期連続で上期の過去最高益を更新する見通しを示した",
+        "未定としていた上期配当は171円（前年同期は129円）に増配する方針とした"
+      ],
+      "jackView": "半導体装置需要の強さを裏付ける内容だと私は受け止めています。ただ好決算でも織り込み済みなら株価は反応しないので、翌日の値動きまで確認してください。",
+      "sources": [
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/k202607230010/"
+        },
+        {
+          "title": "日経会社情報DIGITAL（適時開示）",
+          "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260721597097/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1630-03",
+      "time": "2026-07-23T16:30",
+      "category": "fx",
+      "title": "ドル円は163円挟みでじり安 40年ぶり円安水準で介入警戒、財務相は改めて牽制",
+      "summary": [
+        "23日の東京市場でドル円は163円15銭から162円99銭まで小幅に値を下げ、163円を挟んだ推移となった",
+        "前日に1986年12月以来の円安水準を付けたことで、政府・日銀による為替介入への警戒感が下押し圧力となっている",
+        "片山財務相は為替について「姿勢は変わっていない、必要あれば果断に行動する」と述べ、改めて市場を牽制した"
+      ],
+      "jackView": "163円を挟んで膠着する時間が長いほど、動き出した時の値幅は大きくなりがちです。外貨建て資産の比率を今のうちに点検しておくことをおすすめします。",
+      "sources": [
+        {
+          "title": "財経新聞",
+          "url": "https://www.zaikei.co.jp/article/20260723/862466.html"
+        },
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/n202607230766/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1615-04",
+      "time": "2026-07-23T16:15",
+      "category": "usstock",
+      "title": "アルファベット、AI設備投資を2,050億ドルへ増額 時間外で5%安 テスラも4%安と決算後に売り",
+      "summary": [
+        "アルファベットの4-6月期決算は売上高・利益とも市場予想を上回ったが、年間の設備投資見通しを2,050億ドルに引き上げた",
+        "投資回収への懸念から、アルファベット株は時間外取引で約5%下落した",
+        "テスラも1株利益の予想未達とフリーキャッシュフローの赤字転落が嫌気され、時間外で約4%下落した"
+      ],
+      "jackView": "好決算でも投資額の大きさで売られる地合いに変わってきました。AI関連株は業績そのものより、設備投資計画への市場の反応を見る局面だと私は考えています。",
+      "sources": [
+        {
+          "title": "Yahoo Finance",
+          "url": "https://ca.finance.yahoo.com/news/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html"
+        },
+        {
+          "title": "Yahoo Finance（マーケット概況）",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-lower-225331994.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1600-05",
+      "time": "2026-07-23T16:00",
+      "category": "crypto",
+      "title": "ビットコインは6万6,000ドル台でもみ合い クラリティ法案の統合条文公開も反応は限定的",
+      "summary": [
+        "23日朝時点のビットコインは6万6,044ドル前後（円建てで約1,080万円）で推移した",
+        "米上院共和党が暗号資産の市場構造を定めるクラリティ法案の統合条文を公開したが、相場の反応は限定的だった",
+        "原油高に伴う米長期金利の上昇と、大型テック決算待ちの様子見が重なり、方向感を欠く展開となっている"
+      ],
+      "jackView": "材料が出ても動かない相場は、エネルギーを溜めている状態だと私は見ています。次に大きく動いた方向へ慌てて飛び乗らないよう注意してください。",
+      "sources": [
+        {
+          "title": "COIN OTAKU",
+          "url": "https://coinotaku.com/news/articles/250956"
+        },
+        {
+          "title": "ビットバンクプラス",
+          "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-22"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1545-06",
+      "time": "2026-07-23T15:45",
+      "category": "seido",
+      "title": "iDeCo掛金上限、2027年1月から引き上げへ 自営業は月7.5万円・企業年金なし会社員は6.2万円に",
+      "summary": [
+        "年金制度改正により、iDeCoの掛金上限が2027年1月（2026年12月分の掛金）から引き上げられる",
+        "自営業者は月6.8万円から7.5万円へ、企業年金のない会社員は月2.3万円から6.2万円へ大幅に拡大される",
+        "iDeCoの加入可能年齢を70歳未満へ引き上げる改正も予定されており、NISAとの使い分けが改めて注目されている"
+      ],
+      "jackView": "企業年金のない会社員の上限拡大は特に影響が大きいと私は見ています。所得控除の効果は人によって違うので、掛金を増やす前に手取りへの影響を試算してください。",
+      "sources": [
+        {
+          "title": "トウシル（楽天証券）",
+          "url": "https://media.rakuten-sec.net/articles/-/52146"
+        },
+        {
+          "title": "マネクリ（マネックス証券）",
+          "url": "https://media.monex.co.jp/articles/-/27310"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1530-07",
+      "time": "2026-07-23T15:30",
+      "category": "point",
+      "title": "エポスカード、8月1日から決済サービスへのチャージがポイント加算対象外に",
+      "summary": [
+        "エポスカードは2026年8月1日利用分から、決済サービスへのチャージ利用時のポイント加算を終了する",
+        "交通系ICや各種決済サービスへのチャージが対象で、Apple Pay・Google Pay経由のチャージも含まれる",
+        "プラチナ・ゴールド会員の年間ボーナスポイントの利用額集計には、チャージ分も引き続き含まれる"
+      ],
+      "jackView": "チャージ経由の還元ルートはどの会社も順次塞がれています。ルート探しに時間をかけるより、高還元の本体決済へ素直に寄せるのが現実的だと私は考えています。",
+      "sources": [
+        {
+          "title": "エポスNet（公式）",
+          "url": "https://www.eposcard.co.jp/articles/news/260601.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1515-08",
+      "time": "2026-07-23T15:15",
+      "category": "sidehustle",
+      "title": "生成AI副業は「使う側」に回れるかが分岐点 業界知識との掛け合わせで単価に差",
+      "summary": [
+        "2026年の副業市場では、生成AIを使いこなす層とそうでない層で収入の二極化が進んでいると報じられた",
+        "稼げる分野としてライティング・画像生成・動画編集・データ分析・自動化ツール構築などが挙げられている",
+        "AIに丸投げした低品質な納品物は単価下落の傾向にあり、業界知識とAI活用力の掛け合わせが差別化の鍵とされる"
+      ],
+      "jackView": "AIで作業が速くなるほど、何を作るかを決める側の価値が上がります。私も実際にAIでアプリを作ってみて、手を動かした人から差がつくと実感しています。",
+      "jackLink": {
+        "title": "私がAIで作ったiOSアプリの実例",
+        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
+      },
+      "sources": [
+        {
+          "title": "マイナビニュース",
+          "url": "https://news.mynavi.jp/article/20260719-4700912/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37698747/pexels-photo-37698747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260723-1500-09",
+      "time": "2026-07-23T15:00",
+      "category": "scam",
+      "title": "【警戒】SNS型投資詐欺のマネロン容疑で男女7人逮捕 口座には半年で約2億円の入金",
+      "summary": [
+        "警視庁犯罪収益対策課は、SNS型投資詐欺の被害金をマネーロンダリングした疑いで、男女7人を組織犯罪処罰法違反容疑などで逮捕した",
+        "7人は詐取金の資金洗浄を請け負うグループのメンバーとみられ、管理する複数の口座には半年間で計約2億円が入金されていた",
+        "SNS型投資詐欺の被害は拡大傾向が続いており、警察庁や金融庁がSNS上の投資勧誘への注意を呼びかけている"
+      ],
+      "jackView": "詐欺グループは勧誘役と資金洗浄役の分業で組織化しています。個人名義の口座への振込を求められた時点で、私は取引をやめるべきだと考えています。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "時事通信",
+          "url": "https://www.jiji.com/jc/article?k=2026070200564&g=soc"
+        },
+        {
+          "title": "警察庁 SOS47",
+          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260723-1145-01",
       "time": "2026-07-23T11:45",
