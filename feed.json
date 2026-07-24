@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T18:00",
+  "updated": "2026-07-25T06:10",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,256 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.84",
-      "change": "+0.53",
-      "changePct": "+0.32%"
+      "value": "163.80",
+      "change": "-0.04",
+      "changePct": "-0.02%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,408",
-      "change": "-91",
-      "changePct": "-1.21%"
+      "value": "7,412",
+      "change": "+4",
+      "changePct": "+0.05%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.7M",
-      "change": "-1.0%",
-      "changePct": "-1.0%"
+      "value": "¥10.5M",
+      "change": "-1.9%",
+      "changePct": "-1.9%"
     }
   ],
   "items": [
+    {
+      "id": "20260725-0600-01",
+      "time": "2026-07-25T06:00",
+      "category": "market",
+      "title": "NY市場24日 S&P500は7,411で小幅高 原油100ドル割れで安堵感も週間ナスダック2%安",
+      "summary": [
+        "24日の米株式市場でS&P500は前日比0.05%高の7,411.98とほぼ横ばいで終了し、NYダウは235ドル高の51,947、ナスダックは0.64%安の24,975だった",
+        "パキスタンが米国とイランの新たな和平交渉を仲介するとの報道を受けて原油価格が100ドルを割り込み、株式市場に安堵感が広がった",
+        "ただし週間ではナスダックが約2%安、S&P500も小幅安と、AI投資過剰論と原油高に揺さぶられた一週間となった"
+      ],
+      "jackView": "荒れた1週間を横ばいで終えたのは意外な底堅さです。ただ週間で見ればナスダックは2%安で、私はまだ積極的に買い向かう場面ではないと見ています。",
+      "sources": [
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0555-02",
+      "time": "2026-07-25T05:55",
+      "category": "market",
+      "title": "ブレント原油が100ドル割れに急反落 パキスタン仲介の米イラン和平交渉報道で供給不安が後退",
+      "summary": [
+        "24日の原油市場でブレント原油先物は100ドルを下回り、前日の100ドル超えから急反落した",
+        "パキスタンが中国の後押しを受けて米国とイランの新たな和平交渉を仲介する動きがあるとロイターが報じた",
+        "ホルムズ海峡の航行制限が続いていたが、和平期待から供給不安が後退し、株式市場にも買い戻しが広がった"
+      ],
+      "jackView": "原油100ドル超えは家計にも投資にも重荷でしたが、和平報道一つでこれだけ動くのは逆に不安材料です。中東情勢に一喜一憂しないポジション管理を心がけてください。",
+      "sources": [
+        {
+          "title": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100"
+        },
+        {
+          "title": "日本総研",
+          "url": "https://www.jri.co.jp/report/economistcolumn/detail/16609/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31249696/pexels-photo-31249696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0550-03",
+      "time": "2026-07-25T05:50",
+      "category": "jpstock",
+      "title": "信越化学1Q経常は5.8%増の1,921億円 通期9%増益見通し・年間配当は10円増の116円",
+      "summary": [
+        "信越化学工業が24日発表した2027年3月期第1四半期の連結経常利益は前年同期比5.8%増の1,921億円だった",
+        "非開示だった通期の連結経常利益予想は7,700億円（前期比8.7%増）とし、年間配当は前期比10円増の116円と発表した",
+        "売上高営業利益率は26.2%と高水準を維持しており、AI半導体向けシリコンウエハー需要が支えとなっている"
+      ],
+      "jackView": "急落した相場の中で増益・増配を出せる企業の底力に注目しています。決算シーズンは個別銘柄の選別が効く時期だと私は考えています。",
+      "sources": [
+        {
+          "title": "株探ニュース",
+          "url": "https://kabutan.jp/news/?b=k202607240014"
+        },
+        {
+          "title": "日経会社情報DIGITAL",
+          "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260724598954/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0545-04",
+      "time": "2026-07-25T05:45",
+      "category": "usstock",
+      "title": "Apple3.5%高がダウ押し上げ ナスダックは半導体安で0.64%下落、週間Mag7に約1兆ドル消失",
+      "summary": [
+        "24日の米市場でAppleが3.5%高と反発し、ダウ平均を235ドル押し上げる主因となった",
+        "一方、半導体株は引き続き軟調でナスダックの重荷となり、ナスダック総合は0.64%安の24,975で終了した",
+        "週間ではMag7の時価総額が約1兆ドル（約164兆円）消失し、AI投資の過剰懸念が色濃く残る展開だった"
+      ],
+      "jackView": "Appleのように直接的なAI設備投資が少ない銘柄が買われた点は示唆的です。AI投資の回収力で銘柄間の差が出始めていると私は見ています。",
+      "sources": [
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html"
+        },
+        {
+          "title": "moomoo",
+          "url": "https://www.moomoo.com/community/feed/daily-market-briefing-july-24-2026-friday-116975064580102"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0540-05",
+      "time": "2026-07-25T05:40",
+      "category": "fx",
+      "title": "ドル円163.80前後で週末入り 和平交渉報道で原油安、一時163.64まで円高に振れる",
+      "summary": [
+        "24日のニューヨーク市場でドル円はロンドン朝の安値を割り込み、一時163.64円まで円高方向に振れた",
+        "パキスタン仲介の米イラン和平交渉報道を受けた原油安がドル売りを誘ったが、その後は米債利回りの低下一服で163.80円台まで反発した",
+        "週間では163円台での推移が続き、40年ぶりの円安水準での膠着感が強まっている"
+      ],
+      "jackView": "和平報道で一瞬円高に振れてもすぐ戻る展開は、円安の地力が強いことを示しています。介入がなければ164円台を試す可能性が残ると私は見ています。",
+      "sources": [
+        {
+          "title": "みんかぶFX",
+          "url": "https://fx.minkabu.jp/news/374194"
+        },
+        {
+          "title": "みんかぶFX",
+          "url": "https://fx.minkabu.jp/news/374201"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0535-06",
+      "time": "2026-07-25T05:35",
+      "category": "crypto",
+      "title": "ビットコインは1,050万円台で方向感なく週末入り 改正金商法成立で制度面は前進",
+      "summary": [
+        "25日早朝のビットコインは円建て1,050万円前後で推移し、前週末の1,080万円から約3%下落した水準で週末を迎えた",
+        "米ハイテク株安と原油高によるリスクオフが週前半に売り圧力を強めたが、原油100ドル割れで下げ止まった",
+        "改正金商法の成立により暗号資産が「金融商品」として位置付けられることになり、制度面での整備が進んでいる"
+      ],
+      "jackView": "値動きが乏しい膠着局面は、次の大きな動きの準備期間であることが多いです。方向感がないときこそポジションを小さくしておくのが私の基本方針です。",
+      "sources": [
+        {
+          "title": "ビットバンクプラス",
+          "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-24"
+        },
+        {
+          "title": "みんかぶ暗号資産",
+          "url": "https://cc.minkabu.jp/pair/BTC_JPY"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0530-07",
+      "time": "2026-07-25T05:30",
+      "category": "seido",
+      "title": "改正金商法が成立、暗号資産を「金融商品」に格上げ 分離課税20%は2028年1月施行見通し",
+      "summary": [
+        "7月15日に改正金融商品取引法が参院本会議で可決・成立し、暗号資産が資金決済法上の「支払い手段」から金商法上の「金融商品」に位置付けられた",
+        "インサイダー取引規制の導入や暗号資産ETFの組成が可能となる制度整備が盛り込まれている",
+        "暗号資産の課税方式は現行の総合課税（最大55%）から申告分離課税20%へ移行する方針で、2028年1月の施行が有力視されている"
+      ],
+      "jackView": "税率が最大55%から20%に下がるインパクトは大きいですが、施行は2028年です。先走って含み益を確定するより、長期で構える方が賢明だと私は考えています。",
+      "sources": [
+        {
+          "title": "MONEYIZM",
+          "url": "https://www.all-senmonka.jp/moneyizm/news/315811/"
+        },
+        {
+          "title": "Coincheck",
+          "url": "https://coincheck.com/ja/article/654"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0525-08",
+      "time": "2026-07-25T05:25",
+      "category": "point",
+      "title": "三菱UFJカード、スタバなど8ブランドを特約店に追加 対象37店舗で最大20%還元",
+      "summary": [
+        "三菱UFJニコスは三菱UFJカードのポイントアッププログラム対象店にスターバックス、上島珈琲店、カーブスなど8ブランドを追加し、対象は37ブランドに拡大した",
+        "スターバックスカードへのオンライン入金で最大20%還元が適用されるが、店頭での直接決済は対象外である点に注意が必要",
+        "クレカ積立の還元率も最大7%に引き上げられ、三菱UFJ銀行経由のウェルスナビでのカード積立にも対応した"
+      ],
+      "jackView": "最大20%という数字は魅力的ですが、条件達成には複数のステップが必要です。まず自分の普段使いの店が対象かどうかを確認するところから始めてください。",
+      "sources": [
+        {
+          "title": "Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/poitan_177952/"
+        },
+        {
+          "title": "三菱UFJニコス",
+          "url": "https://www.cr.mufg.jp/apply/card/mucard/pup/index03.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0520-09",
+      "time": "2026-07-25T05:20",
+      "category": "sidehustle",
+      "title": "国内AI市場が2兆円超え 副業・フリーランスでのAIスキル需要は前年比約2倍に拡大",
+      "summary": [
+        "国内AI関連市場は2025年に2兆円を超え、2030年には5兆円規模に成長すると予測されている",
+        "副業・フリーランス市場ではAI活用スキルへの需要が前年比約2倍に増加し、記事作成・画像生成・業務自動化の3分野が中心となっている",
+        "Claude CodeやChatGPTを使って月5万〜30万円を稼ぐ事例が報告される一方、AIに丸投げした低品質な成果物は淘汰が進んでいる"
+      ],
+      "jackView": "AI市場の拡大は追い風ですが、参入のしやすさは競争の激しさと表裏一体です。まず本業の知見を活かせる分野で小さく始めることを私はおすすめします。",
+      "jackLink": {
+        "title": "AIで作ったiOSアプリの実例を見る",
+        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
+      },
+      "sources": [
+        {
+          "title": "genAI",
+          "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-side-job/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260725-0515-10",
+      "time": "2026-07-25T05:15",
+      "category": "scam",
+      "title": "【警戒】著名人の「逮捕」を騙る偽広告が投資詐欺の入り口に ディープフェイク悪用も拡大",
+      "summary": [
+        "SNS上で著名人が「逮捕された」とする虚偽の広告が相次いで確認されており、関心を引いたユーザーを投資詐欺サイトへ誘導する手口が広がっている",
+        "ひろゆき氏などの画像や動画を無断で使用した偽広告が報告されており、おたくま経済新聞が手口の追跡記事を公開した",
+        "警察庁はSNS上の投資詐欺広告に対する情報受付を強化しており、不審な広告は金融庁の情報受付窓口に通報するよう呼びかけている"
+      ],
+      "jackView": "衝撃的な見出しでクリックさせるのが偽広告の常套手段です。著名人の名前が使われていても、公式アカウント以外の情報は疑ってかかることを私は勧めます。",
+      "sources": [
+        {
+          "title": "おたくま経済新聞",
+          "url": "https://otakuma.net/archives/2026071405.html"
+        },
+        {
+          "title": "金融庁",
+          "url": "https://www.fsa.go.jp/receipt/toushisagi_koukoku/shuhou.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260724-1800-01",
       "time": "2026-07-24T18:00",
@@ -59,7 +289,7 @@
           "url": "https://gentosha-go.com/articles/-/80372"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1755-02",
@@ -78,7 +308,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOUB240HFTU6A720C2000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1750-03",
@@ -101,7 +331,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOGN23BT10T20C26A7000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1745-04",
@@ -120,7 +350,7 @@
           "url": "https://s.kabutan.jp/news/n202607240134/"
         }
       ],
-      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/29241211/pexels-photo-29241211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1740-05",
@@ -143,7 +373,7 @@
           "url": "https://www.gaitame.com/media/entry/2026/07/24/151818"
         }
       ],
-      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1735-06",
@@ -166,7 +396,7 @@
           "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-24"
         }
       ],
-      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/29110760/pexels-photo-29110760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1730-07",
@@ -189,7 +419,7 @@
           "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
         }
       ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1725-08",
@@ -208,7 +438,7 @@
           "url": "https://news.livedoor.com/article/detail/31681859/"
         }
       ],
-      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1720-09",
@@ -227,7 +457,7 @@
           "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-side-job-review/"
         }
       ],
-      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1715-10",
@@ -254,7 +484,7 @@
           "url": "https://www.jssec.org/column/20260327.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1200-01",
@@ -277,7 +507,7 @@
           "url": "https://kabushiki.jp/news/759028"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1155-02",
@@ -300,7 +530,7 @@
           "url": "https://kabushiki.jp/news/759018"
         }
       ],
-      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16325607/pexels-photo-16325607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1150-03",
@@ -323,7 +553,7 @@
           "url": "https://finance.yahoo.co.jp/news/detail/87970f4edcb099eb6053b3bcf738fdf8a80d6498"
         }
       ],
-      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1145-04",
@@ -346,7 +576,7 @@
           "url": "https://www.gaitame.com/media/entry/2026/07/24/082256"
         }
       ],
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1140-05",
@@ -369,7 +599,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/5835417/pexels-photo-5835417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16594725/pexels-photo-16594725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1135-06",
@@ -392,7 +622,7 @@
           "url": "https://diamond.jp/crypto/market/btc-future/"
         }
       ],
-      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14358448/pexels-photo-14358448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1130-07",
@@ -415,7 +645,7 @@
           "url": "https://diamond.jp/zai/articles/-/1061729"
         }
       ],
-      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1125-08",
@@ -434,7 +664,7 @@
           "url": "https://news.yahoo.co.jp/articles/991638615a40a8583c2dc17e8bc2e91678f7a913"
         }
       ],
-      "image": "https://images.pexels.com/photos/8062357/pexels-photo-8062357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1120-09",
@@ -457,7 +687,7 @@
           "url": "https://rialab.jp/blog/2026-05-21-173460/"
         }
       ],
-      "image": "https://images.pexels.com/photos/3811593/pexels-photo-3811593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-1115-10",
@@ -484,7 +714,7 @@
           "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
         }
       ],
-      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/18783946/pexels-photo-18783946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-0600-01",
@@ -507,7 +737,7 @@
           "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-0555-02",
@@ -553,7 +783,7 @@
           "url": "https://finance.yahoo.co.jp/news/detail/a7565aff58f24a1bed1538b7dca3d44568479a80"
         }
       ],
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/35831858/pexels-photo-35831858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-0545-04",
@@ -614,7 +844,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOFL230200T20C26A7000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5784807/pexels-photo-5784807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-0530-07",
@@ -637,7 +867,7 @@
           "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
         }
       ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/32008335/pexels-photo-32008335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-0525-08",
@@ -660,7 +890,7 @@
           "url": "https://dpoint.docomo.ne.jp/cp_7/alliance_260707_7600/index.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5198284/pexels-photo-5198284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-0520-09",
@@ -679,7 +909,7 @@
           "url": "https://hipro-job.jp/skilljunkan/hr_report/2026/"
         }
       ],
-      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/374008/pexels-photo-374008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260724-0515-10",
@@ -702,7 +932,7 @@
           "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
         }
       ],
-      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/19152143/pexels-photo-19152143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1700-01",
@@ -725,7 +955,7 @@
           "url": "https://finance.yahoo.co.jp/news/detail/f38b7335a17a842fa6991defbd96aa911a7a6f24"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/35220407/pexels-photo-35220407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1645-02",
@@ -748,7 +978,7 @@
           "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260721597097/"
         }
       ],
-      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5831266/pexels-photo-5831266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1630-03",
@@ -771,7 +1001,7 @@
           "url": "https://s.kabutan.jp/news/n202607230766/"
         }
       ],
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/29916107/pexels-photo-29916107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1615-04",
@@ -794,7 +1024,7 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-lower-225331994.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5831259/pexels-photo-5831259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1600-05",
@@ -817,7 +1047,7 @@
           "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-22"
         }
       ],
-      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1545-06",
@@ -840,7 +1070,7 @@
           "url": "https://media.monex.co.jp/articles/-/27310"
         }
       ],
-      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1530-07",
@@ -859,7 +1089,7 @@
           "url": "https://www.eposcard.co.jp/articles/news/260601.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1515-08",
@@ -882,7 +1112,7 @@
           "url": "https://news.mynavi.jp/article/20260719-4700912/"
         }
       ],
-      "image": "https://images.pexels.com/photos/37698747/pexels-photo-37698747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/243242/pexels-photo-243242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260723-1500-09",
@@ -909,428 +1139,7 @@
           "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
         }
       ],
-      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1145-01",
-      "time": "2026-07-23T11:45",
-      "category": "market",
-      "title": "日経平均は反発、一時800円超高 米半導体株高と韓国株高を追い風にAI関連へ買い",
-      "summary": [
-        "23日午前の東京株式市場で日経平均は反発し、前日比305円41銭高の66,421円01銭で寄り付いた後、一時800円超高の66,900円台まで上昇した",
-        "22日の米市場で半導体株が買われた流れを引き継ぎ、東京市場でもAI・半導体関連に買いが先行した",
-        "韓国株の上昇もアジア市場全体のリスク選好を支えた"
-      ],
-      "jackView": "強い日ほど冷静さが必要だと私は考えています。指数の上げ幅より、買われている業種の偏りに注目してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL230J90T20C26A7000000/"
-        },
-        {
-          "title": "時事通信（Yahoo!ファイナンス）",
-          "url": "https://finance.yahoo.co.jp/news/detail/ecc2d529616b6738b58b9eba79c80d6d308c9777"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1130-02",
-      "time": "2026-07-23T11:30",
-      "category": "usstock",
-      "title": "テスラ4-6月期決算、1株利益が予想未達 フリーキャッシュフローは2年超ぶりの赤字に",
-      "summary": [
-        "テスラが22日引け後に発表した4-6月期決算は、売上高が予想を上回った一方、1株利益は市場予想を下回った",
-        "フリーキャッシュフローは約109億ドルの赤字となり、2年超ぶりのマイナスに転落した",
-        "決算を受けて株価は時間外取引で2.5%前後下落した"
-      ],
-      "jackView": "私は損益よりキャッシュフローの赤字転落の方が重い情報だと見ています。企業の体力は現金の増減で確認する習慣をつけてください。",
-      "sources": [
-        {
-          "title": "株探",
-          "url": "https://s.kabutan.jp/news/n202607230109/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7691749/pexels-photo-7691749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1115-03",
-      "time": "2026-07-23T11:15",
-      "category": "usstock",
-      "title": "アルファベット決算は好調も時間外で売買交錯 AI設備投資の増額計画に警戒感",
-      "summary": [
-        "アルファベットが22日引け後に発表した4-6月期決算は広告・クラウドとも堅調だったが、時間外取引では売り買いが交錯した",
-        "AI関連の設備投資（capex）を増額する方針が示され、投資回収への警戒から上値が抑えられたと報じられた",
-        "巨額のAI投資が収益化できるかを測る試金石として、今週の大手テック決算が注目されている"
-      ],
-      "jackView": "好決算でも設備投資の増額で売られるのが今の相場の特徴です。市場がAI投資の回収時期を測り始めたと私は見ています。",
-      "sources": [
-        {
-          "title": "株探",
-          "url": "https://s.kabutan.jp/news/n202607230042/"
-        },
-        {
-          "title": "財経新聞",
-          "url": "https://zaikei.co.jp/article/20260721/862128.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1100-04",
-      "time": "2026-07-23T11:00",
-      "category": "market",
-      "title": "22日の米市場はS&P500が小幅安7,498.96 原油高が重荷、ブレントは一時95ドル超え",
-      "summary": [
-        "22日の米株式市場でS&P500は前日比0.14%安の7,498.96、ナスダック総合は0.57%安の25,690.90、NYダウはほぼ横ばいの52,218.58で取引を終えた",
-        "ブレント原油先物は約3.4%高の1バレル94.07ドルと1カ月超ぶりの高値を付け、一時95ドルを上回った",
-        "個別ではスーパー・マイクロ・コンピューターが受注残の過去最高を受けて26%高、AT&Tも決算好調で4%高となった"
-      ],
-      "jackView": "原油94ドル台はインフレ再燃の入り口になり得ます。株価より先に、ガソリンや光熱費への波及を意識しておきたいところです。",
-      "sources": [
-        {
-          "title": "Yahoo Finance",
-          "url": "https://finance.yahoo.co.jp/news/detail/ecc2d529616b6738b58b9eba79c80d6d308c9777"
-        },
-        {
-          "title": "The Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-today-july-22-nasdaq-slides-prior-to-tesla-and-alphabet-s-earnings-after-market-close/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1045-05",
-      "time": "2026-07-23T10:45",
-      "category": "fx",
-      "title": "ドル円は163円台前半でほぼ変わらず 日銀の利上げペース巡る報道で朝方は円高に振れる場面",
-      "summary": [
-        "23日のドル円は163円台前半で推移し、前日終値とほぼ同水準での取引が続いている",
-        "日銀が利上げペースの加速に柔軟な姿勢を取るとの報道を受け、朝方は緩やかに円高が進む場面があった",
-        "その後は円買いが一巡し、再び円安方向に戻す展開となった。片山財務相は必要があればいつでも断固たる対応を取ると改めて牽制している"
-      ],
-      "jackView": "円高に振れてもすぐ戻る、この戻りの速さこそ円売り圧力の強さの証拠だと私は見ています。介入時の乱高下には十分注意してください。",
-      "sources": [
-        {
-          "title": "OANDA証券",
-          "url": "https://www.oanda.jp/lab-education/market_news/2026_07_23_usdjpy/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1030-06",
-      "time": "2026-07-23T10:30",
-      "category": "jpstock",
-      "title": "本日はディスコ・KOAなど7社が決算発表 半導体関連の思惑買いが先行",
-      "summary": [
-        "23日はディスコ、KOA、信越ポリマー、未来工業など7社が決算発表を予定している",
-        "半導体製造装置関連のディスコと電子部品のKOAが注目決算とされ、朝方から半導体関連には買いが先行した",
-        "今週は信越化学工業や中外製薬など主力企業の決算発表も控えている"
-      ],
-      "jackView": "決算当日の値動きは荒れやすいものです。私は発表前の思惑買いには乗らず、内容と翌日の市場の反応を確かめる派です。",
-      "sources": [
-        {
-          "title": "株探",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202607230106"
-        },
-        {
-          "title": "株式新聞Web",
-          "url": "https://kabushiki.jp/news/758807"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1015-07",
-      "time": "2026-07-23T10:15",
-      "category": "crypto",
-      "title": "ビットコインは6万5,800ドル台に小幅安 円建ては1,070万円台で推移",
-      "summary": [
-        "ビットコインは22日朝（米東部時間）時点で6万5,858ドルと、前日の6万6,310ドルから小幅に下落した",
-        "円建てでは1,070万円台での推移が続いている",
-        "米クラリティ法案への期待が下支えする一方、原油高に伴う米長期金利の上昇がリスク資産全般の上値を抑えている"
-      ],
-      "jackView": "株が最高値圏でもビットコインは昨年の高値を更新できていません。資金の流れが偏っているサインとして私は見ています。",
-      "sources": [
-        {
-          "title": "Fortune",
-          "url": "https://fortune.com/article/price-of-bitcoin-07-22-2026/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-1000-08",
-      "time": "2026-07-23T10:00",
-      "category": "seido",
-      "title": "未成年NISA、18歳で成人のつみたて枠へ自動移行 12歳以降は例外的な払い出しも可能に",
-      "summary": [
-        "2026年度税制改正で創設される0〜17歳向けのNISAつみたて投資枠は、年間60万円・非課税保有限度額600万円で設計されている",
-        "18歳になると成人のつみたて投資枠へ自動的に移行する仕組みで、12歳以降は例外的な払い出しも認められる",
-        "あわせて債券中心・バランス型投資信託の対象追加や、NISA口座の所在地確認の廃止など手続き簡素化も盛り込まれた"
-      ],
-      "jackView": "18歳で自動的に本人管理へ移る設計は、親の目が離れる時期と重なります。枠を渡す前の金銭教育こそが本体だと私は考えています。",
-      "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
-        },
-        {
-          "title": "ニッセイ基礎研究所",
-          "url": "https://www.nli-research.co.jp/report/detail/id=84747?site=nli"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/4476375/pexels-photo-4476375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0945-09",
-      "time": "2026-07-23T09:45",
-      "category": "point",
-      "title": "楽天Edyから楽天キャッシュへのチャージ上限、月10万円から1万円に 8月1日から適用",
-      "summary": [
-        "楽天ペイメントは楽天キャッシュ会員規約の改定を発表し、楽天Edyから楽天キャッシュへの月間チャージ上限額を10万円から1万円に引き下げる",
-        "2026年8月1日以降のチャージ分から適用され、毎月1日から末日までの合計チャージ額が対象となる",
-        "チャージ済みの楽天キャッシュ残高の利用や、楽天Edyとしての決済機能は従来どおり利用できる"
-      ],
-      "jackView": "10万円から1万円への引き下げは事実上のルート封鎖です。ポイ活は一つの経路に依存しない設計が最大の守りになります。",
-      "sources": [
-        {
-          "title": "ASCII.jp",
-          "url": "https://ascii.jp/elem/000/004/415/4415296/"
-        },
-        {
-          "title": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/cfd775397a71efeb04750d418ef79a24b2d52e9a"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0930-10",
-      "time": "2026-07-23T09:30",
-      "category": "sidehustle",
-      "title": "副業収入は月1〜3万円が約半数 継続2年以上で中央値は3〜5万円に上昇との調査",
-      "summary": [
-        "副業をしている人の約半数は月収1〜3万円の範囲にとどまるとの調査結果が報じられた",
-        "副業歴1年未満の月収中央値は1万円程度だが、2年以上継続する層では3〜5万円まで上昇する傾向がある",
-        "2026年の副業市場は生成AIの実務活用が進み、AIを使いこなす層と専門性の高い層に収入が集まる二極化が指摘されている"
-      ],
-      "jackView": "平均値は一部の高収入者が押し上げています。まず月1万円を安定して稼ぐ仕組みを作り、2年続けることが現実的な路線だと私は考えています。",
-      "sources": [
-        {
-          "title": "poten（副業収入調査）",
-          "url": "https://poten.co.jp/2025fukugyo-heikinsyunyu/"
-        },
-        {
-          "title": "PR TIMES（副業関連リリース）",
-          "url": "https://prtimes.jp/topics/keywords/%E5%89%AF%E6%A5%AD"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3811593/pexels-photo-3811593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0915-11",
-      "time": "2026-07-23T09:15",
-      "category": "scam",
-      "title": "【警戒】SNS型投資詐欺の入り口はInstagramが最多 YouTube広告経由も増加、警察庁・金融庁が注意喚起",
-      "summary": [
-        "警察庁の統計によると、SNS型投資詐欺の被害額は特殊詐欺・SNS型詐欺全体の被害額の6割超を占めている",
-        "被害者との当初接触ツールはInstagramが最多で、YouTube経由も増加傾向にあると報告されている",
-        "金融庁はSNS上の投資詐欺が疑われる広告等に関する情報受付窓口を設置し、著名人をかたる広告からの投資勧誘に注意を呼びかけている"
-      ],
-      "jackView": "広告から投資話に誘導された時点で、一度立ち止まるのが正解です。有名人の顔写真は本人の許可なく使われている前提で見てください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "警察庁 SOS47",
-          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/"
-        },
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/receipt/toushisagi_koukoku/shuhou.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0600-01",
-      "time": "2026-07-23T06:00",
-      "category": "usstock",
-      "title": "米市場は大手テック決算を前に様子見 引け後にアルファベット・テスラ・IBMが発表",
-      "summary": [
-        "22日の米株式市場でNYダウは小幅続伸で始まったが、大手テック決算を前に慎重姿勢が広がった",
-        "取引終了後にアルファベット、テスラ、IBMが四半期決算を発表。アルファベットは広告・クラウド事業とAI関連投資、テスラは利益率や販売見通しが注目点とされた",
-        "日中はナスダック100先物が下落するなど、AI・ハイテク関連には利益確定売りの動きも見られた"
-      ],
-      "jackView": "決算またぎは、初心者が最も損をしやすい場面です。私は結果を見てから動いても遅くないと考えています。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL22B220S6A720C2000000/"
-        },
-        {
-          "title": "財経新聞",
-          "url": "https://www.zaikei.co.jp/article/20260718/861863.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0545-02",
-      "time": "2026-07-23T05:45",
-      "category": "fx",
-      "title": "ドル円163円台前半で高止まり 39年7カ月ぶり円安水準、当局の介入警戒が継続",
-      "summary": [
-        "23日早朝のニューヨーク市場でドル円は163円台前半で推移し、1986年12月以来約39年7カ月ぶりの円安水準での取引が続いた",
-        "中東情勢の緊迫化に伴う有事のドル買いと米長期金利の上昇が円売り圧力の背景となっている",
-        "市場では投機筋の円売りポジションの積み上がりを受け、政府・日銀による円買い介入への警戒感が高まっている"
-      ],
-      "jackView": "介入は水準そのものより、変動の速さに反応します。急変動の直後に飛び乗るのが一番危険です。",
-      "sources": [
-        {
-          "title": "みんかぶFX",
-          "url": "https://fx.minkabu.jp/news/373900"
-        },
-        {
-          "title": "外為どっとコム マネ育チャンネル",
-          "url": "https://www.gaitame.com/media/entry/2026/07/22/080010"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7235895/pexels-photo-7235895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0530-03",
-      "time": "2026-07-23T05:30",
-      "category": "crypto",
-      "title": "ビットコインは6万5,800ドル近辺で推移 クラリティ法案の審議動向を注視",
-      "summary": [
-        "22日の海外市場でビットコインは6万5,700〜6万5,900ドル前後（円建てで約1,070万円）で推移した",
-        "米クラリティ法案を巡る進展期待が相場を下支えする一方、原油高と米長期金利の上昇が上値を抑えた",
-        "2025年に付けた12万6,000ドル超の高値は依然更新できておらず、2026年を通じて上値の重い展開が続いている"
-      ],
-      "jackView": "法整備は長期ではプラス材料ですが、審議のたびに乱高下します。値動きに理由を後付けしないことが大切です。",
-      "sources": [
-        {
-          "title": "Fortune",
-          "url": "https://fortune.com/article/price-of-bitcoin-07-22-2026/"
-        },
-        {
-          "title": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0515-04",
-      "time": "2026-07-23T05:15",
-      "category": "market",
-      "title": "原油高が世界株の重荷に S&P500の割高感を指摘する声も",
-      "summary": [
-        "中東情勢の緊迫化による原油高がインフレ再燃懸念につながり、米株相場の上値を抑える要因となっている",
-        "21日のS&P500はほぼ横ばいで引け、原油価格の上昇が株式相場の圧迫要因になったと報じられた",
-        "S&P500のバリュエーションはドットコムバブル期以来の高水準にあるとの指摘もあり、割高感への警戒が意識されている"
-      ],
-      "jackView": "原油高はガソリンや電気代を通じて家計にも届きます。株の話ではなく生活コストの話として見るのが私の読み方です。",
-      "sources": [
-        {
-          "title": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/22/last-time-sp-500-valuation-stock-market-crashed/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0500-05",
-      "time": "2026-07-23T05:00",
-      "category": "seido",
-      "title": "NISA口座の所在地確認を廃止へ 2026年度税制改正で手続き簡素化・指定指数の拡充も",
-      "summary": [
-        "2026年度税制改正では、NISA口座に関する所在地確認の廃止が盛り込まれ、口座手続きの簡素化が図られる",
-        "対象商品では債券中心・バランス型の投資信託の追加のほか、読売株価指数やJPXプライム150指数などの指定指数の拡充が示された",
-        "つみたて投資枠の年齢要件撤廃（未成年への拡大）とあわせ、2026年中の施行が予定されている"
-      ],
-      "jackView": "手続きの簡素化自体は歓迎です。ただ、制度が便利になることと、その商品があなたに合うことは別問題です。",
-      "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
-        },
-        {
-          "title": "大和ネクスト銀行",
-          "url": "https://www.bank-daiwa.co.jp/column/articles/2026/2026_565.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0445-06",
-      "time": "2026-07-23T04:45",
-      "category": "point",
-      "title": "PayPayカード、6月改定の影響続く 公共料金の還元半減・交通系ICチャージは対象外に",
-      "summary": [
-        "PayPayカードは2026年6月2日の改定で、公共料金のカード払いのポイント還元率が半減し、交通系ICカードへのチャージはポイント付与の対象外となった",
-        "PayPayステップの達成条件も変更されており、利用状況によっては還元率が従来より低下するケースがある",
-        "固定費の支払いカードやチャージ経路の見直しなど、利用者側の対策の必要性が指摘されている"
-      ],
-      "jackView": "還元の改悪は静かに進みます。年に一度は自分のカードの還元条件を見直してください。放置が一番の損です。",
-      "sources": [
-        {
-          "title": "Yahoo!ニュース エキスパート",
-          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0430-07",
-      "time": "2026-07-23T04:30",
-      "category": "sidehustle",
-      "title": "フリーランス市場は拡大続く プラットフォーム市場規模99.1億ドルへ、動画編集の需要増が最大",
-      "summary": [
-        "フリーランス人材白書2026によると、フリーランスプラットフォーム市場は2025年の83.5億ドルから99.1億ドル規模へと成長が見込まれている",
-        "職種別の需要増加率は動画編集者が25%と最も高く、ライターが22%で続いた",
-        "企業の56.4%が副業を容認しており、会社員が複数の収入源を持つ動きが引き続き広がっている"
-      ],
-      "jackView": "市場が伸びる場所には人も殺到します。スキル単体より、AIを組み合わせて速く安く出せる人が残ると私は見ています。",
-      "sources": [
-        {
-          "title": "フリーランス人材白書2026（リアラボ）",
-          "url": "https://rialab.jp/blog/2026-05-21-173460/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260723-0420-08",
-      "time": "2026-07-23T04:20",
-      "category": "scam",
-      "title": "【警戒】金融庁、無登録の海外業者リストを7月22日付で更新 MYFX Marketsなどに警告",
-      "summary": [
-        "金融庁は2026年7月22日付で、無登録で金融商品取引業を行う者の名称等の公表リストを更新した",
-        "2026年7月分として、MYFX Markets Pty Ltdほか2社、Capital Crest Ltd、IS6 Technologies Ltdなど海外所在の無登録業者への警告が掲載されている",
-        "金融商品の勧誘には原則として金融商品取引業の登録が必要で、金融庁は取引前に登録の有無を確認するよう呼びかけている"
-      ],
-      "jackView": "無登録業者はリスト入りした後、名前を変えて再登場します。業者名ではなく手口で覚えるのが防御の基本です。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku/04.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
