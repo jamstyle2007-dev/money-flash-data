@@ -1,43 +1,261 @@
 {
-  "updated": "2026-07-24T12:00",
+  "updated": "2026-07-24T18:00",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "64,568.75",
-      "change": "-1,853.85",
-      "changePct": "-2.79%"
+      "value": "64,611",
+      "change": "-1,811",
+      "changePct": "-2.73%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,012.79",
-      "change": "-41.09",
-      "changePct": "-1.01%"
+      "value": "4,005",
+      "change": "-49",
+      "changePct": "-1.20%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.77",
-      "change": "+0.46",
-      "changePct": "+0.28%"
+      "value": "163.84",
+      "change": "+0.53",
+      "changePct": "+0.32%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,408.30",
-      "change": "-90.66",
+      "value": "7,408",
+      "change": "-91",
       "changePct": "-1.21%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.0M",
-      "change": "-5.7%",
-      "changePct": "-5.7%"
+      "value": "¥10.7M",
+      "change": "-1.0%",
+      "changePct": "-1.0%"
     }
   ],
   "items": [
+    {
+      "id": "20260724-1800-01",
+      "time": "2026-07-24T18:00",
+      "category": "market",
+      "title": "東証大引け 日経平均は1,811円安の64,611円 AI半導体株全面安で年初来2番目の下げ幅",
+      "summary": [
+        "24日の東京株式市場で日経平均は前日比1,811円45銭（2.73%）安の64,611円15銭と大幅反落し、一時は64,201円まで下落した",
+        "TOPIXは48.53ポイント（1.20%）安の4,005.35と反落し、売買代金は約5.3兆円に膨らんだ",
+        "AI・半導体関連を中心に33業種中31業種が下落し、個人投資家による投げ売りも観測された"
+      ],
+      "jackView": "大引けにかけて安値から400円ほど戻しましたが、戻りの鈍さに私は注目しています。週明けの地合いを見るまでは新規の買いを急がない方が無難です。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL245D80U6A720C2000000/"
+        },
+        {
+          "title": "ゴールドオンライン",
+          "url": "https://gentosha-go.com/articles/-/80372"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1755-02",
+      "time": "2026-07-24T17:55",
+      "category": "jpstock",
+      "title": "イビデンが4%安 日経新聞がAI特需の持続懸念を指摘、装置株以外にも不安波及",
+      "summary": [
+        "24日の東京市場でイビデンは4%安となり、AI特需の恩恵を受けてきた半導体周辺企業にも売りが広がった",
+        "日本経済新聞はイビデンの下落をAI特需の持続懸念の象徴として取り上げ、半導体装置以外にもリスクが広がっていると報じた",
+        "ディスコの大幅安をきっかけに半導体バリューチェーン全体への投資家心理が悪化している"
+      ],
+      "jackView": "AI半導体の恩恵を受けてきた周辺銘柄にまで売りが広がるのは、テーマ相場の終盤に見られる動きです。保有銘柄がAI関連にどれだけ偏っているか点検してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUB240HFTU6A720C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1750-03",
+      "time": "2026-07-24T17:50",
+      "category": "usstock",
+      "title": "Mag7が1日で約8,000億ドル消失 AI投資過剰論が拡大し2025年以降で最悪の急落",
+      "summary": [
+        "23日の米市場でMag7（マグニフィセント・セブン）の時価総額が合計約8,000億ドル（約131兆円）減少し、2025年以降で最悪の1日となった",
+        "アルファベットのAI設備投資2,050億ドル計画やテスラのフリーキャッシュフロー赤字転落が引き金となった",
+        "巨大テック企業のAI投資が「現金を燃やしている」との批判が強まり、投資回収の時間軸を問う声が広がっている"
+      ],
+      "jackView": "AI投資への期待で上がった株は、回収への疑問で同じ速さで下がります。テーマに乗るだけでなく「いつ回収されるか」まで考える習慣を持ってください。",
+      "sources": [
+        {
+          "title": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched"
+        },
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOGN23BT10T20C26A7000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1745-04",
+      "time": "2026-07-24T17:45",
+      "category": "market",
+      "title": "日経225先物は夜間取引で920円安の65,430円 週明けも下値模索の公算",
+      "summary": [
+        "24日夜間取引の日経225先物は前日比920円安の65,430円で終了した",
+        "TOPIX先物も43ポイント安の4,004.5と軟調で、大引けの現物終値からさらに水準を切り下げた",
+        "米国市場の動向と週末の中東情勢次第では、週明けの東京市場も軟調なスタートが見込まれる"
+      ],
+      "jackView": "夜間先物が大引けからさらに下がっている点は気がかりです。週末に悪材料が出れば月曜は窓を開けて下がる展開もあるので、持ち高管理を優先してください。",
+      "sources": [
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/n202607240134/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1740-05",
+      "time": "2026-07-24T17:40",
+      "category": "fx",
+      "title": "ドル円は163円84銭で推移、株急落でも円高に振れず リスクオフの円買い不発",
+      "summary": [
+        "24日の東京市場でドル円は終日163円台後半で推移し、日経平均の急落にもかかわらず円高方向への動きは限定的だった",
+        "原油高を背景とした有事のドル買いが続いており、従来のリスクオフ局面で見られた円買いが機能していない",
+        "市場では164円突破なら政府・日銀の為替介入が現実味を帯びるとの見方が大勢を占めている"
+      ],
+      "jackView": "株が下がっても円が買われない構図は、これまでの常識が通じにくい相場です。円高をヘッジとして当てにしている方は前提の見直しをおすすめします。",
+      "sources": [
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/n202607240310/"
+        },
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/24/151818"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1735-06",
+      "time": "2026-07-24T17:35",
+      "category": "crypto",
+      "title": "ビットコインは65,000ドル台で持ちこたえ Mag7暴落の波及は限定的",
+      "summary": [
+        "24日のビットコインは65,000ドル前後（円建て約1,067万円）で推移し、Mag7の大幅安にもかかわらず下げ幅は限定的だった",
+        "CoinDeskは「8,000億ドルのAI株セルオフが暗号資産にはほぼ影響しなかった」と報じた",
+        "原油高やインフレ懸念からの逃避先としてビットコインが意識され始めているとの見方もある"
+      ],
+      "jackView": "株と暗号資産の相関が弱まった場面では、分散効果が一時的に効いています。ただし一時的な現象を過信せず、リスク量の管理は続けてください。",
+      "sources": [
+        {
+          "title": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched"
+        },
+        {
+          "title": "ビットバンクプラス",
+          "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-24"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1730-07",
+      "time": "2026-07-24T17:30",
+      "category": "seido",
+      "title": "こどもNISA、2027年1月開始が正式決定 つみたて枠のみ・年60万円・非課税600万円",
+      "summary": [
+        "2026年度税制改正法の成立により、0〜17歳向けの「こどもNISA」が2027年1月1日に開始されることが正式に決まった",
+        "つみたて投資枠の対象商品のみ購入可能で、年間投資限度額は60万円、非課税保有限度額は600万円に設定された",
+        "18歳到達時に自動的に成人のNISAつみたて投資枠に移行し、中学校入学年以降は教育費・生活費目的の払い出しも認められる"
+      ],
+      "jackView": "法案が通り日程が確定しました。口座を開く前に、まず親自身のNISA枠を使い切っているか確認するのが先だと私は考えています。",
+      "sources": [
+        {
+          "title": "大和総研",
+          "url": "https://www.dir.co.jp/report/research/law-research/tax/20260526_025774.html"
+        },
+        {
+          "title": "金融庁",
+          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1725-08",
+      "time": "2026-07-24T17:25",
+      "category": "point",
+      "title": "d払いスタンプ、8月からdカード決済が対象外に ファミマは楽天SPU追加で恩恵",
+      "summary": [
+        "NTTドコモのd払いスタンプキャンペーンは8月以降、dカードによる決済がスタンプ付与の対象外となる",
+        "一方、ファミリーマートが楽天SPU（スーパーポイントアッププログラム）に新規追加され、楽天経済圏ユーザーには追い風となった",
+        "ポイ活の主要ルートが変更・縮小される動きが相次いでおり、決済手段の使い分け見直しが必要になっている"
+      ],
+      "jackView": "dカード除外は普段使いの人ほど影響が大きいです。8月になって慌てないよう、今のうちにスタンプ対象の決済方法を確認しておいてください。",
+      "sources": [
+        {
+          "title": "ライブドアニュース",
+          "url": "https://news.livedoor.com/article/detail/31681859/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1720-09",
+      "time": "2026-07-24T17:20",
+      "category": "sidehustle",
+      "title": "AI副業の実践報告が増加 Claude Code活用で非エンジニアでも月5万円の事例",
+      "summary": [
+        "生成AI副業の実践記事が2026年7月に相次ぎ公開され、非エンジニアがClaude Codeを使って月5万〜30万円を稼ぐ事例が報告されている",
+        "アプリ開発・コンテンツ制作・業務自動化・AI導入コンサルの4分野が主な収益源として挙げられている",
+        "一方で、AIに丸投げした低品質な納品物は淘汰が進んでおり、専門知識との掛け合わせが差別化の鍵とされる"
+      ],
+      "jackView": "AIツールの民主化で参入は簡単になりましたが、稼ぎ続けるには本業の経験を掛け合わせることが不可欠です。まず本業の困りごとをAIで解決するところから始めてみてください。",
+      "sources": [
+        {
+          "title": "genAI（AI副業実践レビュー）",
+          "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-side-job-review/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1715-10",
+      "time": "2026-07-24T17:15",
+      "category": "scam",
+      "title": "【警戒】SNS投資詐欺 2026年1-3月で被害4,560億円、年間では過去最悪ペースに",
+      "summary": [
+        "2026年1〜3月のSNS型投資詐欺の認知件数は3,397件、被害総額は4,560.7億円に上り、年間換算では過去最悪のペースで推移している",
+        "2025年の年間被害額は約1,274億円だったが、2026年はわずか3カ月でその3倍超に達している",
+        "30〜40代の現役世代への被害拡大が目立ち、YouTubeショート動画を入り口とする手口が増加している"
+      ],
+      "jackView": "被害額の急増は、手口が巧妙化しているだけでなく一件あたりの金額が跳ね上がっている証拠です。高額を振り込む前に、必ず周囲の人に相談してください。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "日本証券業協会",
+          "url": "https://www.jsda.or.jp/about/hatten/inv_alerts/alearts03/index.html"
+        },
+        {
+          "title": "JSSEC",
+          "url": "https://www.jssec.org/column/20260327.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260724-1200-01",
       "time": "2026-07-24T12:00",
@@ -345,7 +563,7 @@
       "summary": [
         "中東情勢の緊迫化を受けて原油高が加速し、ブレント原油は節目の1バレル100ドルを超えた。WTI原油先物も92ドル台まで上昇した",
         "フーシ派が紅海沿岸の港湾封鎖の動きを見せるなど供給不安が強まり、インフレ再燃への懸念が高まっている",
-        "米10年債利回りは約1年半ぶりの高水準となる4.7%に達し、株式など リスク資産の重荷となった"
+        "米10年債利回りは約1年半ぶりの高水準となる4.7%に達し、株式などリスク資産の重荷となった"
       ],
       "jackView": "原油100ドルは株だけでなく家計にも確実に効いてきます。ガソリンや電気代への波及まで含め、生活防衛の視点でこのニュースを読むことを私はおすすめします。",
       "sources": [
@@ -477,7 +695,7 @@
       "sources": [
         {
           "title": "NHKニュース",
-          "url": "https://news.web.nhk/newsweb/na/nb-1000130349"
+          "url": "https://news.web.nhk.or.jp/newsweb/na/nb-1000130349"
         },
         {
           "title": "警察庁 SOS47",
@@ -948,6 +1166,7 @@
         "取引終了後にアルファベット、テスラ、IBMが四半期決算を発表。アルファベットは広告・クラウド事業とAI関連投資、テスラは利益率や販売見通しが注目点とされた",
         "日中はナスダック100先物が下落するなど、AI・ハイテク関連には利益確定売りの動きも見られた"
       ],
+      "jackView": "決算またぎは、初心者が最も損をしやすい場面です。私は結果を見てから動いても遅くないと考えています。",
       "sources": [
         {
           "title": "日本経済新聞",
@@ -958,7 +1177,6 @@
           "url": "https://www.zaikei.co.jp/article/20260718/861863.html"
         }
       ],
-      "jackView": "決算またぎは、初心者が最も損をしやすい場面です。私は結果を見てから動いても遅くないと考えています。",
       "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
@@ -971,6 +1189,7 @@
         "中東情勢の緊迫化に伴う有事のドル買いと米長期金利の上昇が円売り圧力の背景となっている",
         "市場では投機筋の円売りポジションの積み上がりを受け、政府・日銀による円買い介入への警戒感が高まっている"
       ],
+      "jackView": "介入は水準そのものより、変動の速さに反応します。急変動の直後に飛び乗るのが一番危険です。",
       "sources": [
         {
           "title": "みんかぶFX",
@@ -981,7 +1200,6 @@
           "url": "https://www.gaitame.com/media/entry/2026/07/22/080010"
         }
       ],
-      "jackView": "介入は水準そのものより、変動の速さに反応します。急変動の直後に飛び乗るのが一番危険です。",
       "image": "https://images.pexels.com/photos/7235895/pexels-photo-7235895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
@@ -994,6 +1212,7 @@
         "米クラリティ法案を巡る進展期待が相場を下支えする一方、原油高と米長期金利の上昇が上値を抑えた",
         "2025年に付けた12万6,000ドル超の高値は依然更新できておらず、2026年を通じて上値の重い展開が続いている"
       ],
+      "jackView": "法整備は長期ではプラス材料ですが、審議のたびに乱高下します。値動きに理由を後付けしないことが大切です。",
       "sources": [
         {
           "title": "Fortune",
@@ -1004,7 +1223,6 @@
           "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html"
         }
       ],
-      "jackView": "法整備は長期ではプラス材料ですが、審議のたびに乱高下します。値動きに理由を後付けしないことが大切です。",
       "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
@@ -1017,6 +1235,7 @@
         "21日のS&P500はほぼ横ばいで引け、原油価格の上昇が株式相場の圧迫要因になったと報じられた",
         "S&P500のバリュエーションはドットコムバブル期以来の高水準にあるとの指摘もあり、割高感への警戒が意識されている"
       ],
+      "jackView": "原油高はガソリンや電気代を通じて家計にも届きます。株の話ではなく生活コストの話として見るのが私の読み方です。",
       "sources": [
         {
           "title": "CNBC",
@@ -1027,7 +1246,6 @@
           "url": "https://www.fool.com/investing/2026/07/22/last-time-sp-500-valuation-stock-market-crashed/"
         }
       ],
-      "jackView": "原油高はガソリンや電気代を通じて家計にも届きます。株の話ではなく生活コストの話として見るのが私の読み方です。",
       "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
@@ -1040,6 +1258,7 @@
         "対象商品では債券中心・バランス型の投資信託の追加のほか、読売株価指数やJPXプライム150指数などの指定指数の拡充が示された",
         "つみたて投資枠の年齢要件撤廃（未成年への拡大）とあわせ、2026年中の施行が予定されている"
       ],
+      "jackView": "手続きの簡素化自体は歓迎です。ただ、制度が便利になることと、その商品があなたに合うことは別問題です。",
       "sources": [
         {
           "title": "金融庁",
@@ -1050,7 +1269,6 @@
           "url": "https://www.bank-daiwa.co.jp/column/articles/2026/2026_565.html"
         }
       ],
-      "jackView": "手続きの簡素化自体は歓迎です。ただ、制度が便利になることと、その商品があなたに合うことは別問題です。",
       "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
@@ -1063,13 +1281,13 @@
         "PayPayステップの達成条件も変更されており、利用状況によっては還元率が従来より低下するケースがある",
         "固定費の支払いカードやチャージ経路の見直しなど、利用者側の対策の必要性が指摘されている"
       ],
+      "jackView": "還元の改悪は静かに進みます。年に一度は自分のカードの還元条件を見直してください。放置が一番の損です。",
       "sources": [
         {
           "title": "Yahoo!ニュース エキスパート",
           "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3"
         }
       ],
-      "jackView": "還元の改悪は静かに進みます。年に一度は自分のカードの還元条件を見直してください。放置が一番の損です。",
       "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
@@ -1082,13 +1300,13 @@
         "職種別の需要増加率は動画編集者が25%と最も高く、ライターが22%で続いた",
         "企業の56.4%が副業を容認しており、会社員が複数の収入源を持つ動きが引き続き広がっている"
       ],
+      "jackView": "市場が伸びる場所には人も殺到します。スキル単体より、AIを組み合わせて速く安く出せる人が残ると私は見ています。",
       "sources": [
         {
           "title": "フリーランス人材白書2026（リアラボ）",
           "url": "https://rialab.jp/blog/2026-05-21-173460/"
         }
       ],
-      "jackView": "市場が伸びる場所には人も殺到します。スキル単体より、AIを組み合わせて速く安く出せる人が残ると私は見ています。",
       "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
@@ -1101,17 +1319,17 @@
         "2026年7月分として、MYFX Markets Pty Ltdほか2社、Capital Crest Ltd、IS6 Technologies Ltdなど海外所在の無登録業者への警告が掲載されている",
         "金融商品の勧誘には原則として金融商品取引業の登録が必要で、金融庁は取引前に登録の有無を確認するよう呼びかけている"
       ],
+      "jackView": "無登録業者はリスト入りした後、名前を変えて再登場します。業者名ではなく手口で覚えるのが防御の基本です。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
       "sources": [
         {
           "title": "金融庁",
           "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku/04.html"
         }
       ],
-      "jackView": "無登録業者はリスト入りした後、名前を変えて再登場します。業者名ではなく手口で覚えるのが防御の基本です。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
       "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
