@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-24T06:10",
+  "updated": "2026-07-24T12:00",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "66,422.60",
-      "change": "+307.00",
-      "changePct": "+0.46%"
+      "value": "64,568.75",
+      "change": "-1,853.85",
+      "changePct": "-2.79%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,053.88",
-      "change": "+20.75",
-      "changePct": "+0.51%"
+      "value": "4,012.79",
+      "change": "-41.09",
+      "changePct": "-1.01%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.90",
-      "change": "+0.85",
-      "changePct": "+0.52%"
+      "value": "163.77",
+      "change": "+0.46",
+      "changePct": "+0.28%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,242 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.6M",
-      "change": "-1.9%",
-      "changePct": "-1.9%"
+      "value": "¥10.0M",
+      "change": "-5.7%",
+      "changePct": "-5.7%"
     }
   ],
   "items": [
+    {
+      "id": "20260724-1200-01",
+      "time": "2026-07-24T12:00",
+      "category": "market",
+      "title": "日経平均が急落、下げ幅一時2,000円超 前場は1,853円安の64,568円",
+      "summary": [
+        "24日午前の東京株式市場で日経平均は急落し、下げ幅は一時2,000円を超えて64,000円近辺まで下落した",
+        "前場終値は前日比1,853円85銭安の64,568円75銭、TOPIXは41.09ポイント安の4,012.79だった",
+        "前日の米ハイテク株安と原油高によるインフレ警戒を受け、海外投資家によるAI・半導体関連や株価指数先物への売りが先行した"
+      ],
+      "jackView": "上げ相場が続いた後の急落は、投げ売りを誘いやすい場面です。私は下げ幅に驚いて成り行きで手放す前に、自分で決めた売買ルールに立ち返ることを勧めます。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL240K40U6A720C2000000/"
+        },
+        {
+          "title": "株式新聞Web",
+          "url": "https://kabushiki.jp/news/759028"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1155-02",
+      "time": "2026-07-24T11:55",
+      "category": "jpstock",
+      "title": "ディスコが一時12.7%安 7〜9月期の純利益見通しが市場予想に届かず",
+      "summary": [
+        "24日の東京市場でディスコが急落し、一時12.7%安の60,580円まで下落した",
+        "前日発表した7〜9月期の純利益見通し395億円が、市場予想の473億円を下回ったことが売り材料となった",
+        "半導体関連は全面安となり、キオクシアやソフトバンクグループなども下落率上位に並んだ"
+      ],
+      "jackView": "好調な4〜6月期の実績より先行きの見通しで売られる、決算相場の典型例です。装置株は期待値が高い分、見通しの数字まで確認してから判断してください。",
+      "sources": [
+        {
+          "title": "BigGo ファイナンス",
+          "url": "https://finance.biggo.jp/news/32b818de-3196-43b9-93a4-e4834dd043cf"
+        },
+        {
+          "title": "株式新聞Web",
+          "url": "https://kabushiki.jp/news/759018"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1150-03",
+      "time": "2026-07-24T11:50",
+      "category": "jpstock",
+      "title": "KOA、通期経常利益を83%上方修正 第1四半期は2.5倍・年間配当は63円に増額",
+      "summary": [
+        "KOAが発表した2027年3月期第1四半期の連結経常利益は、前年同期比2.5倍の13.1億円に急拡大した",
+        "通期の経常利益予想を33億円から60.4億円へ83.0%上方修正し、年間配当も39円から63円に増額修正した",
+        "26年4〜6月期の決算発表は24日から本格化し、8月14日までが集中期間となる"
+      ],
+      "jackView": "全体が急落する日でも、上方修正と増配のような個別材料は生きています。指数の値動きに気を取られず、決算内容を一社ずつ確認する姿勢が大切だと私は考えています。",
+      "sources": [
+        {
+          "title": "株探ニュース",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607231444"
+        },
+        {
+          "title": "株探ニュース（Yahoo!ファイナンス）",
+          "url": "https://finance.yahoo.co.jp/news/detail/87970f4edcb099eb6053b3bcf738fdf8a80d6498"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1145-04",
+      "time": "2026-07-24T11:45",
+      "category": "fx",
+      "title": "ドル円は163円台後半で推移 CPI鈍化で円売り優勢、164円うかがう展開",
+      "summary": [
+        "24日午前の東京市場でドル円は1ドル=163円77銭前後と、前日午後5時時点に比べ46銭のドル高・円安で推移した",
+        "朝発表の6月全国消費者物価指数は前年比1.6%上昇と5カ月連続で2%を下回り、日銀の利上げペースを巡る思惑が交錯している",
+        "市場では原油の供給懸念を背景に164円手前まで上値を試すとの見方がある一方、政府・日銀による為替介入への警戒も続いている"
+      ],
+      "jackView": "物価の伸びが落ち着くほど利上げは遠のき、円安は続きやすくなります。164円台では介入警戒が一段と強まるため、急な反転には備えておいてください。",
+      "sources": [
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/n202607240570/"
+        },
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/24/082256"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1140-05",
+      "time": "2026-07-24T11:40",
+      "category": "market",
+      "title": "6月の全国消費者物価は1.6%上昇 伸び率は5カ月連続で2%下回る",
+      "summary": [
+        "総務省が24日発表した6月の全国消費者物価指数（生鮮食品を除く総合）は113.1と、前年同月比1.6%の上昇だった",
+        "伸び率が2%を下回るのは5カ月連続となった",
+        "日銀の追加利上げの時期を判断する材料として、市場は今後の物価動向を注視している"
+      ],
+      "jackView": "物価の伸びが鈍っても、円安と原油高で再び上振れする可能性は残っています。私は毎月のCPIを、家計と投資の両方の羅針盤として見ています。",
+      "sources": [
+        {
+          "title": "総務省",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000347.html"
+        },
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5835417/pexels-photo-5835417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1135-06",
+      "time": "2026-07-24T11:35",
+      "category": "crypto",
+      "title": "ビットコインは円建て1,000万円近辺に下落 リスクオフで株安と連動",
+      "summary": [
+        "24日のビットコインは円建てで990万〜1,030万円のレンジで推移し、前日の1,060万円前後から水準を切り下げた",
+        "米ハイテク株安と長期金利の上昇を受けたリスク回避の売りが暗号資産にも波及した",
+        "中東情勢の緊迫化でマーケット全体がリスクオフに傾き、円建てで1,000万円を割り込む場面もあった"
+      ],
+      "jackView": "有事に強いと言われることもありますが、実際の急落局面では株と同じ方向に動いています。分散先としての効果を過信しないよう注意してください。",
+      "sources": [
+        {
+          "title": "BitTrade（公式チャート）",
+          "url": "https://www.bittrade.co.jp/ja-jp/chart/btc"
+        },
+        {
+          "title": "ダイヤモンド・ザイ CRYPTO INSIGHT",
+          "url": "https://diamond.jp/crypto/market/btc-future/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1130-07",
+      "time": "2026-07-24T11:30",
+      "category": "seido",
+      "title": "iDeCoの加入可能年齢、70歳未満へ引き上げ 2026年12月改正の内容を金融機関が案内",
+      "summary": [
+        "iDeCoの加入可能年齢を現行の65歳未満から70歳未満へ引き上げる改正が2026年12月に予定されており、りそなグループなど金融機関が改正内容の案内を進めている",
+        "2027年1月からは掛金の拠出上限も引き上げられ、企業年金のない会社員は年間27.6万円から74.4万円へ拡大する",
+        "2026年1月以降に受け取るiDeCoの老齢一時金は、退職所得課税の見直しの対象となっている"
+      ],
+      "jackView": "70歳まで加入できるようになると、定年後の働き方と資産形成の選択肢が広がります。ただ受け取り時の税制は複雑なので、出口の設計から逆算して考えてください。",
+      "sources": [
+        {
+          "title": "りそなグループ",
+          "url": "https://www.resonabank.co.jp/nenkin/ideco/column/column_0005.html"
+        },
+        {
+          "title": "ダイヤモンド・ザイ",
+          "url": "https://diamond.jp/zai/articles/-/1061729"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1125-08",
+      "time": "2026-07-24T11:25",
+      "category": "point",
+      "title": "神奈川県で最大20%還元の「かなトク」実施中 PayPay・d払いなど6決済が対象",
+      "summary": [
+        "神奈川県の「かながわトクトクキャンペーン（かなトク！）」では、対象の中小企業店舗で20%、大手企業店舗で10%のポイント還元が実施されている",
+        "PayPay、d払い、au PAY、楽天ペイを含む6つのキャッシュレス決済が対象で、予算上限に達し次第終了となる",
+        "7月は東京都杉並区や島根県大田市の20%還元、秋田県湯沢市の10%還元など、自治体のキャッシュレス還元が各地で行われている"
+      ],
+      "jackView": "自治体の還元キャンペーンは予算が尽きた時点で突然終わります。よく使う店が対象かを先に確認し、駆け込みの無駄遣いにならない範囲で活用してください。",
+      "sources": [
+        {
+          "title": "Yahoo!ニュース（ITmedia Mobile）",
+          "url": "https://news.yahoo.co.jp/articles/991638615a40a8583c2dc17e8bc2e91678f7a913"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8062357/pexels-photo-8062357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1120-09",
+      "time": "2026-07-24T11:20",
+      "category": "sidehustle",
+      "title": "フォーブスが「2026年注目の副業15選」を特集 AI活用型が上位トレンドに",
+      "summary": [
+        "フォーブス ジャパンは2026年に注目される高収益の副業15選を特集し、AI活用型からアパレル分野まで幅広い副業を紹介した",
+        "都市部の人材が地方の中小企業のAI活用を支援する形の副業など、新しい形態の仕事も広がっている",
+        "フリーランスプラットフォーム市場は2025年の83.5億ドルから99.1億ドル規模への成長が見込まれている"
+      ],
+      "jackView": "流行の副業リストは入り口に過ぎません。私は一覧の中から、本業の経験を活かせて初期費用が小さいものを一つだけ選んで試すやり方を勧めています。",
+      "sources": [
+        {
+          "title": "Forbes JAPAN",
+          "url": "https://forbesjapan.com/articles/detail/94130"
+        },
+        {
+          "title": "フリーランス人材白書2026（リアラボ）",
+          "url": "https://rialab.jp/blog/2026-05-21-173460/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3811593/pexels-photo-3811593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260724-1115-10",
+      "time": "2026-07-24T11:15",
+      "category": "scam",
+      "title": "【警戒】SNS型投資詐欺、2025年の被害は約1,274億円 DMからLINE誘導の手口に注意",
+      "summary": [
+        "警察庁の統計によると、2025年のSNS型投資詐欺の被害は9,538件・約1,274億円に上り、埼玉県警など各地の警察が注意喚起を更新している",
+        "SNSのダイレクトメッセージで接触した後、LINEの投資グループへ誘導するのが典型的な手口とされる",
+        "被害者は50代と60代で約半数を占め、警察は紹介された業者が金融庁の登録業者かどうかを取引前に確認するよう呼びかけている"
+      ],
+      "jackView": "投資の勧誘がLINEグループへの誘導とセットになっていたら、私はその時点で撤退すべきだと考えています。儲け話は向こうからやって来ない、が大原則です。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "埼玉県警察",
+          "url": "https://www.police.pref.saitama.lg.jp/c0010/snsgatatousisagi.html"
+        },
+        {
+          "title": "警察庁 SOS47",
+          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260724-0600-01",
       "time": "2026-07-24T06:00",
@@ -883,260 +1113,6 @@
         "url": "https://jack-invest.com/learning/"
       },
       "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-2300-01",
-      "time": "2026-07-22T23:00",
-      "category": "fx",
-      "title": "ドル円が163円台に上昇、約39年7カ月ぶり円安水準 片山財務相は「断固対応」と牽制",
-      "summary": [
-        "22日の外国為替市場でドル円は一時163.23円まで上昇し、1986年12月以来約39年7カ月ぶりの円安水準を付けた",
-        "中東情勢の緊迫化に伴う原油高で「有事のドル買い」が優勢となったほか、米長期金利の上昇も円売りを後押しした",
-        "片山財務相は円安について「必要な時はいつでも適切かつ断固たる対応をとる」と述べ、市場を牽制した"
-      ],
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL220B80S6A720C2000000/"
-        },
-        {
-          "title": "三井住友DSアセットマネジメント",
-          "url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260722/"
-        }
-      ],
-      "jackView": "口先介入の段階では、流れは変わらないことが多いです。発言そのものより、発言後の値動きで本気度を測ってください。",
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-2230-02",
-      "time": "2026-07-22T22:30",
-      "category": "crypto",
-      "title": "米クラリティ法案が前進、ビットコインは一時1,090万円 年内成立確率52%に上昇",
-      "summary": [
-        "米ホワイトハウスがクラリティ法案の倫理条項の修正案に合意したと21日に報じられ、ビットコインは東京時間から上値を試す展開となった",
-        "予測市場ポリマーケットでは同法案の年内成立確率が一時52%まで上昇した",
-        "BTC円は一時1,090万円にタッチした後、中東情勢悪化による原油高と米国債利回り上昇が重荷となり、1,080万円周辺まで押し戻された"
-      ],
-      "sources": [
-        {
-          "title": "ビットバンクプラス",
-          "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-22"
-        }
-      ],
-      "jackView": "成立確率という数字自体が投機の材料になっています。確率に賭けるのは投資ではなく予想ゲームです。",
-      "image": "https://images.pexels.com/photos/5980599/pexels-photo-5980599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-2100-03",
-      "time": "2026-07-22T21:00",
-      "category": "usstock",
-      "title": "S&P500は7,509で最高値圏、半導体株ラリー続く ナスダック100は1.9%高",
-      "summary": [
-        "21日の米株式市場でS&P500は前日比0.83%高の7,509.20と上昇し、ナスダック100は1.9%高となった",
-        "台湾・韓国の堅調な輸出データを背景に半導体株の上昇が相場全体をけん引した",
-        "22日のアジア時間もビットコインが6万6,300ドル近辺で推移するなどリスク資産は総じて底堅く推移した"
-      ],
-      "sources": [
-        {
-          "title": "Trading Economics",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
-        },
-        {
-          "title": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low"
-        }
-      ],
-      "jackView": "最高値圏で買い始める人が、一番高値掴みをしやすいです。乗り遅れた焦りで判断しないでください。",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-1600-04",
-      "time": "2026-07-22T16:00",
-      "category": "market",
-      "title": "東証大引け 日経平均は小反落66,115円、TOPIXは続伸で最高値圏 原油高でインフレ懸念",
-      "summary": [
-        "22日の東京株式市場で日経平均は前日比116円59銭（0.18%）安の66,115円60銭と小幅に反落した",
-        "TOPIXは18.18ポイント（0.45%）高の4,033.13と続伸し、最高値圏を維持した",
-        "朝方は米半導体株高を受けて買いが先行したが、AI・半導体関連に利益確定売りが増加。原油高によるインフレ懸念から小売・食品など内需株にも売りが出た"
-      ],
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL225KH0S6A720C2000000/"
-        }
-      ],
-      "jackView": "指数の小反落より、インフレが長引くかどうかの方が家計には重要です。私は物価関連の記事を優先して読んでいます。",
-      "jackLink": {
-        "title": "ニュースの深掘りはマネーラボで",
-        "url": "https://jack-money-lab.com"
-      },
-      "image": "https://images.pexels.com/photos/5835417/pexels-photo-5835417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-1530-05",
-      "time": "2026-07-22T15:30",
-      "category": "jpstock",
-      "title": "日銀利上げ観測で銀行株に買い 三菱UFJなどが堅調",
-      "summary": [
-        "22日の東京市場では日銀の利上げが意識され、三菱UFJなど銀行株に買いが入った",
-        "円安の加速や原油高によるインフレ懸念が、金融政策の正常化観測を強める形となった",
-        "一方、輸入コスト増が逆風となる小売・食品株は軟調だった"
-      ],
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL225KH0S6A720C2000000/"
-        }
-      ],
-      "jackView": "利上げ観測で銀行株が買われるのは教科書どおりの動きです。続くかどうかは別として、型として覚えておく価値はあります。",
-      "image": "https://images.pexels.com/photos/14089266/pexels-photo-14089266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-1500-06",
-      "time": "2026-07-22T15:00",
-      "category": "jpstock",
-      "title": "ニチレイが続落 「ハッカー集団が犯行声明」報道が売り材料に",
-      "summary": [
-        "22日の東京市場でニチレイ株が続落した",
-        "同社に対しハッカー集団が犯行声明を出したとの報道が伝わり、システム障害や情報流出への警戒から売りが優勢となった"
-      ],
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUB220GC0S6A720C2000000/"
-        }
-      ],
-      "jackView": "サイバー攻撃は、いまやどの企業にも起こり得る経営リスクです。保有銘柄の急落理由は、まず一次情報で確かめてください。",
-      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-1200-07",
-      "time": "2026-07-22T12:00",
-      "category": "seido",
-      "title": "NISAつみたて枠、18歳未満にも解禁へ 2026年度税制改正で年60万円・総額600万円",
-      "summary": [
-        "2026年度税制改正で、NISAのつみたて投資枠を18歳未満にも解禁する方針が盛り込まれた。年間60万円まで投資でき、総額は600万円まで",
-        "対象商品には債券中心・バランス型の投資信託の追加や、JPXプライム150指数など指定指数の拡充も示された",
-        "NISA口座数は2025年6月末時点で約2,700万口座。政府目標3,400万口座に向け、若年層・高齢者層への普及が課題となっている"
-      ],
-      "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
-        },
-        {
-          "title": "Yahoo!ニュース（NRI研究員の時事解説）",
-          "url": "https://news.yahoo.co.jp/articles/36e0bc159f35a26de49fbe82843e70ec446f39b7"
-        }
-      ],
-      "jackView": "子ども名義の枠が増えるほど、家庭の金融リテラシーの差が資産の差になります。まず親が仕組みを理解することが先です。",
-      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-1100-08",
-      "time": "2026-07-22T11:00",
-      "category": "point",
-      "title": "PayPay・d払いなど7月以降ポイントルール変更相次ぐ 他社チャージのポイント対象外化に注意",
-      "summary": [
-        "PayPayカードは他社決済サービスや交通系ICへのチャージがポイント付与の対象外となり、影響が大きいと指摘されている",
-        "7月以降はd払いスタンプの対象決済からdカードが除外されるほか、8月にはエポスカードの決済サービスチャージのポイント加算終了などが予定されている",
-        "ローソンPontaプラスの最大15%還元も条件が変更され、リボ払い手数料が必要になるなど達成条件が厳しくなった"
-      ],
-      "sources": [
-        {
-          "title": "ライブドアニュース",
-          "url": "https://news.livedoor.com/article/detail/31681859/"
-        }
-      ],
-      "jackView": "ポイントのルール変更は告知が地味で気づきにくいです。使っている決済手段の公式のお知らせだけは月一で確認しましょう。",
-      "image": "https://images.pexels.com/photos/8062357/pexels-photo-8062357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-1030-09",
-      "time": "2026-07-22T10:30",
-      "category": "point",
-      "title": "三菱UFJカード、特約店にスターバックス追加で最大20%還元 クレカ積立の還元率も引き上げ",
-      "summary": [
-        "改悪が続くポイ活業界の中で、三菱UFJカードは特約店にスターバックスなどを追加し最大20%還元となる改善が実施された",
-        "クレカ積立の還元率アップなどの改善も伝えられており、メインとサブのカードを使い分ける戦略の重要性が高まっている"
-      ],
-      "sources": [
-        {
-          "title": "ライブドアニュース",
-          "url": "https://news.livedoor.com/article/detail/31681859/"
-        }
-      ],
-      "jackView": "高還元には必ず条件があります。還元率の数字より、自分の生活圏で無理なく使えるかで選ぶのが失敗しないコツです。",
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-1000-10",
-      "time": "2026-07-22T10:00",
-      "category": "sidehustle",
-      "title": "AI活用の副業者、平均月収は未活用者の約1.8倍 スキル需要の二極化進む",
-      "summary": [
-        "AIを活用している副業者の平均月収は約4.6万円で、未活用者（約2.5万円）の約1.8倍というデータが報じられた",
-        "フリーランスエンジニアでは生成AIコード生成ツールを積極活用する層の月単価が、非活用層より約10万円高いとの調査もある",
-        "企業の56.4%が副業を容認しており、複数の収入源を持つ働き方が広がっている"
-      ],
-      "sources": [
-        {
-          "title": "Forbes JAPAN",
-          "url": "https://forbesjapan.com/articles/detail/97519"
-        }
-      ],
-      "jackView": "AIを使うか使わないかで、同じ副業でも収入差が開き始めています。まずは無料でもいいので毎日触ることです。",
-      "jackLink": {
-        "title": "私がAIで作ったiOSアプリの実例一覧",
-        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
-      },
-      "image": "https://images.pexels.com/photos/243242/pexels-photo-243242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-0900-11",
-      "time": "2026-07-22T09:00",
-      "category": "scam",
-      "title": "【警戒】SNS型投資詐欺が増加傾向 金融庁・警察庁が無登録業者との取引に注意喚起",
-      "summary": [
-        "SNS上の投資勧誘をきっかけとするSNS型投資詐欺・ロマンス詐欺の被害が増加傾向にあるとして、金融庁や警察庁が注意を呼びかけている",
-        "個人名義口座への送金、暗号資産での支払い、海外口座への送金を求められた時点で詐欺を強く疑うべきとされる",
-        "金融商品の勧誘には原則として金融商品取引業の登録が必要。金融庁は無登録業者の名称をウェブサイトで公表しており、取引前の確認が推奨される"
-      ],
-      "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
-        },
-        {
-          "title": "警察庁 SOS47",
-          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
-        }
-      ],
-      "jackView": "SNSで知り合った相手から投資の話が出た時点で、疑うのが正解です。有名人の広告も本物とは限りません。",
-      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260722-0830-12",
-      "time": "2026-07-22T08:30",
-      "category": "fx",
-      "title": "円安の背景に日銀の独立性への懸念と米金利上昇 為替介入の効果持続性が焦点に",
-      "summary": [
-        "足元の円安は、政府方針を巡る日銀の独立性への懸念や米10年債利回りの上昇が背景と指摘されている",
-        "市場ではボラティリティが低い水準にとどまっており、直ちに為替介入が必要な段階ではないとの見方もある",
-        "過去の介入局面ではドル円が一時155円台まで急落した例もあり、追加介入の有無と効果の持続性が焦点となっている"
-      ],
-      "sources": [
-        {
-          "title": "野村證券 NOMURAウェルスタイル",
-          "url": "https://www.nomura.co.jp/wealthstyle/article/0715/"
-        },
-        {
-          "title": "三井住友DSアセットマネジメント",
-          "url": "https://www.smd-am.co.jp/market/ichikawa/2026/07/irepo260722/"
-        }
-      ],
-      "jackView": "介入で作られた円高は長続きしにくいというのが過去の教訓です。急変時こそ、慌てて外貨商品に手を出さないでください。",
-      "image": "https://images.pexels.com/photos/479356/pexels-photo-479356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
