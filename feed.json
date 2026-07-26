@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T06:10",
+  "updated": "2026-07-26T18:00",
   "market": [
     {
       "symbol": "N225",
@@ -39,6 +39,240 @@
   ],
   "items": [
     {
+      "id": "20260726-1800-01",
+      "time": "2026-07-26T18:00",
+      "category": "market",
+      "title": "ウォーシュFRB議長が利上げに距離を置く姿勢 7月FOMCは据え置き有力も利上げ支持派が増勢",
+      "summary": [
+        "7月28〜29日のFOMCでは政策金利3.50〜3.75%の据え置きが有力だが、5月PCE物価指数が前年同月比4%上昇とインフレ圧力が続いている",
+        "ウォーシュ議長はフォワードガイダンスを示さない戦略を採用し、インフレを一切容認しないと述べつつ具体的な政策行動には言及を避けている",
+        "複数の地区連銀総裁が利上げ支持に傾いており、企業経営者からも利上げ要望が上がる異例の状況が生じている"
+      ],
+      "jackView": "議長が利上げに距離を置いても内部の分裂が声明文のトーンに影響する可能性があります。結果よりも投票の内訳に注目すると市場の先読みがしやすいと私は考えています。",
+      "sources": [
+        {
+          "title": "ニューズウィーク日本版",
+          "url": "https://www.newsweekjapan.jp/articles/-/329293"
+        },
+        {
+          "title": "第一ライフ資産運用経済研究所",
+          "url": "https://www.dlri.co.jp/report/macro/634578.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1755-02",
+      "time": "2026-07-26T17:55",
+      "category": "jpstock",
+      "title": "来週の日経平均は下値探りの展開か FOMC・日銀・AI半導体決算と重要イベントが集中",
+      "summary": [
+        "7月27〜31日の週は28〜29日にFOMC、30〜31日に日銀会合が開かれるほか、メタ・マイクロソフト・アマゾンなどハイパースケーラーの決算も控える",
+        "日経平均は先週24日に一時64,201円まで下落し、75日移動平均線付近で下げ渋ったものの先物は64,290円と一段安で週末入りしている",
+        "来週の予想レンジは6万〜6万8,000円と見方が分かれており、AI半導体株の決算内容が相場の方向感を左右する"
+      ],
+      "jackView": "イベント集中週は大きく動く可能性がある反面、様子見で膠着する場合もあります。無理にポジションを取らず、結果を確認してから動くのが安全だと私は考えています。",
+      "jackLink": {
+        "title": "マネーラボで来週の見通しを読む",
+        "url": "https://jack-money-lab.com"
+      },
+      "sources": [
+        {
+          "title": "財経新聞",
+          "url": "https://www.zaikei.co.jp/article/20260725/862804.html"
+        },
+        {
+          "title": "ダイヤモンドZAi",
+          "url": "https://diamond.jp/zai/articles/-/1070323"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3013999/pexels-photo-3013999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1750-03",
+      "time": "2026-07-26T17:50",
+      "category": "usstock",
+      "title": "アルファベット4〜6月期の純利益が前年比4倍の1,121億ドル クラウドAI好調でSpaceX上場も恩恵",
+      "summary": [
+        "Google親会社アルファベットの2026年4〜6月期決算は純利益が前年同期比4倍の1,121億ドル（約18兆2,900億円）と過去最高を記録した",
+        "クラウドプラットフォーム「Google Cloud」のAI関連サービスが牽引し、傘下のSpaceX上場に伴う評価益も利益を押し上げた",
+        "ただし年間の設備投資計画は1,900億ドル規模に達しており、巨額AI投資の収益化に対する市場の疑念は完全には払拭されていない"
+      ],
+      "jackView": "純利益4倍は驚異的ですが、設備投資が年間29兆円規模に膨らんでいる点は見逃せません。利益の伸びと投資のバランスを注視する必要があると私は見ています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/"
+        },
+        {
+          "title": "財経新聞",
+          "url": "https://www.zaikei.co.jp/article/20260721/862128.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1745-04",
+      "time": "2026-07-26T17:45",
+      "category": "usstock",
+      "title": "テスラ4〜6月期の営業利益が57%減 AI投資拡大で純現金収支は2年ぶりの赤字に転落",
+      "summary": [
+        "テスラの2026年4〜6月期決算は営業利益が前年同期比57%減と大幅な減益となり、EV事業の苦境が改めて浮き彫りになった",
+        "AI・自動運転向けの設備投資を積極化した結果、純現金収支（フリーキャッシュフロー）は2年ぶりの赤字に転落した",
+        "SpaceXとの合併観測も浮上しており、テスラがEV企業からAI・宇宙企業へ転換を図る中で株主の評価は二分されている"
+      ],
+      "jackView": "EV事業の減益とAI投資の膨張は、テスラの事業転換の過渡期を示しています。SpaceX合併の噂も含め、変化の大きい銘柄には慎重な距離感を保つことを私はお勧めします。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOGN230BH0T20C26A7000000/"
+        },
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOGN220O90S6A720C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1740-05",
+      "time": "2026-07-26T17:40",
+      "category": "fx",
+      "title": "来週のドル円は上値164.92円が焦点 FOMC・日銀の結果次第で方向感が決まる1週間",
+      "summary": [
+        "外為どっとコムは来週のドル円見通しとして上値164.92円・下値163.50円のレンジを提示している",
+        "164.92〜165.00円にはフィボナッチの目標値と心理的節目が重なっており、利益確定売りが入りやすい価格帯とされている",
+        "FOMCで利上げ示唆があれば一時的に円安が加速し、日銀が利上げ姿勢を強めれば円高方向に振れるとみられ、イベント結果で方向感が決まる"
+      ],
+      "jackView": "165円の壁を試す展開になるか、日米の金融政策次第です。結果発表の直後は値動きが荒くなりやすいので、レバレッジを抑えた状態で臨むことを私はお勧めします。",
+      "sources": [
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/25/060400"
+        },
+        {
+          "title": "みんかぶ FX",
+          "url": "https://fx.minkabu.jp/news/374229"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1735-06",
+      "time": "2026-07-26T17:35",
+      "category": "crypto",
+      "title": "JCBがステーブルコインUSDC決済の導入を検討 SBIはソラナ基盤でオンチェーン金融を推進",
+      "summary": [
+        "JCBが国際送金や加盟店決済にステーブルコインUSDCの活用を検討していることが明らかになった",
+        "SBIホールディングスはソラナブロックチェーンを基盤としたオンチェーン金融サービスの構築を進めている",
+        "改正金商法の成立で暗号資産が金融商品に位置付けられたことを受け、国内大手金融機関のデジタル資産対応が加速している"
+      ],
+      "jackView": "JCBやSBIのような大手がステーブルコインに動く流れは、暗号資産が投機から実用に移行する転換点です。制度整備が進む今こそ情報収集を始めてほしいと私は考えています。",
+      "sources": [
+        {
+          "title": "JinaCoin",
+          "url": "https://jinacoin.ne.jp/today-news-top5-20260714/"
+        },
+        {
+          "title": "ビットタイムズ",
+          "url": "https://bittimes.net/news/225732.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1730-07",
+      "time": "2026-07-26T17:30",
+      "category": "seido",
+      "title": "マイナ保険証への完全移行まで残り5日 利用率49.89%で約半数の国民が未対応",
+      "summary": [
+        "従来の健康保険証の暫定措置が7月31日で終了し、8月1日からはマイナ保険証または資格確認書がなければ窓口で10割負担となる可能性がある",
+        "厚労省発表の2026年2月時点のマイナ保険証利用率は49.89%にとどまり、国民のほぼ半数が移行を完了していない状態にある",
+        "マイナンバーカードを持っていない方には資格確認書が発行されるが、届いていない場合は加入する健康保険の保険者への問い合わせが必要となる"
+      ],
+      "jackView": "期限まであと5日です。まだ準備ができていない方は、マイナ保険証の登録か資格確認書の手配を今週中に済ませてください。8月以降に慌てても遅い状況です。",
+      "sources": [
+        {
+          "title": "GemMed",
+          "url": "https://gemmed.ghc-j.com/?p=75498"
+        },
+        {
+          "title": "東京報道新聞",
+          "url": "https://tokyonewsmedia.com/archives/25498"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1725-08",
+      "time": "2026-07-26T17:25",
+      "category": "point",
+      "title": "ファミリーマートが楽天SPUに初のグループ外企業として参加 月3,000円購入で+0.5倍",
+      "summary": [
+        "2026年7月1日から、ファミリーマートが楽天の「SPU（スーパーポイントアッププログラム）」の対象サービスに追加された",
+        "楽天グループ外の企業がSPUに参加するのは初めてで、全国のファミマで楽天ポイントカードを提示して月3,000円以上購入するとSPU+0.5倍が適用される",
+        "これによりSPUの最大ポイント倍率は18.5倍に拡大し、対象サービスは17に増えた。タバコやPOSAカードなど一部対象外がある"
+      ],
+      "jackView": "月3,000円なら普段のコンビニ利用で達成しやすい条件です。ただし付与されるのは期間限定ポイントなので、使い忘れに注意してください。",
+      "sources": [
+        {
+          "title": "ファミリーマート（公式）",
+          "url": "https://www.family.co.jp/company/news_releases/2026/20260701_01.html"
+        },
+        {
+          "title": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2121463.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1720-09",
+      "time": "2026-07-26T17:20",
+      "category": "sidehustle",
+      "title": "AI副業の実践記が続出 Claude Code活用で月5万〜30万円を稼ぐ層が拡大中",
+      "summary": [
+        "2026年7月時点でClaude CodeやChatGPTを活用したAI副業の実践体験記がWebメディアで相次いで公開されている",
+        "AIライティング・プログラミング支援・業務自動化の3分野が中心で、業界知識とAIを掛け合わせたコンサルティング副業は月10万〜50万円が現実的とされている",
+        "一方で品質管理を怠った参入者は受注減少に直面しており、AI副業市場では実力の二極化が鮮明になっている"
+      ],
+      "jackView": "AI副業は参入しやすい反面、差別化が難しくなっています。私は「自分の本業知識 × AI」という掛け算が最も再現性の高い戦略だと考えています。",
+      "jackLink": {
+        "title": "JACKのiOSアプリ開発 実例を見る",
+        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
+      },
+      "sources": [
+        {
+          "title": "genAI",
+          "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-side-job-review/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260726-1715-10",
+      "time": "2026-07-26T17:15",
+      "category": "scam",
+      "title": "【警戒】AIで生成された自然なフィッシングメールが急増 国内ISP認証情報の不正利用も確認",
+      "summary": [
+        "2026年6〜7月にかけて、国内ISPの認証情報を不正に取得し正規のメールサーバーから送信されるフィッシングメールが確認されている",
+        "AI技術を活用した自然な日本語のフィッシングメールが増加しており、従来の不自然な文面では見破れない精巧な手口に進化している",
+        "フィッシング対策協議会は不審なメールのリンクを開かず、公式サイトをブックマークから直接アクセスするよう改めて注意喚起している"
+      ],
+      "jackView": "メールの日本語が自然だからといって安全とは限りません。リンク先のURLを必ず確認し、少しでも怪しければ公式サイトに直接アクセスする習慣を持ってください。",
+      "sources": [
+        {
+          "title": "フィッシング対策協議会",
+          "url": "https://www.antiphishing.jp/news/alert/"
+        },
+        {
+          "title": "フセラボ（かっこ株式会社）",
+          "url": "https://frauddetection.cacco.co.jp/media/knowhow/9473/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
       "id": "20260726-0600-01",
       "time": "2026-07-26T06:00",
       "category": "market",
@@ -59,7 +293,7 @@
           "url": "https://www.oanda.jp/lab-education/beginners/fundamentals_analysis/fomc-meeting/"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0555-02",
@@ -82,7 +316,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOUB2329U0T20C26A7000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/3013999/pexels-photo-3013999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0550-03",
@@ -105,7 +339,7 @@
           "url": "https://blogs.itmedia.co.jp/business20/2026/06/post_7994.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0545-04",
@@ -128,7 +362,7 @@
           "url": "https://www.dlri.co.jp/report/macro/623090.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/7235895/pexels-photo-7235895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0540-05",
@@ -151,7 +385,7 @@
           "url": "https://news.infoseek.co.jp/article/mainichi_20260715k0000m100338000c/"
         }
       ],
-      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0535-06",
@@ -174,7 +408,7 @@
           "url": "https://kabu.com/kabuyomu/nisa/1320.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0530-07",
@@ -197,7 +431,7 @@
           "url": "https://www.timeless-mile.jp/epos-gold/"
         }
       ],
-      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0525-08",
@@ -220,7 +454,7 @@
           "url": "https://k-tai.watch.impress.co.jp/docs/news/2109399.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0520-09",
@@ -243,7 +477,7 @@
           "url": "https://digital-hacks.jp/blog/archives/768"
         }
       ],
-      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260726-0515-10",
@@ -270,7 +504,7 @@
           "url": "https://www.antiphishing.jp/news/alert/"
         }
       ],
-      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1800-01",
@@ -289,7 +523,7 @@
           "url": "https://www.gaitame.com/media/entry/2026/07/25/060400"
         }
       ],
-      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1755-02",
@@ -312,7 +546,7 @@
           "url": "https://s.kabutan.jp/news/n202607250105/"
         }
       ],
-      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16325607/pexels-photo-16325607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1750-03",
@@ -335,7 +569,7 @@
           "url": "https://www.nomura.co.jp/wealthstyle/article/0757/"
         }
       ],
-      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1745-04",
@@ -358,7 +592,7 @@
           "url": "https://www.gaitame.com/media/entry/2026/07/25/060400"
         }
       ],
-      "image": "https://images.pexels.com/photos/7235895/pexels-photo-7235895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1740-05",
@@ -381,7 +615,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOUA140P70U6A710C2000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1735-06",
@@ -404,7 +638,7 @@
           "url": "https://www.soico.jp/no1/news/securities/5180"
         }
       ],
-      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/4476375/pexels-photo-4476375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1730-07",
@@ -423,7 +657,7 @@
           "url": "https://news.livedoor.com/article/detail/31681859/"
         }
       ],
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1725-08",
@@ -442,7 +676,7 @@
           "url": "https://news.livedoor.com/topics/detail/31863751/"
         }
       ],
-      "image": "https://images.pexels.com/photos/243242/pexels-photo-243242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3767406/pexels-photo-3767406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1720-09",
@@ -469,7 +703,7 @@
           "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
         }
       ],
-      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-1715-10",
@@ -488,7 +722,7 @@
           "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku/04.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/18783946/pexels-photo-18783946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0600-01",
@@ -511,7 +745,7 @@
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16594725/pexels-photo-16594725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0555-02",
@@ -534,7 +768,7 @@
           "url": "https://www.jri.co.jp/report/economistcolumn/detail/16609/"
         }
       ],
-      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/31249696/pexels-photo-31249696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0550-03",
@@ -557,7 +791,7 @@
           "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260724598954/"
         }
       ],
-      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0545-04",
@@ -580,7 +814,7 @@
           "url": "https://www.moomoo.com/community/feed/daily-market-briefing-july-24-2026-friday-116975064580102"
         }
       ],
-      "image": "https://images.pexels.com/photos/35491607/pexels-photo-35491607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/13926770/pexels-photo-13926770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0540-05",
@@ -603,7 +837,7 @@
           "url": "https://fx.minkabu.jp/news/374201"
         }
       ],
-      "image": "https://images.pexels.com/photos/29916107/pexels-photo-29916107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/7412098/pexels-photo-7412098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0535-06",
@@ -626,7 +860,7 @@
           "url": "https://cc.minkabu.jp/pair/BTC_JPY"
         }
       ],
-      "image": "https://images.pexels.com/photos/14358448/pexels-photo-14358448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/8369598/pexels-photo-8369598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0530-07",
@@ -649,7 +883,7 @@
           "url": "https://coincheck.com/ja/article/654"
         }
       ],
-      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/32008335/pexels-photo-32008335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0525-08",
@@ -672,7 +906,7 @@
           "url": "https://www.cr.mufg.jp/apply/card/mucard/pup/index03.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5198284/pexels-photo-5198284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0520-09",
@@ -695,7 +929,7 @@
           "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-side-job/"
         }
       ],
-      "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/374008/pexels-photo-374008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260725-0515-10",
@@ -718,7 +952,7 @@
           "url": "https://www.fsa.go.jp/receipt/toushisagi_koukoku/shuhou.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/18783946/pexels-photo-18783946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/19152143/pexels-photo-19152143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
