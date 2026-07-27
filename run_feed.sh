@@ -26,6 +26,7 @@ if [ ! -f feed_draft.json ]; then
   notify_fail "フィード未生成 $(date '+%H:%M')"
   exit 1
 fi
+python3 tools/sanitize.py feed_draft.json || true
 if ! python3 tools/validate_feed.py feed_draft.json; then
   echo "★検証NG。公開せず終了（feed_draft.json を残置）"
   notify_fail "フィード検証NG $(date '+%H:%M')"
