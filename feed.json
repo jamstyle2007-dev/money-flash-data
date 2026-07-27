@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T18:36",
+  "updated": "2026-07-28T06:10",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,256 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.53",
-      "change": "-0.27",
-      "changePct": "-0.16%"
+      "value": "163.85",
+      "change": "+0.32",
+      "changePct": "+0.20%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,412",
-      "change": "+4",
-      "changePct": "+0.05%"
+      "value": "7,420",
+      "change": "+8",
+      "changePct": "+0.11%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.0M",
-      "change": "-2.7%",
-      "changePct": "-2.7%"
+      "value": "¥10.6M",
+      "change": "-0.3%",
+      "changePct": "-0.3%"
     }
   ],
   "items": [
+    {
+      "id": "20260728-0605-01",
+      "time": "2026-07-28T06:05",
+      "category": "market",
+      "title": "CME日経先物が大証比1,255円安の63,915円 FOMC前夜にリスクオフで大幅安を示唆",
+      "summary": [
+        "7月27日のNY時間帯にCME日経平均先物は63,915円まで下落し、大阪取引所の日中終値から1,255円（1.97%）安い水準で取引を終えた",
+        "7月28日午前2時時点の大阪取引所夜間取引では日経225先物が前日比1,660円安の63,510円を付け、出来高は11,688枚に達した",
+        "28〜29日のFOMCを控えてリスク回避姿勢が強まっており、本日の東京市場は大幅安での寄り付きが想定されている"
+      ],
+      "jackView": "FOMC前夜の先物大幅安は悲観的に見えますが、結果が想定内なら急反発もあり得ます。寄り付きの売りに慌てて追随しないよう冷静に構えることを私はお勧めします。",
+      "sources": [
+        {
+          "title": "みんかぶ",
+          "url": "https://minkabu.jp/news/4577139"
+        },
+        {
+          "title": "株探ニュース",
+          "url": "https://s.kabutan.jp/news/n202607280019/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0600-02",
+      "time": "2026-07-28T06:00",
+      "category": "market",
+      "title": "NYダウ230ドル高で反発 原油7.9%急落が追い風もナスダックは小幅安で方向感まちまち",
+      "summary": [
+        "7月27日のNY市場でダウ平均は前日比230ドル高の52,177ドルで引け、原油急落による恩恵が消費・運輸セクターを押し上げた",
+        "WTI原油先物は前日比7.89%安の82.26ドルと大幅に下落し、イラン停戦交渉の進展がエネルギー価格の下押し圧力を強めた",
+        "一方でナスダックは19ポイント安と小幅下落し、AI・ハイテク株には決算前の警戒売りが続いている"
+      ],
+      "jackView": "原油安の恩恵でダウは上昇しましたが、ナスダックの弱さはAI銘柄の決算警戒を映しています。今週のメタ・アマゾン決算まで方向感は出にくいと私は見ています。",
+      "sources": [
+        {
+          "title": "みんかぶ FX",
+          "url": "https://minkabu.jp/news/4577139"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31249696/pexels-photo-31249696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0555-03",
+      "time": "2026-07-28T05:55",
+      "category": "jpstock",
+      "title": "BYD軽EV「ラッコ」が本日7月28日に発売開始 航続320km・両側電動スライドドアで国産勢に挑む",
+      "summary": [
+        "中国BYDの軽EV「ラッコ」が7月28日に日本で発売開始となり、年内1万台の受注を目標に掲げている",
+        "航続距離は200モデルが210km、300モデルが320kmで、軽EV初の両側電動スライドドアを全車標準装備している",
+        "35.84kWhの大容量バッテリーを搭載した300モデルは国産軽EVを大きく上回る航続距離で、日本メーカーへの価格競争を仕掛ける形となる"
+      ],
+      "jackView": "航続320kmは国産軽EVを圧倒するスペックです。ただし中国メーカーのアフターサービス体制は未知数なので、購入前に販売店の対応力を確認することを私はお勧めします。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC278410X20C26A5000000/"
+        },
+        {
+          "title": "ベストカー",
+          "url": "https://bestcarweb.jp/newcar/1579681"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0550-04",
+      "time": "2026-07-28T05:50",
+      "category": "usstock",
+      "title": "本日7月28日は米決算ラッシュ ビザ・コカコーラ・UPS・ボーイングなど主要企業が一斉発表",
+      "summary": [
+        "7月28日の米国市場ではビザ（予想EPS 3.23ドル）・コカコーラ（予想EPS 0.93ドル）・UPS（予想EPS 1.67ドル）など消費・物流の主力企業が決算を発表する",
+        "ボーイング（予想EPS -0.28ドル）は赤字継続が見込まれるが、受注回復の進捗が株価の方向感を左右する材料となる",
+        "29日のメタ・マイクロソフト、30日のアマゾンと合わせて今週はビッグテックの決算が集中する重要な1週間となる"
+      ],
+      "jackView": "今日の決算は消費関連が中心なので、米国の消費者心理を測る指標として注目しています。特にビザの決済額の伸びは景気の体温計として見逃せないと私は考えています。",
+      "sources": [
+        {
+          "title": "みんかぶ FX",
+          "url": "https://fx.minkabu.jp/news/374226"
+        },
+        {
+          "title": "株帳",
+          "url": "https://kabucho.com/calendar/us"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0545-05",
+      "time": "2026-07-28T05:45",
+      "category": "fx",
+      "title": "ドル円163円台後半でFOMC前夜の膠着 164円台定着か反落か今週中に決着へ",
+      "summary": [
+        "7月28日早朝のドル円は163円80銭台で推移し、FOMCの結果を前にポジション調整が中心の狭いレンジで推移した",
+        "先週一時163.99円と40年ぶりの164円台が目前に迫ったが、イラン停戦報道での有事ドル買い解消で163円台半ばまで押し戻される場面もあった",
+        "今週はFOMC（29日結果発表）と日銀会合（31日結果発表）が控え、結果次第で162〜165円の広いレンジ変動が見込まれている"
+      ],
+      "jackView": "FOMC当日のドル円は声明文の一語で1円動くことがあります。結果発表の前後はスプレッドも広がりやすいので、レバレッジを絞って臨む方が安全です。",
+      "sources": [
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/27/080235"
+        },
+        {
+          "title": "外為どっとコム（来週見通し）",
+          "url": "https://www.gaitame.com/media/entry/2026/07/25/060400"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0540-06",
+      "time": "2026-07-28T05:40",
+      "category": "crypto",
+      "title": "ビットコイン64,800ドル台に小幅反発 イラン停戦期待でリスク資産への売り圧力が一時後退",
+      "summary": [
+        "7月28日未明のビットコインは64,864ドル（約1,060万円）前後で推移し、前日比0.41%の小幅上昇となった",
+        "米イラン攻撃停止の報道を受けてリスクオフの売り圧力が一時後退し、直近のETF資金流出からの反転の兆しが見られた",
+        "ただしFOMCの結果次第では米金利上昇が暗号資産市場全体の重しとなる可能性があり、本格反発には至っていない"
+      ],
+      "jackView": "イラン停戦で一息つきましたが、FOMCの金利判断が次のトリガーになります。短期売買よりも中長期で構える方が振り回されにくいと私は考えています。",
+      "sources": [
+        {
+          "title": "みんかぶ 暗号資産",
+          "url": "https://cc.minkabu.jp/pair/BTC_JPY"
+        },
+        {
+          "title": "InteractiveCrypto",
+          "url": "https://www.interactivecrypto.com/ja/2026-7-fomc-jul-2026-3"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0535-07",
+      "time": "2026-07-28T05:35",
+      "category": "seido",
+      "title": "マイナ保険証の完全移行まであと3日 利用率約5割のまま7月31日の期限が迫る",
+      "summary": [
+        "従来の健康保険証の暫定措置が7月31日で終了し、8月1日以降はマイナ保険証または資格確認書がなければ窓口で10割負担となる可能性がある",
+        "厚生労働省が公表した直近のマイナ保険証利用率は49.89%にとどまり、国民のほぼ半数が移行を完了していない状態が続いている",
+        "マイナンバーカードの電子証明書は有効期限が5年でカード本体の10年より短いため、カードを持っていても更新漏れでエラーが出るケースにも注意が必要"
+      ],
+      "jackView": "期限まであと3日です。まだ準備できていない方は、マイナ保険証の登録か資格確認書の手配を今日中に始めてください。8月以降に慌てても間に合いません。",
+      "sources": [
+        {
+          "title": "GemMed",
+          "url": "https://gemmed.ghc-j.com/?p=75498"
+        },
+        {
+          "title": "ITmedia Mobile",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2607/24/news061.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0530-08",
+      "time": "2026-07-28T05:30",
+      "category": "point",
+      "title": "楽天Edy→楽天キャッシュの月額チャージ上限が8月から1万円に激減 7月中の駆け込み移行を",
+      "summary": [
+        "2026年8月1日から楽天Edyから楽天キャッシュへのチャージ上限が月10万円から月1万円へ大幅に引き下げられる",
+        "楽天証券での投信積立に楽天キャッシュを充てていたユーザーは代替のチャージルートを確保する必要がある",
+        "7月31日までは月10万円のチャージが可能なため、現在Edy残高がある方は今月中に移行を完了しておくことが推奨されている"
+      ],
+      "jackView": "楽天キャッシュ経由の投信積立を利用している方は影響大です。7月中に残高を移行し、8月以降のチャージルートを確認しておいてください。",
+      "sources": [
+        {
+          "title": "Money Magazine",
+          "url": "https://money-magazine.org/rakuten-edy-cash-exchange-limit-202608/"
+        },
+        {
+          "title": "はちわれ投資ブログ",
+          "url": "https://hachiwarers.com/rekutencash-202608/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0525-09",
+      "time": "2026-07-28T05:25",
+      "category": "sidehustle",
+      "title": "noteとKADOKAWA資本業務提携で書籍化の門戸が拡大 個人クリエイターに新たな収益化ルート",
+      "summary": [
+        "2026年3月にKADOKAWAがnoteと資本業務提携を締結し、約22億円の第三者割当増資でnote株式の議決権5.22%を取得した",
+        "KADOKAWAはnote上の投稿から有望コンテンツを発掘し書籍化する仕組みを構築しており、小説やエッセイなど複数ジャンルが対象となっている",
+        "noteの会員数は約1,114万人に達しており、個人クリエイターが出版社の目に留まる機会が従来よりも格段に広がっている"
+      ],
+      "jackView": "noteでの発信が書籍化につながる可能性が広がりました。ただし出版社の目に留まるには専門性のある記事を継続的に発信する必要があると私は考えています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC24AH80U6A320C2000000/"
+        },
+        {
+          "title": "KADOKAWAグループ",
+          "url": "https://group.kadokawa.co.jp/information/news_release/2026032401.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-0520-10",
+      "time": "2026-07-28T05:20",
+      "category": "scam",
+      "title": "【警戒】投資詐欺グループが検索結果を「汚染」する新手口 AI要約も餌食に",
+      "summary": [
+        "警視庁サイバーセキュリティ対策課は7月24日、SNS型投資詐欺グループがWeb検索結果を汚染する新手口を確認したと注意喚起を行った",
+        "手口は民間企業や官公庁の公式サイト内の検索機能を悪用して肯定的な偽情報を含むURLを大量生成し、検索エンジンのAI要約にまで反映させるものである",
+        "不審な投資グループ名を検索した際に「詐欺ではありません」「信頼できます」と表示される仕組みで、検索だけでは安全性を判断できない状況が生まれている"
+      ],
+      "jackView": "検索結果に安心の情報が出ても鵜呑みにしないでください。詐欺グループが検索エンジンのAI要約まで悪用し始めている現状は非常に危険だと私は感じています。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "Infoseekニュース（ITmedia）",
+          "url": "https://news.infoseek.co.jp/article/itmedia_news_20260727076/"
+        },
+        {
+          "title": "おたくま経済新聞",
+          "url": "https://otakuma.net/archives/2026072605.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260727-1835-01",
       "time": "2026-07-27T18:35",
@@ -59,7 +289,7 @@
           "url": "https://news.yahoo.co.jp/articles/b420c44fec55042861b36b645c2e305e0658a21b"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1830-02",
@@ -82,7 +312,7 @@
           "url": "https://kabushiki.jp/news/759260"
         }
       ],
-      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1825-03",
@@ -105,7 +335,7 @@
           "url": "https://www.zaikei.co.jp/article/20260727/862924.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1820-04",
@@ -128,7 +358,7 @@
           "url": "https://www.oanda.jp/lab-education/market_news/2026_07_27_usdjpy/"
         }
       ],
-      "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/7235895/pexels-photo-7235895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1815-05",
@@ -151,7 +381,7 @@
           "url": "https://toushin-news.jp/others/news-07152026-3/"
         }
       ],
-      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1810-06",
@@ -174,7 +404,7 @@
           "url": "https://media.rakuten-sec.net/articles/-/52146"
         }
       ],
-      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1805-07",
@@ -197,7 +427,7 @@
           "url": "https://www.jafit.jp/priority-pass-downgrade/"
         }
       ],
-      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1800-09",
@@ -220,7 +450,7 @@
           "url": "https://rakkoma.com/media/home-based-side-job/"
         }
       ],
-      "image": "https://images.pexels.com/photos/37698747/pexels-photo-37698747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/6326157/pexels-photo-6326157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1755-10",
@@ -243,7 +473,7 @@
           "url": "https://www.fsa.go.jp/ordinary/chuui/attention.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1750-11",
@@ -266,7 +496,7 @@
           "url": "https://www.all-senmonka.jp/moneyizm/money/315382/"
         }
       ],
-      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/4476375/pexels-photo-4476375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0610-01",
@@ -289,7 +519,7 @@
           "url": "https://www.dlri.co.jp/report/macro/634578.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0605-02",
@@ -312,7 +542,7 @@
           "url": "https://www.moneypost.jp/1427720"
         }
       ],
-      "image": "https://images.pexels.com/photos/3013999/pexels-photo-3013999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16325607/pexels-photo-16325607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0600-03",
@@ -335,7 +565,7 @@
           "url": "https://www.zaikei.co.jp/article/20260725/862802.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0555-04",
@@ -358,7 +588,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOFL175BMTX10C26A7000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0550-05",
@@ -381,7 +611,7 @@
           "url": "https://cc.minkabu.jp/pair/BTC_JPY"
         }
       ],
-      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0545-06",
@@ -390,7 +620,7 @@
       "title": "NISA売却枠「年内復活」が2027年1月から適用開始へ 銘柄入れ替えが同一年内で完結可能に",
       "summary": [
         "2026年度税制改正で決定したNISA制度の見直しにより、売却した商品の簿価分の非課税保有限度額が翌年ではなく当年中に復活する仕組みが2027年1月から適用される",
-        "従来は売却後の枠復活が翌年1月まで待つ必要があったため、銘柄入れ替え(スイッチング)を年内に完結させることが困難だった",
+        "従来は売却後の枠復活が翌年1月まで待つ必要があったため、銘柄入れ替えを年内に完結させることが困難だった",
         "この改正により、成績不振の投信を売却して同年中に別の商品を非課税枠内で購入する戦略が現実的になる"
       ],
       "jackView": "年内に枠が復活するようになれば、NISA内のリバランスが格段にやりやすくなります。2027年を待って計画的に銘柄入れ替えを進めることを私はお勧めします。",
@@ -404,7 +634,7 @@
           "url": "https://www.soico.jp/no1/news/securities/8996"
         }
       ],
-      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/7111590/pexels-photo-7111590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0540-07",
@@ -427,7 +657,7 @@
           "url": "https://nocash.news/archives/8456"
         }
       ],
-      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0535-08",
@@ -454,7 +684,7 @@
           "url": "https://news.livedoor.com/topics/detail/31863751/"
         }
       ],
-      "image": "https://images.pexels.com/photos/37698747/pexels-photo-37698747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3767406/pexels-photo-3767406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0530-09",
@@ -481,7 +711,7 @@
           "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
         }
       ],
-      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0525-10",
@@ -504,475 +734,7 @@
           "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
         }
       ],
-      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1800-01",
-      "time": "2026-07-26T18:00",
-      "category": "market",
-      "title": "ウォーシュFRB議長が利上げに距離を置く姿勢 7月FOMCは据え置き有力も利上げ支持派が増勢",
-      "summary": [
-        "7月28〜29日のFOMCでは政策金利3.50〜3.75%の据え置きが有力だが、5月PCE物価指数が前年同月比4%上昇とインフレ圧力が続いている",
-        "ウォーシュ議長はフォワードガイダンスを示さない戦略を採用し、インフレを一切容認しないと述べつつ具体的な政策行動には言及を避けている",
-        "複数の地区連銀総裁が利上げ支持に傾いており、企業経営者からも利上げ要望が上がる異例の状況が生じている"
-      ],
-      "jackView": "議長が利上げに距離を置いても内部の分裂が声明文のトーンに影響する可能性があります。結果よりも投票の内訳に注目すると市場の先読みがしやすいと私は考えています。",
-      "sources": [
-        {
-          "title": "ニューズウィーク日本版",
-          "url": "https://www.newsweekjapan.jp/articles/-/329293"
-        },
-        {
-          "title": "第一ライフ資産運用経済研究所",
-          "url": "https://www.dlri.co.jp/report/macro/634578.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1755-02",
-      "time": "2026-07-26T17:55",
-      "category": "jpstock",
-      "title": "来週の日経平均は下値探りの展開か FOMC・日銀・AI半導体決算と重要イベントが集中",
-      "summary": [
-        "7月27〜31日の週は28〜29日にFOMC、30〜31日に日銀会合が開かれるほか、メタ・マイクロソフト・アマゾンなどハイパースケーラーの決算も控える",
-        "日経平均は先週24日に一時64,201円まで下落し、75日移動平均線付近で下げ渋ったものの先物は64,290円と一段安で週末入りしている",
-        "来週の予想レンジは6万〜6万8,000円と見方が分かれており、AI半導体株の決算内容が相場の方向感を左右する"
-      ],
-      "jackView": "イベント集中週は大きく動く可能性がある反面、様子見で膠着する場合もあります。無理にポジションを取らず、結果を確認してから動くのが安全だと私は考えています。",
-      "jackLink": {
-        "title": "マネーラボで来週の見通しを読む",
-        "url": "https://jack-money-lab.com"
-      },
-      "sources": [
-        {
-          "title": "財経新聞",
-          "url": "https://www.zaikei.co.jp/article/20260725/862804.html"
-        },
-        {
-          "title": "ダイヤモンドZAi",
-          "url": "https://diamond.jp/zai/articles/-/1070323"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1750-03",
-      "time": "2026-07-26T17:50",
-      "category": "usstock",
-      "title": "アルファベット4〜6月期の純利益が前年比4倍の1,121億ドル クラウドAI好調でSpaceX上場も恩恵",
-      "summary": [
-        "Google親会社アルファベットの2026年4〜6月期決算は純利益が前年同期比4倍の1,121億ドル（約18兆2,900億円）と過去最高を記録した",
-        "クラウドプラットフォーム「Google Cloud」のAI関連サービスが牽引し、傘下のSpaceX上場に伴う評価益も利益を押し上げた",
-        "ただし年間の設備投資計画は1,900億ドル規模に達しており、巨額AI投資の収益化に対する市場の疑念は完全には払拭されていない"
-      ],
-      "jackView": "純利益4倍は驚異的ですが、設備投資が年間29兆円規模に膨らんでいる点は見逃せません。利益の伸びと投資のバランスを注視する必要があると私は見ています。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/"
-        },
-        {
-          "title": "財経新聞",
-          "url": "https://www.zaikei.co.jp/article/20260721/862128.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1745-04",
-      "time": "2026-07-26T17:45",
-      "category": "usstock",
-      "title": "テスラ4〜6月期の営業利益が57%減 AI投資拡大で純現金収支は2年ぶりの赤字に転落",
-      "summary": [
-        "テスラの2026年4〜6月期決算は営業利益が前年同期比57%減と大幅な減益となり、EV事業の苦境が改めて浮き彫りになった",
-        "AI・自動運転向けの設備投資を積極化した結果、純現金収支（フリーキャッシュフロー）は2年ぶりの赤字に転落した",
-        "SpaceXとの合併観測も浮上しており、テスラがEV企業からAI・宇宙企業へ転換を図る中で株主の評価は二分されている"
-      ],
-      "jackView": "EV事業の減益とAI投資の膨張は、テスラの事業転換の過渡期を示しています。SpaceX合併の噂も含め、変化の大きい銘柄には慎重な距離感を保つことを私はお勧めします。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOGN230BH0T20C26A7000000/"
-        },
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOGN220O90S6A720C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1740-05",
-      "time": "2026-07-26T17:40",
-      "category": "fx",
-      "title": "来週のドル円は上値164.92円が焦点 FOMC・日銀の結果次第で方向感が決まる1週間",
-      "summary": [
-        "外為どっとコムは来週のドル円見通しとして上値164.92円・下値163.50円のレンジを提示している",
-        "164.92〜165.00円にはフィボナッチの目標値と心理的節目が重なっており、利益確定売りが入りやすい価格帯とされている",
-        "FOMCで利上げ示唆があれば一時的に円安が加速し、日銀が利上げ姿勢を強めれば円高方向に振れるとみられ、イベント結果で方向感が決まる"
-      ],
-      "jackView": "165円の壁を試す展開になるか、日米の金融政策次第です。結果発表の直後は値動きが荒くなりやすいので、レバレッジを抑えた状態で臨むことを私はお勧めします。",
-      "sources": [
-        {
-          "title": "外為どっとコム マネ育チャンネル",
-          "url": "https://www.gaitame.com/media/entry/2026/07/25/060400"
-        },
-        {
-          "title": "みんかぶ FX",
-          "url": "https://fx.minkabu.jp/news/374229"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1735-06",
-      "time": "2026-07-26T17:35",
-      "category": "crypto",
-      "title": "JCBがステーブルコインUSDC決済の導入を検討 SBIはソラナ基盤でオンチェーン金融を推進",
-      "summary": [
-        "JCBが国際送金や加盟店決済にステーブルコインUSDCの活用を検討していることが明らかになった",
-        "SBIホールディングスはソラナブロックチェーンを基盤としたオンチェーン金融サービスの構築を進めている",
-        "改正金商法の成立で暗号資産が金融商品に位置付けられたことを受け、国内大手金融機関のデジタル資産対応が加速している"
-      ],
-      "jackView": "JCBやSBIのような大手がステーブルコインに動く流れは、暗号資産が投機から実用に移行する転換点です。制度整備が進む今こそ情報収集を始めてほしいと私は考えています。",
-      "sources": [
-        {
-          "title": "JinaCoin",
-          "url": "https://jinacoin.ne.jp/today-news-top5-20260714/"
-        },
-        {
-          "title": "ビットタイムズ",
-          "url": "https://bittimes.net/news/225732.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/29110760/pexels-photo-29110760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1730-07",
-      "time": "2026-07-26T17:30",
-      "category": "seido",
-      "title": "マイナ保険証への完全移行まで残り5日 利用率49.89%で約半数の国民が未対応",
-      "summary": [
-        "従来の健康保険証の暫定措置が7月31日で終了し、8月1日からはマイナ保険証または資格確認書がなければ窓口で10割負担となる可能性がある",
-        "厚労省発表の2026年2月時点のマイナ保険証利用率は49.89%にとどまり、国民のほぼ半数が移行を完了していない状態にある",
-        "マイナンバーカードを持っていない方には資格確認書が発行されるが、届いていない場合は加入する健康保険の保険者への問い合わせが必要となる"
-      ],
-      "jackView": "期限まであと5日です。まだ準備ができていない方は、マイナ保険証の登録か資格確認書の手配を今週中に済ませてください。8月以降に慌てても遅い状況です。",
-      "sources": [
-        {
-          "title": "GemMed",
-          "url": "https://gemmed.ghc-j.com/?p=75498"
-        },
-        {
-          "title": "東京報道新聞",
-          "url": "https://tokyonewsmedia.com/archives/25498"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1725-08",
-      "time": "2026-07-26T17:25",
-      "category": "point",
-      "title": "ファミリーマートが楽天SPUに初のグループ外企業として参加 月3,000円購入で+0.5倍",
-      "summary": [
-        "2026年7月1日から、ファミリーマートが楽天の「SPU（スーパーポイントアッププログラム）」の対象サービスに追加された",
-        "楽天グループ外の企業がSPUに参加するのは初めてで、全国のファミマで楽天ポイントカードを提示して月3,000円以上購入するとSPU+0.5倍が適用される",
-        "これによりSPUの最大ポイント倍率は18.5倍に拡大し、対象サービスは17に増えた。タバコやPOSAカードなど一部対象外がある"
-      ],
-      "jackView": "月3,000円なら普段のコンビニ利用で達成しやすい条件です。ただし付与されるのは期間限定ポイントなので、使い忘れに注意してください。",
-      "sources": [
-        {
-          "title": "ファミリーマート（公式）",
-          "url": "https://www.family.co.jp/company/news_releases/2026/20260701_01.html"
-        },
-        {
-          "title": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2121463.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1720-09",
-      "time": "2026-07-26T17:20",
-      "category": "sidehustle",
-      "title": "AI副業の実践記が続出 Claude Code活用で月5万〜30万円を稼ぐ層が拡大中",
-      "summary": [
-        "2026年7月時点でClaude CodeやChatGPTを活用したAI副業の実践体験記がWebメディアで相次いで公開されている",
-        "AIライティング・プログラミング支援・業務自動化の3分野が中心で、業界知識とAIを掛け合わせたコンサルティング副業は月10万〜50万円が現実的とされている",
-        "一方で品質管理を怠った参入者は受注減少に直面しており、AI副業市場では実力の二極化が鮮明になっている"
-      ],
-      "jackView": "AI副業は参入しやすい反面、差別化が難しくなっています。私は「自分の本業知識 × AI」という掛け算が最も再現性の高い戦略だと考えています。",
-      "jackLink": {
-        "title": "JACKのiOSアプリ開発 実例を見る",
-        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
-      },
-      "sources": [
-        {
-          "title": "genAI",
-          "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-side-job-review/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-1715-10",
-      "time": "2026-07-26T17:15",
-      "category": "scam",
-      "title": "【警戒】AIで生成された自然なフィッシングメールが急増 国内ISP認証情報の不正利用も確認",
-      "summary": [
-        "2026年6〜7月にかけて、国内ISPの認証情報を不正に取得し正規のメールサーバーから送信されるフィッシングメールが確認されている",
-        "AI技術を活用した自然な日本語のフィッシングメールが増加しており、従来の不自然な文面では見破れない精巧な手口に進化している",
-        "フィッシング対策協議会は不審なメールのリンクを開かず、公式サイトをブックマークから直接アクセスするよう改めて注意喚起している"
-      ],
-      "jackView": "メールの日本語が自然だからといって安全とは限りません。リンク先のURLを必ず確認し、少しでも怪しければ公式サイトに直接アクセスする習慣を持ってください。",
-      "sources": [
-        {
-          "title": "フィッシング対策協議会",
-          "url": "https://www.antiphishing.jp/news/alert/"
-        },
-        {
-          "title": "フセラボ（かっこ株式会社）",
-          "url": "https://frauddetection.cacco.co.jp/media/knowhow/9473/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0600-01",
-      "time": "2026-07-26T06:00",
-      "category": "market",
-      "title": "FOMC7月会合で利上げ提案の可能性が浮上 据え置き見通しの一方で市場は3割強を織り込む",
-      "summary": [
-        "7月28〜29日開催のFOMCでは5会合連続の据え置き（3.50〜3.75%）が市場のメインシナリオだが、利上げ織り込みが3割強に上昇している",
-        "ダラス連銀のローガン総裁は「現行の金利水準は引き締め的ではなく、やや高い方が望ましい」と発言し、利上げ提案を行う可能性が指摘されている",
-        "原油価格が一時100ドルを超えたことでインフレ再燃リスクが意識されており、複数の地区連銀総裁が利上げに傾く可能性がある"
-      ],
-      "jackView": "据え置きが本線ですが、利上げ提案が出るだけで市場はざわつきます。来週のFOMC声明文の一語一句に私は注目しています。",
-      "sources": [
-        {
-          "title": "第一ライフ資産運用経済研究所",
-          "url": "https://www.dlri.co.jp/report/macro/634578.html"
-        },
-        {
-          "title": "OANDA",
-          "url": "https://www.oanda.jp/lab-education/beginners/fundamentals_analysis/fomc-meeting/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0555-02",
-      "time": "2026-07-26T05:55",
-      "category": "jpstock",
-      "title": "日銀7月会合はウォッチャー全員が1.0%据え置きを予想 次の利上げは10〜12月が焦点",
-      "summary": [
-        "7月30〜31日開催の日銀金融政策決定会合について、日銀ウォッチャー調査では回答者全員が政策金利1.0%の据え置きを予想した",
-        "6月会合で0.25%の利上げを実施し約31年ぶりの1.0%に到達したばかりで、その効果見極めのため据え置きが有力とされている",
-        "次回の追加利上げ時期は10月または12月との予想が多く、展望レポートでは物価見通しの上方修正も検討されている"
-      ],
-      "jackView": "据え置きは織り込み済みですが、展望レポートの物価見通し修正幅が円相場を動かす材料になり得ます。数字の変化に注意してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL175BMTX10C26A7000000/"
-        },
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUB2329U0T20C26A7000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/16325607/pexels-photo-16325607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0550-03",
-      "time": "2026-07-26T05:50",
-      "category": "usstock",
-      "title": "AIデータセンターの電力消費が前年比26%増の見通し 送電インフラ不足がテック株の新リスクに",
-      "summary": [
-        "2026年のデータセンター全体の電力消費量は前年比26%増の565TWhに達する見通しで、うちAI最適化サーバーが31%を占める",
-        "国内ではデータセンターの消費電力が日本全体の約3%に迫り、2021年時点の約1.5%から倍増するペースで増加している",
-        "発電能力よりも送電設備の整備が追いついていないことが構造的な課題となっており、データセンター建設計画の遅延リスクが指摘されている"
-      ],
-      "jackView": "AI投資の勢いだけでなく、それを支える電力インフラにも目を向けるべきです。電力関連銘柄に新たな投資機会があると私は見ています。",
-      "sources": [
-        {
-          "title": "AI Watch (Impress)",
-          "url": "https://ai.watch.impress.co.jp/docs/news/2116862.html"
-        },
-        {
-          "title": "ITmedia オルタナティブ・ブログ",
-          "url": "https://blogs.itmedia.co.jp/business20/2026/06/post_7994.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0545-04",
-      "time": "2026-07-26T05:45",
-      "category": "fx",
-      "title": "日銀が31年ぶり1.0%利上げ達成も円安止まらず 構造的な円安要因に市場の関心が移行",
-      "summary": [
-        "日銀は6月会合で政策金利を1.0%へ引き上げたが、ドル円は163円台後半で推移し円安基調が変わっていない",
-        "NRIの木内登英氏は日銀が今後利上げを一時停止する可能性を指摘しており、金融政策だけでは円安を抑制できないとの見方が広がっている",
-        "貿易赤字の定着や対外直接投資の拡大など構造的な円安要因が意識され、日米金利差の縮小だけでは円高反転は困難との分析が増えている"
-      ],
-      "jackView": "利上げしても円安が止まらない現実は、金利差だけでは説明できない構造要因を示唆しています。外貨建て資産の比率は定期的に見直してください。",
-      "sources": [
-        {
-          "title": "NRI 木内登英コラム",
-          "url": "https://www.nri.com/jp/media/column/kiuchi/20260428_2.html"
-        },
-        {
-          "title": "第一ライフ資産運用経済研究所",
-          "url": "https://www.dlri.co.jp/report/macro/623090.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0540-05",
-      "time": "2026-07-26T05:40",
-      "category": "seido",
-      "title": "マイナ保険証の暫定措置が7月31日で終了 8月以降は旧保険証のみでの受診で10割負担の恐れ",
-      "summary": [
-        "従来の健康保険証の猶予期間が2026年7月31日で終了し、8月1日以降はマイナ保険証または資格確認書が必要となる",
-        "期限切れの保険証だけで医療機関を受診した場合、窓口でいったん医療費の全額（10割）を支払う可能性がある",
-        "マイナンバーカードの電子証明書の有効期限は5年で、カード本体（10年）より短いため、更新漏れによるエラーにも注意が必要となっている"
-      ],
-      "jackView": "旧保険証だけで病院に行くと全額自己負担になり得ます。電子証明書の有効期限はカード本体より短いので、併せて確認しておくことを私はお勧めします。",
-      "sources": [
-        {
-          "title": "ITmedia Mobile",
-          "url": "https://www.itmedia.co.jp/mobile/articles/2607/24/news061.html"
-        },
-        {
-          "title": "Infoseekニュース（毎日新聞）",
-          "url": "https://news.infoseek.co.jp/article/mainichi_20260715k0000m100338000c/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0535-06",
-      "time": "2026-07-26T05:35",
-      "category": "seido",
-      "title": "こどもNISA 2027年1月スタートへ 0〜17歳対象で年間60万円・非課税限度額600万円",
-      "summary": [
-        "2026年度税制改正で新設が決まった「こどもNISA」は2027年1月から開始され、0歳〜17歳がつみたて投資枠を利用できるようになる",
-        "年間投資枠は60万円、非課税保有限度額は600万円で、18歳になるまでの間はつみたて投資枠のみ利用可能となる",
-        "18歳以降は通常のNISA枠へ移行する仕組みで、子育て世代の長期的な資産形成手段として期待されている"
-      ],
-      "jackView": "子育て世代には朗報ですが、18歳まで引き出しにくい設計です。教育費とのバランスをよく考えてから始めることを私はお勧めします。",
-      "sources": [
-        {
-          "title": "金融庁",
-          "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
-        },
-        {
-          "title": "三菱UFJ eスマート証券",
-          "url": "https://kabu.com/kabuyomu/nisa/1320.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/4476375/pexels-photo-4476375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0530-07",
-      "time": "2026-07-26T05:30",
-      "category": "point",
-      "title": "エポスカード8月改悪 決済サービスチャージへのポイント加算が全面終了",
-      "summary": [
-        "エポスカードは2026年8月1日から、ANA Pay・JAL Pay・モバイルSuicaなどの決済サービスチャージに対するポイント加算（0.5%）を終了する",
-        "ゴールド・プラチナ会員はポイント加算こそ終了するが、年間ボーナスポイントの集計対象としてはチャージ額が引き続きカウントされる",
-        "7月31日までのチャージ分は従来通りポイント加算の対象となるため、駆け込み利用を検討するユーザーが増えている"
-      ],
-      "jackView": "ANA PayやJAL Payへのチャージで還元を得ていた方は代替カードの検討が急務です。ポイント還元ルートは半年ごとに見直す習慣を持ってください。",
-      "sources": [
-        {
-          "title": "エポスNet（公式）",
-          "url": "https://www.eposcard.co.jp/articles/news/260601.html"
-        },
-        {
-          "title": "INTERNET Watch",
-          "url": "https://www.timeless-mile.jp/epos-gold/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0525-08",
-      "time": "2026-07-26T05:25",
-      "category": "point",
-      "title": "d払いスタンプからdカード決済が除外 7月より名称も「d払いスタンプ」に変更",
-      "summary": [
-        "NTTドコモは7月1日に「d払いdカードスタンプ」の名称を「d払いスタンプ」に変更し、dカード各種での支払いをスタンプ付与の対象外とした",
-        "7月以降のスタンプ対象決済は「d払い（街のお店・ネットのお店・請求書払い）」と「d払いタッチ」のみに限定される",
-        "ドコモ経済圏ではdカードとd払いの連携が強みだったが、今回の変更で決済手段の使い分けに見直しが必要となっている"
-      ],
-      "jackView": "ドコモ経済圏を活用している方は、d払い単体での利用に切り替えないとスタンプが貯まりません。決済手段の棚卸しをしてみてください。",
-      "sources": [
-        {
-          "title": "d払い公式",
-          "url": "https://service.smt.docomo.ne.jp/keitai_payment/info/info_20260515_1.html"
-        },
-        {
-          "title": "ケータイ Watch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2109399.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0520-09",
-      "time": "2026-07-26T05:20",
-      "category": "sidehustle",
-      "title": "「月3時間の副業」で家計に安心を 在宅で小さく始めるスタイルが2026年の主流に",
-      "summary": [
-        "2026年の副業トレンドは「一気に稼ぐ」から「生活を壊さず少しずつ育てる」へ変化しており、月3時間程度の在宅ワークが注目されている",
-        "Webライティング・データ入力・簡単な動画編集など初期投資の少ない副業が人気で、月1万〜5万円を家計のバッファとして確保する層が増加している",
-        "副業の解禁企業が増加する一方で、就業規則の確認や確定申告の要否など、開始前に押さえるべきポイントも多い"
-      ],
-      "jackView": "副業は大きく稼ぐものという先入観を捨て、月3時間でも家計のバッファになります。まずは本業に支障のない範囲で始めるのが鉄則です。",
-      "jackLink": {
-        "title": "JACKの著書でお金の基本を学ぶ",
-        "url": "https://jack-invest.com/books"
-      },
-      "sources": [
-        {
-          "title": "デジハクmagazine",
-          "url": "https://digital-hacks.jp/blog/archives/768"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260726-0515-10",
-      "time": "2026-07-26T05:15",
-      "category": "scam",
-      "title": "【警戒】「社内注意喚起」を装う二段階式フィッシング詐欺が拡大 見破った直後の油断を狙う新手口",
-      "summary": [
-        "最初の詐欺メールを見破った直後に「調査依頼」を装う第二のフィッシングメールが送られてくる二段階式の手口が2026年7月に確認されている",
-        "怪しいメールを見破って安心した心理を突く巧妙な手法で、社内のセキュリティ担当を名乗って偽の調査フォームに誘導するパターンが報告された",
-        "フィッシング対策協議会は不審なメール内のリンクをクリックせず、公式サイトをブックマークや検索から直接確認するよう呼びかけている"
-      ],
-      "jackView": "最初の詐欺メールを見破った直後が最も油断しやすい瞬間です。不審なメールは開かず、公式サイトから直接確認する習慣を持ってください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "INTERNET Watch",
-          "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html"
-        },
-        {
-          "title": "フィッシング対策協議会",
-          "url": "https://www.antiphishing.jp/news/alert/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/18783946/pexels-photo-18783946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
