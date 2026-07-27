@@ -48,17 +48,18 @@ def main():
     data["issues"].sort(key=lambda i: i["date"], reverse=True)
 
     out = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
+    # 検証が通るまで issues.json には一切書き込まない
+    # （検証NGの号がローカルに残ると、X/IG投稿等の下流が未公開データを読む事故になる）
+    tmp = "/tmp/mf_issues_check.json"
+    with open(tmp, "w", encoding="utf-8") as f:
+        f.write(out)
+    subprocess.run([sys.executable, "tools/validate.py", tmp], check=True)
     if dry:
-        tmp = "/tmp/mf_issues_check.json"
-        with open(tmp, "w", encoding="utf-8") as f:
-            f.write(out)
-        subprocess.run([sys.executable, "tools/validate.py", tmp], check=True)
         print(f"（--dry のため issues.json は変更していません）")
         return
 
     with open("issues.json", "w", encoding="utf-8") as f:
         f.write(out)
-    subprocess.run([sys.executable, "tools/validate.py", "issues.json"], check=True)
     print(f"追加しました: #{issue['number']:03d} {date}（公開は ./publish.sh）")
 
 

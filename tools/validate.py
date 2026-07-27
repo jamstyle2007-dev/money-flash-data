@@ -73,8 +73,13 @@ def main(path):
                 if not s.get("url", "").startswith("https://"):
                     fail(f"{aid}: source url が https ではありません: {s.get('url')}")
             all_text = a["title"] + " ".join(flash) + a.get("comment", "")
+            # scam記事に限り「」内の引用(詐欺師の勧誘文句の紹介)は禁止表現の検査対象外。
+            # 私たち自身の断定(地の文)は引き続き全カテゴリで禁止。
+            check_text = all_text
+            if a["category"] == "scam":
+                check_text = re.sub(r"「[^」]*」", "", all_text)
             for ng in BANNED_PHRASES:
-                if ng in all_text:
+                if ng in check_text:
                     fail(f"{aid}: 禁止表現「{ng}」が含まれています（投資助言非該当ルール）")
             if a["category"] == "scam":
                 joined = a["comment"] + a["title"] + " ".join(flash)
