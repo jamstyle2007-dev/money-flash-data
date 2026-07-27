@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-27T06:10",
+  "updated": "2026-07-27T18:36",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "64,611",
-      "change": "-1,811",
-      "changePct": "-2.73%"
+      "value": "64,931",
+      "change": "+320",
+      "changePct": "+0.50%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,005",
-      "change": "-49",
-      "changePct": "-1.20%"
+      "value": "4,066",
+      "change": "+55",
+      "changePct": "+1.37%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.80",
-      "change": "-0.04",
-      "changePct": "-0.02%"
+      "value": "163.53",
+      "change": "-0.27",
+      "changePct": "-0.16%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,242 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.5M",
-      "change": "-1.5%",
-      "changePct": "-1.5%"
+      "value": "¥10.0M",
+      "change": "-2.7%",
+      "changePct": "-2.7%"
     }
   ],
   "items": [
+    {
+      "id": "20260727-1835-01",
+      "time": "2026-07-27T18:35",
+      "category": "market",
+      "title": "米イラン攻撃停止で原油急落 WTI一時83ドル台に下落し日経平均は320円高で反発",
+      "summary": [
+        "米国がイランへの攻撃停止を発表し、パキスタン仲介の和平交渉再開への期待が高まったことで原油価格が急落した",
+        "WTI原油は一時1バレル83ドル台前半まで下落し、ブレント原油も7%超の大幅安となった",
+        "東京株式市場では地政学リスクの後退を好感し、日経平均が前週末比320円高の64,931円で引けた"
+      ],
+      "jackView": "地政学リスクの後退は短期的な買い材料ですが、停戦が長続きするかは不透明です。原油安の恩恵を受けるセクターに注目しつつ、楽観しすぎない姿勢を私はお勧めします。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL2731Z0X20C26A7000000/"
+        },
+        {
+          "title": "時事通信（Yahoo!ニュース）",
+          "url": "https://news.yahoo.co.jp/articles/b420c44fec55042861b36b645c2e305e0658a21b"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1830-02",
+      "time": "2026-07-27T18:30",
+      "category": "jpstock",
+      "title": "TOPIX終値1.37%高と日経平均を上回る バリュー・内需株への資金シフトが鮮明に",
+      "summary": [
+        "7月27日のTOPIXは前週末比54.76ポイント高の4,066.07で引け、上昇率1.37%は日経平均の0.50%を大きく上回った",
+        "原油安の恩恵を受ける運輸・電力などの内需セクターや、金融・商社などバリュー株に資金が向かった",
+        "一方でAI・半導体関連株には利益確定売りが出ており、グロース株からバリュー株への資金シフトが鮮明になっている"
+      ],
+      "jackView": "TOPIX優位の展開はバリュー株に資金が回り始めた証拠です。日経平均だけでなくTOPIXの動きにも目を向けると、相場の流れが読みやすくなると私は考えています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL2731J0X20C26A7000000/"
+        },
+        {
+          "title": "株式新聞Web",
+          "url": "https://kabushiki.jp/news/759260"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1825-03",
+      "time": "2026-07-27T18:25",
+      "category": "usstock",
+      "title": "米株先物が大幅高スタート イラン停戦期待でナスダック先物+1.32%、ダウ先物+0.66%",
+      "summary": [
+        "7月27日の米株価指数先物はイラン攻撃停止のニュースを受けて大幅上昇でスタートした",
+        "S&P500先物は+0.83%、ナスダック100先物は+1.32%、ダウ先物は+0.66%と軒並み上昇した",
+        "原油急落でインフレ懸念が和らぎ、今週のFOMCでの据え置き確率が一段と高まるとの見方が広がっている"
+      ],
+      "jackView": "先物の上昇は期待先行の面もあります。今週はメタやアマゾンの決算もあるため、先物の動きだけで飛びつかず本番の値動きを確認してから判断してください。",
+      "sources": [
+        {
+          "title": "みんかぶ FX",
+          "url": "https://fx.minkabu.jp/news/374235"
+        },
+        {
+          "title": "財経新聞",
+          "url": "https://www.zaikei.co.jp/article/20260727/862924.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1820-04",
+      "time": "2026-07-27T18:20",
+      "category": "fx",
+      "title": "ドル円163円台半ばに小幅下落 イラン情勢緩和で有事のドル買い巻き戻し進む",
+      "summary": [
+        "7月27日のドル円は163円53銭付近で推移し、前週末から小幅な円高方向に動いた",
+        "米イラン攻撃停止の報道を受け、これまでの有事のドル買いポジションを解消する動きが先行した",
+        "今週はFOMC（28〜29日）と日銀会合（30〜31日）が控えており、結果次第で161〜165円の広いレンジで動く可能性がある"
+      ],
+      "jackView": "イラン情勢の緩和で一時的に円高に振れましたが、FOMC・日銀の結果で大きく動く可能性があります。イベント前にポジションを膨らませすぎないよう注意が必要です。",
+      "sources": [
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/27/083730"
+        },
+        {
+          "title": "OANDA",
+          "url": "https://www.oanda.jp/lab-education/market_news/2026_07_27_usdjpy/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1815-05",
+      "time": "2026-07-27T18:15",
+      "category": "crypto",
+      "title": "改正金商法で暗号資産の税率引き下げへ 申告分離課税20%適用とETF解禁に道が開く",
+      "summary": [
+        "7月15日に成立した改正金融商品取引法により暗号資産が金融商品として位置付けられ、税制面の見直しが進む見通しとなった",
+        "現行の総合課税（最大55%）から申告分離課税20%への変更が検討されており、2027年の施行に合わせた適用が見込まれている",
+        "暗号資産連動型ETFの解禁にも道が開かれ、機関投資家の参入拡大による市場規模の成長が期待されている"
+      ],
+      "jackView": "税率が20%に下がれば暗号資産投資の魅力は大きく高まります。ただし施行は2027年以降の見通しなので、先走った売買は控えて制度の確定を待つことを私はお勧めします。",
+      "sources": [
+        {
+          "title": "MONEYIZM",
+          "url": "https://www.all-senmonka.jp/moneyizm/news/315811/"
+        },
+        {
+          "title": "投信まるごとニュース",
+          "url": "https://toushin-news.jp/others/news-07152026-3/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1810-06",
+      "time": "2026-07-27T18:10",
+      "category": "seido",
+      "title": "iDeCo掛金上限が2027年1月から月6.2万円に拡充 会社員は現行の約2.7倍に",
+      "summary": [
+        "2026年度税制改正により企業年金のない会社員のiDeCo拠出限度額が月2.3万円から月6.2万円へ約2.7倍に引き上げられることが決定した",
+        "自営業者の上限も月6.8万円から月7.5万円へ引き上げられ、加入可能年齢の上限は65歳未満から70歳未満へ拡大される",
+        "法改正は2026年12月に施行され、2027年1月の掛金納付分から新上限が適用される"
+      ],
+      "jackView": "掛金上限の大幅拡充は節税メリットを大きく広げます。ただし60歳まで原則引き出せない点は変わらないので、生活資金とのバランスを考えて増額してください。",
+      "sources": [
+        {
+          "title": "Yahoo!ニュース（山崎俊輔）",
+          "url": "https://news.yahoo.co.jp/expert/articles/18d692286f252794f6a9959549d4e3efe744ff53"
+        },
+        {
+          "title": "楽天証券 トウシル",
+          "url": "https://media.rakuten-sec.net/articles/-/52146"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1805-07",
+      "time": "2026-07-27T18:05",
+      "category": "point",
+      "title": "プライオリティ・パスが8月に再改悪 apollostation PLATINUMは年30回から5回に縮小",
+      "summary": [
+        "2026年8月3日よりapollostation THE PLATINUMセゾン・アメックスのプライオリティ・パス利用回数が年30回から年5回へ大幅に縮小される",
+        "6回目以降は1回あたり35米ドルの利用料が発生し、出張や旅行の多いユーザーには実質的な大幅改悪となる",
+        "現時点で国内レストランや温泉が無制限で使えるのはセゾンプラチナビジネスアメックスなど一部のカードに限られている"
+      ],
+      "jackView": "ラウンジ利用が多い方にとっては深刻な改悪です。年5回で足りるか計算し、不足するなら代替カードへの切り替えを早めに検討してください。",
+      "sources": [
+        {
+          "title": "出光カード（公式）",
+          "url": "https://www.idemitsucard.com/important/prioritypass2605.html"
+        },
+        {
+          "title": "amatra",
+          "url": "https://www.jafit.jp/priority-pass-downgrade/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1800-09",
+      "time": "2026-07-27T18:00",
+      "category": "sidehustle",
+      "title": "副業容認企業が55%に到達し過去最高を更新 AI活用の有無で収入差が1.8倍に",
+      "summary": [
+        "2026年時点で副業を容認する企業は全体の約55%に達し、2020年代初頭と比較して約2倍に増加した",
+        "AIツールを活用している副業者の平均月収は約4.6万円で、未活用者の約2.5万円と比べ1.8倍の差がついている",
+        "副業開始前には就業規則の確認や確定申告の要否など押さえるべきポイントが多く、準備不足によるトラブルも報告されている"
+      ],
+      "jackView": "副業解禁が広がる一方、稼げる人と稼げない人の差は明確に開いています。始める前に就業規則と確定申告のルールを確認し、トラブルなく始める準備をしてください。",
+      "sources": [
+        {
+          "title": "副業ナビ",
+          "url": "https://roboness.co.jp/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E5%9C%A8%E5%AE%85%E3%83%AF%E3%83%BC%E3%82%AF%E5%89%AF%E6%A5%AD%E3%81%8A%E3%81%99%E3%81%99%E3%82%8115%E9%81%B8%EF%BD%9C%E5%88%9D%E5%BF%83%E8%80%85/"
+        },
+        {
+          "title": "ラッコ大福帳",
+          "url": "https://rakkoma.com/media/home-based-side-job/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37698747/pexels-photo-37698747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1755-10",
+      "time": "2026-07-27T17:55",
+      "category": "scam",
+      "title": "【警戒】金融庁が無登録業者リストを7月22日付で更新 SNS経由の投資勧誘に注意",
+      "summary": [
+        "金融庁は2026年7月22日付で無登録で金融商品取引業を行う業者のリストを更新し、新たな無登録業者の情報を公表した",
+        "SNSやマッチングアプリを通じた投資勧誘が依然として増加しており、無登録業者との取引は法的保護を受けられないと改めて注意喚起している",
+        "金融商品取引業を日本居住者に対して行うには法律に基づく登録が必要であり、登録の有無は金融庁のホームページで確認できる"
+      ],
+      "jackView": "「高利回り保証」を謳う業者は金融庁の登録リストで必ず確認してください。登録がなければ違法業者です。少しの手間が大きな損失を防ぎます。",
+      "sources": [
+        {
+          "title": "金融庁",
+          "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
+        },
+        {
+          "title": "金融庁（注意喚起）",
+          "url": "https://www.fsa.go.jp/ordinary/chuui/attention.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260727-1750-11",
+      "time": "2026-07-27T17:50",
+      "category": "seido",
+      "title": "在職老齢年金の支給停止基準が4月から月65万円に引き上げ 働くシニアの手取り改善",
+      "summary": [
+        "2026年4月の制度改正で在職老齢年金の支給停止基準額が月51万円から月65万円に引き上げられた",
+        "給与と年金の合計が月65万円以下であれば年金が減額されなくなり、シニア世代の就労意欲を阻害しない仕組みに改善された",
+        "定年後も働き続ける高齢者が増加する中、年金と給与の両立を支援する制度改正として位置付けられている"
+      ],
+      "jackView": "月65万円まで年金が減らされなくなったことで、定年後の働き方の選択肢が広がりました。自分のケースで手取りがどう変わるか年金事務所で試算してみてください。",
+      "sources": [
+        {
+          "title": "INVESTORS News",
+          "url": "https://rge.jp/news/posts/nisa-ideco-reform-2026-2027/"
+        },
+        {
+          "title": "MONEYIZM",
+          "url": "https://www.all-senmonka.jp/moneyizm/money/315382/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260727-0610-01",
       "time": "2026-07-27T06:10",
