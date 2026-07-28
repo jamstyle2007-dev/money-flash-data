@@ -1,6 +1,79 @@
 {
   "issues": [
     {
+      "id": "2026-07-29",
+      "number": 14,
+      "date": "2026-07-29",
+      "articles": [
+        {
+          "category": "money",
+          "title": "エポスカード、8月1日からモバイルSuicaやANA Pay等30超サービスへのチャージがポイント対象外に",
+          "flash": [
+            "エポスカードは2026年8月1日から、モバイルSuica・ANA Pay・楽天Edyなど30以上の決済サービスへのチャージ利用時のエポスポイント加算を終了すると公式発表した",
+            "Apple PayやGoogle Pay経由のチャージも対象で、7月31日利用分まではこれまで通り0.5%のポイントが付与される",
+            "ゴールド・プラチナ会員の年間ボーナスポイント判定用の年間利用額には、チャージ利用分も引き続き集計される"
+          ],
+          "comment": "楽天Edyの上限引き下げに続きエポスも動いた。チャージ還元の縮小はカード業界全体の流れで、特定ルート頼みのポイ活は前提が崩れやすいと私は見ている。エポス経由でSuicaやANA Payにチャージしている人は、今日残高と利用予定を確認し、必要な分だけ7月31日までにチャージを済ませておこう。ただしポイント目的で使い切れない額を入れるのは資金の固定化になるので、あくまで普段使う範囲で。8月以降の代替カードは年会費と実効還元率を比べて冷静に選びたい。",
+          "sources": [
+            {
+              "title": "エポスNet 決済サービスチャージご利用時のポイント加算終了について",
+              "url": "https://www.eposcard.co.jp/articles/news/260601.html"
+            },
+            {
+              "title": "fintide エポスカード、2026年8月1日から一部チャージ利用のポイント加算を終了",
+              "url": "https://fintide.jp/news-eposcard-charge-point-terminate/"
+            }
+          ],
+          "id": "2026-07-29-money",
+          "image": "https://images.pexels.com/photos/7680549/pexels-photo-7680549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "title": "スキマバイト市場が拡大継続。平均時給1,233円・募集件数は前年比2割増とタイミーが最新レポート公表",
+          "flash": [
+            "タイミーは7月8日、スポットワーク市場クォータリーレポート（2026年2〜4月版）を公開した",
+            "三大都市圏のスポットワーク平均時給は1,233円で前年同期比プラス4.9%、全国の募集件数は395.6万件で同プラス20.1%だった",
+            "働き手に支払われた総賃金額は310億円で前年同期比プラス24.3%と、市場規模の拡大が続いている"
+          ],
+          "comment": "時給上昇と案件2割増は、副業を始めたい個人には素直に追い風だと私は見ている。スキマバイトの強みは初期投資ゼロで今日から現金収入を作れること、弱みは働いた時間しか稼げず資産にならないことだ。まずは平日夜か週末に1回試し、時給と移動時間を記録して自分の採算ラインを把握してみよう。そのうえで、得た収入を生活費に溶かさず、スキル学習や積立投資に回す設計にすれば、時間切り売り型から抜け出す足がかりになる。",
+          "sources": [
+            {
+              "title": "タイミー スポットワーク市場 クォータリーレポート（2026年2-4月版）を公開",
+              "url": "https://corp.timee.co.jp/news/detail-6815/"
+            },
+            {
+              "title": "HRog タイミー、スポットワーク市場クォータリーレポート（2026年2-4月版）を公開",
+              "url": "https://hrog.net/news/136085/"
+            }
+          ],
+          "id": "2026-07-29-sidehustle",
+          "image": "https://images.pexels.com/photos/37698747/pexels-photo-37698747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "title": "【警戒】ニセ警察詐欺が犯罪統計に新設されるほど急増。ビデオ通話の偽警察手帳・偽逮捕状に注意",
+          "flash": [
+            "警察官を名乗って「あなたの口座が犯罪に使われている」と電話し、LINEのビデオ通話で偽の警察手帳や実名入りの偽逮捕状を示して金銭を要求する手口が多発している",
+            "報道によると2025年1〜5月の被害額は約316億円と特殊詐欺全体の6割超を占め、若年層の被害も目立つ",
+            "警察は2026年から「ニセ警察詐欺」を犯罪統計の項目として新設し、警察庁はSNSやビデオ通話で逮捕状を示すことは絶対にないと注意喚起している"
+          ],
+          "comment": "本物の警察はLINEで連絡してこないし、逮捕状をビデオ通話で見せることも絶対にない。この一文を知っているだけで防御力は大きく上がると私は考えている。偽の手帳や逮捕状は精巧で、若い世代ほど「自分は見抜ける」と過信しやすいのが怖い点だ。今日の行動として、家族と「警察を名乗る電話が来たら一度切って相談専用番号#9110にかけ直す」というルールを共有しておこう。お金や口座の話が出た時点で詐欺と断じて切る。それで失うものは何もない。",
+          "sources": [
+            {
+              "title": "警察庁・SOS47 ニセ警察詐欺に注意！",
+              "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/241218/02.html"
+            },
+            {
+              "title": "関西テレビ ビデオ通話で「逮捕状執行」 若者狙い「ニセ警察官」詐欺多発",
+              "url": "https://www.ktv.jp/news/feature/250709-taiho/"
+            }
+          ],
+          "id": "2026-07-29-scam",
+          "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
       "id": "2026-07-28",
       "number": 13,
       "date": "2026-07-28",
@@ -24,7 +97,8 @@
               "url": "https://lab.iyell.jp/knowledge/loan/mortgage-interest-rate_07/"
             }
           ],
-          "id": "2026-07-28-money"
+          "id": "2026-07-28-money",
+          "image": "https://images.pexels.com/photos/7009853/pexels-photo-7009853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         },
         {
           "category": "sidehustle",
@@ -45,7 +119,8 @@
               "url": "https://gadget.phileweb.com/post-105542/"
             }
           ],
-          "id": "2026-07-28-sidehustle"
+          "id": "2026-07-28-sidehustle",
+          "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         },
         {
           "category": "scam",
@@ -66,7 +141,8 @@
               "url": "https://internet.watch.impress.co.jp/docs/news/2117035.html"
             }
           ],
-          "id": "2026-07-28-scam"
+          "id": "2026-07-28-scam",
+          "image": "https://images.pexels.com/photos/35076266/pexels-photo-35076266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         }
       ]
     },
