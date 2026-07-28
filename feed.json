@@ -1,33 +1,33 @@
 {
-  "updated": "2026-07-28T06:10",
+  "updated": "2026-07-28T12:00",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "64,931",
-      "change": "+320",
-      "changePct": "+0.50%"
+      "value": "62,046",
+      "change": "-2,885",
+      "changePct": "-4.44%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,066",
-      "change": "+55",
-      "changePct": "+1.37%"
+      "value": "3,954",
+      "change": "-112",
+      "changePct": "-2.75%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.85",
-      "change": "+0.32",
-      "changePct": "+0.20%"
+      "value": "163.78",
+      "change": "-0.07",
+      "changePct": "-0.04%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,420",
-      "change": "+8",
-      "changePct": "+0.11%"
+      "value": "7,413",
+      "change": "-7",
+      "changePct": "-0.09%"
     },
     {
       "symbol": "BTC",
@@ -38,6 +38,240 @@
     }
   ],
   "items": [
+    {
+      "id": "20260728-1200-01",
+      "time": "2026-07-28T12:00",
+      "category": "market",
+      "title": "日経平均が前場2,885円安の急落 中国DUV露光装置量産報道で半導体株に売り殺到",
+      "summary": [
+        "7月28日の日経平均は前場引けで62,046円（前日比2,884円安、-4.44%）と大幅反落し、下落幅は一時3,000円を超えた",
+        "中国政府系企業が液浸DUV露光装置の量産を開始したとの報道がトリガーとなり、半導体関連株に売りが殺到した",
+        "韓国KOSPIも8%超の暴落でサーキットブレーカーが発動し、アジア株全体にリスクオフの連鎖が広がった"
+      ],
+      "jackView": "前場の下落幅は衝撃的ですが、こうした暴落局面では冷静さが最も重要です。狼狽売りは避け、後場の値動きやFOMCの結果を見極めてから判断することを私はお勧めします。",
+      "sources": [
+        {
+          "title": "株式新聞Web",
+          "url": "https://kabushiki.jp/news/759373"
+        },
+        {
+          "title": "ダイヤモンドZAi",
+          "url": "https://zai.diamond.jp/articles/-/492907"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1155-02",
+      "time": "2026-07-28T11:55",
+      "category": "market",
+      "title": "中国政府系企業が液浸DUV露光装置の量産を開始 ASMLの市場独占に風穴の報道",
+      "summary": [
+        "中国・上海の政府系企業が液浸型DUV露光装置の量産を開始し、2026年中に約5台を製造する計画が報じられた",
+        "納入先はSMIC・華虹半導体・CXMT（長鑫存儲技術）など中国国内の主要半導体メーカー",
+        "ASMLはアムステルダム市場で9%超急落したが、JPモルガンは年間5台の生産はASMLの年131台と比較にならないと冷静な見方を示した"
+      ],
+      "jackView": "中国製装置はまだ性能面でASMLに大きく劣ります。市場は過剰反応している可能性がありますが、中長期では半導体勢力図に影響する動きとして注視が必要です。",
+      "sources": [
+        {
+          "title": "GIGAZINE",
+          "url": "https://gigazine.net/news/20260728-china-making-duv/"
+        },
+        {
+          "title": "Yahoo!ニュース（Bloomberg）",
+          "url": "https://news.yahoo.co.jp/articles/a47c823039308886ebf6ab8e8f60f9af79798aec"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31249696/pexels-photo-31249696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1150-03",
+      "time": "2026-07-28T11:50",
+      "category": "jpstock",
+      "title": "韓国KOSPI 8%超暴落でサーキットブレーカー発動 サムスン・SKハイニックスが急落",
+      "summary": [
+        "7月28日の韓国KOSPI指数は前日比8.02%安の6,213ポイントまで下落し、今年8回目のサーキットブレーカーが発動した",
+        "サムスン電子が7%超、SKハイニックスが9%超の急落となり、半導体セクターが下落を主導した",
+        "中国CXMTの台頭による韓国半導体産業の競争力低下への懸念が急速に広がった"
+      ],
+      "jackView": "韓国市場のサーキットブレーカーは今年8回目で、ボラティリティの高さが際立ちます。東京市場への連鎖に注意しつつ、パニック売りには付き合わない姿勢が大切です。",
+      "sources": [
+        {
+          "title": "TradingKey",
+          "url": "https://www.tradingkey.com/jp/analysis/stocks/more/262057318-kospi-drops-trigger-samsung-sk-hynix-tumble-tradingkey"
+        },
+        {
+          "title": "BigGoファイナンス",
+          "url": "https://finance.biggo.jp/news/358a7c96-06e3-40a6-a9ec-f4f882ab92c9"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1145-04",
+      "time": "2026-07-28T11:45",
+      "category": "jpstock",
+      "title": "キーエンスが本日Q1決算発表 前期5期連続最高益から半導体暴落局面での注目度大",
+      "summary": [
+        "キーエンス（6861）が7月28日に2027年3月期第1四半期の決算を発表する予定",
+        "前期（2026年3月期）は売上高1兆1,692億円（前年比+10.4%）、経常利益6,357億円（同+13.3%）で5期連続の過去最高益を記録した",
+        "半導体関連株が急落する中、FA・センサー事業の底堅さを示せるかが株価の方向感を左右する"
+      ],
+      "jackView": "本日の半導体暴落で市場全体が混乱していますが、キーエンスの決算はFA需要の実態を映す重要な指標です。数字の中身を冷静に確認してから評価してください。",
+      "sources": [
+        {
+          "title": "Yahoo!ファイナンス（株探ニュース）",
+          "url": "https://finance.yahoo.co.jp/news/detail/ac50ec2a1abc490489153a0ce045c3575fc18719"
+        },
+        {
+          "title": "株探",
+          "url": "https://kabutan.jp/stock/finance?code=6861"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/16325607/pexels-photo-16325607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1140-05",
+      "time": "2026-07-28T11:40",
+      "category": "usstock",
+      "title": "FOMC 7月会合が本日開幕 FF金利据え置き観測の中パウエル議長会見に世界が注目",
+      "summary": [
+        "FRBは7月28〜29日にFOMCを開催し、29日午後2時（米東部時間）に声明文を発表する",
+        "現在のFF金利は3.50〜3.75%で据え置きが確実視されており、今回はドットプロット（経済見通し）の公表はない",
+        "パウエル議長の記者会見で利下げ時期や年内の政策方針に関するヒントが出るかが最大の焦点となる"
+      ],
+      "jackView": "据え置き自体はサプライズではありませんが、パウエル議長の一言で相場は大きく動きます。会見の内容を確認するまで慌てた売買は控えることを私はお勧めします。",
+      "sources": [
+        {
+          "title": "株式新聞Web",
+          "url": "https://kabushiki.jp/news/759291"
+        },
+        {
+          "title": "財経新聞",
+          "url": "https://www.zaikei.co.jp/article/20260728/863054.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1135-06",
+      "time": "2026-07-28T11:35",
+      "category": "fx",
+      "title": "ドル円163円台後半で小動き 日経暴落でもFOMC前の様子見姿勢が継続",
+      "summary": [
+        "7月28日午前のドル円は163円78銭前後で推移し、前日終値からほぼ横ばいの展開となった",
+        "日経平均が3,000円超の暴落となったにもかかわらず、為替市場はFOMCの結果待ちで方向感が出なかった",
+        "29日のFOMC声明と31日の日銀会合の結果次第で162〜165円の広いレンジで動く可能性がある"
+      ],
+      "jackView": "日経暴落でも為替が動かないのはFOMC前の静けさです。結果発表後に一気に動く可能性が高いので、レバレッジは控えめにしておいてください。",
+      "sources": [
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/28/081514"
+        },
+        {
+          "title": "株探",
+          "url": "https://s.kabutan.jp/news/n202607280293/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1130-07",
+      "time": "2026-07-28T11:30",
+      "category": "seido",
+      "title": "NISA 2027年から0〜17歳にも解禁 つみたて枠で年60万円・対象指数も拡充へ",
+      "summary": [
+        "2026年度税制改正によりNISAのつみたて投資枠が2027年1月から0〜17歳にも開放され、年間60万円（上限600万円）まで非課税投資が可能になる",
+        "つみたて枠の対象指数に読売株価指数やJPXプライム150が追加され、債券50%以上を含む投信も対象に加わる",
+        "売却後の非課税枠復活が翌年から当年中に前倒しされ、年内での銘柄入れ替えも容易になる"
+      ],
+      "jackView": "子どものNISA解禁は長期投資の選択肢を広げる改正です。ただし2027年開始なので今から情報を集め、制度の詳細が確定してから口座開設に動くことを私はお勧めします。",
+      "sources": [
+        {
+          "title": "東洋経済オンライン",
+          "url": "https://toyokeizai.net/articles/-/924667"
+        },
+        {
+          "title": "NRI 野村総合研究所",
+          "url": "https://www.nri.com/jp/media/column/kiuchi/20251215_2.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1125-08",
+      "time": "2026-07-28T11:25",
+      "category": "point",
+      "title": "d払いスタンプからdカード決済が対象外に 7月の改悪でポイ活戦略の見直し必要",
+      "summary": [
+        "7月1日より「d払いdカードスタンプ」が「d払いスタンプ」に名称変更され、dカード各種（dカード/GOLD/PLATINUM）での支払いがスタンプ付与の対象外となった",
+        "対象はd払い（街・ネット・請求書払い）とd払いタッチのみに限定され、dカードユーザーにとって実質的な改悪となる",
+        "6月30日までにdカードで獲得した宝箱は7月5日まで報酬受取が可能だった"
+      ],
+      "jackView": "dカードとd払いの二刀流でポイントを貯めていた方には影響が大きい変更です。d払い中心の利用に切り替えるか、他社カードとの組み合わせを見直してみてください。",
+      "sources": [
+        {
+          "title": "ケータイWatch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2109399.html"
+        },
+        {
+          "title": "NTTドコモ（公式）",
+          "url": "https://service.smt.docomo.ne.jp/keitai_payment/info/info_20260515_1.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1120-09",
+      "time": "2026-07-28T11:20",
+      "category": "sidehustle",
+      "title": "ITフリーランス人口が37万人に拡大 AIツール活用層は月単価10万円高の傾向",
+      "summary": [
+        "2025年時点のITフリーランス人口は約37万人（前年比4.6%増）に拡大し、フリーランスエージェント市場は3,183億円（前年比24.3%増）に成長した",
+        "生成AIコード生成ツール（GitHub CopilotやCursorなど）を活用するエンジニアは、未活用者と比べて月単価が約10万円高い傾向が報告されている",
+        "フリーランス保護法の施行により発注者側のルールが明確化され、報酬未払いトラブルの減少にもつながっている"
+      ],
+      "jackView": "フリーランス市場は拡大していますが、AIツールを使いこなせるかどうかで収入格差が開いています。まずは本業の中でAIツールに慣れてから独立を検討してください。",
+      "sources": [
+        {
+          "title": "CREATIVE VILLAGE",
+          "url": "https://www.creativevillage.ne.jp/category/skillup/knowledge/171755/"
+        },
+        {
+          "title": "おやシュミ（副業・フリーランス動向）",
+          "url": "https://www.oyashumi.tokyo/2026%E5%B9%B407%E6%9C%8806%E6%97%A5%E3%81%AE%E5%89%AF%E6%A5%AD%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E5%8B%95%E5%90%91%E3%81%BE%E3%81%A8%E3%82%81/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260728-1115-10",
+      "time": "2026-07-28T11:15",
+      "category": "scam",
+      "title": "【警戒】SNS型投資詐欺が深刻化 2025年の被害額1,275億円で前年比46%増",
+      "summary": [
+        "警察庁の統計によると2025年のSNS型投資詐欺の認知件数は9,538件・被害額1,274.7億円で、前年比それぞれ48.7%・46.3%の大幅増加となった",
+        "YouTubeを入口とした詐欺接触が前年比約20倍に急増しており、ショート動画を活用した新たな手口が被害拡大の一因となっている",
+        "2026年2月末時点でも特殊詐欺全体の被害額は593.8億円に達し、被害の増加ペースは衰えていない"
+      ],
+      "jackView": "投資詐欺の被害は年々深刻化しています。YouTube広告やショート動画で「簡単に稼げる」と誘う手口が急増中です。うまい話には必ず裏があると心得てください。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "警察庁 SOS47",
+          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/260213/03.html"
+        },
+        {
+          "title": "JSSEC",
+          "url": "https://www.jssec.org/column/20260327.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260728-0605-01",
       "time": "2026-07-28T06:05",
@@ -59,7 +293,7 @@
           "url": "https://s.kabutan.jp/news/n202607280019/"
         }
       ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0600-02",
@@ -78,7 +312,7 @@
           "url": "https://minkabu.jp/news/4577139"
         }
       ],
-      "image": "https://images.pexels.com/photos/31249696/pexels-photo-31249696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5835417/pexels-photo-5835417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0555-03",
@@ -101,7 +335,7 @@
           "url": "https://bestcarweb.jp/newcar/1579681"
         }
       ],
-      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14089266/pexels-photo-14089266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0550-04",
@@ -124,7 +358,7 @@
           "url": "https://kabucho.com/calendar/us"
         }
       ],
-      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0545-05",
@@ -147,7 +381,7 @@
           "url": "https://www.gaitame.com/media/entry/2026/07/25/060400"
         }
       ],
-      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0540-06",
@@ -170,7 +404,7 @@
           "url": "https://www.interactivecrypto.com/ja/2026-7-fomc-jul-2026-3"
         }
       ],
-      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/29110760/pexels-photo-29110760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0535-07",
@@ -193,7 +427,7 @@
           "url": "https://www.itmedia.co.jp/mobile/articles/2607/24/news061.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0530-08",
@@ -216,7 +450,7 @@
           "url": "https://hachiwarers.com/rekutencash-202608/"
         }
       ],
-      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0525-09",
@@ -239,7 +473,7 @@
           "url": "https://group.kadokawa.co.jp/information/news_release/2026032401.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260728-0520-10",
@@ -266,7 +500,7 @@
           "url": "https://otakuma.net/archives/2026072605.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1835-01",
@@ -289,7 +523,7 @@
           "url": "https://news.yahoo.co.jp/articles/b420c44fec55042861b36b645c2e305e0658a21b"
         }
       ],
-      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1830-02",
@@ -312,7 +546,7 @@
           "url": "https://kabushiki.jp/news/759260"
         }
       ],
-      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/19891027/pexels-photo-19891027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1825-03",
@@ -335,7 +569,7 @@
           "url": "https://www.zaikei.co.jp/article/20260727/862924.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/16594725/pexels-photo-16594725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1820-04",
@@ -358,7 +592,7 @@
           "url": "https://www.oanda.jp/lab-education/market_news/2026_07_27_usdjpy/"
         }
       ],
-      "image": "https://images.pexels.com/photos/7235895/pexels-photo-7235895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/11624771/pexels-photo-11624771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1815-05",
@@ -381,7 +615,7 @@
           "url": "https://toushin-news.jp/others/news-07152026-3/"
         }
       ],
-      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1810-06",
@@ -404,7 +638,7 @@
           "url": "https://media.rakuten-sec.net/articles/-/52146"
         }
       ],
-      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/4476375/pexels-photo-4476375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1805-07",
@@ -427,7 +661,7 @@
           "url": "https://www.jafit.jp/priority-pass-downgrade/"
         }
       ],
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1800-09",
@@ -450,7 +684,7 @@
           "url": "https://rakkoma.com/media/home-based-side-job/"
         }
       ],
-      "image": "https://images.pexels.com/photos/6326157/pexels-photo-6326157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3767406/pexels-photo-3767406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1755-10",
@@ -473,7 +707,7 @@
           "url": "https://www.fsa.go.jp/ordinary/chuui/attention.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-1750-11",
@@ -496,7 +730,7 @@
           "url": "https://www.all-senmonka.jp/moneyizm/money/315382/"
         }
       ],
-      "image": "https://images.pexels.com/photos/4476375/pexels-photo-4476375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0610-01",
@@ -519,7 +753,7 @@
           "url": "https://www.dlri.co.jp/report/macro/634578.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/6770775/pexels-photo-6770775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0605-02",
@@ -542,7 +776,7 @@
           "url": "https://www.moneypost.jp/1427720"
         }
       ],
-      "image": "https://images.pexels.com/photos/16325607/pexels-photo-16325607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/3013999/pexels-photo-3013999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0600-03",
@@ -565,7 +799,7 @@
           "url": "https://www.zaikei.co.jp/article/20260725/862802.html"
         }
       ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0555-04",
@@ -588,7 +822,7 @@
           "url": "https://www.nikkei.com/article/DGXZQOFL175BMTX10C26A7000000/"
         }
       ],
-      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0550-05",
@@ -611,7 +845,7 @@
           "url": "https://cc.minkabu.jp/pair/BTC_JPY"
         }
       ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0545-06",
@@ -634,7 +868,7 @@
           "url": "https://www.soico.jp/no1/news/securities/8996"
         }
       ],
-      "image": "https://images.pexels.com/photos/7111590/pexels-photo-7111590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/261621/pexels-photo-261621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0540-07",
@@ -657,7 +891,7 @@
           "url": "https://nocash.news/archives/8456"
         }
       ],
-      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0535-08",
@@ -684,7 +918,7 @@
           "url": "https://news.livedoor.com/topics/detail/31863751/"
         }
       ],
-      "image": "https://images.pexels.com/photos/3767406/pexels-photo-3767406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/37698747/pexels-photo-37698747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0530-09",
@@ -711,7 +945,7 @@
           "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
         }
       ],
-      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260727-0525-10",
@@ -734,7 +968,7 @@
           "url": "https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf"
         }
       ],
-      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
