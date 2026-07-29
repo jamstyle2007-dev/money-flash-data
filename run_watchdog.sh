@@ -51,7 +51,7 @@ fi
 # ② AI修復: ログとドラフトを調査して draft_today.json を完成させる
 echo "--- AI修復フェーズ ---"
 claude -p "$(cat REPAIR_PROMPT.md)" \
-  --allowedTools "Read" "Write" "WebSearch" "WebFetch" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" "Bash(python3 tools/checkdraft.py:*)" "Bash(python3 tools/add_issue.py:*)" \
+  --allowedTools "Read" "Write" "WebSearch" "WebFetch" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" "Bash(python3 tools/checkdraft.py:*)" "Bash(python3 tools/checkfresh.py:*)" "Bash(python3 tools/add_issue.py:*)" \
   --max-turns 40
 echo "repair claude exit: $?"
 

@@ -48,7 +48,7 @@ $(cat "$ERRFILE")"
   fi
 
   claude -p "$PROMPT" \
-    --allowedTools "WebSearch" "WebFetch" "Read" "Write" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" "Bash(python3 tools/checkdraft.py:*)" \
+    --allowedTools "WebSearch" "WebFetch" "Read" "Write" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" "Bash(python3 tools/checkdraft.py:*)" "Bash(python3 tools/checkfresh.py:*)" \
     --max-turns 40
   echo "claude exit: $?"
 
@@ -61,6 +61,19 @@ $(cat "$ERRFILE")"
   # 自動修復2段: 引用符など構文修復 → 禁止表現の自動言い換え
   python3 tools/checkdraft.py --fix || true
   python3 tools/sanitize.py draft_today.json || true
+
+  # 鮮度チェック（検出器）: 古いネタは試行1なら差し替え再生成。試行2は警告のみで配信続行
+  FRESHERR="/tmp/mf_fresh_err.txt"
+  if ! python3 tools/checkfresh.py > "$FRESHERR" 2>&1; then
+    cat "$FRESHERR"
+    if [ "$ATTEMPT" = "1" ]; then
+      cp "$FRESHERR" "$ERRFILE"
+      echo "鮮度NG（試行1）。より新しいネタで再生成する"
+      continue
+    fi
+    echo "鮮度NG（試行2）。配信優先で続行"
+    notify "本日号に古いネタの疑いあり。配信は継続（$TODAY）"
+  fi
 
   if python3 tools/add_issue.py draft_today.json > "$ERRFILE" 2>&1; then
     cat "$ERRFILE"

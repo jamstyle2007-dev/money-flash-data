@@ -5,22 +5,33 @@
 
 1. `date "+%Y-%m-%d"` で今日の日付（JST）を確認する
 2. `issues.json` を読み、今日の号が既に存在すれば何もせず「SKIP: 既に本日号あり」とだけ出力して終了する
-3. Web検索・閲覧で今朝のネタを収集する（各枠2〜3回検索して最も鮮度と実益のあるものを選ぶ）
+3. Web検索・閲覧で今朝のネタを収集する（各枠2〜3回検索して最も鮮度と実益のあるものを選ぶ）。**鮮度ルール（下記）を厳守**
    - MONEY枠: 株価・為替・企業決算の動き／NISA・税制・金利など制度／ポイ活・マイル・クレジットカードの有益情報（還元変更・改悪改善）。「個人の財布・資産形成に効く変化」を1本
    - SIDE HUSTLE枠: AI副業・アプリ開発・コンテンツ販売・せどり等「個人の稼ぎ方」に効くニュースを1本
-   - SCAM ALERT枠: 最新の詐欺手口を1本。情報源の優先順位は ①金融庁の注意喚起・無登録業者リスト（https://www.fsa.go.jp/ordinary/chuui/mutoroku.html） ②警察庁/消費者庁の注意喚起 ③jack-invest.com の新着警告記事 ④信頼できる報道
+   - SCAM ALERT枠: 最新の詐欺・悪質勧誘の手口を1本。**まず** `https://jack-invest.com/wp-json/wp/v2/posts?per_page=10&orderby=date&_fields=link,title,date` をWebFetchで確認し、**7日以内公開**の詐欺・悪質勧誘系の新着記事（例: 悪徳FPの海外積立勧誘、オフショア積立、SNS型投資詐欺、無登録業者）があり過去号で未掲載なら**最優先で採用**する。その場合は sources の先頭をその記事リンクにし、sourceDate は記事の公開日、comment の締めで「詳しい対処手順はブログで解説した」等と記事へ誘導する。該当が無ければ ①金融庁の注意喚起・無登録業者リスト（https://www.fsa.go.jp/ordinary/chuui/mutoroku.html） ②警察庁/消費者庁の注意喚起 ③信頼できる報道 の順で探す
 4. `draft_today.json` を次の形式で書く:
 
 ```json
 {
   "date": "（今日の日付）",
   "articles": [
-    { "category": "money",      "title": "...", "flash": ["...", "...", "..."], "comment": "...", "sources": [{"title": "...", "url": "https://..."}] },
-    { "category": "sidehustle", "title": "...", "flash": ["...", "...", "..."], "comment": "...", "sources": [{"title": "...", "url": "https://..."}] },
-    { "category": "scam",       "title": "【警戒】...", "flash": ["...", "...", "..."], "comment": "...", "sources": [{"title": "...", "url": "https://..."}] }
+    { "category": "money",      "title": "...", "sourceDate": "YYYY-MM-DD", "flash": ["...", "...", "..."], "comment": "...", "sources": [{"title": "...", "url": "https://..."}] },
+    { "category": "sidehustle", "title": "...", "sourceDate": "YYYY-MM-DD", "flash": ["...", "...", "..."], "comment": "...", "sources": [{"title": "...", "url": "https://..."}] },
+    { "category": "scam",       "title": "【警戒】...", "sourceDate": "YYYY-MM-DD", "flash": ["...", "...", "..."], "comment": "...", "sources": [{"title": "...", "url": "https://..."}] }
   ]
 }
 ```
+
+# 鮮度ルール（最重要・2026-07-30追加）
+
+アプリの約束は「今朝の新着3本」。古いニュースを載せると読者の信用を失う（実際に指摘を受けた）。
+
+- 一次ソース（sources先頭）の**発行日**が、money/sidehustle枠は**2日以内**、scam枠は**7日以内**のものだけ採用する
+- 採用前に必ずソースページを開き、**ページ本文で発行日を確認**する。検索結果の見出しやスニペットの印象だけで採用しない
+- URLに日付コードが埋まっていることが多い（例: `news/260601` → 2026年6月1日、`/241218/` → 2024年12月18日）。古い日付コードのURLを一次ソースにしない
+- 各記事に `"sourceDate"`（一次ソースの発行日 YYYY-MM-DD）を必ず入れる
+- 例外は「施行・開始・締切が**今日か明日**」の制度変更だけ。その場合はタイトルを「明日から〜」のように時点起点で書き、`"effectiveDate"` に施行日を入れる（発表が古くても可）
+- 書き終えたら `python3 tools/checkfresh.py` を実行して鮮度チェックを通すこと。NGなら該当記事を新しいネタに差し替えてOKになるまで終了しない
 
 # JSONルール（厳守・2026-07-22追加）
 
@@ -42,4 +53,4 @@
 - git操作（add/commit/push）は一切しない。公開はスクリプト側が検証後に行う
 - issues.json を直接編集しない。書くのは draft_today.json のみ
 
-完了条件: `python3 tools/checkdraft.py` がOKを返すこと。確認できたら「DONE: draft_today.json 作成済み」とだけ出力して終了してください。
+完了条件: `python3 tools/checkdraft.py` と `python3 tools/checkfresh.py` が両方OKを返すこと。確認できたら「DONE: draft_today.json 作成済み」とだけ出力して終了してください。
