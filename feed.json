@@ -1,43 +1,277 @@
 {
-  "updated": "2026-07-29T06:10",
+  "updated": "2026-07-30T06:10",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "62,365",
-      "change": "-2,566",
-      "changePct": "-3.95%"
+      "value": "61,434",
+      "change": "-931",
+      "changePct": "-1.49%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "3,964",
-      "change": "-102",
-      "changePct": "-2.52%"
+      "value": "3,974",
+      "change": "+10",
+      "changePct": "+0.26%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.87",
-      "change": "+0.12",
-      "changePct": "+0.07%"
+      "value": "163.90",
+      "change": "+0.03",
+      "changePct": "+0.02%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,413",
-      "change": "+1",
-      "changePct": "+0.02%"
+      "value": "7,316",
+      "change": "-113",
+      "changePct": "-1.52%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.5M",
-      "change": "-2.5%",
-      "changePct": "-2.5%"
+      "value": "¥10.4M",
+      "change": "-0.6%",
+      "changePct": "-0.6%"
     }
   ],
   "items": [
+    {
+      "id": "20260730-0610-01",
+      "time": "2026-07-30T06:10",
+      "category": "market",
+      "title": "FOMCは5会合連続の据え置きもタカ派色 NYダウ1,153ドル安で昨年4月以来の下げ",
+      "summary": [
+        "FRBは7月29日のFOMCで政策金利を3.5〜3.75%に据え置いた。決定は9対3で、3人の委員が0.25%利上げを主張した",
+        "インフレ抑制で後手に回るとの懸念から米長期金利が上昇し、ダウ平均は1,153ドル（2.19%）安の51,594ドルと2025年4月以来の下げ幅を記録した",
+        "S&P500は1.52%安の7,316、ナスダックは1.74%安の24,442で引け、ナスダックは最高値から10%超下の水準となった"
+      ],
+      "jackView": "据え置きなのに株が大きく下げたのは、市場がFRBの姿勢をタカ派と受け止めた証拠です。今夜の日本株も荒れやすいので、慌てて動かないことを私はお勧めします。",
+      "sources": [
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0605-02",
+      "time": "2026-07-30T06:05",
+      "category": "market",
+      "title": "日経平均は930円安の61,434円で大幅続落 TOPIXは小幅反発で明暗",
+      "summary": [
+        "7月29日の日経平均は前日比930円73銭安の61,434円19銭と大幅続落し、2日間の下げ幅は3,400円を超えた",
+        "半導体関連への売りが続く一方、TOPIXは0.26%高の3,974.03と小幅に反発し、指数間で明暗が分かれた",
+        "プライム市場ではストップ高が8銘柄、ストップ安が3銘柄と、決算を手がかりにした個別物色も活発だった"
+      ],
+      "jackView": "日経平均が下げてもTOPIXが上がる日は、売りが一部の値がさ半導体株に偏っているサインです。指数だけでなく自分の保有銘柄の値動きで判断してください。",
+      "sources": [
+        {
+          "title": "株式新聞Web",
+          "url": "https://kabushiki.jp/news/759649"
+        },
+        {
+          "title": "株探ニュース",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607290622"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2893771/pexels-photo-2893771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0600-03",
+      "time": "2026-07-30T06:00",
+      "category": "jpstock",
+      "title": "アドバンテストが通期純利益予想を42%上方修正 AI向け半導体テスト需要が想定超え",
+      "summary": [
+        "アドバンテストは7月29日、通期の純利益予想を42%引き上げ、過去最高益の見通しをさらに上方修正した",
+        "第1四半期は営業利益の増益率が24.0%から75.8%に拡大し、売上高は計画を20.7%上回った",
+        "AI関連半導体のテスト需要が想定より強く、同日は日立やNECなども好決算を発表した"
+      ],
+      "jackView": "半導体株全体が売られる中でも、業績そのものは強い会社があることを示す決算です。株価の下げと業績の悪化を混同しないよう、私は決算内容を必ず確認しています。",
+      "sources": [
+        {
+          "title": "株探ニュース（イチオシ決算）",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607291370"
+        },
+        {
+          "title": "株探ニュース（サプライズ決算）",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607291205"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0555-04",
+      "time": "2026-07-30T05:55",
+      "category": "jpstock",
+      "title": "カプコンが19.8%高 新作「プラグマタ」好発進で第1四半期営業利益67%増",
+      "summary": [
+        "7月29日のカプコン株は前日比19.8%高と急伸し、東証プライムの値上がり率上位に入った",
+        "第1四半期の営業利益は前年同期比67%増となり、新作ゲーム「プラグマタ」の販売好調が寄与した",
+        "この日はシリコンスタジオが29.5%高、円谷フィールズHDが20.7%高など、好決算銘柄への物色が目立った"
+      ],
+      "jackView": "地合いが悪い日ほど、好決算で買われる銘柄は本物の強さが出やすいと私は見ています。全面安の中で上がった銘柄をメモしておくと、後の反発局面で役立ちます。",
+      "sources": [
+        {
+          "title": "株探ニュース",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607290622"
+        },
+        {
+          "title": "Yahoo!ファイナンス（株探ニュース）",
+          "url": "https://finance.yahoo.co.jp/news/detail/2c2a801babe69c49f18da0833099dc92acdf81fb"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/19891027/pexels-photo-19891027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0550-05",
+      "time": "2026-07-30T05:50",
+      "category": "fx",
+      "title": "ドル円は163円台後半で膠着 約40年ぶり高値164円が目前 きょうから日銀会合",
+      "summary": [
+        "7月29日のドル円はFOMC結果待ちで163円台後半で膠着し、一時163.95円前後まで上昇して約40年ぶり高値の163.99円に迫った",
+        "FOMCはタカ派的な据え置きとなり、市場では164〜165円方向への上昇と日米当局の為替介入への警戒が交錯している",
+        "日銀は7月30〜31日に金融政策決定会合を開き、結果は31日に公表される"
+      ],
+      "jackView": "164円の節目は約40年ぶりの水準で、超えると介入警戒が一気に高まります。日銀会合の結果まで為替は上下に振れやすいので、レバレッジのかけ過ぎに注意してください。",
+      "sources": [
+        {
+          "title": "みんかぶFX",
+          "url": "https://fx.minkabu.jp/news/374626"
+        },
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/29/160440"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0545-06",
+      "time": "2026-07-30T05:45",
+      "category": "crypto",
+      "title": "ビットコインはFOMC通過後に63,700ドル台へ反落 一時の戻りを消す展開",
+      "summary": [
+        "ビットコインはFOMCの据え置き発表直後に64,400ドルまで上昇したが、その後63,700ドル前後まで反落し日中の上げを消した",
+        "円建て価格は7月29日に一時1,028万円まで下げた後、終値は1,046万円台まで戻していた",
+        "FOMC前には利上げ観測から63,000ドル割れの場面があり、約1億ドル分のロングポジションが清算された"
+      ],
+      "jackView": "イベント直後の急騰が続かない相場は上値の重さを示しています。方向感が出るまでは、価格を追いかけた高値づかみをしないよう私は心がけています。",
+      "sources": [
+        {
+          "title": "ビットバンクプラス",
+          "url": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-29"
+        },
+        {
+          "title": "Bitcoin.com News",
+          "url": "https://news.bitcoin.com/market-updates/bitcoin-traders-push-price-back-to-64400-after-fed-decision-eases-market-jitters/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0540-07",
+      "time": "2026-07-30T05:40",
+      "category": "seido",
+      "title": "2026年度最低賃金の目安は55円引き上げ 全国平均1,176円へ 地方が都市部を上回る",
+      "summary": [
+        "中央最低賃金審議会の小委員会は7月28日、2026年度の最低賃金引き上げ目安を全国加重平均55円（4.9%）と取りまとめた",
+        "目安どおりなら全国平均は現在の1,121円から1,176円に上がる。ランク別ではAランク（東京・大阪など6都府県）が54円、B・Cランクが56円と地方の引き上げ幅が大きい",
+        "今後は各都道府県の地方審議会が地域事情を踏まえて審議し、例年どおりなら10月から順次適用される"
+      ],
+      "jackView": "パートやアルバイトの収入だけでなく、扶養の年収の壁との兼ね合いにも影響する改定です。お住まいの県の確定額と発効日を秋までに確認しておくことをお勧めします。",
+      "sources": [
+        {
+          "title": "Jinji社会保険労務士法人",
+          "url": "https://jinji-sr.jp/2026/07/29/news-180/"
+        },
+        {
+          "title": "税務・労務情報（taxlabor.com）",
+          "url": "https://taxlabor.com/minimum-wage-update/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0535-08",
+      "time": "2026-07-30T05:35",
+      "category": "point",
+      "title": "楽天ブランドデーが7月30〜31日開催 「5と0のつく日」併用で最大27倍",
+      "summary": [
+        "楽天市場のブランドデーが7月30日0時から31日23時59分までの2日間限定で開催される",
+        "特設ページからのエントリーと対象ブランド購入でポイント最大24倍となり、初日の30日は「5と0のつく日」の+3倍と併用でき最大27倍になる",
+        "7月はスマホ決済各社の自治体連携キャンペーンも多く、神奈川県では中小店舗で20%還元などが実施されている"
+      ],
+      "jackView": "倍率の高さより、もともと買う予定の物を安く買えるかが大切です。ポイント欲しさの不要な買い物は本末転倒なので、購入リストを先に決めてから臨んでください。",
+      "sources": [
+        {
+          "title": "楽天ポイントアップカレンダー（公式）",
+          "url": "https://calendar.rakuten.co.jp/cal/6286"
+        },
+        {
+          "title": "アプリオ",
+          "url": "https://appllio.com/rakuten-ichiba-deals-day"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0530-09",
+      "time": "2026-07-30T05:30",
+      "category": "sidehustle",
+      "title": "フリーランス人口は2026年に210万人へ 前年比7.7%増 エージェント市場も3,183億円に拡大",
+      "summary": [
+        "フリーランス人材白書2026によると、フリーランスの数は2026年に210万人に達する見通しで、前年比約7.7%の増加となる",
+        "ITフリーランス人口は約37万人に拡大し、案件を仲介するフリーランスエージェント市場は3,183億円規模に成長した",
+        "企業の56.4%が兼業・副業を容認しており、条件付きを含め会社員が複数の収入源を持ちやすい環境が広がっている"
+      ],
+      "jackView": "働き手が増えるほど、単価の高い人と安い人の二極化も進みます。会社員のうちに小さく始めて実績を作っておくことが、私は一番の防御策だと考えています。",
+      "sources": [
+        {
+          "title": "リアラボ（フリーランス人材白書2026）",
+          "url": "https://rialab.jp/blog/2026-05-21-173460/"
+        },
+        {
+          "title": "PR TIMES（副業関連リリース）",
+          "url": "https://prtimes.jp/topics/keywords/%E5%89%AF%E6%A5%AD"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260730-0525-10",
+      "time": "2026-07-30T05:25",
+      "category": "scam",
+      "title": "【警戒】SNS型投資詐欺は50〜60代が被害の半数 きっかけはLINEとInstagramが約5割",
+      "summary": [
+        "警察庁などのまとめでは、SNS型投資詐欺の被害者は50代が最も多く、60代と合わせて全体の半数を占める",
+        "被害のきっかけとなったツールはLINEとInstagramで約半数を占め、著名人をかたる偽広告からの誘導も続いている",
+        "金融庁はSNSやマッチングアプリで知り合った相手からの投資勧誘に応じないよう注意を呼びかけている"
+      ],
+      "jackView": "有名人の名前と実績画像を見せられても、送金先が個人口座や海外業者なら詐欺を疑ってください。うまい話ほど一晩置いて、家族か公的窓口に相談するのが鉄則です。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "金融庁（公式）",
+          "url": "https://www.fsa.go.jp/ordinary/chuui/sns.html"
+        },
+        {
+          "title": "警察庁 SOS47特殊詐欺対策ページ",
+          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260729-0610-01",
       "time": "2026-07-29T06:10",
@@ -275,470 +509,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1200-01",
-      "time": "2026-07-28T12:00",
-      "category": "market",
-      "title": "日経平均が前場2,885円安の急落 中国DUV露光装置量産報道で半導体株に売り殺到",
-      "summary": [
-        "7月28日の日経平均は前場引けで62,046円（前日比2,884円安、-4.44%）と大幅反落し、下落幅は一時3,000円を超えた",
-        "中国政府系企業が液浸DUV露光装置の量産を開始したとの報道がトリガーとなり、半導体関連株に売りが殺到した",
-        "韓国KOSPIも8%超の暴落でサーキットブレーカーが発動し、アジア株全体にリスクオフの連鎖が広がった"
-      ],
-      "jackView": "前場の下落幅は衝撃的ですが、こうした暴落局面では冷静さが最も重要です。狼狽売りは避け、後場の値動きやFOMCの結果を見極めてから判断することを私はお勧めします。",
-      "sources": [
-        {
-          "title": "株式新聞Web",
-          "url": "https://kabushiki.jp/news/759373"
-        },
-        {
-          "title": "ダイヤモンドZAi",
-          "url": "https://zai.diamond.jp/articles/-/492907"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1155-02",
-      "time": "2026-07-28T11:55",
-      "category": "market",
-      "title": "中国政府系企業が液浸DUV露光装置の量産を開始 ASMLの市場独占に風穴の報道",
-      "summary": [
-        "中国・上海の政府系企業が液浸型DUV露光装置の量産を開始し、2026年中に約5台を製造する計画が報じられた",
-        "納入先はSMIC・華虹半導体・CXMT（長鑫存儲技術）など中国国内の主要半導体メーカー",
-        "ASMLはアムステルダム市場で9%超急落したが、JPモルガンは年間5台の生産はASMLの年131台と比較にならないと冷静な見方を示した"
-      ],
-      "jackView": "中国製装置はまだ性能面でASMLに大きく劣ります。市場は過剰反応している可能性がありますが、中長期では半導体勢力図に影響する動きとして注視が必要です。",
-      "sources": [
-        {
-          "title": "GIGAZINE",
-          "url": "https://gigazine.net/news/20260728-china-making-duv/"
-        },
-        {
-          "title": "Yahoo!ニュース（Bloomberg）",
-          "url": "https://news.yahoo.co.jp/articles/a47c823039308886ebf6ab8e8f60f9af79798aec"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/31249696/pexels-photo-31249696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1150-03",
-      "time": "2026-07-28T11:50",
-      "category": "jpstock",
-      "title": "韓国KOSPI 8%超暴落でサーキットブレーカー発動 サムスン・SKハイニックスが急落",
-      "summary": [
-        "7月28日の韓国KOSPI指数は前日比8.02%安の6,213ポイントまで下落し、今年8回目のサーキットブレーカーが発動した",
-        "サムスン電子が7%超、SKハイニックスが9%超の急落となり、半導体セクターが下落を主導した",
-        "中国CXMTの台頭による韓国半導体産業の競争力低下への懸念が急速に広がった"
-      ],
-      "jackView": "韓国市場のサーキットブレーカーは今年8回目で、ボラティリティの高さが際立ちます。東京市場への連鎖に注意しつつ、パニック売りには付き合わない姿勢が大切です。",
-      "sources": [
-        {
-          "title": "TradingKey",
-          "url": "https://www.tradingkey.com/jp/analysis/stocks/more/262057318-kospi-drops-trigger-samsung-sk-hynix-tumble-tradingkey"
-        },
-        {
-          "title": "BigGoファイナンス",
-          "url": "https://finance.biggo.jp/news/358a7c96-06e3-40a6-a9ec-f4f882ab92c9"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1145-04",
-      "time": "2026-07-28T11:45",
-      "category": "jpstock",
-      "title": "キーエンスが本日Q1決算発表 前期5期連続最高益から半導体暴落局面での注目度大",
-      "summary": [
-        "キーエンス（6861）が7月28日に2027年3月期第1四半期の決算を発表する予定",
-        "前期（2026年3月期）は売上高1兆1,692億円（前年比+10.4%）、経常利益6,357億円（同+13.3%）で5期連続の過去最高益を記録した",
-        "半導体関連株が急落する中、FA・センサー事業の底堅さを示せるかが株価の方向感を左右する"
-      ],
-      "jackView": "本日の半導体暴落で市場全体が混乱していますが、キーエンスの決算はFA需要の実態を映す重要な指標です。数字の中身を冷静に確認してから評価してください。",
-      "sources": [
-        {
-          "title": "Yahoo!ファイナンス（株探ニュース）",
-          "url": "https://finance.yahoo.co.jp/news/detail/ac50ec2a1abc490489153a0ce045c3575fc18719"
-        },
-        {
-          "title": "株探",
-          "url": "https://kabutan.jp/stock/finance?code=6861"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/16325607/pexels-photo-16325607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1140-05",
-      "time": "2026-07-28T11:40",
-      "category": "usstock",
-      "title": "FOMC 7月会合が本日開幕 FF金利据え置き観測の中パウエル議長会見に世界が注目",
-      "summary": [
-        "FRBは7月28〜29日にFOMCを開催し、29日午後2時（米東部時間）に声明文を発表する",
-        "現在のFF金利は3.50〜3.75%で据え置きが確実視されており、今回はドットプロット（経済見通し）の公表はない",
-        "パウエル議長の記者会見で利下げ時期や年内の政策方針に関するヒントが出るかが最大の焦点となる"
-      ],
-      "jackView": "据え置き自体はサプライズではありませんが、パウエル議長の一言で相場は大きく動きます。会見の内容を確認するまで慌てた売買は控えることを私はお勧めします。",
-      "sources": [
-        {
-          "title": "株式新聞Web",
-          "url": "https://kabushiki.jp/news/759291"
-        },
-        {
-          "title": "財経新聞",
-          "url": "https://www.zaikei.co.jp/article/20260728/863054.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1135-06",
-      "time": "2026-07-28T11:35",
-      "category": "fx",
-      "title": "ドル円163円台後半で小動き 日経暴落でもFOMC前の様子見姿勢が継続",
-      "summary": [
-        "7月28日午前のドル円は163円78銭前後で推移し、前日終値からほぼ横ばいの展開となった",
-        "日経平均が3,000円超の暴落となったにもかかわらず、為替市場はFOMCの結果待ちで方向感が出なかった",
-        "29日のFOMC声明と31日の日銀会合の結果次第で162〜165円の広いレンジで動く可能性がある"
-      ],
-      "jackView": "日経暴落でも為替が動かないのはFOMC前の静けさです。結果発表後に一気に動く可能性が高いので、レバレッジは控えめにしておいてください。",
-      "sources": [
-        {
-          "title": "外為どっとコム マネ育チャンネル",
-          "url": "https://www.gaitame.com/media/entry/2026/07/28/081514"
-        },
-        {
-          "title": "株探",
-          "url": "https://s.kabutan.jp/news/n202607280293/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1130-07",
-      "time": "2026-07-28T11:30",
-      "category": "seido",
-      "title": "NISA 2027年から0〜17歳にも解禁 つみたて枠で年60万円・対象指数も拡充へ",
-      "summary": [
-        "2026年度税制改正によりNISAのつみたて投資枠が2027年1月から0〜17歳にも開放され、年間60万円（上限600万円）まで非課税投資が可能になる",
-        "つみたて枠の対象指数に読売株価指数やJPXプライム150が追加され、債券50%以上を含む投信も対象に加わる",
-        "売却後の非課税枠復活が翌年から当年中に前倒しされ、年内での銘柄入れ替えも容易になる"
-      ],
-      "jackView": "子どものNISA解禁は長期投資の選択肢を広げる改正です。ただし2027年開始なので今から情報を集め、制度の詳細が確定してから口座開設に動くことを私はお勧めします。",
-      "sources": [
-        {
-          "title": "東洋経済オンライン",
-          "url": "https://toyokeizai.net/articles/-/924667"
-        },
-        {
-          "title": "NRI 野村総合研究所",
-          "url": "https://www.nri.com/jp/media/column/kiuchi/20251215_2.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1125-08",
-      "time": "2026-07-28T11:25",
-      "category": "point",
-      "title": "d払いスタンプからdカード決済が対象外に 7月の改悪でポイ活戦略の見直し必要",
-      "summary": [
-        "7月1日より「d払いdカードスタンプ」が「d払いスタンプ」に名称変更され、dカード各種（dカード/GOLD/PLATINUM）での支払いがスタンプ付与の対象外となった",
-        "対象はd払い（街・ネット・請求書払い）とd払いタッチのみに限定され、dカードユーザーにとって実質的な改悪となる",
-        "6月30日までにdカードで獲得した宝箱は7月5日まで報酬受取が可能だった"
-      ],
-      "jackView": "dカードとd払いの二刀流でポイントを貯めていた方には影響が大きい変更です。d払い中心の利用に切り替えるか、他社カードとの組み合わせを見直してみてください。",
-      "sources": [
-        {
-          "title": "ケータイWatch",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2109399.html"
-        },
-        {
-          "title": "NTTドコモ（公式）",
-          "url": "https://service.smt.docomo.ne.jp/keitai_payment/info/info_20260515_1.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1120-09",
-      "time": "2026-07-28T11:20",
-      "category": "sidehustle",
-      "title": "ITフリーランス人口が37万人に拡大 AIツール活用層は月単価10万円高の傾向",
-      "summary": [
-        "2025年時点のITフリーランス人口は約37万人（前年比4.6%増）に拡大し、フリーランスエージェント市場は3,183億円（前年比24.3%増）に成長した",
-        "生成AIコード生成ツール（GitHub CopilotやCursorなど）を活用するエンジニアは、未活用者と比べて月単価が約10万円高い傾向が報告されている",
-        "フリーランス保護法の施行により発注者側のルールが明確化され、報酬未払いトラブルの減少にもつながっている"
-      ],
-      "jackView": "フリーランス市場は拡大していますが、AIツールを使いこなせるかどうかで収入格差が開いています。まずは本業の中でAIツールに慣れてから独立を検討してください。",
-      "sources": [
-        {
-          "title": "CREATIVE VILLAGE",
-          "url": "https://www.creativevillage.ne.jp/category/skillup/knowledge/171755/"
-        },
-        {
-          "title": "おやシュミ（副業・フリーランス動向）",
-          "url": "https://www.oyashumi.tokyo/2026%E5%B9%B407%E6%9C%8806%E6%97%A5%E3%81%AE%E5%89%AF%E6%A5%AD%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E5%8B%95%E5%90%91%E3%81%BE%E3%81%A8%E3%82%81/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-1115-10",
-      "time": "2026-07-28T11:15",
-      "category": "scam",
-      "title": "【警戒】SNS型投資詐欺が深刻化 2025年の被害額1,275億円で前年比46%増",
-      "summary": [
-        "警察庁の統計によると2025年のSNS型投資詐欺の認知件数は9,538件・被害額1,274.7億円で、前年比それぞれ48.7%・46.3%の大幅増加となった",
-        "YouTubeを入口とした詐欺接触が前年比約20倍に急増しており、ショート動画を活用した新たな手口が被害拡大の一因となっている",
-        "2026年2月末時点でも特殊詐欺全体の被害額は593.8億円に達し、被害の増加ペースは衰えていない"
-      ],
-      "jackView": "投資詐欺の被害は年々深刻化しています。YouTube広告やショート動画で「簡単に稼げる」と誘う手口が急増中です。うまい話には必ず裏があると心得てください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "警察庁 SOS47",
-          "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/260213/03.html"
-        },
-        {
-          "title": "JSSEC",
-          "url": "https://www.jssec.org/column/20260327.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0605-01",
-      "time": "2026-07-28T06:05",
-      "category": "market",
-      "title": "CME日経先物が大証比1,255円安の63,915円 FOMC前夜にリスクオフで大幅安を示唆",
-      "summary": [
-        "7月27日のNY時間帯にCME日経平均先物は63,915円まで下落し、大阪取引所の日中終値から1,255円（1.97%）安い水準で取引を終えた",
-        "7月28日午前2時時点の大阪取引所夜間取引では日経225先物が前日比1,660円安の63,510円を付け、出来高は11,688枚に達した",
-        "28〜29日のFOMCを控えてリスク回避姿勢が強まっており、本日の東京市場は大幅安での寄り付きが想定されている"
-      ],
-      "jackView": "FOMC前夜の先物大幅安は悲観的に見えますが、結果が想定内なら急反発もあり得ます。寄り付きの売りに慌てて追随しないよう冷静に構えることを私はお勧めします。",
-      "sources": [
-        {
-          "title": "みんかぶ",
-          "url": "https://minkabu.jp/news/4577139"
-        },
-        {
-          "title": "株探ニュース",
-          "url": "https://s.kabutan.jp/news/n202607280019/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0600-02",
-      "time": "2026-07-28T06:00",
-      "category": "market",
-      "title": "NYダウ230ドル高で反発 原油7.9%急落が追い風もナスダックは小幅安で方向感まちまち",
-      "summary": [
-        "7月27日のNY市場でダウ平均は前日比230ドル高の52,177ドルで引け、原油急落による恩恵が消費・運輸セクターを押し上げた",
-        "WTI原油先物は前日比7.89%安の82.26ドルと大幅に下落し、イラン停戦交渉の進展がエネルギー価格の下押し圧力を強めた",
-        "一方でナスダックは19ポイント安と小幅下落し、AI・ハイテク株には決算前の警戒売りが続いている"
-      ],
-      "jackView": "原油安の恩恵でダウは上昇しましたが、ナスダックの弱さはAI銘柄の決算警戒を映しています。今週のメタ・アマゾン決算まで方向感は出にくいと私は見ています。",
-      "sources": [
-        {
-          "title": "みんかぶ FX",
-          "url": "https://minkabu.jp/news/4577139"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5835417/pexels-photo-5835417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0555-03",
-      "time": "2026-07-28T05:55",
-      "category": "jpstock",
-      "title": "BYD軽EV「ラッコ」が本日7月28日に発売開始 航続320km・両側電動スライドドアで国産勢に挑む",
-      "summary": [
-        "中国BYDの軽EV「ラッコ」が7月28日に日本で発売開始となり、年内1万台の受注を目標に掲げている",
-        "航続距離は200モデルが210km、300モデルが320kmで、軽EV初の両側電動スライドドアを全車標準装備している",
-        "35.84kWhの大容量バッテリーを搭載した300モデルは国産軽EVを大きく上回る航続距離で、日本メーカーへの価格競争を仕掛ける形となる"
-      ],
-      "jackView": "航続320kmは国産軽EVを圧倒するスペックです。ただし中国メーカーのアフターサービス体制は未知数なので、購入前に販売店の対応力を確認することを私はお勧めします。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC278410X20C26A5000000/"
-        },
-        {
-          "title": "ベストカー",
-          "url": "https://bestcarweb.jp/newcar/1579681"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/14089266/pexels-photo-14089266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0550-04",
-      "time": "2026-07-28T05:50",
-      "category": "usstock",
-      "title": "本日7月28日は米決算ラッシュ ビザ・コカコーラ・UPS・ボーイングなど主要企業が一斉発表",
-      "summary": [
-        "7月28日の米国市場ではビザ（予想EPS 3.23ドル）・コカコーラ（予想EPS 0.93ドル）・UPS（予想EPS 1.67ドル）など消費・物流の主力企業が決算を発表する",
-        "ボーイング（予想EPS -0.28ドル）は赤字継続が見込まれるが、受注回復の進捗が株価の方向感を左右する材料となる",
-        "29日のメタ・マイクロソフト、30日のアマゾンと合わせて今週はビッグテックの決算が集中する重要な1週間となる"
-      ],
-      "jackView": "今日の決算は消費関連が中心なので、米国の消費者心理を測る指標として注目しています。特にビザの決済額の伸びは景気の体温計として見逃せないと私は考えています。",
-      "sources": [
-        {
-          "title": "みんかぶ FX",
-          "url": "https://fx.minkabu.jp/news/374226"
-        },
-        {
-          "title": "株帳",
-          "url": "https://kabucho.com/calendar/us"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0545-05",
-      "time": "2026-07-28T05:45",
-      "category": "fx",
-      "title": "ドル円163円台後半でFOMC前夜の膠着 164円台定着か反落か今週中に決着へ",
-      "summary": [
-        "7月28日早朝のドル円は163円80銭台で推移し、FOMCの結果を前にポジション調整が中心の狭いレンジで推移した",
-        "先週一時163.99円と40年ぶりの164円台が目前に迫ったが、イラン停戦報道での有事ドル買い解消で163円台半ばまで押し戻される場面もあった",
-        "今週はFOMC（29日結果発表）と日銀会合（31日結果発表）が控え、結果次第で162〜165円の広いレンジ変動が見込まれている"
-      ],
-      "jackView": "FOMC当日のドル円は声明文の一語で1円動くことがあります。結果発表の前後はスプレッドも広がりやすいので、レバレッジを絞って臨む方が安全です。",
-      "sources": [
-        {
-          "title": "外為どっとコム マネ育チャンネル",
-          "url": "https://www.gaitame.com/media/entry/2026/07/27/080235"
-        },
-        {
-          "title": "外為どっとコム（来週見通し）",
-          "url": "https://www.gaitame.com/media/entry/2026/07/25/060400"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0540-06",
-      "time": "2026-07-28T05:40",
-      "category": "crypto",
-      "title": "ビットコイン64,800ドル台に小幅反発 イラン停戦期待でリスク資産への売り圧力が一時後退",
-      "summary": [
-        "7月28日未明のビットコインは64,864ドル（約1,060万円）前後で推移し、前日比0.41%の小幅上昇となった",
-        "米イラン攻撃停止の報道を受けてリスクオフの売り圧力が一時後退し、直近のETF資金流出からの反転の兆しが見られた",
-        "ただしFOMCの結果次第では米金利上昇が暗号資産市場全体の重しとなる可能性があり、本格反発には至っていない"
-      ],
-      "jackView": "イラン停戦で一息つきましたが、FOMCの金利判断が次のトリガーになります。短期売買よりも中長期で構える方が振り回されにくいと私は考えています。",
-      "sources": [
-        {
-          "title": "みんかぶ 暗号資産",
-          "url": "https://cc.minkabu.jp/pair/BTC_JPY"
-        },
-        {
-          "title": "InteractiveCrypto",
-          "url": "https://www.interactivecrypto.com/ja/2026-7-fomc-jul-2026-3"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/29110760/pexels-photo-29110760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0535-07",
-      "time": "2026-07-28T05:35",
-      "category": "seido",
-      "title": "マイナ保険証の完全移行まであと3日 利用率約5割のまま7月31日の期限が迫る",
-      "summary": [
-        "従来の健康保険証の暫定措置が7月31日で終了し、8月1日以降はマイナ保険証または資格確認書がなければ窓口で10割負担となる可能性がある",
-        "厚生労働省が公表した直近のマイナ保険証利用率は49.89%にとどまり、国民のほぼ半数が移行を完了していない状態が続いている",
-        "マイナンバーカードの電子証明書は有効期限が5年でカード本体の10年より短いため、カードを持っていても更新漏れでエラーが出るケースにも注意が必要"
-      ],
-      "jackView": "期限まであと3日です。まだ準備できていない方は、マイナ保険証の登録か資格確認書の手配を今日中に始めてください。8月以降に慌てても間に合いません。",
-      "sources": [
-        {
-          "title": "GemMed",
-          "url": "https://gemmed.ghc-j.com/?p=75498"
-        },
-        {
-          "title": "ITmedia Mobile",
-          "url": "https://www.itmedia.co.jp/mobile/articles/2607/24/news061.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0530-08",
-      "time": "2026-07-28T05:30",
-      "category": "point",
-      "title": "楽天Edy→楽天キャッシュの月額チャージ上限が8月から1万円に激減 7月中の駆け込み移行を",
-      "summary": [
-        "2026年8月1日から楽天Edyから楽天キャッシュへのチャージ上限が月10万円から月1万円へ大幅に引き下げられる",
-        "楽天証券での投信積立に楽天キャッシュを充てていたユーザーは代替のチャージルートを確保する必要がある",
-        "7月31日までは月10万円のチャージが可能なため、現在Edy残高がある方は今月中に移行を完了しておくことが推奨されている"
-      ],
-      "jackView": "楽天キャッシュ経由の投信積立を利用している方は影響大です。7月中に残高を移行し、8月以降のチャージルートを確認しておいてください。",
-      "sources": [
-        {
-          "title": "Money Magazine",
-          "url": "https://money-magazine.org/rakuten-edy-cash-exchange-limit-202608/"
-        },
-        {
-          "title": "はちわれ投資ブログ",
-          "url": "https://hachiwarers.com/rekutencash-202608/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0525-09",
-      "time": "2026-07-28T05:25",
-      "category": "sidehustle",
-      "title": "noteとKADOKAWA資本業務提携で書籍化の門戸が拡大 個人クリエイターに新たな収益化ルート",
-      "summary": [
-        "2026年3月にKADOKAWAがnoteと資本業務提携を締結し、約22億円の第三者割当増資でnote株式の議決権5.22%を取得した",
-        "KADOKAWAはnote上の投稿から有望コンテンツを発掘し書籍化する仕組みを構築しており、小説やエッセイなど複数ジャンルが対象となっている",
-        "noteの会員数は約1,114万人に達しており、個人クリエイターが出版社の目に留まる機会が従来よりも格段に広がっている"
-      ],
-      "jackView": "noteでの発信が書籍化につながる可能性が広がりました。ただし出版社の目に留まるには専門性のある記事を継続的に発信する必要があると私は考えています。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC24AH80U6A320C2000000/"
-        },
-        {
-          "title": "KADOKAWAグループ",
-          "url": "https://group.kadokawa.co.jp/information/news_release/2026032401.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260728-0520-10",
-      "time": "2026-07-28T05:20",
-      "category": "scam",
-      "title": "【警戒】投資詐欺グループが検索結果を「汚染」する新手口 AI要約も餌食に",
-      "summary": [
-        "警視庁サイバーセキュリティ対策課は7月24日、SNS型投資詐欺グループがWeb検索結果を汚染する新手口を確認したと注意喚起を行った",
-        "手口は民間企業や官公庁の公式サイト内の検索機能を悪用して肯定的な偽情報を含むURLを大量生成し、検索エンジンのAI要約にまで反映させるものである",
-        "不審な投資グループ名を検索した際に「詐欺ではありません」「信頼できます」と表示される仕組みで、検索だけでは安全性を判断できない状況が生まれている"
-      ],
-      "jackView": "検索結果に安心の情報が出ても鵜呑みにしないでください。詐欺グループが検索エンジンのAI要約まで悪用し始めている現状は非常に危険だと私は感じています。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "Infoseekニュース（ITmedia）",
-          "url": "https://news.infoseek.co.jp/article/itmedia_news_20260727076/"
-        },
-        {
-          "title": "おたくま経済新聞",
-          "url": "https://otakuma.net/archives/2026072605.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
