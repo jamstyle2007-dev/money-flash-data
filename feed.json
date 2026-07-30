@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T18:00",
+  "updated": "2026-07-31T06:10",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,248 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "163.65",
-      "change": "+0.27",
-      "changePct": "+0.17%"
+      "value": "159.47",
+      "change": "-4.18",
+      "changePct": "-2.55%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,316",
-      "change": "-113",
-      "changePct": "-1.52%"
+      "value": "7,438",
+      "change": "+121",
+      "changePct": "+1.66%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.5M",
-      "change": "+0.8%",
-      "changePct": "+0.8%"
+      "value": "¥10.3M",
+      "change": "+0.1%",
+      "changePct": "+0.1%"
     }
   ],
   "items": [
+    {
+      "id": "20260731-0610-01",
+      "time": "2026-07-31T06:10",
+      "category": "fx",
+      "title": "円が急騰し一時157円台 163円台から5円超の円高 政府・日銀の為替介入観測が強まる",
+      "summary": [
+        "7月30日のニューヨーク外国為替市場で円相場は対ドルで急上昇し、163円台から一時1ドル=157円台と5月中旬以来の円高水準を付けた",
+        "市場では日本の当局による為替介入があったとの観測が強まっているが、実際に介入が行われたかは確認されていない",
+        "31日早朝時点のドル円は159円台半ばで推移し、160円が上値抵抗として意識されている。日銀金融政策決定会合の結果はきょう昼ごろ公表される"
+      ],
+      "jackView": "介入があったかどうかは月末に公表される当局のデータで確認するしかありません。これだけ急な変動の直後は上下どちらにも振れやすいので、値ごろ感での飛び付きは避けるべきだと私は考えています。",
+      "sources": [
+        {
+          "title": "株探（NY外為）",
+          "url": "https://s.kabutan.jp/news/n202607301693/"
+        },
+        {
+          "title": "共同通信（Yahoo!ニュース）",
+          "url": "https://news.yahoo.co.jp/articles/3501ae6ea9225e10e57034c0951d70550a80310d"
+        },
+        {
+          "title": "みんかぶFX（ドル円）",
+          "url": "https://fx.minkabu.jp/pair/USDJPY"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29916107/pexels-photo-29916107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0605-02",
+      "time": "2026-07-31T06:05",
+      "category": "market",
+      "title": "NYダウは613ドル高と反発 マイクロソフト急伸でナスダックは2.78%高 3指数そろって上昇",
+      "summary": [
+        "7月30日の米国市場でダウ平均は前日比613.92ドル（1.19%）高の52,208.06ドルと反発した",
+        "S&P500は1.66%高の7,437.63、ナスダック総合は2.78%高の25,122.18と、前日までの下げから3指数そろって戻した",
+        "好決算のマイクロソフトが一時15%超上昇してクラウド・AI関連の買いを主導した一方、売上高が予想に届かなかったメタ・プラットフォームズは大幅安となった"
+      ],
+      "jackView": "前日にタカ派FOMCで急落した分の反発ですが、決算の中身で個別の明暗がはっきり分かれています。指数の戻りに安心せず、保有銘柄ごとの決算確認を優先してください。",
+      "sources": [
+        {
+          "title": "野村證券 ニューヨーク株式市況",
+          "url": "https://advance.quote.nomura.co.jp/meigara/nomura2/users/asp/ny.asp?F=users%2Fnomura%2Fny%2Fhp"
+        },
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL30C6T0Q6A730C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2893771/pexels-photo-2893771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0600-03",
+      "time": "2026-07-31T06:00",
+      "category": "usstock",
+      "title": "アップル4〜6月期は売上高16%増の1,094億ドル iPhone好調も サービス部門未達で時間外4%安",
+      "summary": [
+        "アップルが7月30日（米国時間）に発表した4〜6月期決算は、売上高が前年同期比16%増の1,094億ドル、純利益は298億ドル、1株利益は29%増の2.02ドルだった",
+        "iPhone売上高は22%増の542.5億ドルと市場予想を上回り、Macも103.5億ドルと予想を大きく超えた",
+        "一方でサービス部門の売上高307.4億ドルが市場予想に届かず、株価は時間外取引で4%前後下落した"
+      ],
+      "jackView": "全体では予想超えでも、成長の柱と見られるサービス部門の未達が売り材料になりました。大型株ほど市場の期待水準そのものが高いことを、私は決算を見る際の前提にしています。",
+      "sources": [
+        {
+          "title": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/"
+        },
+        {
+          "title": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0555-04",
+      "time": "2026-07-31T05:55",
+      "category": "usstock",
+      "title": "アマゾンは決算受け時間外で8%高 AWS売上高が予想超の422億ドル 営業利益率も改善",
+      "summary": [
+        "アマゾンが7月30日（米国時間）に発表した4〜6月期決算は、売上高が2,006.1億ドルと市場予想の1,970.1億ドルを上回った",
+        "営業利益は274.6億ドルで営業利益率は13.7%と予想の12.0%を上回り、クラウド部門AWSの売上高は422.3億ドルと予想を超えた",
+        "AI関連事業は年間換算売上高で250億ドルを突破したと説明し、株価は時間外取引で8%超上昇した"
+      ],
+      "jackView": "AWSの伸びと利益率の改善が同時に確認できた点が評価されたと私は見ています。AI投資が続く中で利益率を保てるかが、この銘柄を見る上での今後の焦点になりそうです。",
+      "sources": [
+        {
+          "title": "株探（米国株個別）",
+          "url": "https://s.kabutan.jp/news/n202607310094/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0550-05",
+      "time": "2026-07-31T05:50",
+      "category": "crypto",
+      "title": "ビットコイン円建ては1,033万円前後 急激な円高で上値の重い展開 24時間はほぼ横ばい",
+      "summary": [
+        "7月31日早朝のビットコイン円建て価格は1,033万円前後と、直近24時間でほぼ横ばい（0.1%高）となった",
+        "直近24時間は安値1,022万円、高値1,057万円のレンジで推移した",
+        "7月30日のNY市場で円が対ドルで急騰したため、ドル建て価格の動きに対して円建て価格は押し下げられやすい状況になっている"
+      ],
+      "jackView": "円建てで見る日本の投資家にとって、急な円高はドル建ての上昇を打ち消す要因になります。暗号資産でも為替の影響を受けることを、この機会に確認しておいてほしいと思います。",
+      "sources": [
+        {
+          "title": "みんかぶ暗号資産（BTC/JPY）",
+          "url": "https://cc.minkabu.jp/pair/BTC_JPY"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0545-06",
+      "time": "2026-07-31T05:45",
+      "category": "jpstock",
+      "title": "東京エレクトロンが上期経常を6%上方修正 4期ぶり最高益予想を上乗せ 配当も23円増額",
+      "summary": [
+        "東京エレクトロンは7月30日大引け後、2027年3月期第1四半期（4〜6月）の連結経常利益が前年同期比46.3%増の2,156億円になったと発表した",
+        "上期（4〜9月）の経常利益予想を従来の4,370億円から4,640億円へ6.2%上方修正し、4期ぶりの上期最高益予想をさらに引き上げた",
+        "業績好調に伴い、上期配当を従来計画の361円から384円へ23円増額した"
+      ],
+      "jackView": "半導体株の株価が荒れる中でも、製造装置の需要そのものは強いことを示す内容です。株価の下落と業績の悪化は別物なので、私は決算の数字で冷静に切り分けるようにしています。",
+      "sources": [
+        {
+          "title": "株探ニュース（決算速報）",
+          "url": "https://s.kabutan.jp/news/k202607300117/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0540-07",
+      "time": "2026-07-31T05:40",
+      "category": "seido",
+      "title": "日銀の金融政策決定会合はきょう昼ごろ結果公表 据え置き予想が大勢も円急騰で注目度上昇",
+      "summary": [
+        "日銀は7月30〜31日に開いている金融政策決定会合の結果を、31日昼ごろに公表する。政策金利1.0%程度の据え置き予想が大勢となっている",
+        "前夜のNY市場で円が一時157円台まで急騰しており、声明文の内容と植田総裁の会見での円安・物価に関する発言が注目される",
+        "会合では経済・物価情勢の展望（展望レポート）も公表され、今後の利上げペースを判断する材料となる"
+      ],
+      "jackView": "住宅ローンや預金の金利にも波及するイベントなので、投資をしない方にも無関係ではありません。結果の数字だけでなく、会見で示される今後の方向性まで確認することをお勧めします。",
+      "jackLink": {
+        "title": "金融政策の読み方をマネーラボで深掘り",
+        "url": "https://jack-money-lab.com"
+      },
+      "sources": [
+        {
+          "title": "外為どっとコム マネ育チャンネル",
+          "url": "https://www.gaitame.com/media/entry/2026/07/30/084313"
+        },
+        {
+          "title": "みんかぶFX（ドル円）",
+          "url": "https://fx.minkabu.jp/pair/USDJPY"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0535-08",
+      "time": "2026-07-31T05:35",
+      "category": "point",
+      "title": "ドコモ「ahamo」が10GB増量で月40GBに 小容量プラン「ドコモmini」も増量へ",
+      "summary": [
+        "NTTドコモはオンライン専用プラン「ahamo」のデータ容量を10GB増量し、月40GBにすると発表した",
+        "小容量プラン「ドコモmini」についてもデータ容量の増量が予定されている",
+        "通信各社では料金据え置きでの容量増量や還元強化の動きが続いており、プラン間の実質的な競争が激しくなっている"
+      ],
+      "jackView": "通信費は一度見直せば効果がずっと続く固定費です。増量合戦の今は乗り換え・プラン変更の好機なので、自分の毎月の実際の使用量をまず確認することから始めてください。",
+      "sources": [
+        {
+          "title": "ケータイWatch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2129087.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0530-09",
+      "time": "2026-07-31T05:30",
+      "category": "point",
+      "title": "d払い・dポイントの8月キャンペーン ジャズドリーム長島や資生堂オンラインでポイント還元",
+      "summary": [
+        "NTTドコモは8月に開始するd払い・dポイントのキャンペーンを発表した",
+        "三井アウトレットパーク ジャズドリーム長島や資生堂の公式オンラインストアなどが対象となり、条件を満たすとdポイントが還元される",
+        "8月はd払いの自治体連携エリアキャンペーン（千葉県・名古屋市などで最大100%還元）も並行して実施される予定だ"
+      ],
+      "jackView": "還元キャンペーンは対象店舗・エントリー要否・上限額の3点を先に確認するのが鉄則です。もともと予定していた買い物に重ねられるものだけを使うのが賢いやり方だと私は思います。",
+      "sources": [
+        {
+          "title": "ケータイWatch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2129296.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260731-0525-10",
+      "time": "2026-07-31T05:25",
+      "category": "scam",
+      "title": "【警戒】上半期の特殊詐欺被害は1,816億円で過去最悪 SNS型投資詐欺が798億円と倍増 警察庁",
+      "summary": [
+        "警察庁は7月30日、2026年上半期（1〜6月）の特殊詐欺などの被害額が暫定値で1,816億2千万円と前年同期比618億8千万円増え、上半期として過去最悪になったと発表した",
+        "このうちSNS型投資詐欺の被害は797億9千万円と前年同期からほぼ倍増し、最多を占めた。「絶対もうかる」などと投資初心者を狙う手口が目立つ",
+        "SNS型ロマンス詐欺の被害も246億6千万円と前年同期を上回った"
+      ],
+      "jackView": "被害が過去最悪ということは、手口がそれだけ巧妙になっている証拠です。SNSで知り合った相手や著名人をかたる広告からの投資勧誘は、金額の大小にかかわらず全て疑ってかかってください。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "NHKニュース",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015191121000"
+        },
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGKKZO97880080Q6A730C2CT0000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260730-1800-01",
       "time": "2026-07-30T18:00",
@@ -669,244 +891,6 @@
         {
           "title": "警察庁 SOS47特殊詐欺対策ページ",
           "url": "https://www.npa.go.jp/bureau/safetylife/sos47/case/sns-romance/investment/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0610-01",
-      "time": "2026-07-29T06:10",
-      "category": "market",
-      "title": "日経平均終値2,566円安の62,364円 半導体株総崩れで約2カ月ぶり安値",
-      "summary": [
-        "7月28日の日経平均は前日比2,566円27銭安の62,364円92銭で取引を終え、約2カ月ぶりの安値水準となった",
-        "中国政府系企業のDUV露光装置量産報道と韓国KOSPI急落を受け、半導体関連を中心にリスク回避の売りが終日優勢だった",
-        "下げ幅は一時3,000円を超え、TOPIXも2.52%安の3,963.59で引けた"
-      ],
-      "jackView": "大幅安の翌日は自律反発と二番底のどちらもあり得ます。今夜のFOMC結果を確認するまでは、ポジションを一気に動かさないことを私はお勧めします。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUB276L2TX20C26A7000000/"
-        },
-        {
-          "title": "みんかぶ（株探）",
-          "url": "https://minkabu.jp/news/4577927"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0605-02",
-      "time": "2026-07-29T06:05",
-      "category": "jpstock",
-      "title": "キオクシアがストップ安の44,550円 5万円割れで上場来高値から半値以下に",
-      "summary": [
-        "7月28日のキオクシアHD株は前日比10,000円（18.33%）安の44,550円でストップ安となり、心理的節目の5万円を割り込んだ",
-        "ストップ安は7月17日に続き直近1カ月で2度目で、6月22日の上場来高値112,700円から半値以下の水準まで下落した",
-        "韓国KOSPI急落や中国メモリーメーカー台頭への警戒から、半導体メモリー関連からの資金流出が続いている"
-      ],
-      "jackView": "1カ月で株価が半分になる値動きは人気株の宿命でもあります。急落銘柄への安易な逆張りは避け、需給が落ち着くのを待つ姿勢が大切だと私は考えています。",
-      "sources": [
-        {
-          "title": "株探ニュース",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202607280483"
-        },
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL170O30X10C26A7000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3013999/pexels-photo-3013999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0600-03",
-      "time": "2026-07-29T06:00",
-      "category": "usstock",
-      "title": "NYダウが一時400ドル超高で反発スタート コカ・コーラは16%増益で通期見通し引き上げ",
-      "summary": [
-        "7月28日の米株式市場でダウ平均は一時400ドル超上昇して始まる一方、ナスダックは半導体株への売りが続き軟調なスタートとなった",
-        "コカ・コーラの4〜6月期決算は売上高が前年同期比7%増の133億ドル、純利益が16%増の44億ドルの増収増益で、通期業績見通しを引き上げた",
-        "決算を受けてコカ・コーラ株は時間外取引で上昇し、消費関連の底堅さが示された"
-      ],
-      "jackView": "半導体が売られる一方で消費関連の決算は堅調です。相場全体が悪く見えても、セクターごとに明暗が分かれている点を見逃さないでください。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOGN28AKV0Y6A720C2000000/"
-        },
-        {
-          "title": "Yahoo!ファイナンス（時事通信）",
-          "url": "https://finance.yahoo.co.jp/news/detail/3fcb6105b1aaa9d57e725af64a6bead8d9bb2c32"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0555-04",
-      "time": "2026-07-29T05:55",
-      "category": "market",
-      "title": "FOMC結果は日本時間30日未明に公表 今週はS&P500企業170社超が決算発表",
-      "summary": [
-        "FOMCは米東部時間7月29日午後に声明を公表する予定で、日本時間では30日未明の発表となる",
-        "市場では政策金利の据え置きが有力視されており、声明文と議長会見で今後の利下げ示唆があるかが焦点となっている",
-        "今週はS&P500採用企業のうち170社超が決算を発表し、29日のメタ・マイクロソフト、30日のアマゾンなど大型ハイテクの発表が集中する"
-      ],
-      "jackView": "金融政策と大型決算が重なる今週は、1日で相場の景色が変わる可能性があります。結果を見てから動いても遅くないと私は考えています。",
-      "sources": [
-        {
-          "title": "Yahoo!ファイナンス（トレーダーズ・ウェブ）",
-          "url": "https://finance.yahoo.co.jp/news/detail/e82a1f26563bfc6d9c4c933a2ef10a9fbe5052a5"
-        },
-        {
-          "title": "TradingKey",
-          "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262054305-weekly-preview-fed-apple-microsoft-meta-amazon-earnings-reports-tradingkey"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/17781649/pexels-photo-17781649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0550-05",
-      "time": "2026-07-29T05:50",
-      "category": "fx",
-      "title": "日銀は30〜31日会合で政策金利1.0%据え置きの公算 識者調査は全員が維持予想",
-      "summary": [
-        "日銀は7月30〜31日に金融政策決定会合を開き、政策金利を現状の1.0%程度で据え置く公算が大きいと報じられた",
-        "6月に約31年ぶりの高水準となる1%への利上げを決めたばかりで、当面はその効果を見極める段階とされている",
-        "識者調査では回答者全員が7月会合での据え置きを予想し、追加利上げの時期は10月や12月との見方が多い"
-      ],
-      "jackView": "据え置き予想でも、総裁会見のトーン次第で円相場は大きく動きます。FOMCと日銀会合が続く今週の為替は、普段より値幅が出やすい点に注意してください。",
-      "sources": [
-        {
-          "title": "時事ドットコム",
-          "url": "https://www.jiji.com/jc/article?k=2026072700685&g=eco"
-        },
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOFL175BMTX10C26A7000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0545-06",
-      "time": "2026-07-29T05:45",
-      "category": "crypto",
-      "title": "ビットコインが一時63,000ドル付近まで下落 ETF資金流出続きFOMC前に手仕舞い売り",
-      "summary": [
-        "7月28日のビットコインは一時63,000ドル付近まで下落し、前日比2%超安の63,400ドル台で推移した",
-        "円建て価格は1,046万円前後まで下げ、直近24時間で2.4%超の下落となった",
-        "米現物ビットコインETFからは28日に1,160万ドルが流出し、24日以降の累計流出額は4億7,690万ドルに達した"
-      ],
-      "jackView": "ETFからの資金流出が続く間は価格の戻りも鈍くなりがちです。FOMC通過後に資金の流れが変わるかどうかを、私は注目しています。",
-      "sources": [
-        {
-          "title": "株探",
-          "url": "https://s.kabutan.jp/news/n202607281362/"
-        },
-        {
-          "title": "COINOTAKU",
-          "url": "https://coinotaku.com/news/articles/251173"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0540-07",
-      "time": "2026-07-29T05:40",
-      "category": "seido",
-      "title": "最低賃金の2026年度目安審議が難航 労働者側75円要求に経営側は慎重姿勢",
-      "summary": [
-        "中央最低賃金審議会の目安小委員会は7月23日の第4回会合でも結論が出ず、2026年度の引き上げ目安の審議が例年より難航している",
-        "労働者側は75円の引き上げを求める一方、経営者側は原材料費高騰などを理由に慎重な姿勢を崩していない",
-        "例年通りなら7月末に目安が示され、各都道府県の審議を経て10月から順次適用される見通し"
-      ],
-      "jackView": "最低賃金はパート収入や中小企業の人件費に直結する身近な数字です。目安が出たら、お住まいの都道府県の改定額と適用時期を確認しておくことをお勧めします。",
-      "sources": [
-        {
-          "title": "アドバンスニュース",
-          "url": "https://www.advance-news.co.jp/news/2026/06/post-5168.html"
-        },
-        {
-          "title": "社会保険研究所",
-          "url": "https://media.shaho.co.jp/n/n45936dc6a9e6"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0535-08",
-      "time": "2026-07-29T05:35",
-      "category": "point",
-      "title": "エポスカードが8月1日からチャージのポイント加算を終了 モバイルSuicaやANA Payが対象",
-      "summary": [
-        "エポスカードは2026年8月1日から、決済サービスへのチャージ利用時のポイント加算を終了する",
-        "対象はモバイルSuica・PASMO・ICOCAなど交通系ICへのチャージ（Apple Pay・Google Pay経由を含む）や、au PAY・ANA Payなど各種決済サービスへのチャージ",
-        "ゴールド・プラチナ会員の年間ボーナスポイント判定となる年間利用額には引き続き集計される"
-      ],
-      "jackView": "チャージ経由のポイント二重取りを続けてきた方には痛い変更です。7月中に必要なチャージを済ませ、8月以降の決済ルートを見直してみてください。",
-      "sources": [
-        {
-          "title": "エポスカード（公式）",
-          "url": "https://www.eposcard.co.jp/articles/news/260601.html"
-        },
-        {
-          "title": "フィンタイド",
-          "url": "https://fintide.jp/news-eposcard-charge-point-terminate/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/36715577/pexels-photo-36715577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0530-09",
-      "time": "2026-07-29T05:30",
-      "category": "sidehustle",
-      "title": "AI活用の副業者は平均月収約4.6万円 未活用者の1.8倍に収入差が拡大",
-      "summary": [
-        "2026年の調査では、AIを活用する副業者の平均月収は約4.6万円と、未活用者の約2.5万円に対して約1.8倍の差がついている",
-        "全企業の56.4%が副業を容認しており、複数の収入源を持つ働き方が広がっている",
-        "フリーランスエンジニアでも生成AIコード生成ツールの活用者は、未活用者より月単価が約10万円高い傾向が続いている"
-      ],
-      "jackView": "AIを使えるかどうかで副業収入に明確な差が出始めています。私自身もAIでのアプリ開発を実践していますが、まず小さく試すことが上達の近道だと感じています。",
-      "jackLink": {
-        "title": "JACKのAIアプリ開発 実例を見る",
-        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
-      },
-      "sources": [
-        {
-          "title": "Ficil 副業ガイド2026",
-          "url": "https://www.ficilcom.jp/ja/blog/side-job-guide-2026"
-        },
-        {
-          "title": "おやシュミ（副業・フリーランス動向）",
-          "url": "https://www.oyashumi.tokyo/2026%E5%B9%B407%E6%9C%8806%E6%97%A5%E3%81%AE%E5%89%AF%E6%A5%AD%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E5%8B%95%E5%90%91%E3%81%BE%E3%81%A8%E3%82%81/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260729-0525-10",
-      "time": "2026-07-29T05:25",
-      "category": "scam",
-      "title": "【警戒】金融庁が無登録業者リストを7月22日付で更新 海外所在業者にも警告書",
-      "summary": [
-        "金融庁は無登録で金融商品取引業を行う者の名称等の一覧を2026年7月22日付で更新した",
-        "一覧には警告書を発出した国内業者に加え、海外に所在する無登録業者も掲載されている",
-        "無登録の海外業者との取引はトラブル時の被害回復が極めて困難とされ、取引前に登録の有無を確認するよう呼びかけられている"
-      ],
-      "jackView": "投資勧誘を受けたら、金融庁の登録業者検索と無登録業者リストの確認を習慣にしてください。リストに無くても、無登録なら手を出さないのが鉄則です。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "金融庁（公式）",
-          "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
-        },
-        {
-          "title": "金融庁（海外所在業者一覧PDF）",
-          "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku/03.pdf"
         }
       ],
       "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
