@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T06:10",
+  "updated": "2026-08-09T12:00",
   "market": [
     {
       "symbol": "N225",
@@ -32,12 +32,207 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.27M",
-      "change": "+0.96%",
-      "changePct": "+0.96%"
+      "value": "¥10.22M",
+      "change": "-0.20%",
+      "changePct": "-0.20%"
     }
   ],
   "items": [
+    {
+      "id": "20260809-1200-01",
+      "time": "2026-08-09T12:00",
+      "category": "market",
+      "title": "中国の7月消費者物価は0.5%上昇にとどまる 生産者物価は3.5%高と3カ月ぶりの低い伸び",
+      "summary": [
+        "中国国家統計局が8月9日に発表した7月の消費者物価指数（CPI）は前年同月比0.5%の上昇となった。食品とエネルギーを除くコア指数は0.9%の上昇で、前月比では0.1%の下落だった",
+        "生産者物価指数（PPI）は前年同月比3.5%の上昇となり、伸びは3カ月ぶりの低い水準に鈍化した",
+        "輸出と工業生産が堅調な一方で内需の弱さが続いており、中国政府は年末にかけて予算措置済みのインフラ投資の執行を前倒しして景気を下支えする方針を示している"
+      ],
+      "jackView": "中国の物価の弱さは日本にとって輸入インフレの抑制要因になる一方、現地で稼ぐ企業には逆風です。私は中国売上比率の高い銘柄が決算でどう説明するかに注目しています。",
+      "sources": [
+        {
+          "title": "新華社（China's CPI up 0.5 pct in July）",
+          "url": "https://english.news.cn/20260809/8be0d452f506494a9f38e66505a186da/c.html"
+        },
+        {
+          "title": "新華社（China's PPI up 3.5 pct in July）",
+          "url": "https://english.news.cn/20260809/fc7407f97fcd4dcb8e48563ff37d6491/c.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1155-02",
+      "time": "2026-08-09T11:55",
+      "category": "fx",
+      "title": "米当局はユーロを売って円を買っていた 協調介入は12兆円規模、今後はユーロ円が新たな焦点に",
+      "summary": [
+        "財経新聞は8月9日、7月30日から8月3日にかけて日米が実施した円買い介入について、規模は12兆〜13兆円程度とみられるとするフィスコのコラムを掲載した",
+        "米国側はニューヨーク連銀が米財務省に代わってユーロを売り円を買う形で介入したと伝えられており、ドル売り以外の手段で円を買い支えた点が異例とされる",
+        "ドル円は164円付近から155円台前半まで急落した後に157円台へ戻しており、今後はドル円に加えユーロ円の水準も注目材料になると指摘している"
+      ],
+      "jackView": "ドル円だけを見ていると円の本当の強さを読み違えると私は考えています。米国がユーロを売って円を買った意味は大きく、今後はユーロ円の水準も併せて確認したいところです。",
+      "sources": [
+        {
+          "title": "財経新聞（ユーロ円で日米友好介入・フィスコ）",
+          "url": "https://www.zaikei.co.jp/article/20260809/865016.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/479356/pexels-photo-479356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1150-03",
+      "time": "2026-08-09T11:50",
+      "category": "jpstock",
+      "title": "来週の東京市場は決算を吟味した選別物色へ 日経平均は65,606円で週を終え25日線が上値の壁に",
+      "summary": [
+        "財経新聞は8月8日、国内株式市場の見通しとして、今週までの決算発表の内容を吟味した選別物色の動きが強まる公算があると伝えた",
+        "日経平均株価は8月7日に65,606円71銭で取引を終えたが、週末にかけては25日移動平均線が上値抵抗として意識される展開だった",
+        "材料としては12日の米消費者物価指数と13日の米生産者物価指数のほか、お盆休みによる売買代金の減少、9月の日銀金融政策決定会合での追加利上げの可能性が挙げられている"
+      ],
+      "jackView": "決算の中身で買われる銘柄と売られる銘柄がはっきり分かれる局面だと私は見ています。お盆で商いが細る分だけ値動きが荒くなりやすい点にも注意してください。",
+      "sources": [
+        {
+          "title": "財経新聞（国内株式市場見通し）",
+          "url": "https://www.zaikei.co.jp/article/20260808/864997.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5833757/pexels-photo-5833757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1145-04",
+      "time": "2026-08-09T11:45",
+      "category": "usstock",
+      "title": "ソフトバンク系が出資する米フォームラブズがIPO検討 3Dプリンター大手、5億ドル規模の調達観測",
+      "summary": [
+        "ブルームバーグは、3Dプリンター大手の米フォームラブズが新規株式公開（IPO）に向けて助言会社と初期段階の協議に入ったと報じた",
+        "調達額は約5億ドル規模になる可能性があるとされる。同社は2021年の資金調達でソフトバンク・ビジョン・ファンド2が主導し、企業価値は約20億ドルと評価された",
+        "協議は初期段階で上場の規模や時期を含め内容は変わる可能性があり、同社はIPOについて公式にコメントしていない"
+      ],
+      "jackView": "上場観測の段階では、出資元の含み益として株価に織り込まれることがあります。私は観測報道で先回りするのは危険だと考えており、正式発表を待つ姿勢を大事にしています。",
+      "sources": [
+        {
+          "title": "Bloomberg（SoftBank-Backed Formlabs in Early Talks for Potential IPO）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/softbank-backed-3d-printer-maker-formlabs-is-said-to-weigh-ipo"
+        },
+        {
+          "title": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/formlabs-weighs-ipo-to-raise-500-million-sources-say--bloomberg-93CH-4847446"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1140-05",
+      "time": "2026-08-09T11:40",
+      "category": "crypto",
+      "title": "ビットコインとイーサリアムのETFに週11億ドル流入 4月中旬以来の大きさ、売買代金は低水準",
+      "summary": [
+        "8月7日までの週に、米国のビットコインとイーサリアムの現物ETFへ合計約11億ドルの資金が流入し、4月中旬以来の大きさとなった",
+        "内訳はビットコインETFが約8億5,350万ドル、イーサリアムETFが約2億4,490万ドルで、ブラックロックのIBITがビットコインの流入額の8割超を占めた",
+        "一方でETFの売買代金はビットコインが前週比9%減の約81億9,000万ドル、イーサリアムが同21%減の約23億8,000万ドルと低水準にとどまった"
+      ],
+      "jackView": "価格が大きく動かない中でも資金が入り続けているのは、短期売買より長期保有の買いが中心である可能性を示します。私は売買代金の細さと合わせて見る必要があると考えています。",
+      "sources": [
+        {
+          "title": "The Block（Bitcoin, ether ETFs draw $1.1 billion）",
+          "url": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1135-06",
+      "time": "2026-08-09T11:35",
+      "category": "crypto",
+      "title": "米上院が暗号資産のクラリティ法案の審議手続きを開始 初回採決は9月15日、成立には民主党の賛成が必要",
+      "summary": [
+        "米上院のスーン院内総務は8月8日、暗号資産の市場ルールを定めるクラリティ法案について審議入りの動議を提出し、討論終結の手続きを開始した",
+        "最初の採決は9月15日午後に予定されている。審議入りには60票が必要で、共和党の53議席に加えて約10人の民主党議員の賛成が要る計算となる",
+        "法案は暗号資産の発行や取引の監督をSEC（証券取引委員会）とCFTC（商品先物取引委員会）で分担する枠組みを定める内容で、不正資金対策やステーブルコインの扱いをめぐる調整が続いている"
+      ],
+      "jackView": "制度が固まるかどうかは、目先の値動き以上に長期の投資環境を左右すると私は見ています。9月15日は結論ではなく手続きの入口である点を取り違えないでください。",
+      "sources": [
+        {
+          "title": "CoinDesk（U.S. Senate opens first stage of crypto Clarity Act voting）",
+          "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358136/pexels-photo-8358136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1130-07",
+      "time": "2026-08-09T11:30",
+      "category": "seido",
+      "title": "年金生活者支援給付金の請求書、9月1日から緑色の封筒で順次発送 基準額は月5,620円で非課税",
+      "summary": [
+        "日本年金機構は2026年度分の年金生活者支援給付金請求書（はがき型）を、9月の第1営業日にあたる9月1日から順次発送する。新たに対象となる可能性がある人に緑色の封筒で届く",
+        "給付金は年金に上乗せして支給され、老齢年金の受給者向けの2026年度の基準額は月額5,620円。給付金は非課税で所得には含まれない",
+        "制度は申請しなければ支給されない仕組みで、はがきを返送しない限り受け取れない。所得超過や世帯に住民税課税者がいる場合などは対象外となる"
+      ],
+      "jackView": "受け取れるのに請求しないまま終わる方が毎年います。私は緑色の封筒が届いたら必ず中身を確認し、離れて暮らす親にも声を掛けるのが一番の対策だと考えています。",
+      "sources": [
+        {
+          "title": "日本年金機構（年金生活者支援給付金）",
+          "url": "https://www.nenkin.go.jp/service/jukyu/seido/sonota-kyufu/shienkyufukin/20190805.html"
+        },
+        {
+          "title": "LIMO（2026年度 年金生活者支援給付金）",
+          "url": "https://limo.media/articles/-/134137"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1125-08",
+      "time": "2026-08-09T11:25",
+      "category": "point",
+      "title": "ビックカメラ浦和西口店が8月29日開業 抽選2,000人に最大10万ポイント、Suicaカードは最大15%還元",
+      "summary": [
+        "ビックカメラは8月29日、さいたま市の浦和駅西口にある複合施設にビックカメラ浦和西口店を開業する",
+        "開業を記念し8月29日から9月30日まで、浦和西口店と大宮西口そごう店で税込5,000円以上購入して公式アプリからエントリーした人の中から、抽選で合計2,000人にポイントを付与する。1等は50人で購入額の全額相当、上限は10万ポイントとなる",
+        "期間中はビックカメラSuicaカードで支払うと、通常11%のところ最大15%のポイント還元となる"
+      ],
+      "jackView": "開店セールは還元率の高さより、欲しい物が対象かどうかで判断したいところです。私は抽選型の還元は当たらない前提で、通常価格との比較を先に済ませるようにしています。",
+      "sources": [
+        {
+          "title": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2131501.html"
+        },
+        {
+          "title": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2131083.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6205512/pexels-photo-6205512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260809-1120-09",
+      "time": "2026-08-09T11:20",
+      "category": "scam",
+      "title": "【警戒】熊本地震に便乗した義援金詐欺 日赤かたるなりすましメールや住宅修理トラブルの相談",
+      "summary": [
+        "消費者庁は熊本地震に便乗した詐欺や住宅修理をめぐるトラブルへの注意を呼びかけている。地震に関連した消費者トラブルの相談は8月5日までに約10件寄せられている",
+        "日本赤十字社は、ロゴを無断で使って被災地への義援金の振り込みを求めるなりすましメールが複数確認されたとしている。SNSで被災者を装って電子マネーを求める手口もみられる",
+        "金融庁は、有名なボランティア団体を名乗って偽のウェブサイトへ誘導し、正規の募金口座とは異なる口座へ振り込ませる手口を挙げ、振り込む前に公表されている口座情報と一致するか確認するよう求めている"
+      ],
+      "jackView": "災害のあとは善意につけ込む手口が必ず出てきます。私は寄付先の公式サイトを自分で開いて口座を確かめる、この一手間だけで被害の大半は防げると考えています。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "金融庁（義援金等を装った詐欺にご注意）",
+          "url": "https://www.fsa.go.jp/ordinary/earthquake202607/gienkinsagi.html"
+        },
+        {
+          "title": "日本経済新聞（熊本地震の便乗犯罪に注意）",
+          "url": "https://www.nikkei.com/article/DGXZQOUD042R30U6A800C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260809-0610-01",
       "time": "2026-08-09T06:10",
