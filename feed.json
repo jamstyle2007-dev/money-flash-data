@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T19:45",
+  "updated": "2026-08-14T06:10",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,285 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "159.35",
-      "change": "-0.02",
-      "changePct": "-0.01%"
+      "value": "159.48",
+      "change": "+0.11",
+      "changePct": "+0.06%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,748.50",
-      "change": "+20.30",
-      "changePct": "+0.26%"
+      "value": "7,798.99",
+      "change": "+50.49",
+      "changePct": "+0.65%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥10.13M",
-      "change": "-0.7%",
-      "changePct": "-0.7%"
+      "value": "¥10.10M",
+      "change": "-0.4%",
+      "changePct": "-0.4%"
     }
   ],
   "items": [
+    {
+      "id": "20260814-0610-01",
+      "time": "2026-08-14T06:10",
+      "category": "market",
+      "title": "米7月の卸売物価は前月比横ばい 利上げ観測が後退し長期金利が低下",
+      "summary": [
+        "米労働省が13日発表した7月の生産者物価指数（PPI）は前月比横ばいで、市場予想の0.2%上昇を下回った",
+        "前年同月比は4.7%上昇で、6月の5.5%上昇から伸びが鈍化した",
+        "米10年物国債利回りは4.64%に低下し、9月の会合での追加利上げ観測が後退した"
+      ],
+      "jackView": "物価の指標が2日続けて落ち着きました。私は1回の数字に飛びつくより、9月の会合までに出てくる雇用関連の指標とあわせて判断したいと思います。",
+      "sources": [
+        {
+          "title": "日本経済新聞 NYダウ、反発し69ドル高 PPI横ばいで利上げ観測が後退",
+          "url": "https://www.nikkei.com/article/DGXZQOFL1400D0U6A810C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0605-02",
+      "time": "2026-08-14T06:05",
+      "category": "usstock",
+      "title": "米国株は3指数がそろって上昇 S&P500は7,798で最高値を更新",
+      "summary": [
+        "13日のダウ工業株30種平均は前日比69.72ドル高の5万3,839.99ドルと反発した",
+        "S&P500種株価指数は50.49ポイント高の7,798.99で最高値を更新し、ナスダック総合指数は0.80%高の2万6,803.02だった",
+        "物価指標の鈍化を受けてAI関連の半導体・メモリー株が買われ、シスコシステムズは利益率の低下を嫌気して下落した"
+      ],
+      "jackView": "最高値の更新が続くときほど、私は自分の持ち高が想定より膨らんでいないかを点検します。乗り遅れる不安より、配分の偏りに注意してください。",
+      "sources": [
+        {
+          "title": "TheStreet Stock Market Today (Aug. 13, 2026)",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-13-2026"
+        },
+        {
+          "title": "日本経済新聞 NYダウ、反発し69ドル高",
+          "url": "https://www.nikkei.com/article/DGXZQOFL1400D0U6A810C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/38906370/pexels-photo-38906370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0600-03",
+      "time": "2026-08-14T06:00",
+      "category": "usstock",
+      "title": "AMDが最大50億ドルの社債を発行へ AI半導体の開発に充てる",
+      "summary": [
+        "米AMDが償還期間の異なる4種類の社債を発行する書類を米証券取引委員会（SEC）に提出したとブルームバーグ通信が報じた",
+        "発行額は最大50億ドル（約8,000億円）で、先端半導体の開発などに充てる",
+        "調達資金は債務の返済を含む企業活動全般にも使うとしている"
+      ],
+      "jackView": "AI投資の資金を借り入れでまかなう動きが広がっています。私は成長のスピードだけでなく、金利負担が将来の利益をどれだけ削るかもあわせて見ています。",
+      "sources": [
+        {
+          "title": "日本経済新聞 AMDが社債発行、AIチップ開発に投資 最大8000億円",
+          "url": "https://www.nikkei.com/article/DGXZQOGN139O40T10C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0555-04",
+      "time": "2026-08-14T05:55",
+      "category": "usstock",
+      "title": "米シルバーレイクがワークデイの買収を交渉 ロイターが報道",
+      "summary": [
+        "米投資ファンドのシルバーレイクが人事・財務クラウド大手の米ワークデイの買収に向けて交渉していると、ロイター通信が報じた",
+        "両社は数カ月にわたり協議を続けているが、合意に至らない可能性もあるとしている",
+        "実現すればソフトウエア企業の買収として最大級の案件になる可能性がある"
+      ],
+      "jackView": "まだ報道段階で、まとまらない可能性も明記されています。私はこうした観測報道だけで動く株価には距離を置くようにしています。",
+      "sources": [
+        {
+          "title": "日本経済新聞 米投資ファンド、米ワークデイの買収交渉 ロイター報道",
+          "url": "https://www.nikkei.com/article/DGXZQOGN139WB0T10C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/37770938/pexels-photo-37770938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0550-05",
+      "time": "2026-08-14T05:50",
+      "category": "fx",
+      "title": "円相場は1ドル=159円台後半 14日朝は159円47〜49銭",
+      "summary": [
+        "14日午前6時すぎの時点で円相場は1ドル=159円47〜49銭と、前日比11銭の円安・ドル高で推移した",
+        "13日は米PPIの伸び鈍化を受けてドルが売られる場面もあったが、円の上値は限られた",
+        "同じ材料で米10年物国債利回りは4.64%まで低下している"
+      ],
+      "jackView": "米金利が下がっても円が買われにくい状態が続いています。私は159円台での外貨建て資産の買い増しは、時期を分けて考えるようにしています。",
+      "sources": [
+        {
+          "title": "日本経済新聞 為替・ドル円相場",
+          "url": "https://www.nikkei.com/markets/currencies/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0545-06",
+      "time": "2026-08-14T05:45",
+      "category": "crypto",
+      "title": "ビットコインは1,010万円台で小動き 24時間の変動率は0.4%安",
+      "summary": [
+        "14日朝の時点で1ビットコインは1,010万1,000円台で取引された",
+        "直近24時間の変動率はマイナス0.36%で、方向感の乏しい値動きが続いている",
+        "前日朝の1,012万円台からはほぼ横ばいの水準にとどまる"
+      ],
+      "jackView": "値動きが乏しい時期は、退屈から取引を増やしてしまいがちです。私は動かない相場ほど、次に動いたときの資金余力を確認する時間に使っています。",
+      "sources": [
+        {
+          "title": "CoinMarketCap ビットコイン価格",
+          "url": "https://coinmarketcap.com/ja/currencies/bitcoin/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358141/pexels-photo-8358141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0540-07",
+      "time": "2026-08-14T05:40",
+      "category": "jpstock",
+      "title": "すかいらーくHDが通期純利益を5%上方修正 205億円で最高益予想を上乗せ",
+      "summary": [
+        "26年12月期の連結純利益予想を従来の195億円から205億円（前期比22%増）に引き上げた",
+        "年間配当は従来予想から1円積み増して27円とする（前期は22円）",
+        "1〜6月期の連結最終利益は前年同期比29.2%増の101億円だった"
+      ],
+      "jackView": "外食の値上げが数字として通り始めた印象です。私は上方修正そのものより、既存店の客数が減っていないかを次の決算で確かめたいと思います。",
+      "sources": [
+        {
+          "title": "株探 すかいらーくホールディングス、今期最終を5%上方修正",
+          "url": "https://kabutan.jp/news/?b=k202608130006"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0535-08",
+      "time": "2026-08-14T05:35",
+      "category": "jpstock",
+      "title": "カネカの4〜6月期は純利益2.1倍の89億円 値上げ効果が寄与",
+      "summary": [
+        "売上高は前年同期比12%増の2,230億円、営業利益は83%増の149億円だった",
+        "中東情勢の影響で原材料価格が上昇した汎用樹脂製品などで実施した値上げが利益を押し上げた",
+        "還元型コエンザイムQ10のアジア・米国での販売増や、血液浄化器・カテーテルの受注増も貢献した"
+      ],
+      "jackView": "値上げが利益に届くまで時間差があることがよく分かる決算です。私は原材料高が一巡した後も価格を保てるかどうかに注目しています。",
+      "sources": [
+        {
+          "title": "日本経済新聞 カネカ、純利益2.1倍 4〜6月、製品値上げ効果",
+          "url": "https://www.nikkei.com/article/DGXZQOUC137D40T10C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3013999/pexels-photo-3013999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0530-09",
+      "time": "2026-08-14T05:30",
+      "category": "seido",
+      "title": "政府が外国人「高度専門職」の年収条件を引き上げへ 26年度にも省令改正",
+      "summary": [
+        "政府は高度な技能を持つ外国人材を「高度専門職」と認定する際の年収条件を引き上げる方針を固めた",
+        "受け入れは量より質を重視する方向に見直し、審査の迅速化もあわせて進める",
+        "2026年度にも関連する省令を改正する"
+      ],
+      "jackView": "人材の受け入れ基準が変わると、賃金水準や採用市場にも時間差で効いてきます。私は自分の業界にどう波及するかという視点で制度改正を追っています。",
+      "sources": [
+        {
+          "title": "日本経済新聞 外国人の高度人材、認定の年収条件引き上げ",
+          "url": "https://www.nikkei.com/article/DGXZQOUA234ED0T20C26A7000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0525-10",
+      "time": "2026-08-14T05:25",
+      "category": "point",
+      "title": "ドコモの銀行が8月20日に特典開始 dカード連携で初年度最大4.5%還元",
+      "summary": [
+        "ドコモSMTBネット銀行が提供する「ドコモの銀行」の口座特典が8月20日に始まる",
+        "基本1%に口座振替の2%、マネックス証券の設定による1.5%を加えて最大4.5%の還元となる",
+        "還元にはdアカウントの連携などの条件があり、付与上限も2種類設けられる"
+      ],
+      "jackView": "最大4.5%という数字は、条件をすべて満たしたときのものです。私は付与上限と必要な設定を確認してから、口座を移すかどうか決めるようにしています。",
+      "sources": [
+        {
+          "title": "ポイ探 ドコモの銀行特典が8月20日スタート",
+          "url": "https://news.infoseek.co.jp/article/poitan_183351/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8475155/pexels-photo-8475155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0520-11",
+      "time": "2026-08-14T05:20",
+      "category": "point",
+      "title": "セブン-イレブンがアプリ会員にお菓子無料クーポン 15日まで利用可能",
+      "summary": [
+        "セブン-イレブンアプリの会員向けに、対象のお菓子いずれか1個と引き換えられる無料クーポンを配信した",
+        "対象は「ビスコ ミニパック 乳酸菌クリームサンド」「たべっ子どうぶつ バター味 23g」「かっぱえびせん 小袋」の3品",
+        "利用できるのは8月13日から15日までの3日間で、1回限りとなる"
+      ],
+      "jackView": "小さな無料クーポンでも、通う店が固定されると出費全体はむしろ増えがちです。私は得をした分より、ついで買いの金額を意識するようにしています。",
+      "sources": [
+        {
+          "title": "セブン-イレブン アプリ会員限定 お菓子無料クーポン",
+          "url": "https://www.sej.co.jp/cmp/app_okashi2608.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0515-12",
+      "time": "2026-08-14T05:15",
+      "category": "sidehustle",
+      "title": "AI生成文に電子透かし 米アンソロピックがClaudeの新モデルに導入",
+      "summary": [
+        "米アンソロピックは、AIが生成した文章であることを示す電子透かしをClaudeの新モデルに導入すると発表した",
+        "透かしはコピー&ペーストした後も残る仕組みで、2026年8月から順次適用される",
+        "EUの規制への対応が背景にあり、利用者からは反発の声も出ている"
+      ],
+      "jackView": "AIを使って副業で文章を納品している方には直接効いてくる話です。私は先に納品先の規約とAI利用の開示ルールを確認しておくことをおすすめします。",
+      "jackLink": {
+        "title": "JACKのiOSアプリ開発 実例一覧",
+        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
+      },
+      "sources": [
+        {
+          "title": "日本経済新聞 Claude文章で「AI製」バレる? コピペでも残る電子透かし",
+          "url": "https://www.nikkei.com/article/DGXZQOGN139SY0T10C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/190168/pexels-photo-190168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260814-0510-13",
+      "time": "2026-08-14T05:10",
+      "category": "scam",
+      "title": "【警戒】生成AIの利用者を狙う詐欺が相次ぐ 偽アプリや無料の誘いに注意",
+      "summary": [
+        "ChatGPTやClaudeのダウンロードページを模した偽サイトからマルウェアを入れさせる手口が報告されている",
+        "一部のブラウザー拡張機能には、利用者が入力したAPIキーを抜き取る仕組みが仕込まれていた",
+        "SNSでは無制限の無料クレジットや極端な割引をうたい、パスワードやAPIキーを入力させる勧誘も確認されている"
+      ],
+      "jackView": "無料や限定という言葉が出た時点で、私は一度手を止めます。公式サイト以外からのダウンロードと、APIキーの入力には特に注意してください。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "INTERNET Watch 生成AI利用者を狙うネット詐欺が相次ぐ",
+          "url": "https://internet.watch.impress.co.jp/docs/column/dlis/2132299.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260813-1930-01",
       "time": "2026-08-13T19:30",
@@ -555,297 +814,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/35076266/pexels-photo-35076266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0610-01",
-      "time": "2026-08-11T06:10",
-      "category": "usstock",
-      "title": "米国株は3指数そろって小幅安 ダウは60ドル安、原油高とエヌビディアの下落が重荷",
-      "summary": [
-        "10日の米株式市場でダウ工業株30種平均は前週末比60ドル95セント安の5万3975ドル98セントで取引を終えた。",
-        "S&P500種株価指数は0.06%安の7753.11、ナスダック総合指数は0.32%安の2万6605.36だった。",
-        "ホルムズ海峡の通航再開を巡る交渉が長引き、米原油先物は1バレル80ドル台で高止まりした。",
-        "半導体のエヌビディアは約3%安の217ドル台で終え、指数の重荷となった。"
-      ],
-      "jackView": "指数は小動きでも、原油と金利が上がる場面でハイテク株だけが伸び続けるのは難しいと私は見ています。12日の米CPIまでは値動きの荒さに注意してください。",
-      "sources": [
-        {
-          "title": "Yahoo Finance: Stock market today (Aug 10, 2026)",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
-        },
-        {
-          "title": "TheStreet: Stock Market Today (Aug. 10, 2026)",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-10-2026"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0605-02",
-      "time": "2026-08-11T06:05",
-      "category": "usstock",
-      "title": "インテルが公募増資で150億ドル調達へ 受託製造と先端パッケージングに投資",
-      "summary": [
-        "米インテルは10日、普通株式の発行による公募増資で150億ドル（約2.4兆円）を調達すると発表した。",
-        "調達資金は設備投資や運転資金に充て、半導体の受託製造事業と先端パッケージング技術の拡大に振り向ける。",
-        "引受にはJPモルガンやゴールドマン・サックス、モルガン・スタンレー、シティグループが参加する。",
-        "発表を受けて10日の同社株は一時4.2%安となった。"
-      ],
-      "jackView": "増資は成長投資の裏返しですが、同時に1株当たりの価値は薄まります。私は調達額の使い道と回収の時間軸をセットで確かめるようにしています。",
-      "sources": [
-        {
-          "title": "日本経済新聞: インテル、公募増資で2.4兆円規模調達",
-          "url": "https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/"
-        },
-        {
-          "title": "日本経済新聞: NYダウ、反落で始まる",
-          "url": "https://www.nikkei.com/article/DGXZQOFL108JO0Q6A810C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/38906370/pexels-photo-38906370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0600-03",
-      "time": "2026-08-11T06:00",
-      "category": "usstock",
-      "title": "メタが高性能AIを「数十億人に無償提供」へ 基盤モデルの技術を外部に開放",
-      "summary": [
-        "米メタが高性能な生成AIモデルの技術を外部に開放し、数十億人規模に無償で提供する方針を明らかにした。",
-        "外部の開発者に技術を開放して利用者と改良の輪を広げ、開発速度を高める狙いがある。",
-        "メタはAI関連の設備投資を大幅に積み増しており、広告以外の収益化が課題となっている。"
-      ],
-      "jackView": "無償開放は利用者を一気に取りにいく攻めの一手ですが、稼ぎ方はこれからです。私は投資額に見合う収益源が育つかどうかを見ていきたいと思います。",
-      "sources": [
-        {
-          "title": "日本経済新聞: メタ、AIを「数十億人に無償提供」",
-          "url": "https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35318714/pexels-photo-35318714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0555-04",
-      "time": "2026-08-11T05:55",
-      "category": "fx",
-      "title": "円が一時159円台に下落 日米協調介入後の円高分を半値打ち消す",
-      "summary": [
-        "10日の外国為替市場で円相場は一時1ドル=159円台に下落し、7月31日以来の円安・ドル高水準となった。",
-        "7月末の日米協調介入で進んだ円高分の約半分を打ち消した形となる。",
-        "中東情勢の緊迫を背景とした原油高と、追加介入観測の後退が円売りにつながった。",
-        "11日早朝の東京市場でも1ドル=159円30銭前後で推移している。"
-      ],
-      "jackView": "介入は流れを止める時間稼ぎで、方向まで変える力は限られると私は見ています。輸入物価を通じて家計に効いてくる点に注意してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞: はや薄れる日米協調介入の神通力",
-          "url": "https://www.nikkei.com/article/DGXZQOGN108YP0Q6A810C2000000/"
-        },
-        {
-          "title": "日本経済新聞: 円下落で一時159円台",
-          "url": "https://www.nikkei.com/article/DGXZQOUB0709B0X00C26A8000000/"
-        },
-        {
-          "title": "日本経済新聞: ドル円相場リアルタイムチャート",
-          "url": "https://www.nikkei.com/marketdata/quote/USDJPY/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0550-05",
-      "time": "2026-08-11T05:50",
-      "category": "market",
-      "title": "上場企業の4〜6月期は純利益68%増 円安とAI投資が追い風",
-      "summary": [
-        "東証プライムに上場する3月期企業956社の2026年4〜6月期決算は、純利益が前年同期比68%増えた。",
-        "全体の約7割の企業が増益となり、半導体関連や自動車、電子部品、産業機器、素材など幅広い業種で改善した。",
-        "円安の進行とAI関連投資の急増、構造改革の進展が押し上げ要因となった。"
-      ],
-      "jackView": "好決算の多くは円安とAI投資に支えられています。私はこの2つが弱まったときに何が残るのか、という目線で決算を読むようにしています。",
-      "sources": [
-        {
-          "title": "日本経済新聞: 上場企業の稼ぐ力、円安・AI投資が追い風",
-          "url": "https://www.nikkei.com/article/DGXZQOUB049080U6A800C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0545-06",
-      "time": "2026-08-11T05:45",
-      "category": "jpstock",
-      "title": "H3ロケット9号機の打ち上げに成功 準天頂衛星みちびき7号機を軌道に投入",
-      "summary": [
-        "JAXAは11日午前4時23分、H3ロケット9号機を種子島宇宙センターから打ち上げた。",
-        "搭載した準天頂衛星みちびき7号機を約30分後に分離し、予定の軌道に投入した。",
-        "みちびきはスマートフォンの位置情報やカーナビに使われる衛星測位システムで、政府は7機体制の構築を目指している。"
-      ],
-      "jackView": "衛星測位は自動運転や物流の土台になる地味で重要なインフラです。私は打ち上げ成功そのものより、部材や地上設備の裾野の広がりに注目しています。",
-      "sources": [
-        {
-          "title": "マイナビニュース: H3ロケット9号機打上げ成功",
-          "url": "https://news.mynavi.jp/techplus/article/20260811-4802653/"
-        },
-        {
-          "title": "準天頂衛星システム（みちびき）公式サイト",
-          "url": "https://qzss.go.jp/7satellite-constellation/index.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5833758/pexels-photo-5833758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0540-07",
-      "time": "2026-08-11T05:40",
-      "category": "jpstock",
-      "title": "名鉄の4〜6月期は純利益87%増の125億円 運送事業の赤字が縮小",
-      "summary": [
-        "名古屋鉄道が10日発表した2026年4〜6月期の連結決算は、純利益が前年同期比87%増の125億円だった。",
-        "売上高は7%減の1568億円、営業利益は4%減の88億円だった。",
-        "運送事業の営業損失は7億9100万円と、前年同期の29億円の赤字から縮小した。",
-        "減収は名鉄百貨店の閉店に伴う収入減が主因で、増益は特別損益の改善などによる。"
-      ],
-      "jackView": "本業の営業利益は減っており、増益は特別損益の改善が効いています。私は決算を見るとき、増益の中身がどこから来たのかを必ず確かめます。",
-      "sources": [
-        {
-          "title": "日本経済新聞: 名鉄の4〜6月期、純利益87%増",
-          "url": "https://www.nikkei.com/article/DGXZQOFD104360Q6A810C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0535-08",
-      "time": "2026-08-11T05:35",
-      "category": "jpstock",
-      "title": "楽天モバイルの契約回線数が1,075万回線に 前年同期比178万回線の増加",
-      "summary": [
-        "楽天グループが10日発表した2026年4〜6月期決算で、楽天モバイルの全契約回線数は6月末時点で1075万回線となった。",
-        "前年同期からは178万回線の増加で、自社回線（MNO）単体では993万回線と176万回線増えた。",
-        "モバイル事業は増収と損失の縮小が続き、三木谷浩史会長兼社長は基地局建設の年内計画分のリソースは確保済みだと説明した。"
-      ],
-      "jackView": "回線数の伸びは続いていますが、設備投資の重さが残る事業です。私は契約数そのものより、1回線あたりの採算がどう動くかを見ています。",
-      "sources": [
-        {
-          "title": "ケータイ Watch: 楽天モバイル、契約数1075万回線に",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2132033.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0530-09",
-      "time": "2026-08-11T05:30",
-      "category": "crypto",
-      "title": "ビットコインは1,019万円台に上昇 イーサリアムは29万8,000円台",
-      "summary": [
-        "11日朝のビットコインの円建て価格は1019万円台で、24時間前と比べて約1.6%高い水準となった。",
-        "イーサリアムは29万8000円台で、24時間で約2.2%上昇した。",
-        "12日発表の7月の米消費者物価指数（CPI）を控え、リスク資産では持ち高調整の動きが出ている。"
-      ],
-      "jackView": "重要指標の前に暗号資産が先に動くことはよくあります。私は指標の直前に持ち高を増やさず、結果を見てから考えるようにしています。",
-      "sources": [
-        {
-          "title": "CoinMarketCap: ビットコイン",
-          "url": "https://coinmarketcap.com/ja/currencies/bitcoin/"
-        },
-        {
-          "title": "CoinMarketCap: イーサリアム",
-          "url": "https://coinmarketcap.com/ja/currencies/ethereum/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0525-10",
-      "time": "2026-08-11T05:25",
-      "category": "seido",
-      "title": "厚労省が雇用調整助成金の特例措置を検討 熊本地震の被災事業者向け",
-      "summary": [
-        "厚生労働省が令和8年熊本地震を受け、雇用調整助成金の特例措置の適用を検討していることが10日わかった。",
-        "被災地ではすでに雇用保険の基本手当に関する特例など、雇用・労働の支援措置が実施されている。",
-        "災害救助法の適用地域で事業所が休業し一時的に離職した人も、要件を満たせば基本手当を受けられる場合がある。"
-      ],
-      "jackView": "災害時の支援制度は、申請しなければ受け取れないものがほとんどです。被災地に事業や家族がある方は、ハローワークの窓口情報を早めに確認してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞: 厚労省、雇用調整助成金の特例措置を検討",
-          "url": "https://www.nikkei.com/article/DGXZQOUA108370Q6A810C2000000/"
-        },
-        {
-          "title": "厚生労働省: 雇用・労働に関する特例措置や支援制度（令和8年熊本地震）",
-          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134526_00005.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/38723192/pexels-photo-38723192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0520-11",
-      "time": "2026-08-11T05:20",
-      "category": "point",
-      "title": "東急カードが東急線の運賃20%キャッシュバック 8月17日から9月4日まで",
-      "summary": [
-        "東急カードは10日、TOKYU CARDでの買い物とクレカ乗車を同じ日に利用した人に運賃の20%を還元するキャンペーンを発表した。",
-        "期間は2026年8月17日から9月4日までで、キャッシュバックは期間中最大1000円となる。",
-        "対象は同一のTOKYU CARDで東急線のクレカ乗車と沿線での買い物を同日に利用した場合となる。"
-      ],
-      "jackView": "上限が1000円なので、日常的に東急線を使う方向けの小さな上乗せです。私は生活動線を変えずに取れる分だけ拾うのが現実的だと思います。",
-      "sources": [
-        {
-          "title": "東急カード: キャンペーン一覧",
-          "url": "https://www.topcard.co.jp/campaign"
-        },
-        {
-          "title": "ペイメントナビ: TOKYU CARDで乗って買って20%キャッシュバックキャンペーン実施",
-          "url": "https://paymentnavi.com/paymentnews/180031.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0515-12",
-      "time": "2026-08-11T05:15",
-      "category": "sidehustle",
-      "title": "30代会社員が都内の民泊事業を承継 給料以外の収入源づくりでM&A成約",
-      "summary": [
-        "ファイナンスアイは10日、30代の会社員が都内の収益化済み民泊事業を承継したM&Aの成約事例を公表した。",
-        "買い手は不動産投資など複数の選択肢を数カ月かけて比較したうえで、稼働実績のある民泊の事業承継を選んだという。",
-        "小規模事業のM&Aは、ゼロから立ち上げる場合に比べて初期の集客リスクを抑えやすいとされる。"
-      ],
-      "jackView": "実績つきの事業を買うのは近道に見えますが、価格の妥当性と法規制の確認が肝心です。私は数字の裏付けを自分の手で取ることをおすすめします。",
-      "jackLink": {
-        "title": "JACKと実践する資産形成",
-        "url": "https://jack-invest.com/core-member"
-      },
-      "sources": [
-        {
-          "title": "PR TIMES: 株式会社ファイナンスアイ",
-          "url": "https://prtimes.jp/main/html/rd/p/000000154.000125953.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/190168/pexels-photo-190168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260811-0510-13",
-      "time": "2026-08-11T05:10",
-      "category": "sidehustle",
-      "title": "クリエイター向けマッチング「Creator Market」が公開 登録や仕事募集は無料",
-      "summary": [
-        "ポイントイェスは10日、クリエイターと依頼者をつなぐサービス「Creator Market」を公開した。",
-        "登録、作品掲載、仕事の募集、予約の各機能を無料で提供する。",
-        "依頼者はクリエイターの作品を見たうえで、直接仕事を依頼できる仕組みとしている。"
-      ],
-      "jackView": "受注の場は増えていますが、選ばれるかどうかは結局は実績次第です。私はまず小さな案件で実績を積むところから始めるのが近道だと考えています。",
-      "jackLink": {
-        "title": "JACKのiOSアプリ開発 実例一覧",
-        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
-      },
-      "sources": [
-        {
-          "title": "PR TIMES: 株式会社ポイントイェス",
-          "url": "https://prtimes.jp/main/html/rd/p/000000024.000144342.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
