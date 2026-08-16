@@ -1,6 +1,83 @@
 {
   "issues": [
     {
+      "id": "2026-08-17",
+      "number": 33,
+      "date": "2026-08-17",
+      "articles": [
+        {
+          "category": "money",
+          "title": "本日からファミマでPOSAカード等を5,000円以上買うと最大10%還元。ファミペイ提示が条件で8月30日まで",
+          "sourceDate": "2026-08-14",
+          "effectiveDate": "2026-08-17",
+          "flash": [
+            "ファミリーマートは8月17日0時から8月30日23時59分まで、ファミペイアプリを提示してPOSAカードやスマホプリペイドを累計5,000円以上購入した人にファミマポイントを付与する。レジでのApple Accountチャージも対象。",
+            "付与は山分け方式で、累計5,000円を1口として1口あたり1円から500円相当、最大で購入額の10%相当。1人200口・累計100万円分が上限で、原資は総額1,000万円相当。",
+            "ハズレなしで購入者全員が対象。進呈は9月30日までで、予定数に達し次第終了。ファミマポイント残高の上限は10万円で、超過分は補填されない。"
+          ],
+          "comment": "山分け型は参加者が増えるほど1口あたりが薄まる仕組みで、最大10%は上限であって期待値ではない。私はこの手の還元を、買う予定があったものの前倒しにだけ使う。今日やるなら、今月使う予定のApple Gift CardやGoogle Playの課金分を1回の会計で5,000円単位に整えて買い、レジでファミペイの提示を忘れないこと。使い道のないカードを買い足すのは、還元率以前に現金を寝かせるだけで損だ。",
+          "sources": [
+            {
+              "title": "ファミリーマート公式 ファミマポイントの山分けキャンペーン",
+              "url": "https://www.family.co.jp/campaign/spot/2608_posa_yamawake_cp.html"
+            },
+            {
+              "title": "ファミリーマート プレスリリース（ファミマポイント総額1,000万円相当山分け）",
+              "url": "https://prtimes.jp/main/html/rd/p/000002455.000046210.html"
+            }
+          ],
+          "id": "2026-08-17-money",
+          "image": "https://images.pexels.com/photos/7680549/pexels-photo-7680549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "title": "SpaceXがAIコーディングツールCursorの買収を完了。600億ドルの株式交換で開発ツールの親会社が変わる",
+          "sourceDate": "2026-08-14",
+          "flash": [
+            "Cursorを開発するAnysphereは8月14日、SpaceXによる買収が完了したと公式ブログで発表した。6月に合意していた600億ドル規模の全株式交換による取引。",
+            "Cursorは買収で世界最大級のGPU群を使えるようになり、より高性能なモデルをより低コストで提供できると説明。先に公開されたGrok 4.6を協業の初期の成果として挙げた。",
+            "既存プランの料金変更には触れておらず、開発者がコードを書く時間を減らす方針は変えないとしている。"
+          ],
+          "comment": "個人開発やアプリ制作で稼ぐ人には、当面は性能向上と単価低下という追い風だ。ただ道具が巨大資本の傘下に入ると、料金体系もモデルの選択肢も親会社の都合で動く。私が今日勧めるのは、Cursorに書き込んだルールやプロンプトをテキストファイルとして手元に書き出しておくこと。他のツールでも動く形にしておけば、条件が変わった日に乗り換えるだけで済む。",
+          "sources": [
+            {
+              "title": "Cursor公式ブログ Cursor is now part of SpaceX",
+              "url": "https://cursor.com/ja/blog/joining-spacex"
+            },
+            {
+              "title": "TechCrunch SpaceX officially closes its Cursor acquisition",
+              "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+            }
+          ],
+          "id": "2026-08-17-sidehustle",
+          "image": "https://images.pexels.com/photos/11911060/pexels-photo-11911060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "title": "【警戒】国税庁・税務署をかたるSMSと電話が継続。URL付きの納税SMSは偽物で、還付金をATMで案内するのも詐欺",
+          "sourceDate": "2026-08-16",
+          "flash": [
+            "国税庁を名乗り、未払い税金のお知らせや差押最終通知といった件名で、数万円から十数万円の金額と期限を示すSMS・メールが出回っている。",
+            "誘導先の偽サイトではクレジットカード番号の入力や、電子マネー・コンビニ払いでの支払いを求められる。電話版は税務署職員を名乗り、払いすぎた税金の還付があるとして今日中にATMで手続きするよう促す。",
+            "国税庁はショートメッセージで納付を案内しておらず、納付書などの書面郵送が基本。ATMで還付金を受け取る手続きは存在しない。"
+          ],
+          "comment": "覚えることは2つだけでいい。本物の税務署はURL付きSMSを送らない、そしてATMで還付金は戻らない。この2点で今出回っている手口はほぼ弾ける。今日やるなら、税や料金の督促SMSが来たら開かずに削除し、気になる時だけ自分から国税庁サイトやe-Taxにログインして確認する、と家族に共有すること。詳しい対処手順はブログで解説した。",
+          "sources": [
+            {
+              "title": "国税庁・税務署を名乗るSMS・電話は詐欺？本物との見分け方と正しい対処法",
+              "url": "https://jack-invest.com/archives/25419"
+            },
+            {
+              "title": "国税庁 不審なメールや電話にご注意ください",
+              "url": "https://www.nta.go.jp/information/attention/attention.htm"
+            }
+          ],
+          "id": "2026-08-17-scam",
+          "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
       "id": "2026-08-16",
       "number": 32,
       "date": "2026-08-16",
