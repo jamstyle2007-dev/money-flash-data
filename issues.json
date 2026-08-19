@@ -2,7 +2,7 @@
   "issues": [
     {
       "id": "2026-08-20",
-      "number": 35,
+      "number": 36,
       "date": "2026-08-20",
       "articles": [
         {
@@ -70,7 +70,7 @@
     },
     {
       "id": "2026-08-19",
-      "number": 34,
+      "number": 35,
       "date": "2026-08-19",
       "articles": [
         {
@@ -145,6 +145,78 @@
           ],
           "id": "2026-08-19-scam",
           "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18",
+      "number": 34,
+      "date": "2026-08-18",
+      "articles": [
+        {
+          "category": "money",
+          "id": "2026-08-18-money",
+          "title": "日経平均が6日ぶり反落、1,759円安の6万7,460円。原油高と約30年ぶり金利上昇で半導体に利益確定売り",
+          "sourceDate": "2026-08-18",
+          "flash": [
+            "18日の日経平均は前日比1,759円52銭(2.54%)安の6万7,460円73銭と6日ぶりに反落。TOPIXも1.05%安の4,140だった",
+            "中東情勢の再緊迫化による原油高と、国内長期金利が約30年ぶりの高水準に達したことが逆風となった",
+            "下げの中心は直近5日間で急騰していたAI・半導体関連の利益確定売り。値上がり銘柄も720と全面安ではなかった"
+          ],
+          "comment": "1,700円という下げ幅に驚くが、私は中身を見る。値上がり銘柄が720もある通り、これは全面安ではなく直近急騰した半導体の利益確定だ。こういう日にやってはいけないのは、慌てて積立を止めることと、急落を見て一括で飛び込むこと。積立は淡々と続け、買い増すなら一度に入れず数回に分ける。むしろ注目すべきは約30年ぶりの金利上昇の方で、変動金利で住宅ローンを組んでいる人は、金利見直しの通知条件を今週確認しておくとよい。",
+          "sources": [
+            {
+              "title": "株探 日経平均18日大引け＝6日ぶり反落、1759円安の6万7460円",
+              "url": "https://s.kabutan.jp/news/n202608180838/"
+            },
+            {
+              "title": "KABU Lab 2026年08月18日の日経平均見通し",
+              "url": "https://kabulab.jp/market/market-2026-08-18/"
+            }
+          ],
+          "image": "https://images.pexels.com/photos/7680562/pexels-photo-7680562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "id": "2026-08-18-sidehustle",
+          "title": "決済大手StripeがAIゲートウェイのOpenRouterを70億ドル超で買収へ。「モデルを乗り換えられる仕組み」に巨額の値段",
+          "sourceDate": "2026-08-17",
+          "flash": [
+            "Stripeが、数百のAIモデルを単一のAPIで切り替え・自動振り分けできるOpenRouterを70億ドル超で買収することで合意したと米メディア各社が報道",
+            "OpenRouterは今年5月に企業価値13億ドルで資金調達したばかり。3カ月で約5.4倍の評価となった",
+            "現金と株式で80億ドル超とする報道もあり、コストに応じてAIを使い分けるニーズの強さを示した"
+          ],
+          "comment": "決済会社が「AIそのもの」ではなく「AIを乗り換える仕組み」に巨額を払った。ここにAIで稼ぐ人へのヒントがある。特定のモデルに作業フローを固定すると、値上げや性能変化に振り回される。先週のDeepSeek値上げがいい例だ。私なら、自分の仕事が1つのAIに依存していないかを点検し、主力の代替になるモデルを1つ試しておく。乗り換えられる状態を保つことが、AI時代の個人の防御力になる。",
+          "sources": [
+            {
+              "title": "TechCrunch: Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+              "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+            },
+            {
+              "title": "Axios: Stripe strikes mega-deal for OpenRouter",
+              "url": "https://www.axios.com/2026/08/17/stripe-openrouter-paypal"
+            }
+          ],
+          "image": "https://images.pexels.com/photos/7014946/pexels-photo-7014946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "id": "2026-08-18-scam",
+          "title": "【警戒】「海外出張で高報酬」と誘い台湾へ移送、詐欺の実行役をさせる目的か。広島で2人逮捕",
+          "sourceDate": "2026-08-17",
+          "flash": [
+            "「出張で報酬を支払う」などと誘った47歳男性を監視下に置き台湾に移送したとして、30代の会社代表と元役員が17日に逮捕された",
+            "警察は、海外拠点で特殊詐欺などをさせることが目的だったとみて捜査している",
+            "高額報酬をうたう海外出張・住み込み型の求人は、詐欺の実行役を集める入り口として使われている"
+          ],
+          "comment": "詐欺は「被害者になる」だけでなく「加害側に取り込まれる」リスクがある。狙われるのはお金に困っている普通の人だ。私の経験則では、渡航費は先方持ち・報酬が相場より高い・仕事内容の説明が曖昧、この3つが揃う求人はまず疑ってよい。パスポートを預かると言われたら、その時点で断って離れること。家族に海外の割のいい仕事を探している人がいたら、応募前に会社名の登記と所在地を一緒に確認してほしい。",
+          "sources": [
+            {
+              "title": "NHK 男性誘拐し海外移送の疑いで2人逮捕 特殊詐欺可能性も 広島",
+              "url": "https://news.web.nhk/newsweb/na/nb-4000035424"
+            }
+          ],
+          "image": "https://images.pexels.com/photos/38482452/pexels-photo-38482452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         }
       ]
     },
