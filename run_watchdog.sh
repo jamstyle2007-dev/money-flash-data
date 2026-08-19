@@ -45,6 +45,7 @@ bash ./run_morning.sh || true
 if published; then
   echo "復旧完了（run_morning再実行）"
   notify "復旧完了: 本日号を配信しました"
+  python3 ~/money-flash/xpost/xpost.py --draft || true  # 遅延配信日もX投稿文をJACKへ
   exit 0
 fi
 
@@ -70,6 +71,7 @@ fi
 if published; then
   echo "復旧完了（AI修復）"
   notify "復旧完了: AI修復で本日号を配信しました"
+  python3 ~/money-flash/xpost/xpost.py --draft || true  # 遅延配信日もX投稿文をJACKへ
   exit 0
 fi
 
