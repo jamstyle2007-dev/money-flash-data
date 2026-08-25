@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-25T06:20",
+  "updated": "2026-08-25T12:20",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "65,528.09",
-      "change": "-488.27",
-      "changePct": "-0.74%"
+      "value": "65,598.68",
+      "change": "+70.59",
+      "changePct": "+0.11%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,073.29",
-      "change": "+6.00",
-      "changePct": "+0.15%"
+      "value": "4,086.73",
+      "change": "+13.44",
+      "changePct": "+0.33%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "159.18",
-      "change": "+0.35",
-      "changePct": "+0.22%"
+      "value": "159.33",
+      "change": "+0.15",
+      "changePct": "+0.09%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,262 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.57M",
-      "change": "+1.76%",
-      "changePct": "+1.76%"
+      "value": "¥12.85M",
+      "change": "+4.19%",
+      "changePct": "+4.19%"
     }
   ],
   "items": [
+    {
+      "id": "20260825-1143-01",
+      "time": "2026-08-25T11:43",
+      "category": "market",
+      "title": "日経平均の前引けは70円高の6万5598円 TOPIXも上昇し商いは低調",
+      "summary": [
+        "25日の東京株式市場で日経平均株価の午前終値は前日比70円59銭高の6万5598円68銭と反発した。",
+        "TOPIXは前日比13.44ポイント高の4086.73と上昇し、JPX日経400も116ポイント高となった。",
+        "前日の米市場で長期金利と原油先物が低下したことが支えとなる一方、米半導体株安を受けキオクシアHDは一時3.6%安となった。",
+        "東証プライムの売買代金は10兆円割れが続き、夏枯れの商状が続いている。"
+      ],
+      "jackView": "指数は戻していますが売買代金が細ったままです。私は方向感の乏しい局面ほど、値動きより自分の想定シナリオを点検する時間に充てています。",
+      "sources": [
+        {
+          "title": "日経平均前場引け（ザイ・オンライン）",
+          "url": "https://zai.diamond.jp/articles/-/494480"
+        },
+        {
+          "title": "マーケットニュース（日本経済新聞）",
+          "url": "https://www.nikkei.com/markets/"
+        },
+        {
+          "title": "TOPIX（Yahoo!ファイナンス）",
+          "url": "https://finance.yahoo.co.jp/quote/998405.T"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-1130-02",
+      "time": "2026-08-25T11:30",
+      "category": "market",
+      "title": "日本の卸電力価格が26年下期に4割高へ IEAが推計",
+      "summary": [
+        "国際エネルギー機関（IEA）は、日本の卸電力市場の平均価格が2026年下期に前年同期比で4割高くなるとの推計を示した。",
+        "中東情勢の混乱による液化天然ガス（LNG）価格の上昇が主因とされる。",
+        "電力コストの上昇は企業の生産活動や家計の電気料金にも波及する見通し。"
+      ],
+      "jackView": "電気代は生活費と企業のコストを同時に押し上げます。私は保有する銘柄について、電力コストを価格に転嫁できる事業かどうかを確認しておきたいところです。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUA107X70Q6A810C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2893771/pexels-photo-2893771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-1117-03",
+      "time": "2026-08-25T11:17",
+      "category": "seido",
+      "title": "内閣府が生成AIの知財保護原則を策定 学習データの概要開示を促す",
+      "summary": [
+        "内閣府は生成AI事業者に向けた知的財産権保護の基本原則、プリンシプル・コードを策定した。",
+        "学習方法やモデルの種類といった概要の開示、権利者からの照会への回答、AI利用者からの照会への回答の3点を求める。",
+        "法的な強制力はなく順守か説明かを選ぶ方式で、受け入れた事業者は政府が公表するリストに掲載される。"
+      ],
+      "jackView": "強制力のない原則なので、開示する企業としない企業に分かれます。私はAI関連の会社を見るとき、こうした対応姿勢も判断材料の一つにしています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUA243N10U6A820C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-1030-04",
+      "time": "2026-08-25T10:30",
+      "category": "sidehustle",
+      "title": "兼業就農スクールの入学者が507名に 就農はのべ304名",
+      "summary": [
+        "会社員を続けながら農業を始める兼業就農に特化したチバニアン兼業農学校が、2026年8月1日時点の実績を公表した。",
+        "開校から4年半で入学者は507名、就農者はのべ304名、認定新規就農者は7名となった。",
+        "受講者は農業未経験の40代から60代の会社員が中心で、月2〜3回の実習とオンライン講義を組み合わせる形式をとる。"
+      ],
+      "jackView": "副業は在宅ワークだけではありません。私は本業を続けたまま小さく試せるかどうかを、副業選びの最初の条件として見ています。",
+      "sources": [
+        {
+          "title": "PR TIMES（チバニアン兼業農学校）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000009.000087039.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3767406/pexels-photo-3767406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-1025-05",
+      "time": "2026-08-25T10:25",
+      "category": "crypto",
+      "title": "ビットコインが一時8万ドル近辺 現物買いが上昇を主導",
+      "summary": [
+        "ビットコインは25日の取引で一時1ビットコイン=8万ドル近辺まで上昇し、円建てでは過去24時間で最大約50万円幅の上昇となった。",
+        "米財務省がデジタル資産を対象に対イラン制裁を拡大したことや、米長期金利の低下が材料視された。",
+        "今回の上昇はデリバティブではなく現物市場の買いが主導していると指摘されている。"
+      ],
+      "jackView": "急騰の後は値動きが荒くなりやすい局面です。私は上げ幅そのものより、現物主導かどうかという中身のほうを気にして見ています。",
+      "sources": [
+        {
+          "title": "CoinPost",
+          "url": "https://coinpost.jp/?p=732880"
+        },
+        {
+          "title": "CoinMarketCap（ビットコイン）",
+          "url": "https://coinmarketcap.com/ja/currencies/bitcoin/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-0943-06",
+      "time": "2026-08-25T09:43",
+      "category": "jpstock",
+      "title": "コンヴァノがビットコイン売却 81億円で社債償還と自社株買いへ",
+      "summary": [
+        "コンヴァノはビットコイン・トレジャリー戦略の終了を発表し、売却により約81億円を確保した。",
+        "第4回普通社債25億円を全額繰り上げ償還し、最大45億円・上限4500万株の自己株式取得を実施する。",
+        "ビットコイン関連の株主優待制度は廃止し、株主還元の中心を配当と自社株買いに移す。"
+      ],
+      "jackView": "暗号資産を持つ企業は、その値動きが業績と株価に直結します。私は保有の理由と出口の方針が示されているかを確認するようにしています。",
+      "sources": [
+        {
+          "title": "CoinPost",
+          "url": "https://coinpost.jp/?p=732912"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-0937-07",
+      "time": "2026-08-25T09:37",
+      "category": "point",
+      "title": "LUUPとOliveが名古屋で連携 条件達成で10分無料クーポン5回分",
+      "summary": [
+        "電動キックボードなどのLUUPと三井住友銀行のOliveが、名古屋市で連携キャンペーンを始めた。",
+        "ライド後に表示されるバナーからOliveの口座を申し込み、条件を満たすと10分無料クーポン5回分がもらえる。",
+        "Oliveデザインの電動アシスト自転車と電動キックボード計400台を9月23日まで市内に配備し、クーポンの申込期間は9月24日まで。"
+      ],
+      "jackView": "口座開設が条件の特典は、手数料や使い勝手まで含めて比べたいところです。私は特典目当てで使わない口座を増やさないよう気をつけています。",
+      "sources": [
+        {
+          "title": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2135016.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-0904-08",
+      "time": "2026-08-25T09:04",
+      "category": "fx",
+      "title": "ドル離れのディベースメント取引が再燃 金や暗号資産にマネー",
+      "summary": [
+        "財政拡張や過度な金融緩和で通貨の信認が揺らぐ局面で、値下がりが見込まれる通貨から実物資産などへ資金を移すディベースメント取引が再び意識されている。",
+        "資金はドルから金や暗号資産に向かい、ビットコインと金がともに買われている。",
+        "背景には米国の財政リスクとドルの購買力低下への懸念があると指摘されている。"
+      ],
+      "jackView": "通貨の目減りに備える発想は理解できますが、値動きの荒い資産に偏るのは別の話です。私は先に比率を決めてから入るようにしています。",
+      "jackLink": {
+        "title": "JACKと実践する資産形成",
+        "url": "https://jack-invest.com/core-member"
+      },
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUB245U30U6A820C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7634898/pexels-photo-7634898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-0816-09",
+      "time": "2026-08-25T08:16",
+      "category": "jpstock",
+      "title": "セレスが株主優待にイーサリアムとジパングコインを導入",
+      "summary": [
+        "セレスは暗号資産による株主優待の実施を発表し、イーサリアム（ETH）とジパングコイン（ZPG）を贈呈する。",
+        "対象は2026年12月末時点で100株以上を保有し、連結子会社マーキュリーが運営する暗号資産販売所CoinTradeに本人名義の口座を持つ株主。",
+        "口座がない株主は2027年9月30日までに開設して申し込む必要がある。18歳未満と80歳以上は口座を開設できない。"
+      ],
+      "jackView": "優待が暗号資産だと、受け取った後も価格が動き続けます。私は優待の額面より、口座開設などの条件と手間を先に確認しておきたいと考えています。",
+      "sources": [
+        {
+          "title": "株式会社セレス ニュースリリース",
+          "url": "https://ceres-inc.jp/news/detail/20260824-2/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5833757/pexels-photo-5833757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-0805-10",
+      "time": "2026-08-25T08:05",
+      "category": "seido",
+      "title": "金融庁がステーブルコインの100万円超取引を可能にするよう要望へ",
+      "summary": [
+        "金融庁は日本円建てステーブルコインについて、信託型の規制を緩和し個人が100万円を超えて取引できるようにする方針を税制改正要望に盛り込む。",
+        "所有者の変更時に所有者情報を記載した書類を税務署へ提出する必要があるため、相続税法と所得税法の改正で提出を一律で不要にするよう求める。",
+        "実現は2027年度以降を目指すとされる。"
+      ],
+      "jackView": "取引上限が緩めば使い道は広がりますが、発行体の信用力を見る目はより大事になります。私は制度が動くときこそ前提条件を読み込むようにしています。",
+      "sources": [
+        {
+          "title": "CoinPost",
+          "url": "https://coinpost.jp/?p=732881"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-0700-11",
+      "time": "2026-08-25T07:00",
+      "category": "scam",
+      "title": "【警戒】野村證券をかたるLINE誘導メールが出現 カード請求案内型も多発",
+      "summary": [
+        "迷惑メール相談センターは25日、野村證券になりすまし、専用LINEアカウント開設と市場インサイト配信を案内するメールを注意喚起の対象に掲載した。",
+        "同日は楽天カード、セゾンカード、三井住友カード、UCカード、JCBカード、イオンカードなど、請求額の案内を装う手口も並んだ。",
+        "ANAマイレージクラブやJRE POINTを装い、無料プレゼントやポイント失効を伝えるメールも確認されている。"
+      ],
+      "jackView": "証券会社をかたってLINEへ誘導する手口は、投資詐欺の入口になりがちです。私はメール内のリンクは踏まず、必ず公式アプリから確認するようにしています。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "迷惑メール相談センター 要注意メール",
+          "url": "https://www.dekyo.or.jp/soudan/contents/news/alert.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260825-0635-12",
+      "time": "2026-08-25T06:35",
+      "category": "usstock",
+      "title": "コインベースが米国株のトークン化サービスを開始 ベースチェーン上で",
+      "summary": [
+        "コインベースは自社のベースチェーン上で米国株のトークン化サービスを始めた。",
+        "原資産は規制対象のカストディアンがアブダビ・グローバル・マーケットの監督下で1対1で保管し、配当や株式分割はオンチェーンの倍率調整で反映する。",
+        "利用者はアップルやエヌビディアなどの端株を自己管理型ウォレットで保有でき、分散型取引所での取引やレンディングの担保にも使える。",
+        "数週間以内に対象銘柄を追加する方針が示されている。"
+      ],
+      "jackView": "株式に似せた商品でも、権利や税の扱いは現物株と同じとは限りません。私はまず日本の居住者が使える仕組みなのか、という点から確認します。",
+      "sources": [
+        {
+          "title": "CoinPost",
+          "url": "https://coinpost.jp/?p=732867"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3759126/pexels-photo-3759126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260825-0608-01",
       "time": "2026-08-25T06:08",
@@ -120,6 +370,25 @@
       "image": "https://images.pexels.com/photos/38821936/pexels-photo-38821936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
+      "id": "20260825-0200-13",
+      "time": "2026-08-25T02:00",
+      "category": "seido",
+      "title": "経産省が事業売却益への課税繰り延べを要望 27年度税制改正",
+      "summary": [
+        "経済産業省は事業売却益への課税を繰り延べる事業ポートフォリオ変革強化促進税制の創設を、2027年度の税制改正要望に盛り込む。",
+        "売却で得た資金を成長分野の買収や投資に使うことを適用の条件とする方向。",
+        "政府は12月までに具体的な制度設計を固める見通し。"
+      ],
+      "jackView": "事業の入れ替えを促す税制は、企業の資本効率を見る材料になります。私は売却益そのものより、その資金の使い道が示されるかを見ています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUA240OU0U6A820C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
       "id": "20260824-2047-05",
       "time": "2026-08-24T20:47",
       "category": "seido",
@@ -137,6 +406,25 @@
         }
       ],
       "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260824-1933-14",
+      "time": "2026-08-24T19:33",
+      "category": "jpstock",
+      "title": "かんぽ生命が不動産ファンドを4000億円に倍増 三井物産と連携拡大",
+      "summary": [
+        "かんぽ生命保険は、三井物産と組む不動産ファンドの規模を約2000億円から4000億円に倍増する。",
+        "大西哲夫社長は、不動産投資はインフレ耐性が強く、2026年3月に始まった資本規制への対応にも資すると説明した。",
+        "2019年の契約問題以降に減った保有契約を補い、収益と資産構成の強化につなげる狙い。"
+      ],
+      "jackView": "生命保険会社の運用先の変化は、不動産市況を映す手がかりになります。私は規制対応が動機のときは、利回りより安定性重視の資金と読んでいます。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUA230QM0T20C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260824-1900-06",
@@ -283,6 +571,25 @@
         }
       ],
       "image": "https://images.pexels.com/photos/11412587/pexels-photo-11412587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260824-1319-15",
+      "time": "2026-08-24T13:19",
+      "category": "point",
+      "title": "9月のスーパーPayPayクーポン対象店が発表 セブンやベルクで最大10%",
+      "summary": [
+        "ソフトバンクは9月分のスーパーPayPayクーポンの対象加盟店を発表した。",
+        "セブン-イレブンとミニストップは各社アプリ経由の決済で10%、アプリを使わない場合は5%の付与となり、付与上限はそれぞれ100ポイントと50ポイント。ベルクも10%が対象。",
+        "西松屋チェーン、DiDi、ebookjapan、Qoo10、Yahoo!ショッピングなども対象に含まれ、利用にはPayPayアプリでの事前クーポン取得が必要。"
+      ],
+      "jackView": "同じ店でも決済アプリを経由するかどうかで付与率が倍違います。私は事前にクーポンを取る一手間を惜しまないだけで差がつくと見ています。",
+      "sources": [
+        {
+          "title": "ケータイ Watch",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2134984.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260824-1238-13",
