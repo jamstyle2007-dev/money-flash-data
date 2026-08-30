@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T12:05",
+  "updated": "2026-08-30T18:05",
   "market": [
     {
       "symbol": "N225",
@@ -32,12 +32,107 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.51M",
+      "value": "¥12.50M",
       "change": "+0.6%",
       "changePct": "+0.6%"
     }
   ],
   "items": [
+    {
+      "id": "20260830-1731-20",
+      "time": "2026-08-30T17:31",
+      "category": "point",
+      "title": "モバイルSuicaに名探偵コナンの限定カードフェイス 最大5万JRE POINTが20万名に当たる",
+      "summary": [
+        "モバイルSuicaと名探偵コナンのコラボキャンペーンが9月1日に始まり、限定カードフェイスが配布される",
+        "定期券コースはエントリー不要で、通勤・通学定期券を新規または継続購入すると対象になる",
+        "事前エントリー制のお買いものコースでは、1等5万ポイント100名を含む計20万名にJRE POINTが抽選で当たる"
+      ],
+      "jackView": "抽選型の大型還元は期待値こそ小さいものの、普段の定期券購入や買い物だけで参加できる手軽さが魅力です。私はコースごとにエントリー要否が異なる点にだけ注意してほしいと見ています。",
+      "sources": [
+        {
+          "title": "ポイ探ニュース（infoseek）",
+          "url": "https://news.infoseek.co.jp/article/poitan_189808/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-1707-21",
+      "time": "2026-08-30T17:07",
+      "category": "jpstock",
+      "title": "ユニクロが旗艦店を最大20店に倍増へ 柳井氏は売るだけの場所は不要と明言",
+      "summary": [
+        "ファーストリテイリングはユニクロの旗艦店を10年以内をめどに現状の2倍となる約20店まで増やす方針",
+        "商業施設への通常店の出店を抑え、都市部への集中出店に切り替える",
+        "人口減少とネット通販の浸透に対応した出店戦略の転換となる"
+      ],
+      "jackView": "店舗数より1店あたりの体験価値で稼ぐ戦略への転換は、小売株の評価軸が変わるサインだと私は見ています。今後は既存店売上と客単価の推移を確かめたいところです。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC095NZ0Z00C26A6000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2893771/pexels-photo-2893771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-1624-22",
+      "time": "2026-08-30T16:24",
+      "category": "jpstock",
+      "title": "京セラや神戸製鋼など20社がフィジカルAI連合 国産AIで機械の自律制御へ",
+      "summary": [
+        "京セラや神戸製鋼所、日本マイクロソフトなど約20社が金沢のAI企業アルムと企業連合を組む",
+        "アルムの国産AIを活用し、ロボットや機械を自律的に制御するフィジカルAIの実用化を目指す",
+        "設計図から作業工程を自動生成して素材を切削する工作機械などを開発し、10月から4年間の事業を始める"
+      ],
+      "jackView": "AIの主戦場がソフトから工場の機械制御へ広がる流れは、日本の製造業の強みと相性が良いと私は見ています。関連銘柄はテーマ先行で動きやすいので、実用化の進捗を確認しながら見たいところです。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC300U80Q6A830C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-1515-23",
+      "time": "2026-08-30T15:15",
+      "category": "point",
+      "title": "JR西日本が9月にWESTERフェスタ開催 買い物・鉄道予約・旅行でポイントほぼ5倍",
+      "summary": [
+        "JR西日本は9月1日から30日までポイント還元イベントのWESTERフェスタ！を開催する",
+        "ルクア大阪などの対象店舗やEX予約、e5489、日本旅行などの利用でWESTERポイント基本分がほぼ5倍になる",
+        "WESTERアプリまたはWESPOアプリからのエントリーが必要で、付与上限は1人1000ポイント"
+      ],
+      "jackView": "鉄道系ポイントは経済圏の囲い込み競争が激しくなっています。関西圏の方は9月の買い物や新幹線予約をこの期間に寄せると効率が良いと私は見ています。上限1000ポイントの範囲で計画的に使うのがコツです。",
+      "sources": [
+        {
+          "title": "ポイ探ニュース（infoseek）",
+          "url": "https://news.infoseek.co.jp/article/poitan_189132/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/928181/pexels-photo-928181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-1400-24",
+      "time": "2026-08-30T14:00",
+      "category": "usstock",
+      "title": "トランプ氏がベネズエラ石油の過半支配を確保と投稿 週明けにも生産契約か",
+      "summary": [
+        "トランプ米大統領はベネズエラの石油埋蔵量650億バレル超の過半数の支配権を確保したと投稿した",
+        "ベネズエラのロドリゲス暫定大統領も米政府との歴史的な合意に言及した",
+        "シェブロンを含む米石油メジャーの投資契約の合意が近いとされ、週明けにも生産契約が結ばれる可能性がある"
+      ],
+      "jackView": "実現すれば原油の供給構造を変えうる話ですが、政治リスクの高い国との合意は覆ることも珍しくありません。私は週明けの原油価格と米エネルギー株の初動を冷静に見たいと思います。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOGN292BD0Z20C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260830-1130-04",
       "time": "2026-08-30T11:30",
@@ -75,6 +170,25 @@
         }
       ],
       "image": "https://images.pexels.com/photos/4226271/pexels-photo-4226271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-1100-25",
+      "time": "2026-08-30T11:00",
+      "category": "jpstock",
+      "title": "商社トップはAI時代に上流・ヒト・現場を重視 産業転換の先導役へ",
+      "summary": [
+        "日本経済新聞の取材に大手商社5社のトップがAI時代の戦略を語った",
+        "伊藤忠商事の石井社長はデジタルやAIが関わる領域の事業拡大を指摘し、住友商事の上野社長は資本効率の向上と株主還元の強化を強調した",
+        "三菱商事の中西社長は地政学リスクへの対応を、丸紅の大本社長は20年先の需要開拓の重要性を挙げた"
+      ],
+      "jackView": "商社の稼ぎ方が資源からAIや現場データへ広がる転換点だと私は見ています。高値圏の商社株を見る上では、還元強化の姿勢が中期計画の数字で裏付けられるかを確かめたいところです。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC272JT0X20C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260830-1100-06",
@@ -135,6 +249,29 @@
         }
       ],
       "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-0500-26",
+      "time": "2026-08-30T05:00",
+      "category": "seido",
+      "title": "海外旅行保険が契約者増でも赤字 参考純率は10年ぶり引き上げへ",
+      "summary": [
+        "海外旅行保険は契約者が増えているのに収支の赤字が続いていると日本経済新聞が報じた",
+        "損害保険料率算出機構は2027年の海外旅行傷害保険の参考純率を40.3%引き上げると決めており、引き上げは10年ぶり",
+        "円安と海外の医療費高騰で保険金の支払いが膨らみ、日本の経済力低下を映す構図となっている"
+      ],
+      "jackView": "円安と海外医療費の高騰が保険料に跳ね返る流れは今後も続くと私は見ています。旅行前には保険の見直しに加えて、お手持ちのクレジットカード付帯保険の補償範囲も確認しておくことをおすすめします。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUB25B1N0V20C26A8000000/"
+        },
+        {
+          "title": "日本経済新聞（損保の27年保険料改定）",
+          "url": "https://www.nikkei.com/article/DGXZQOUB212R10R20C26A6000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260830-0500-01",
@@ -215,6 +352,25 @@
         }
       ],
       "image": "https://images.pexels.com/photos/3767406/pexels-photo-3767406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260829-1827-27",
+      "time": "2026-08-29T18:27",
+      "category": "seido",
+      "title": "高市首相が物価高対策に前傾 ガソリン170円程度への抑制継続を表明",
+      "summary": [
+        "高市首相はガソリン価格を1リットル170円程度に抑える補助の延長を打ち出した",
+        "Xで政策効果を繰り返し長文で訴えるなど、物価高対策への前のめりな姿勢を強めている",
+        "与党内には慎重論も根強く、首相判断による政策遂行にはリスクも指摘されている"
+      ],
+      "jackView": "補助の延長は家計への追い風ですが、財源の裏付けと出口が曖昧なままだと市場は財政悪化を織り込みにいきます。私は国内の長期金利の反応に注意しています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUA2711M0X20C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7111516/pexels-photo-7111516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260829-1800-09",
