@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T06:10",
+  "updated": "2026-08-30T12:05",
   "market": [
     {
       "symbol": "N225",
@@ -18,9 +18,9 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "160.09",
-      "change": "+0.70",
-      "changePct": "+0.44%"
+      "value": "159.95",
+      "change": "+0.56",
+      "changePct": "+0.35%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,110 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.50M",
-      "change": "+0.9%",
-      "changePct": "+0.9%"
+      "value": "¥12.51M",
+      "change": "+0.6%",
+      "changePct": "+0.6%"
     }
   ],
   "items": [
+    {
+      "id": "20260830-1130-04",
+      "time": "2026-08-30T11:30",
+      "category": "crypto",
+      "title": "ビットコインは1300万円手前で上げ渋り 金利のイールドカーブが焦点に",
+      "summary": [
+        "ビットコインは28日正午時点で1270万円周辺で推移。1000万円から1260万円台まで急伸した後は1300万円手前で上げ渋り、一時1250万円まで反落した",
+        "bitbankのアナリストは、ジャクソンホール会議後に米金利のどの年限へ上昇圧力が掛かるかがBTC相場を見通す上で重要と寄稿で指摘",
+        "短期金利主導なら利上げ警戒でネガティブ、長期金利主導なら財政懸念を背景に相場の支えになり得るとの見方を示した"
+      ],
+      "jackView": "同じ金利上昇でも短期主導か長期主導かでビットコインへの効き方が逆になるという整理は参考になります。私は週明けの米国債市場の反応を先に確認するようにしています。",
+      "sources": [
+        {
+          "title": "CoinPost（bitbankアナリスト寄稿）",
+          "url": "https://coinpost.jp/?p=734100"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-1127-05",
+      "time": "2026-08-30T11:27",
+      "category": "point",
+      "title": "HIヒロセとOKホーム＆ガーデンで楽天ポイントが利用可能に 導入記念キャンペーンも",
+      "summary": [
+        "ホームセンターのHIヒロセとOKホーム＆ガーデンで楽天ポイントカードのサービスが始まった",
+        "税抜200円につき1ポイントがたまり、たまったポイントは店頭での支払いにも使える",
+        "導入を記念したキャンペーンも実施される"
+      ],
+      "jackView": "ホームセンターは1回の買い物単価が大きく、ポイントの取りこぼしが効いてくる業態です。私はよく使う店が対象になったタイミングで支払い経路ごと見直すようにしています。",
+      "sources": [
+        {
+          "title": "ポイ探ニュース",
+          "url": "https://news.infoseek.co.jp/article/poitan_189429/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4226271/pexels-photo-4226271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-1100-06",
+      "time": "2026-08-30T11:00",
+      "category": "jpstock",
+      "title": "ファミマが約10年ぶりの新型レジ 9月から導入し年内に全国1万6000店へ",
+      "summary": [
+        "ファミリーマートは9月から新型レジの導入を進め、年内に全国約1万6000店舗へ展開する計画",
+        "有人とセルフの切り替えに対応し、釣り銭の自動化などでレジ業務の作業時間を約2割減らす",
+        "レジの全面刷新は約10年ぶりとなる"
+      ],
+      "jackView": "人手不足が続く小売では省人化投資の巧拙が利益率を分けます。私は親会社の伊藤忠も含め、店舗運営コストの改善がどこまで数字に表れてくるかを見ています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC2470X0U6A820C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-0925-07",
+      "time": "2026-08-30T09:25",
+      "category": "crypto",
+      "title": "BTCは金額ベースで史上最大の週間上昇 量子脅威対策も前進 週刊仮想通貨ニュース",
+      "summary": [
+        "コインポストが1週間の主要トピックを総括。ビットコインは8月17日から23日の週に前週比1万4775ドル（23.5%）高と、金額ベースで史上最大の週間上昇を記録した",
+        "イーサリアム開発者は量子コンピューター攻撃に備える新方式をGitHubに提出。ビットコインでも量子耐性方式の取引が初めてマイニングされた",
+        "政府・日銀が国債・株式の即時決済に向けたブロックチェーン基盤整備を検討していることも取り上げられた"
+      ],
+      "jackView": "価格の急伸だけでなく、量子耐性や決済基盤といった土台の整備が同時に進んでいる点が今週の特徴です。私は相場の熱と技術の進み具合を分けて追うようにしています。",
+      "jackLink": {
+        "title": "今週の相場の背景をマネーラボで深掘り",
+        "url": "https://jack-money-lab.com"
+      },
+      "sources": [
+        {
+          "title": "CoinPost 週刊仮想通貨ニュース",
+          "url": "https://coinpost.jp/?p=733914"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12920766/pexels-photo-12920766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260830-0747-08",
+      "time": "2026-08-30T07:47",
+      "category": "point",
+      "title": "auでんき 9月はアプリ起動でPontaポイントが必ず当たる 最大1000ポイント",
+      "summary": [
+        "auでんきの契約者向けに、9月にアプリを起動するとPontaポイントが必ず当たるキャンペーンが実施される",
+        "付与されるポイントは最大1000ポイント"
+      ],
+      "jackView": "電力会社系のポイント施策は一つ一つは小粒でも、固定費に毎月ぶら下がる分は着実に積み上がります。私はアプリを起動するだけで取れる特典から順に拾うようにしています。",
+      "sources": [
+        {
+          "title": "ポイ探ニュース",
+          "url": "https://news.infoseek.co.jp/article/poitan_190402/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260830-0500-01",
       "time": "2026-08-30T05:00",
@@ -119,6 +217,25 @@
       "image": "https://images.pexels.com/photos/3767406/pexels-photo-3767406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
+      "id": "20260829-1800-09",
+      "time": "2026-08-29T18:00",
+      "category": "jpstock",
+      "title": "財務スキルを持つ取締役・監査役が主要100社で4割超に 7年でほぼ倍増",
+      "summary": [
+        "日本の主要100社で財務・ファイナンスの専門性を持つ取締役・監査役の比率が2026年に4割を超えた。日本総合研究所の調査を基に日本経済新聞が報じた",
+        "比率はこの7年でほぼ倍増し、資本市場を意識した経営への転換を映す",
+        "一方で米英企業との比較では依然見劣りする水準にとどまる"
+      ],
+      "jackView": "取締役会にファイナンスの目が入るほど、増配や自社株買いといった資本政策の議論は進みやすくなります。私は投資先を選ぶ際に役員の顔ぶれまで確認するようにしています。",
+      "sources": [
+        {
+          "title": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUB103JQ0Q6A810C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/39228928/pexels-photo-39228928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
       "id": "20260829-1800-01",
       "time": "2026-08-29T18:00",
       "category": "jpstock",
@@ -157,6 +274,25 @@
       "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
+      "id": "20260829-1628-12",
+      "time": "2026-08-29T16:28",
+      "category": "fx",
+      "title": "フィスコの週間見通しはドル伸び悩み予想 160円台は追加介入警戒が重石に",
+      "summary": [
+        "財経新聞掲載のフィスコの為替週間見通しは、来週のドル円予想レンジを157円00銭から162円00銭とした",
+        "心理的節目の160円を上抜ければ追加為替介入への警戒感が強まり、上値は重いと分析",
+        "注目材料は9月1日の米8月ISM製造業景況指数（予想55.2）と9月4日の米8月雇用統計（失業率予想4.1%）"
+      ],
+      "jackView": "予想レンジの上限が機関によって160円台後半まで割れており、介入をどこまで織り込むかで見方が分かれています。私は介入警戒圏では値幅を追い過ぎないよう注意しています。",
+      "sources": [
+        {
+          "title": "財経新聞（フィスコ）",
+          "url": "https://www.zaikei.co.jp/article/20260829/867862.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29916107/pexels-photo-29916107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
       "id": "20260829-1626-02",
       "time": "2026-08-29T16:26",
       "category": "usstock",
@@ -179,6 +315,29 @@
         }
       ],
       "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260829-1625-13",
+      "time": "2026-08-29T16:25",
+      "category": "market",
+      "title": "来週の日本株はバリュー株に関心 9月末の権利取りと米早期利上げ観測が焦点",
+      "summary": [
+        "財経新聞掲載の国内株式市場見通しは、米早期利上げ観測の再燃がハイテク・グロース株の逆風になるとみる",
+        "9月中間期末の権利取りを見据え、グロース株よりバリュー株に優位性があると分析",
+        "日経平均は前週末比389円20銭（0.6%）高の6万6405円56銭で週を終え、夜間先物は620円安の6万5830円だった"
+      ],
+      "jackView": "金利上昇局面は配当や資産価値が評価されやすく、9月は権利取りの資金も入りやすい時期です。私は保有銘柄の中身を点検する良い機会だと考えています。",
+      "jackLink": {
+        "title": "JACKと実践する資産形成（コアメンバー）",
+        "url": "https://jack-invest.com/core-member"
+      },
+      "sources": [
+        {
+          "title": "財経新聞",
+          "url": "https://www.zaikei.co.jp/article/20260829/867860.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260829-1621-03",
