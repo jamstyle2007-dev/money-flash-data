@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-31T12:00",
+  "updated": "2026-08-31T18:20",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "65,361",
-      "change": "-1,043",
-      "changePct": "-1.57%"
+      "value": "66,311.93",
+      "change": "-93.63",
+      "changePct": "-0.14%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,128.76",
-      "change": "-17.95",
-      "changePct": "-0.43%"
+      "value": "4,156.29",
+      "change": "+9.58",
+      "changePct": "+0.23%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "159.97",
-      "change": "+0.47",
-      "changePct": "+0.29%"
+      "value": "159.68",
+      "change": "-0.42",
+      "changePct": "-0.26%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,165 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.38M",
-      "change": "-0.8%",
-      "changePct": "-0.8%"
+      "value": "¥12.54M",
+      "change": "+0.5%",
+      "changePct": "+0.5%"
     }
   ],
   "items": [
+    {
+      "id": "20260831-1741-01",
+      "time": "2026-08-31T17:41",
+      "category": "seido",
+      "title": "26年産米は25都道府県で前年並み以上の収量見込み コメ需給はさらに緩和へ",
+      "summary": [
+        "農林水産省は31日、2026年産主食用米の収量予測を公表し、25都道府県で豊作だった前年並み以上になる見通しを示した",
+        "内訳は「やや上回る」が5道府県、「前年並み」が20都県で、8月15日時点の気象や人工衛星のデータに基づく予測",
+        "政府はこの結果を、備蓄米買い戻しの是非を判断する材料とする方針"
+      ],
+      "jackView": "コメの需給緩和は家計には朗報ですが、次の論点は米価下支え策の行方です。私は備蓄米買い戻しの規模が価格の底を決めると見ています。",
+      "sources": [
+        {
+          "title": "農林水産省 作況調査（水陸稲）",
+          "url": "https://www.maff.go.jp/j/tokei/kouhyou/sakumotu/sakkyou_kome/"
+        },
+        {
+          "title": "共同通信（Yahoo!ニュース）",
+          "url": "https://news.yahoo.co.jp/articles/207747d837649e839b40c4a26bf5a18c5d4b9da5"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1727-02",
+      "time": "2026-08-31T17:27",
+      "category": "point",
+      "title": "阪急電鉄 クレカのタッチ決済でも同一駅20分以内なら無料出場 9月1日開始",
+      "summary": [
+        "阪急電鉄は9月1日から、同一駅で20分以内に入出場した場合に運賃を収受しないサービスをクレジットカード等のタッチ決済にも拡大する",
+        "交通系ICカードでは3月18日から先行導入していたサービスで、対象決済手段が広がる形",
+        "駅構内の通り抜けや見送り、駅ナカ店舗・コインロッカー利用時に運賃がかからなくなる"
+      ],
+      "jackView": "地味ですが駅ナカを使う人には実利のある改善です。私はタッチ決済への移行が進むなかで、鉄道各社の割引・ポイント施策の違いにも注目しています。",
+      "sources": [
+        {
+          "title": "ポイ探ニュース",
+          "url": "https://news.infoseek.co.jp/article/poitan_190576/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4226271/pexels-photo-4226271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1630-03",
+      "time": "2026-08-31T16:30",
+      "category": "market",
+      "title": "日経平均は大引け93円安の6万6311円 前引け1043円安から後場に急速に下げ渋る",
+      "summary": [
+        "31日の日経平均株価は反落し、前週末比93円63銭安の6万6311円93銭で取引を終えた",
+        "前引け時点では1043円安だったが、後場に買い戻しが広がり下げ幅を縮小した",
+        "TOPIXは9.58ポイント高の4156.29と上昇に転じ、プライム市場の売買代金は9兆3583億円に膨らんだ",
+        "午前は9月の米利上げ観測を背景に半導体関連株へ売りが出ていた"
+      ],
+      "jackView": "1000円超の下げを1日で埋めた戻りの速さに、押し目待ち資金の厚みを感じます。私は今晩の米市場で半導体株が下げ止まるかを見てから考えたいところです。",
+      "jackLink": {
+        "title": "きょうの相場の深掘りをマネーラボで読む",
+        "url": "https://jack-money-lab.com"
+      },
+      "sources": [
+        {
+          "title": "財経新聞 日経平均大引け",
+          "url": "https://www.zaikei.co.jp/article/20260831/868019.html"
+        },
+        {
+          "title": "財経新聞 市況概況",
+          "url": "https://www.zaikei.co.jp/article/20260831/868028.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1531-04",
+      "time": "2026-08-31T15:31",
+      "category": "point",
+      "title": "セゾンカード・UCカード ETCカード未利用で手数料 9月1日から一部カードで導入",
+      "summary": [
+        "クレディセゾンは9月1日から、一部のセゾンカード・UCカードを対象に、ETCカードが未利用の場合の手数料を導入する",
+        "年会費無料で持てるETCカードでも、利用実績がないと費用が発生する可能性がある"
+      ],
+      "jackView": "「持っているだけ」のカードに費用がかかる流れが広がっています。私は使っていないETCカードを一度洗い出して、利用か解約かを決めておくことをお勧めします。",
+      "sources": [
+        {
+          "title": "ポイ探ニュース",
+          "url": "https://news.infoseek.co.jp/article/poitan_190602/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/928181/pexels-photo-928181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1519-05",
+      "time": "2026-08-31T15:19",
+      "category": "crypto",
+      "title": "金融庁が暗号資産監視の新室設置へ 27年度予算は134億円増を要求 税制要望も",
+      "summary": [
+        "金融庁は2027年度予算の概算要求で前年度比134億円増を求め、暗号資産の市場監視を担う新たな室の設置を盛り込んだ",
+        "2027年度税制改正要望では、信託型ステーブルコインに関する調書提出の免除を求めた",
+        "暗号資産を巡る監視体制の強化と制度整備が並行して進む"
+      ],
+      "jackView": "規制強化は短期には重荷に見えても、市場の信頼性を高める環境整備だと私は捉えています。制度化の進み方は中長期の資金流入を左右するので要チェックです。",
+      "sources": [
+        {
+          "title": "CoinPost 金融庁27年度予算要求",
+          "url": "https://coinpost.jp/?p=734395"
+        },
+        {
+          "title": "CoinPost 信託型ステーブルコイン税制要望",
+          "url": "https://coinpost.jp/?p=734402"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1500-06",
+      "time": "2026-08-31T15:00",
+      "category": "jpstock",
+      "title": "ホンダと日産がECU・車載OS共通化の共同開発契約を締結 29年度以降の新型車に搭載へ",
+      "summary": [
+        "ホンダと日産自動車は31日、次世代車SDVの中核となる複数のECUと車載OS、ミドルウェアなど主要部分を共通化する共同開発契約を締結したと発表した",
+        "2029年度以降に発売する両社の新型車への搭載を目指す",
+        "共同開発でコストを抑えつつ開発速度を上げ、米国や中国の新興EVメーカーに対抗する狙い"
+      ],
+      "jackView": "経営統合が破談になった両社が、実務の協業で組み直した点に意味があると私は見ています。共通化の範囲が今後どこまで広がるか、系列部品各社への影響と合わせて注目です。",
+      "sources": [
+        {
+          "title": "Honda ニュースリリース",
+          "url": "https://global.honda/jp/news/2026/c260831b.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831266/pexels-photo-5831266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1335-07",
+      "time": "2026-08-31T13:35",
+      "category": "jpstock",
+      "title": "enishが株主優待でビットコイン・ソラナを抽選配布へ SBI VCトレードと連携",
+      "summary": [
+        "ゲーム開発のenishは31日、株主優待としてビットコイン（BTC）とソラナ（SOL）を抽選で配布すると発表した",
+        "暗号資産交換業のSBI VCトレードと連携して実施する",
+        "株主優待に暗号資産を採用する上場企業の新たな事例となる"
+      ],
+      "jackView": "優待の中身が金券や自社サービスから暗号資産へ広がるのは新しい流れです。私は優待目的の投資こそ、本業の業績と優待の継続力を先に確かめるべきだと考えています。",
+      "jackLink": {
+        "title": "JACKの著書で優待投資の考え方を学ぶ",
+        "url": "https://jack-invest.com/books"
+      },
+      "sources": [
+        {
+          "title": "CoinPost",
+          "url": "https://coinpost.jp/?p=734343"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260831-1146-06",
       "time": "2026-08-31T11:46",
@@ -200,6 +353,24 @@
         }
       ],
       "image": "https://images.pexels.com/photos/713070/pexels-photo-713070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-0823-08",
+      "time": "2026-08-31T08:23",
+      "category": "crypto",
+      "title": "バイビットがスペースXとエヌビディアの無期限先物オプションを開始へ",
+      "summary": [
+        "暗号資産取引所のバイビットは、スペースXとエヌビディアを対象とする無期限先物のオプション取引を開始すると発表した",
+        "未上場株を含む株式を暗号資産の仕組みで取引する商品の拡大が続いている"
+      ],
+      "jackView": "未上場株に値が付く仕組みは興味深い一方、価格の根拠も規制も未成熟です。私は日本からの利用可否や法的な位置づけを確認するまで距離を置いて見ています。",
+      "sources": [
+        {
+          "title": "CoinPost",
+          "url": "https://coinpost.jp/?p=734232"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8369680/pexels-photo-8369680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260831-0822-14",
