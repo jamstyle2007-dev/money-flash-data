@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:20",
+  "updated": "2026-09-01T06:20",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,152 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "159.68",
-      "change": "-0.42",
-      "changePct": "-0.26%"
+      "value": "159.77",
+      "change": "+0.03",
+      "changePct": "+0.02%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,711.76",
-      "change": "-19.23",
-      "changePct": "-0.25%"
+      "value": "7,686.14",
+      "change": "-25.62",
+      "changePct": "-0.33%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.54M",
+      "value": "¥12.59M",
       "change": "+0.5%",
       "changePct": "+0.5%"
     }
   ],
   "items": [
+    {
+      "id": "20260901-0605-20",
+      "time": "2026-09-01T06:05",
+      "category": "fx",
+      "title": "米長期金利が一時4.76%台と1年8カ月ぶり高水準 日米欧で政府債務不安が共鳴",
+      "summary": [
+        "米10年債利回りは8月31日に一時4.76%台後半と2025年1月以来の高水準を付けた",
+        "インフレ抑制に向けた利上げ観測に加え、膨張する政府債務と国債供給への根強い不安が背景",
+        "長期金利の上昇は日米欧で連鎖しており、日本でも長期金利3%が視野に入っている"
+      ],
+      "jackView": "金利の上昇は株式の割高感と住宅ローンの両方にじわじわ効いてきます。私は4日の米雇用統計まで、金利主導の不安定な値動きが続くと見ています。",
+      "sources": [
+        {
+          "title": "日本経済新聞 米長期金利、1年8カ月ぶり高水準",
+          "url": "https://www.nikkei.com/article/DGXZQOGN31ANL0R30C26A8000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29916107/pexels-photo-29916107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260901-0536-21",
+      "time": "2026-09-01T05:36",
+      "category": "usstock",
+      "title": "高級ダウンのカナダグース株が4割安 対カナダ50%関税で自国生産が裏目に",
+      "summary": [
+        "米上場のカナダグース株は年初から約4割下落している",
+        "米政権は8月22日、約200億ドル相当のカナダ製品に50%の追加関税を発動した",
+        "カナダ国内生産を強みとしてきた同社は、関税コストを直接負う構図になっている"
+      ],
+      "jackView": "生産地の強みが政策次第で一夜にして弱みに変わる典型例だと私は見ています。米国株を選ぶ際は売上と生産地の国別構成も確認してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 カナダグース4割安、トランプ関税直撃",
+          "url": "https://www.nikkei.com/article/DGXZQOGN28B2X0Y6A820C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7691749/pexels-photo-7691749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260901-0522-22",
+      "time": "2026-09-01T05:22",
+      "category": "market",
+      "title": "NYダウは374ドル安の5万3185ドル 原油高と金利高が重荷 8月は月間プラス確保",
+      "summary": [
+        "週明け8月31日の米市場はNYダウが374ドル安の5万3185ドル、S&P500は0.33%安の7686で終えた",
+        "米国とイランの応酬が約1カ月ぶりに再燃して原油が上昇し、長期金利高とあわせ株式の重荷になった",
+        "月間ではダウが約1%高、S&P500は2.5%超高と、8月を上昇で締めくくった"
+      ],
+      "jackView": "1日の下げよりも月間ではプラスだったという事実を私は重く見ています。今週金曜の米雇用統計が9月相場の方向を決める最大の関門です。",
+      "sources": [
+        {
+          "title": "日本経済新聞 NYダウ、続落し374ドル安",
+          "url": "https://www.nikkei.com/article/DGXZQOFL0100I0R00C26A9000000/"
+        },
+        {
+          "title": "Yahoo Finance Stock market today: Aug 31",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260901-0200-23",
+      "time": "2026-09-01T02:00",
+      "category": "seido",
+      "title": "27年度予算の概算要求は143兆円前後で4年連続過去最大 青天井の投資枠に10兆円超",
+      "summary": [
+        "財務省が8月31日に締め切った2027年度予算の概算要求は、一般会計総額143兆円前後と過去最大を更新する見通し",
+        "上限を設けない新設の投資枠に10兆円を超える要求が集まり、全体を押し上げた",
+        "金利上昇で国債の元利払い費も過去最大となり、金額未定の事項要求も多く最終的な予算はさらに膨らむ見込み"
+      ],
+      "jackView": "予算の膨張は国債増発を通じて長期金利の上昇圧力になります。私は年末の予算編成に向けて、金利と財政のニュースをセットで追うことをおすすめします。",
+      "sources": [
+        {
+          "title": "日本経済新聞 過去最大の概算要求143兆円、市場は警戒解かず",
+          "url": "https://www.nikkei.com/article/DGXZQOUA311BB0R30C26A8000000/"
+        },
+        {
+          "title": "時事通信 概算要求、過去最大143兆円超",
+          "url": "https://news.infoseek.co.jp/article/jiji_2026083100902/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/14998153/pexels-photo-14998153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-2120-24",
+      "time": "2026-08-31T21:20",
+      "category": "crypto",
+      "title": "ストラテジーが約2カ月ぶりにビットコイン購入再開 4603BTC・590億円相当を追加",
+      "summary": [
+        "米ストラテジーは8月31日、SECへの報告書で4603BTCを平均8万318ドルで購入したと開示した",
+        "前回の購入は6月22日で、約2カ月ぶりの買い増し再開となる",
+        "発表を受け、同社株はニューヨーク市場の取引開始前に1〜2%上昇した"
+      ],
+      "jackView": "最大級の企業買い手が戻ったかどうかは市場心理に直結します。私は現物出来高が細るなかで、この買いが相場の下支えになるかを注視しています。",
+      "sources": [
+        {
+          "title": "CoinPost ストラテジー、2カ月ぶりビットコイン購入再開",
+          "url": "https://coinpost.jp/?p=734476"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1820-25",
+      "time": "2026-08-31T18:20",
+      "category": "point",
+      "title": "神奈川県の最大20%還元「かなトク」が9月6日で終了へ 還元総額180億円に到達見込み",
+      "summary": [
+        "神奈川県のキャッシュレス還元キャンペーン「かなトク」は9月6日23時59分で終了する",
+        "予算の還元総額180億円に達する見込みとなったためで、8月27日時点の付与予定額は約158億円だった",
+        "還元は1回あたり最大1500円分、対象6サービスの合計で1人最大1万5000円分"
+      ],
+      "jackView": "終了間際は駆け込みで対象店舗が混み合い、決済サービスごとの上限にも早く達しがちです。神奈川で未消化の方は残り枠を確認して計画的に使い切ってください。",
+      "sources": [
+        {
+          "title": "かながわトクトクキャンペーン公式サイト",
+          "url": "https://www.kanatokucpn.pref.kanagawa.jp/"
+        },
+        {
+          "title": "神奈川新聞 かなトク、9月6日に終了",
+          "url": "https://news.yahoo.co.jp/articles/83000ed09625f69130ef6ae81e903e6f252cb510"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8475156/pexels-photo-8475156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20260831-1741-01",
       "time": "2026-08-31T17:41",
@@ -79,6 +205,29 @@
         }
       ],
       "image": "https://images.pexels.com/photos/4226271/pexels-photo-4226271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1631-26",
+      "time": "2026-08-31T16:31",
+      "category": "sidehustle",
+      "title": "JavaScriptエンジニアのフリーランス案件は平均年収862万円 リモート比率78% 8月調査",
+      "summary": [
+        "フリーランスボードの2026年8月調査で、JavaScript案件の平均月額単価は71.8万円、平均年収は862万円だった",
+        "リモート案件が78.0%を占め、うちフルリモートは23.8%",
+        "フレームワーク別の月額単価はNext.jsが80.6万円で最も高く、Reactは78.7万円"
+      ],
+      "jackView": "同じ言語でも扱うフレームワークで単価が1割近く変わる点が実務的です。私は先に案件相場を見てから学ぶ技術を決める順番をおすすめします。",
+      "jackLink": {
+        "title": "JACKのiOSアプリ開発 実例を見る",
+        "url": "https://jack-invest.com/lp/jack-ios-apps.html"
+      },
+      "sources": [
+        {
+          "title": "PR TIMES JavaScriptエンジニア案件2026年8月最新（フリーランスボード調べ）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000149.000116595.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4559611/pexels-photo-4559611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260831-1630-03",
@@ -190,6 +339,25 @@
         }
       ],
       "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20260831-1203-27",
+      "time": "2026-08-31T12:03",
+      "category": "point",
+      "title": "セブン-イレブンで対象商品がPayPayポイント払いで最大30%還元 9月1日から20日まで",
+      "summary": [
+        "9月1日から20日まで、セブン-イレブンで対象商品をPayPayポイントを使って支払うと最大30%分のポイントが戻る",
+        "参加にはポイント利用設定を「支払いに使う」にし、1ポイント以上をポイントで支払う必要がある。残高やPayPayクレジットとの併用払いも対象",
+        "付与上限はなく、ポイントは2026年11月末ごろに付与される予定"
+      ],
+      "jackView": "上限なしの30%還元はコンビニ系では大盤振る舞いの部類です。私はポイント利用設定の変更を忘れて対象外になるケースに注意してほしいと思います。",
+      "sources": [
+        {
+          "title": "PayPay公式 セブン-イレブンで最大30%戻ってくるキャンペーン",
+          "url": "https://paypay.ne.jp/notice/20260831/cp-7-eleven/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
       "id": "20260831-1146-06",
@@ -392,6 +560,30 @@
       "image": "https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
     {
+      "id": "20260831-0745-28",
+      "time": "2026-08-31T07:45",
+      "category": "scam",
+      "title": "【警戒】新築ワンルーム投資の営業試算に注意 家賃・修繕費を固定で見せる手口で赤字リスクが隠れる",
+      "summary": [
+        "投資家JACK氏が新築ワンルームマンション投資の営業用収支表を検算し、前提の甘さを指摘した",
+        "営業表は35年間家賃が変わらない前提だが、実際は築3〜10年で年率1.7%程度下落する",
+        "新築マンションの85.5%は修繕積立金が段階増額方式で、国交省データでは30年で当初の約4倍になる事例もある",
+        "「毎月4000円の負担」の試算が、10年後には月2万円程度の赤字に悪化するケースが示された"
+      ],
+      "jackView": "私が実際に営業資料を検算した記事です。家賃と修繕費を35年間固定で見せる収支表が出てきた時点で、その提案は慎重に疑ってかかってください。",
+      "jackLink": {
+        "title": "怪しい勧誘の見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "JACK 新築ワンルームマンション投資は本当に「やめとけ」なのか？",
+          "url": "https://jack-invest.com/archives/25709"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11296202/pexels-photo-11296202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
       "id": "20260831-0721-15",
       "time": "2026-08-31T07:21",
       "category": "point",
@@ -527,364 +719,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-2353-06",
-      "time": "2026-08-30T23:53",
-      "category": "crypto",
-      "title": "ビットコインは7万8000ドル台に持ち直し 8万1000ドルが上値の壁に",
-      "summary": [
-        "ビットコインは30日に一時7万8960ドルまで上昇し、直近7日間では約1.8%高となった",
-        "FRB議長の利上げ示唆を受けた急落後、買い戻しと現物需要の下支えで値を戻している",
-        "テクニカル面では7万9000〜8万1000ドルが抵抗帯、7万7500ドルが直近のサポートとされる",
-        "円建てでは1255万円前後で推移している"
-      ],
-      "jackView": "私は利上げ観測とビットコインの綱引きがしばらく続くと見ています。週内の米雇用統計で振らされやすい局面なので、レバレッジの掛け過ぎには注意してください。",
-      "sources": [
-        {
-          "title": "Bulls Reload for Another Assault on $81K（Bitcoin.com News）",
-          "url": "https://news.bitcoin.com/market-updates/bulls-reload-for-another-assault-on-81k-as-bitcoins-price-rises/"
-        },
-        {
-          "title": "ビットコイン価格（CoinMarketCap）",
-          "url": "https://coinmarketcap.com/ja/currencies/bitcoin/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30547576/pexels-photo-30547576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-2033-07",
-      "time": "2026-08-30T20:33",
-      "category": "jpstock",
-      "title": "金融庁がソニー生命に立ち入り検査を検討 金銭不祥事の解明急ぐ",
-      "summary": [
-        "金融庁は営業社員らによる金銭不祥事が相次いだソニー生命に対し、保険業法に基づく立ち入り検査を検討していることが30日分かった",
-        "5月公表の中間報告では、元営業社員4人が顧客14人から計約1億2000万円を不適切に受け取っていたことが判明している",
-        "検査では不正が起きた原因や経営管理の在り方を調べ、業務改善命令などの処分を検討する"
-      ],
-      "jackView": "私は大手の担当者が相手でも、個人口座への送金や現金の手渡しには絶対に応じないことが自衛の基本だと考えています。保険や投資のお金は必ず会社の正規ルートで払ってください。",
-      "jackLink": {
-        "title": "お金をだまし取る手口の見抜き方を学ぶ",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "金融庁、ソニー生命に立ち入り検査検討（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUB301UP0Q6A830C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1731-20",
-      "time": "2026-08-30T17:31",
-      "category": "point",
-      "title": "モバイルSuicaに名探偵コナンの限定カードフェイス 最大5万JRE POINTが20万名に当たる",
-      "summary": [
-        "モバイルSuicaと名探偵コナンのコラボキャンペーンが9月1日に始まり、限定カードフェイスが配布される",
-        "定期券コースはエントリー不要で、通勤・通学定期券を新規または継続購入すると対象になる",
-        "事前エントリー制のお買いものコースでは、1等5万ポイント100名を含む計20万名にJRE POINTが抽選で当たる"
-      ],
-      "jackView": "抽選型の大型還元は期待値こそ小さいものの、普段の定期券購入や買い物だけで参加できる手軽さが魅力です。私はコースごとにエントリー要否が異なる点にだけ注意してほしいと見ています。",
-      "sources": [
-        {
-          "title": "ポイ探ニュース（infoseek）",
-          "url": "https://news.infoseek.co.jp/article/poitan_189808/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1707-21",
-      "time": "2026-08-30T17:07",
-      "category": "jpstock",
-      "title": "ユニクロが旗艦店を最大20店に倍増へ 柳井氏は売るだけの場所は不要と明言",
-      "summary": [
-        "ファーストリテイリングはユニクロの旗艦店を10年以内をめどに現状の2倍となる約20店まで増やす方針",
-        "商業施設への通常店の出店を抑え、都市部への集中出店に切り替える",
-        "人口減少とネット通販の浸透に対応した出店戦略の転換となる"
-      ],
-      "jackView": "店舗数より1店あたりの体験価値で稼ぐ戦略への転換は、小売株の評価軸が変わるサインだと私は見ています。今後は既存店売上と客単価の推移を確かめたいところです。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC095NZ0Z00C26A6000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/2893771/pexels-photo-2893771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1624-22",
-      "time": "2026-08-30T16:24",
-      "category": "jpstock",
-      "title": "京セラや神戸製鋼など20社がフィジカルAI連合 国産AIで機械の自律制御へ",
-      "summary": [
-        "京セラや神戸製鋼所、日本マイクロソフトなど約20社が金沢のAI企業アルムと企業連合を組む",
-        "アルムの国産AIを活用し、ロボットや機械を自律的に制御するフィジカルAIの実用化を目指す",
-        "設計図から作業工程を自動生成して素材を切削する工作機械などを開発し、10月から4年間の事業を始める"
-      ],
-      "jackView": "AIの主戦場がソフトから工場の機械制御へ広がる流れは、日本の製造業の強みと相性が良いと私は見ています。関連銘柄はテーマ先行で動きやすいので、実用化の進捗を確認しながら見たいところです。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC300U80Q6A830C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1515-23",
-      "time": "2026-08-30T15:15",
-      "category": "point",
-      "title": "JR西日本が9月にWESTERフェスタ開催 買い物・鉄道予約・旅行でポイントほぼ5倍",
-      "summary": [
-        "JR西日本は9月1日から30日までポイント還元イベントのWESTERフェスタ！を開催する",
-        "ルクア大阪などの対象店舗やEX予約、e5489、日本旅行などの利用でWESTERポイント基本分がほぼ5倍になる",
-        "WESTERアプリまたはWESPOアプリからのエントリーが必要で、付与上限は1人1000ポイント"
-      ],
-      "jackView": "鉄道系ポイントは経済圏の囲い込み競争が激しくなっています。関西圏の方は9月の買い物や新幹線予約をこの期間に寄せると効率が良いと私は見ています。上限1000ポイントの範囲で計画的に使うのがコツです。",
-      "sources": [
-        {
-          "title": "ポイ探ニュース（infoseek）",
-          "url": "https://news.infoseek.co.jp/article/poitan_189132/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/928181/pexels-photo-928181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1400-24",
-      "time": "2026-08-30T14:00",
-      "category": "usstock",
-      "title": "トランプ氏がベネズエラ石油の過半支配を確保と投稿 週明けにも生産契約か",
-      "summary": [
-        "トランプ米大統領はベネズエラの石油埋蔵量650億バレル超の過半数の支配権を確保したと投稿した",
-        "ベネズエラのロドリゲス暫定大統領も米政府との歴史的な合意に言及した",
-        "シェブロンを含む米石油メジャーの投資契約の合意が近いとされ、週明けにも生産契約が結ばれる可能性がある"
-      ],
-      "jackView": "実現すれば原油の供給構造を変えうる話ですが、政治リスクの高い国との合意は覆ることも珍しくありません。私は週明けの原油価格と米エネルギー株の初動を冷静に見たいと思います。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOGN292BD0Z20C26A8000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1130-04",
-      "time": "2026-08-30T11:30",
-      "category": "crypto",
-      "title": "ビットコインは1300万円手前で上げ渋り 金利のイールドカーブが焦点に",
-      "summary": [
-        "ビットコインは28日正午時点で1270万円周辺で推移。1000万円から1260万円台まで急伸した後は1300万円手前で上げ渋り、一時1250万円まで反落した",
-        "bitbankのアナリストは、ジャクソンホール会議後に米金利のどの年限へ上昇圧力が掛かるかがBTC相場を見通す上で重要と寄稿で指摘",
-        "短期金利主導なら利上げ警戒でネガティブ、長期金利主導なら財政懸念を背景に相場の支えになり得るとの見方を示した"
-      ],
-      "jackView": "同じ金利上昇でも短期主導か長期主導かでビットコインへの効き方が逆になるという整理は参考になります。私は週明けの米国債市場の反応を先に確認するようにしています。",
-      "sources": [
-        {
-          "title": "CoinPost（bitbankアナリスト寄稿）",
-          "url": "https://coinpost.jp/?p=734100"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1127-05",
-      "time": "2026-08-30T11:27",
-      "category": "point",
-      "title": "HIヒロセとOKホーム＆ガーデンで楽天ポイントが利用可能に 導入記念キャンペーンも",
-      "summary": [
-        "ホームセンターのHIヒロセとOKホーム＆ガーデンで楽天ポイントカードのサービスが始まった",
-        "税抜200円につき1ポイントがたまり、たまったポイントは店頭での支払いにも使える",
-        "導入を記念したキャンペーンも実施される"
-      ],
-      "jackView": "ホームセンターは1回の買い物単価が大きく、ポイントの取りこぼしが効いてくる業態です。私はよく使う店が対象になったタイミングで支払い経路ごと見直すようにしています。",
-      "sources": [
-        {
-          "title": "ポイ探ニュース",
-          "url": "https://news.infoseek.co.jp/article/poitan_189429/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/4226271/pexels-photo-4226271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1100-25",
-      "time": "2026-08-30T11:00",
-      "category": "jpstock",
-      "title": "商社トップはAI時代に上流・ヒト・現場を重視 産業転換の先導役へ",
-      "summary": [
-        "日本経済新聞の取材に大手商社5社のトップがAI時代の戦略を語った",
-        "伊藤忠商事の石井社長はデジタルやAIが関わる領域の事業拡大を指摘し、住友商事の上野社長は資本効率の向上と株主還元の強化を強調した",
-        "三菱商事の中西社長は地政学リスクへの対応を、丸紅の大本社長は20年先の需要開拓の重要性を挙げた"
-      ],
-      "jackView": "商社の稼ぎ方が資源からAIや現場データへ広がる転換点だと私は見ています。高値圏の商社株を見る上では、還元強化の姿勢が中期計画の数字で裏付けられるかを確かめたいところです。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC272JT0X20C26A8000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-1100-06",
-      "time": "2026-08-30T11:00",
-      "category": "jpstock",
-      "title": "ファミマが約10年ぶりの新型レジ 9月から導入し年内に全国1万6000店へ",
-      "summary": [
-        "ファミリーマートは9月から新型レジの導入を進め、年内に全国約1万6000店舗へ展開する計画",
-        "有人とセルフの切り替えに対応し、釣り銭の自動化などでレジ業務の作業時間を約2割減らす",
-        "レジの全面刷新は約10年ぶりとなる"
-      ],
-      "jackView": "人手不足が続く小売では省人化投資の巧拙が利益率を分けます。私は親会社の伊藤忠も含め、店舗運営コストの改善がどこまで数字に表れてくるかを見ています。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC2470X0U6A820C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-0925-07",
-      "time": "2026-08-30T09:25",
-      "category": "crypto",
-      "title": "BTCは金額ベースで史上最大の週間上昇 量子脅威対策も前進 週刊仮想通貨ニュース",
-      "summary": [
-        "コインポストが1週間の主要トピックを総括。ビットコインは8月17日から23日の週に前週比1万4775ドル（23.5%）高と、金額ベースで史上最大の週間上昇を記録した",
-        "イーサリアム開発者は量子コンピューター攻撃に備える新方式をGitHubに提出。ビットコインでも量子耐性方式の取引が初めてマイニングされた",
-        "政府・日銀が国債・株式の即時決済に向けたブロックチェーン基盤整備を検討していることも取り上げられた"
-      ],
-      "jackView": "価格の急伸だけでなく、量子耐性や決済基盤といった土台の整備が同時に進んでいる点が今週の特徴です。私は相場の熱と技術の進み具合を分けて追うようにしています。",
-      "jackLink": {
-        "title": "今週の相場の背景をマネーラボで深掘り",
-        "url": "https://jack-money-lab.com"
-      },
-      "sources": [
-        {
-          "title": "CoinPost 週刊仮想通貨ニュース",
-          "url": "https://coinpost.jp/?p=733914"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12920766/pexels-photo-12920766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-0747-08",
-      "time": "2026-08-30T07:47",
-      "category": "point",
-      "title": "auでんき 9月はアプリ起動でPontaポイントが必ず当たる 最大1000ポイント",
-      "summary": [
-        "auでんきの契約者向けに、9月にアプリを起動するとPontaポイントが必ず当たるキャンペーンが実施される",
-        "付与されるポイントは最大1000ポイント"
-      ],
-      "jackView": "電力会社系のポイント施策は一つ一つは小粒でも、固定費に毎月ぶら下がる分は着実に積み上がります。私はアプリを起動するだけで取れる特典から順に拾うようにしています。",
-      "sources": [
-        {
-          "title": "ポイ探ニュース",
-          "url": "https://news.infoseek.co.jp/article/poitan_190402/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-0700-08",
-      "time": "2026-08-30T07:00",
-      "category": "market",
-      "title": "今週の市場は4日の米雇用統計が最大の焦点 9月利上げ観測の行方を左右",
-      "summary": [
-        "今週は1日に米JOLTS求人件数とISM製造業景況指数、2日にADP雇用統計、4日に8月の米雇用統計が発表される",
-        "7月の米雇用統計は非農業部門雇用者数が2万3000人減となり、5〜6月分も計10万3000人下方修正されていた",
-        "ジャクソンホール講演を受けて市場では9月利上げ観測が高まっており、雇用情勢の結果次第で日米の株式・為替が大きく動く可能性がある"
-      ],
-      "jackView": "私は雇用統計までは相場の方向感が出にくい週だと見ています。イベント前に無理にポジションを増やさず、結果と値動きを確認してから動く姿勢が安全だと考えます。",
-      "sources": [
-        {
-          "title": "来週のドル円相場はどうなる？8/31週のイベント予定（外為どっとコム）",
-          "url": "https://www.gaitame.com/media/entry/2026/08/30/070000"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-0500-26",
-      "time": "2026-08-30T05:00",
-      "category": "seido",
-      "title": "海外旅行保険が契約者増でも赤字 参考純率は10年ぶり引き上げへ",
-      "summary": [
-        "海外旅行保険は契約者が増えているのに収支の赤字が続いていると日本経済新聞が報じた",
-        "損害保険料率算出機構は2027年の海外旅行傷害保険の参考純率を40.3%引き上げると決めており、引き上げは10年ぶり",
-        "円安と海外の医療費高騰で保険金の支払いが膨らみ、日本の経済力低下を映す構図となっている"
-      ],
-      "jackView": "円安と海外医療費の高騰が保険料に跳ね返る流れは今後も続くと私は見ています。旅行前には保険の見直しに加えて、お手持ちのクレジットカード付帯保険の補償範囲も確認しておくことをおすすめします。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUB25B1N0V20C26A8000000/"
-        },
-        {
-          "title": "日本経済新聞（損保の27年保険料改定）",
-          "url": "https://www.nikkei.com/article/DGXZQOUB212R10R20C26A6000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-0500-01",
-      "time": "2026-08-30T05:00",
-      "category": "seido",
-      "title": "最低賃金の引き上げ率は4.9%で5%未満に 6年ぶりに伸び縮小",
-      "summary": [
-        "中央最低賃金審議会は2026年度の最低賃金の目安を全国加重平均1176円と決定し、引き上げ率は4.9%だった",
-        "引き上げ率が前年度を下回るのは6年ぶりで、政府が掲げてきた水準からは後退した",
-        "労働側の連合は最終局面で5%を譲れない一線として主張していたことを明らかにした"
-      ],
-      "jackView": "最低賃金は10月ごろから都道府県ごとに順次改定されます。私はパートの方の年収の壁との兼ね合いで、年末にかけて働き方の調整が増える点に注目しています。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUA176ZM0X10C26A8000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-0200-02",
-      "time": "2026-08-30T02:00",
-      "category": "seido",
-      "title": "27年度予算の概算要求が31日締め切り 成長投資は上限なしで過去最大へ",
-      "summary": [
-        "財務省は31日に2027年度予算の概算要求を締め切る",
-        "政権が重視する成長・危機管理投資への支出には上限を設けない方針で、要求総額は過去最大に膨らむ見通し",
-        "金融市場は財政規律を保てるかどうかを注視している"
-      ],
-      "jackView": "財政拡張は株式には追い風になり得る一方、金利上昇を通じて円安を進めやすい構図です。私はまず長期金利の反応を確認するようにしています。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUA252Z10V20C26A8000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7111590/pexels-photo-7111590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20260830-0200-03",
-      "time": "2026-08-30T02:00",
-      "category": "jpstock",
-      "title": "ホンダと日産が「車の頭脳」SDVで協業へ 31日にも正式合意と報道",
-      "summary": [
-        "ホンダと日産がソフトウエア定義車両（SDV）の基本ソフトなど中核領域で共同開発する方向で、31日にも正式合意すると日本経済新聞が報じた",
-        "日本の自動車メーカー同士がSDVの中核分野で組むのは初めてとされる",
-        "米国と中国で台頭する新興EVメーカーに経営資源を持ち寄って対抗する狙い"
-      ],
-      "jackView": "正式発表の中身次第で自動車株全体の材料になり得るニュースです。私は開発費の分担と搭載時期がどこまで具体的に示されるかを見ています。",
-      "sources": [
-        {
-          "title": "日本経済新聞",
-          "url": "https://www.nikkei.com/article/DGXZQOUC28ASD0Y6A820C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
