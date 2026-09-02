@@ -13,6 +13,11 @@ echo "===== run_watchdog $(date '+%F %T') ====="
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 TODAY=$(date +%F)
 
+# 待機モード（2台目のMac用）: 判断前に必ずリモート最新へ同期する
+if [ "${MF_STANDBY:-0}" = "1" ]; then
+  git fetch origin main --quiet && git reset --hard origin/main --quiet
+fi
+
 notify() {
   osascript -e "display notification \"$1\" with title \"Money Flash 見張り\" sound name \"Basso\"" 2>/dev/null || true
 }

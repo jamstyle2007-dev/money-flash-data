@@ -14,6 +14,28 @@ notify_fail() {
   osascript -e "display notification \"$1\" with title \"Money Flash フィード失敗\" sound name \"Basso\"" 2>/dev/null || true
 }
 
+# 待機モード（2台目のMac用）: 主機が直近3時間以内に更新していれば何もしない
+if [ "${MF_STANDBY:-0}" = "1" ]; then
+  echo "[standby] リモート最新に同期"
+  git fetch origin main --quiet && git reset --hard origin/main --quiet
+  if curl -s --max-time 30 \
+      "https://api.github.com/repos/jamstyle2007-dev/money-flash-data/contents/feed.json?ref=main" \
+      -H "Accept: application/vnd.github.raw" \
+    | python3 -c "
+import json, sys
+from datetime import datetime
+try:
+    u = json.load(sys.stdin).get('updated', '')
+    fresh = (datetime.now() - datetime.strptime(u, '%Y-%m-%dT%H:%M')).total_seconds() < 3 * 3600
+except Exception:
+    fresh = False
+sys.exit(0 if fresh else 1)"; then
+    echo "[standby] フィードは主機が更新済み。何もせず終了"
+    exit 0
+  fi
+  echo "[standby] フィードが古い。代わりに更新する"
+fi
+
 rm -f feed_draft.json
 
 claude -p "$(cat FEED_PROMPT.md)" \
