@@ -42,12 +42,24 @@ if published; then
   exit 0
 fi
 
+# push直後のGitHub APIは数秒だけ古い値を返すことがある。復旧後の確認はこれで待つ。
+# 単発で判定すると「未配信」と誤検知してAI修復フェーズに入り、AIの週間上限を無駄に食う
+# （2026-09-04に実際に発生）。
+published_retry() {
+  for _ in 1 2 3; do
+    published && return 0
+    sleep 10
+  done
+  return 1
+}
+
+
 echo "未配信を検知。復旧を開始"
 notify "本日号が未配信。復旧を開始します"
 
 # ① 通常パイプラインを再実行（生成2試行+自動修復+publishリトライを内包）
 bash ./run_morning.sh || true
-if published; then
+if published_retry; then
   echo "復旧完了（run_morning再実行）"
   notify "復旧完了: 本日号を配信しました"
   python3 ~/money-flash/xpost/xpost.py --draft || true  # 遅延配信日もX投稿文をJACKへ
@@ -73,7 +85,7 @@ if [ -f draft_today.json ]; then
   fi
 fi
 
-if published; then
+if published_retry; then
   echo "復旧完了（AI修復）"
   notify "復旧完了: AI修復で本日号を配信しました"
   python3 ~/money-flash/xpost/xpost.py --draft || true  # 遅延配信日もX投稿文をJACKへ

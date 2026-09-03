@@ -36,6 +36,25 @@ sys.exit(0 if fresh else 1)"; then
   echo "[standby] フィードが古い。代わりに更新する"
 fi
 
+# 電源断などで取りこぼした回を起動時に埋めるための空振り防止（2026-09-04追加）。
+# 直近3時間以内に更新済みなら何もしない。通常の3回(6:10/12:00/18:00)は6時間近く空くので
+# 影響せず、再起動が続いた日にAIを何度も呼んで週間上限を食うのだけを防ぐ。
+if curl -s --max-time 30 \
+    "https://api.github.com/repos/jamstyle2007-dev/money-flash-data/contents/feed.json?ref=main" \
+    -H "Accept: application/vnd.github.raw" \
+  | python3 -c "
+import json, sys
+from datetime import datetime
+try:
+    u = json.load(sys.stdin).get('updated', '')
+    fresh = (datetime.now() - datetime.strptime(u, '%Y-%m-%dT%H:%M')).total_seconds() < 3 * 3600
+except Exception:
+    fresh = False
+sys.exit(0 if fresh else 1)"; then
+  echo "フィードは3時間以内に更新済み。今回はスキップ"
+  exit 0
+fi
+
 rm -f feed_draft.json
 
 claude -p "$(cat FEED_PROMPT.md)" \
