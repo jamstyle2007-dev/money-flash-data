@@ -12,5 +12,5 @@ echo "$DATE" > xmail_sent.txt
 git add xmail_sent.txt 2>/dev/null || exit 0
 git commit -q -m "xmail sent $DATE" -- xmail_sent.txt 2>/dev/null || exit 0
 git push -q origin main 2>/dev/null && exit 0
-git pull --rebase -q origin main 2>/dev/null && git push -q origin main 2>/dev/null
+git pull --rebase --autostash -q origin main 2>/dev/null && git push -q origin main 2>/dev/null
 exit 0

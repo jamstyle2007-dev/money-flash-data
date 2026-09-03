@@ -18,5 +18,10 @@ MSG="${1:-Publish issue $(date +%F)}"
 git add issues.json
 git commit -m "$MSG"
 echo "▶ push 中..."
-git push
+# 待機機(2台目Mac)が先にpushしているとリモートが進んでいて弾かれる。
+# その場合だけ取り込んでから押し直す（--autostash で未コミットの変更があっても止まらない）
+if ! git push; then
+  echo "▶ リモートが進んでいたので取り込んでから再push"
+  git pull --rebase --autostash --quiet origin main && git push
+fi
 echo "✅ 公開しました。アプリは次回起動時に最新号を取得します。"

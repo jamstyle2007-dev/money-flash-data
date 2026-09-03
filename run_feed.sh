@@ -60,7 +60,9 @@ python3 tools/add_images.py feed.json || echo "（画像付与に失敗。画像
 python3 tools/validate_feed.py feed.json || { echo "★画像付与後の検証NG"; notify_fail "画像付与後の検証NG"; exit 1; }
 git add feed.json
 git commit -m "Feed update $(date '+%F %H:%M')"
-if git push; then
+# 待機機が先にpushしているとリモートが進んでいて弾かれるので、その場合だけ取り込んで押し直す
+git push || { git pull --rebase --autostash --quiet origin main && git push; }
+if [ $? -eq 0 ]; then
   echo "フィード公開完了"
 else
   echo "★push失敗"
