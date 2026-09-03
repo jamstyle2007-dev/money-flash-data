@@ -77,6 +77,20 @@ fi
 mv feed_draft.json feed.json
 python3 tools/add_images.py feed.json || echo "（画像付与に失敗。画像なしで公開続行）"
 python3 tools/validate_feed.py feed.json || { echo "★画像付与後の検証NG"; notify_fail "画像付与後の検証NG"; exit 1; }
+# 更新時刻は実際に公開する時刻で上書きする。AIは生成の冒頭で取った時刻を書くため、
+# 生成に時間がかかると未来の時刻がアプリに表示されてしまう（2026-09-04に07:02公開で
+# 07:10表示を確認）。
+python3 -c "
+import re
+from datetime import datetime
+t = open('feed.json').read()
+now = datetime.now().strftime('%Y-%m-%dT%H:%M')
+t2, n = re.subn(r'(\"updated\"\s*:\s*\")[^\"]*(\")', r'\g<1>' + now + r'\g<2>', t, count=1)
+assert n == 1, 'updated が見つからない'
+open('feed.json','w').write(t2)
+" || echo "（更新時刻の補正に失敗。そのまま公開する）"
+python3 tools/validate_feed.py feed.json || { echo "★更新時刻補正後の検証NG"; notify_fail "更新時刻補正後の検証NG"; exit 1; }
+
 git add feed.json
 git commit -m "Feed update $(date '+%F %H:%M')"
 # 待機機が先にpushしているとリモートが進んでいて弾かれるので、その場合だけ取り込んで押し直す
