@@ -1,6 +1,95 @@
 {
   "issues": [
     {
+      "id": "2026-09-06",
+      "number": 53,
+      "date": "2026-09-06",
+      "articles": [
+        {
+          "category": "money",
+          "title": "明日から申込開始。ソフトバンクGの個人向け社債1兆円は年4.75%、100万円で年4万7500円の利息。ただし7年拘束で元本保証はない",
+          "sourceDate": "2026-09-04",
+          "effectiveDate": "2026-09-07",
+          "flash": [
+            "ソフトバンクグループは9月4日、個人向け「第70回無担保普通社債」の利率を年4.75%に決定した。総額1兆円で国内最大の個人向け社債。7年債で償還は2033年9月16日、申込期間は9月7日〜16日、最低申込単位は100万円",
+            "利率は仮条件4.3〜4.9%の上限寄りで、同社の普通社債として約17年ぶりの高水準。100万円あたりの利息は年4万7500円（税引前）で3月と9月の年2回払い。資金使途は国内社債の償還とABBロボティクス事業の買収資金の一部",
+            "取得格付は日本格付研究所（JCR）のA。一方、同社が公表するS&Pの長期格付はBB+で投資適格を1段階下回る。引受は野村・大和・SMBC日興・みずほ・三菱UFJモルガン・スタンレー・SBIなど11社で、日経は証券各社が個人向け営業を強めていると報じた"
+          ],
+          "comment": "年4.75%は預金の数十倍に見えるが、社債は預金と違い元本保証がなく、7年の途中で売れば時価、発行体が傾けば元本が戻らない。JCRがAでもS&PではBB+という評価の割れ方そのものが、この利率の意味だと私は受け止めている。買うか見送るかの前に、まず自分の金融資産に占める上限（例えば5%以内）を決め、目論見書のリスク欄を読んでから申し込む。営業電話の熱量で枠を決めないことだ。",
+          "sources": [
+            {
+              "title": "ソフトバンクグループ 第70回無担保普通社債の条件決定に関するお知らせ（公式）",
+              "url": "https://group.softbank/news/press/20260904"
+            },
+            {
+              "title": "日本経済新聞 ソフトバンクG債、証券会社が個人向け営業に熱　高利回りにはリスクも",
+              "url": "https://www.nikkei.com/article/DGXZQOFL034QVTT00C26A9000000/"
+            },
+            {
+              "title": "マイナビニュース 100万円で年4万7,500円の利息、ソフトバンクGが年利4.75%の個人向け社債",
+              "url": "https://news.mynavi.jp/premium/article/20260904-4914664/"
+            }
+          ],
+          "id": "2026-09-06-money",
+          "image": "https://images.pexels.com/photos/7680549/pexels-photo-7680549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "title": "最上位AIモデルが3日間で4本登場。Anthropicは「典型的な作業で25%安く」、OpenAIは「APIコスト約31%低い」と値下げ競争に",
+          "sourceDate": "2026-09-05",
+          "flash": [
+            "9月2日〜4日の3日間で、Anthropic「Claude Fable 5.1」、Google「Gemini Flash 3.8」、Meta「Muse Spark 1.3」、OpenAI「GPT-6 Astra」と各社の最上位モデルが相次いで公開された（Impress Watch 9月5日）",
+            "Anthropicは公式発表で、Fable 5.1は典型的な作業でFable 5より約25%安く、エージェント作業では最大約45%のコスト減になるとし、キャッシュ読み取り単価を75%下げて100万トークン0.25ドルにした。API・Claude Code・AWS・Google Cloud・Azureで提供",
+            "OpenAIのGPT-6 Astraは9月3日から一部組織向けに始まり、ChatGPTの有料プランとAPI・AWSへ順次拡大。推定APIコストはFable 5.1比で約31%低いとする。一方でOpenAIは「開発ペースを落とす」とも言及した"
+          ],
+          "comment": "モデルの性能差は数カ月で埋まる。AI副業で効くのは性能の1位より「同じ作業をいくらで回せるか」だと私は見ている。今週は各社が値下げ幅を競っており、道具を乗り換える好機だ。今日やることは一つ。普段の作業（記事の下書きやコード生成など）を同じ指示文で新モデル3つに投げ、仕上がりと消費トークン数を並べて比べること。惰性で払っている月額と実際の原価の差が見える。",
+          "sources": [
+            {
+              "title": "Impress Watch 3日間で各社最上位AIモデルが続々登場「驚けない」凄さと開発の「減速」",
+              "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2138294.html"
+            },
+            {
+              "title": "Anthropic公式 Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+              "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+            },
+            {
+              "title": "Impress Watch OpenAI、次世代モデル「GPT-6 Astra」公開",
+              "url": "https://www.watch.impress.co.jp/docs/news/2138177.html"
+            }
+          ],
+          "id": "2026-09-06-sidehustle",
+          "image": "https://images.pexels.com/photos/11911060/pexels-photo-11911060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "title": "【警戒】偽ブランド品の税関差し止めが上半期で過去最多1万9568件。個人宛て郵便物が78%、激安通販で偽物をつかむ被害に注意",
+          "sourceDate": "2026-09-04",
+          "flash": [
+            "財務省は9月4日、2026年上半期に全国の税関が輸入を差し止めた知的財産侵害物品が1万9568件（前年同期比12.6%増）、138万6640点（約3.3倍）で、件数・点数とも上半期として過去最多と公表した",
+            "品目別は「シール・ステッカー」4279件が最多（前年同期158件の27倍）で、衣類4177件、バッグ類2960件が続く。携帯電話・付属品も2313件と2.5倍に増加。仕出国は中国が81.9%",
+            "件数の78.2%は郵便物など小口貨物で、ネット通販の普及が背景とされる。財務省は化粧品・食品・電池など健康や安全を脅かす偽造品の差し止めも続いていると注意を促した"
+          ],
+          "comment": "税関で止まった偽物は没収され、払った代金は戻らない。止まらず届いた偽物も返品先がなく、化粧品や電池なら健康被害や発火の危険まで抱える。SNS広告の「正規品の半額」「海外倉庫から直送」「支払いは銀行振込かギフト券のみ」は私が即座に閉じる三点だ。今日できる対策は、買う前に販売者の住所・電話番号と特定商取引法の表記を確認し、公式か正規販売店以外では買わないと決めること。支払いはクレジットカードにして、偽物だった時にカード会社へ相談できる余地を残す。",
+          "sources": [
+            {
+              "title": "財務省 令和8年上半期の税関における知的財産侵害物品の差止状況",
+              "url": "https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/chiteki/cy2026_1/index.html"
+            },
+            {
+              "title": "日本経済新聞 模倣品の輸入差し止め最多1.9万件、偽造「ボンドロ」急増　26年上半期",
+              "url": "https://www.nikkei.com/article/DGXZQOUA041UR0U6A900C2000000/"
+            },
+            {
+              "title": "財務省 差止状況（詳細）",
+              "url": "https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/chiteki/cy2026_1/20260904a.html"
+            }
+          ],
+          "id": "2026-09-06-scam",
+          "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
       "id": "2026-09-05",
       "number": 52,
       "date": "2026-09-05",
