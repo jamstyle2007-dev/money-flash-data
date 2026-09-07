@@ -39,6 +39,14 @@ sys.exit(0 if ok else 1)"
 
 if published; then
   echo "本日号($TODAY)は配信済み。OK"
+  # 配信済みでもX投稿文メールが未送信なら、ここで送る。
+  # 2026-09-08にGitHub認証が切れて6:30のxpostが「本日号なし」でスキップし、
+  # その後に配信された結果、メールを送る係が誰もいなくなった。
+  # 送信済み判定は「共有マーカー(他機が送った)」と「このMacのフラグ」の両方で見る。
+  if ! bash tools/xmail_guard.sh "$TODAY" && [ ! -f "$HOME/money-flash/xpost/logs/mailed_$TODAY.flag" ]; then
+    echo "X投稿文メールが未送信。送る"
+    python3 "$HOME/money-flash/xpost/xpost.py" --draft || true
+  fi
   exit 0
 fi
 
