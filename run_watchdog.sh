@@ -22,22 +22,33 @@ notify() {
   osascript -e "display notification \"$1\" with title \"Money Flash 見張り\" sound name \"Basso\"" 2>/dev/null || true
 }
 
+# 0=配信済み / 1=未配信 / 2=判定不能（GitHubに到達できない）
+# 「通信できない」を「未配信」と断定しないこと。2026-09-19に一時的な通信断で
+# 配信済みの日に復旧フェーズが走り、AIを無駄に呼んだうえ誤警報を出した。
 published() {
   # CDNの遅延に影響されないよう GitHub API(origin本体)で確認する
-  curl -s --max-time 30 \
+  local body
+  body=$(curl -sf --max-time 30 \
     "https://api.github.com/repos/jamstyle2007-dev/money-flash-data/contents/issues.json?ref=main" \
-    -H "Accept: application/vnd.github.raw" \
-  | python3 -c "
+    -H "Accept: application/vnd.github.raw") || return 2
+  [ -n "$body" ] || return 2
+  printf '%s' "$body" | python3 -c "
 import json, sys
 try:
     d = json.load(sys.stdin)
-    ok = any(i['date'] == '$TODAY' for i in d['issues'])
 except Exception:
-    ok = False
-sys.exit(0 if ok else 1)"
+    sys.exit(2)
+sys.exit(0 if any(i['date'] == '$TODAY' for i in d['issues']) else 1)"
 }
 
-if published; then
+STATE=0; published || STATE=$?
+if [ "$STATE" = "2" ]; then
+  # 通信が無ければ記事の生成自体ができないので、ここで騒がず次の見張りに委ねる
+  echo "GitHubに到達できず判定不能。復旧は行わない（次回の見張りで再確認）"
+  exit 0
+fi
+
+if [ "$STATE" = "0" ]; then
   echo "本日号($TODAY)は配信済み。OK"
   # 配信済みでもX投稿文メールが未送信なら、ここで送る。
   # 2026-09-08にGitHub認証が切れて6:30のxpostが「本日号なし」でスキップし、
@@ -53,12 +64,15 @@ fi
 # push直後のGitHub APIは数秒だけ古い値を返すことがある。復旧後の確認はこれで待つ。
 # 単発で判定すると「未配信」と誤検知してAI修復フェーズに入り、AIの週間上限を無駄に食う
 # （2026-09-04に実際に発生）。
+# 戻り値は published と同じ（2=判定不能）。判定不能を失敗として通知しないため。
 published_retry() {
+  local st=1
   for _ in 1 2 3; do
     published && return 0
+    st=$?
     sleep 10
   done
-  return 1
+  return $st
 }
 
 
@@ -67,10 +81,16 @@ notify "本日号が未配信。復旧を開始します"
 
 # ① 通常パイプラインを再実行（生成2試行+自動修復+publishリトライを内包）
 bash ./run_morning.sh || true
-if published_retry; then
+ST=0; published_retry || ST=$?
+if [ "$ST" = "0" ]; then
   echo "復旧完了（run_morning再実行）"
   notify "復旧完了: 本日号を配信しました"
   python3 ~/money-flash/xpost/xpost.py --draft || true  # 遅延配信日もX投稿文をJACKへ
+  exit 0
+fi
+if [ "$ST" = "2" ]; then
+  # 通信が無い状態ではAI修復も必ず失敗する。無駄打ちと誤警報を避けて次回に委ねる
+  echo "通信不可で確認できない。AI修復は行わず終了（次回の見張りで再確認）"
   exit 0
 fi
 
@@ -93,10 +113,15 @@ if [ -f draft_today.json ]; then
   fi
 fi
 
-if published_retry; then
+ST=0; published_retry || ST=$?
+if [ "$ST" = "0" ]; then
   echo "復旧完了（AI修復）"
   notify "復旧完了: AI修復で本日号を配信しました"
   python3 ~/money-flash/xpost/xpost.py --draft || true  # 遅延配信日もX投稿文をJACKへ
+  exit 0
+fi
+if [ "$ST" = "2" ]; then
+  echo "通信不可で確認できない。誤警報を避けるため通知しない（次回の見張りで再確認）"
   exit 0
 fi
 
