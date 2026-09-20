@@ -13,6 +13,30 @@ echo "===== run_morning $(date '+%F %T') ====="
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 TODAY=$(date +%F)
 
+# 二重起動の防止（2026-09-21追加）
+# 電源断明けは launchd の取りこぼし再実行と見張りのRunAtLoadが同時に起動し、
+# 2つのAIが同じ draft_today.json に書き込む状態になった（実際に発生）。
+# mkdir は不可分なので先着1つだけが進む。後から来たほうは待ってから、
+# 下の「本日号が既にある」判定で静かに終わる（見張りを失敗扱いにしないため）。
+LOCK="/tmp/mf_run_morning.lock"
+acquired=0
+for _ in $(seq 1 60); do            # 最大30分待つ
+  if mkdir "$LOCK" 2>/dev/null; then acquired=1; break; fi
+  # 3時間以上前のロックは異常終了の残骸とみなして奪う
+  if [ -n "$(find "$LOCK" -maxdepth 0 -mmin +180 2>/dev/null)" ]; then
+    echo "古いロックを破棄する"
+    rm -rf "$LOCK"
+    continue
+  fi
+  echo "別の生成が実行中。待機する"
+  sleep 30
+done
+if [ "$acquired" != "1" ]; then
+  echo "ロックを取れなかった。二重生成を避けて終了"
+  exit 0
+fi
+trap 'rm -rf "$LOCK"' EXIT
+
 # 待機モード（2台目のMac用）: MF_STANDBY=1 のとき
 #   ①判断前に必ずリモート最新へ同期する（ローカルの分岐を残さない）
 #   ②本日号がGitHubで公開済みなら何もせず終了＝主機が動いていれば二重生成しない
