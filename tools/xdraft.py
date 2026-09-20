@@ -7,7 +7,7 @@
 使い方: python3 tools/xdraft.py [出力ファイルパス]
 終了コード: 0=作成 / 2=本日号がまだ無い(スキップ)
 """
-import json, re, subprocess, sys, unicodedata
+import json, re, subprocess, sys, time, unicodedata
 import urllib.request
 from datetime import datetime, timezone, timedelta
 
@@ -49,15 +49,21 @@ def shorten(titles):
         "記号【】は外す/半角ダブルクォート禁止。\n"
         '出力はJSON配列のみ: ["見出し1","見出し2","見出し3"]\n\n'
         + "\n".join(f"{i+1}. {t}" for i, t in enumerate(titles)))
-    for claude in ("/opt/homebrew/bin/claude", "claude"):
-        try:
-            r = subprocess.run([claude, "-p", prompt], capture_output=True,
-                               text=True, timeout=180)
-            arr = json.loads(re.search(r"\[.*\]", r.stdout, re.S).group(0))
-            assert len(arr) == 3 and all(isinstance(t, str) and '"' not in t for t in arr)
-            return [t.strip() for t in arr]
-        except Exception:
-            continue
+    # 一度の失敗であきらめない（2026-09-21追加）。主機で短縮だけ落ちて
+    # 読めない見出しがメールで出たため、間を空けて3巡してから代役に落とす。
+    for attempt in (1, 2, 3):
+        for claude in ("/opt/homebrew/bin/claude", "claude"):
+            try:
+                r = subprocess.run([claude, "-p", prompt], capture_output=True,
+                                   text=True, timeout=180)
+                arr = json.loads(re.search(r"\[.*\]", r.stdout, re.S).group(0))
+                assert len(arr) == 3 and all(isinstance(t, str) and '"' not in t for t in arr)
+                return [t.strip() for t in arr]
+            except Exception as e:
+                print(f"見出しのAI短縮に失敗（{attempt}回目 {claude}）:", e)
+        if attempt < 3:
+            time.sleep(30)
+    print("AI短縮を3回とも失敗。機械的な短縮に切り替える")
     return [fallback(t) for t in titles]
 
 
