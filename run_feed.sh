@@ -9,6 +9,7 @@ exec >> "$LOG" 2>&1
 echo "===== run_feed $(date '+%F %T') ====="
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
+if [ -r "$HOME/bin/claude-auth-env.sh" ]; then . "$HOME/bin/claude-auth-env.sh"; fi  # 自動ジョブ用の長期トークン（無ければ通常ログインのまま）
 
 notify_fail() {
   osascript -e "display notification \"$1\" with title \"Money Flash フィード失敗\" sound name \"Basso\"" 2>/dev/null || true
