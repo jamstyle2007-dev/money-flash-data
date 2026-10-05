@@ -1,6 +1,82 @@
 {
   "issues": [
     {
+      "id": "2026-10-06",
+      "number": 83,
+      "date": "2026-10-06",
+      "articles": [
+        {
+          "category": "money",
+          "title": "楽天グループが個人向け社債3600億円を発行へ、年利の仮条件は3.8〜4.6%で期間5年6カ月。利率は16日に決まり申込は19〜28日、格付けはJCRがA-でS&PはBB",
+          "sourceDate": "2026-10-05",
+          "flash": [
+            "楽天グループは16日に国内で3600億円の無担保社債を起債する。満期は5年6カ月、年利は3.8〜4.6%を想定し、5日に関東財務局へ訂正発行登録書を提出した",
+            "年利は16日に決め、申込期間は10月19〜28日。資金は起債済みの社債の償還などに充てる。2025年7月に発行した個人向け3年債（第25回）の利率は年2.336%だった",
+            "同社の格付けは日本格付研究所（JCR）がA-、格付投資情報センター（R&I）がBBB+、S&PグローバルはBBと投資適格を下回る水準"
+          ],
+          "comment": "年4%前後という数字は預金と比べると魅力的に見えるが、利回りの高さは信用リスクの裏返しだと私は考える。S&Pの格付けは投機的水準のBBで、満期前に売れば元本を割る価格になっていることもある。検討するなら生活防衛資金とは切り離し、1社の社債に資産を寄せすぎないことが前提だ。申込前に16日に決まる利率を確かめ、目論見書の「リスク」欄に一度目を通してほしい。",
+          "sources": [
+            {
+              "title": "楽天Gが社債3600億円、年利3.8〜4.6%　償還などに充当（日本経済新聞）",
+              "url": "https://www.nikkei.com/article/DGXZQOUB055TU0V01C26A0000000/"
+            },
+            {
+              "title": "格付・社債情報（楽天グループ株式会社）",
+              "url": "https://corp.rakuten.co.jp/investors/stock/bond.html"
+            }
+          ],
+          "id": "2026-10-06-money",
+          "image": "https://images.pexels.com/photos/7680549/pexels-photo-7680549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "title": "Yahoo!フリマとヤフオク、ポケカなど5ブランドのトレカは売れても手数料0円に。11月20日まで2回に分けて実施、エントリー前に出品した分は対象外",
+          "sourceDate": "2026-10-05",
+          "flash": [
+            "LINEヤフーは5日、対象トレカが売れたときのYahoo!フリマの販売手数料とYahoo!オークションの落札システム利用料を0円にするキャンペーンを始めた。後日の還元ではなく手数料そのものがかからない",
+            "期間は第1弾が11月2日11時59分まで、第2弾が11月20日11時59分まで。対象はポケモン、ONE PIECE、遊戯王、マジック：ザ・ギャザリング、ドラゴンボールスーパーカードゲーム フュージョンワールドの5ブランド",
+            "エントリー前の出品は対象外で、Yahoo!オークションは鑑定つきの出品が条件。トレカの取扱高は前年の約2倍に伸び、10月中旬には価格相場などをまとめた「トレカタブ」を新設する"
+          ],
+          "comment": "普段なら売上から引かれる手数料がまるごと手元に残るので、家に眠っているカードを現金に換えるには良い機会だ。ただし私は、手数料ゼロを理由に値上がりを見込んでカードを買い込むことは勧めない。トレカの相場は再販や新弾で急に崩れ、在庫を抱えれば手数料の節約分など簡単に吹き飛ぶ。まず手持ちのカードを対象5ブランドで仕分け、エントリーを済ませてから出品してほしい。",
+          "sources": [
+            {
+              "title": "【Yahoo!フリマ・Yahoo!オークション】トレーディングカードの「売る」「買う」体験をさらに強化（LINEヤフー／PR TIMES）",
+              "url": "https://prtimes.jp/main/html/rd/p/000001813.000129774.html"
+            },
+            {
+              "title": "Yahoo!フリマ トレカ出品DAYS キャンペーンページ",
+              "url": "https://paypayfleamarket.yahoo.co.jp/campaign/promo/seller/10764"
+            }
+          ],
+          "id": "2026-10-06-sidehustle",
+          "image": "https://images.pexels.com/photos/11911060/pexels-photo-11911060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "title": "【警戒】Googleで「ChatGPT」と検索して広告を押すと偽のカスタムGPTへ。「メインのドメインが制限中」と別サイトに誘導し、偽の認証画面でPowerShellにコマンドを貼らせて遠隔操作ウイルスを入れる手口",
+          "sourceDate": "2026-10-05",
+          "flash": [
+            "Googleの検索広告から本物のChatGPTに見える画面へ誘導されるが、実際は攻撃者が作ったカスタムGPT「Plus 5.6」で、何を入力しても「Service Availability Notice」と予備ドメインへのリンクを返す",
+            "リンク先はGoogle Sitesの無料サイトで、偽のCloudflare認証画面がWindowsのPowerShellにコマンドを貼り付けて実行するよう指示し、実行するとマルウェアが入る",
+            "米セキュリティ企業Huntressは関連する被害を少なくとも40件確認。入るのは画面の遠隔操作やカメラ・マイクの盗聴、ブラウザのデータ抜き取りができるRATで、問題のGPTが9月25日に削除された後の27日にも新たなGPTが見つかった"
+          ],
+          "comment": "AIを仕事や副業で毎日使う人ほど、検索して広告を押す癖を狙われる。私はChatGPTやGeminiを公式アプリかブックマークからしか開かない。サイトの指示でコマンドを貼り付けて実行させる認証は、正規のサービスには存在しない。今日のうちに使っているAIサービスのURLをブックマークに登録し、検索結果の「スポンサー」表示は押さないと決めてほしい。万一実行したらネットを切り、ネット銀行などのパスワードを別の端末から変える。",
+          "sources": [
+            {
+              "title": "「ChatGPT」悪用、マルウェアを仕込む新手の詐欺に注意（ZDNET Japan）",
+              "url": "https://japan.zdnet.com/article/35253229/"
+            },
+            {
+              "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix（Huntress）",
+              "url": "https://www.huntress.com/blog/chatgpt-custom-gpts-clickfix-rat"
+            }
+          ],
+          "id": "2026-10-06-scam",
+          "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
       "id": "2026-10-05",
       "number": 82,
       "date": "2026-10-05",
