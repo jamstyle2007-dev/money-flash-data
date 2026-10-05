@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:12",
+  "updated": "2026-10-06T06:21",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,298 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "157.86",
-      "change": "+0.01",
-      "changePct": "+0.01%"
+      "value": "157.93",
+      "change": "+0.10",
+      "changePct": "+0.06%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,723",
-      "change": "+56",
-      "changePct": "+0.73%"
+      "value": "7,774",
+      "change": "+51",
+      "changePct": "+0.66%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥13.60M",
-      "change": "+1.3%",
-      "changePct": "+1.3%"
+      "value": "¥13.55M",
+      "change": "-0.1%",
+      "changePct": "-0.1%"
     }
   ],
   "items": [
+    {
+      "id": "20261006-0610-01",
+      "time": "2026-10-06T06:10",
+      "category": "market",
+      "title": "NYダウ続伸、90ドル高の5万1267ドル　ナスダックは1%高で最高値、エヌビディアも上場来高値を更新",
+      "summary": [
+        "5日の米株式市場でダウ工業株30種平均は前週末比90.94ドル高の5万1267.90ドル、S&P500は0.66%高の7773.95で終えた。",
+        "ナスダック総合は286.45ポイント（1.05%）高の2万7477.31と最高値を更新。エヌビディアは2.1%高の238.90ドルで、5月14日の最高値（235.74ドル）を上回った。",
+        "原油先物の続落が支えとなった一方、米10年債利回りは5.3%台に上昇。メルクやセールスフォース、IBMは下げた。"
+      ],
+      "jackView": "私は指数の最高値より、長期金利が5.3%台でもハイテク株が買われている点に注目しています。金利上昇が続くと割高な銘柄ほど振れやすいので注意してください。",
+      "sources": [
+        {
+          "title": "NYダウは続伸し90ドル高　ナスダック最高値、スペースX株が8%高（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOFL0600P0W6A001C2000000/"
+        },
+        {
+          "title": "Stock market today: Nasdaq, Nvidia post record highs as tech strength outshines bond weakness（Yahoo Finance）",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-02",
+      "time": "2026-10-06T06:10",
+      "category": "market",
+      "title": "日経平均先物は夜間取引で90円高の7万180円、現物終値を233円上回る　きょうはパルHDやサンエーなど9社が決算",
+      "summary": [
+        "大阪取引所の日経225先物12月限は夜間取引を前日比90円高の7万180円で終えた。TOPIX先物は18.5ポイント高の4182.5だった。",
+        "5日の現物終値（6万9946円）を233円上回る水準。米国株はナスダック総合が最高値を更新し、ハイテク株高が支えとなった。",
+        "6日はパルHD、サンエー、三陽商会など9社が決算を発表する予定。7日には新TOPIXの構成銘柄の発表を控える。"
+      ],
+      "jackView": "私は先物が7万円台を保っても、昨日の後場のように利益確定売りで伸び悩む展開に注意しています。終値で7万円台に乗せられるかが、今週の地合いを測る目安になると見ています。",
+      "sources": [
+        {
+          "title": "日経225先物：6日夜間取引終値＝90円高、7万180円（株探）",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202610060048"
+        },
+        {
+          "title": "NYダウは続伸し90ドル高　ナスダック最高値、スペースX株が8%高（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOFL0600P0W6A001C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29241211/pexels-photo-29241211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-03",
+      "time": "2026-10-06T06:10",
+      "category": "fx",
+      "title": "米ISM非製造業景況指数は9月54.9に低下、仕入れ価格は74.0と22年7月以来の高さ　米10年債利回りは5.30%に上昇",
+      "summary": [
+        "米サプライマネジメント協会（ISM）が5日発表した9月の非製造業景況指数は54.9で、8月の55.4から低下し市場予想も下回った。50超えは27カ月連続。",
+        "仕入れ価格指数は74.0と8月の72.6から上昇し、2022年7月以来の高水準。雇用指数は50.1と3カ月ぶりに50を上回った。",
+        "NY債券市場で10年債利回りは前週末比0.03ポイント高い5.30%。NY外為市場の円は157円91銭で取引を終えた。"
+      ],
+      "jackView": "私は景況感の小幅な鈍化より、仕入れ価格の上昇のほうを重く見ています。8日未明のFOMC議事要旨で物価への警戒がどこまで語られるかに注目してください。",
+      "sources": [
+        {
+          "title": "Services PMI at 54.9%; September 2026 ISM Services PMI Report（PR Newswire）",
+          "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html"
+        },
+        {
+          "title": "NY債券、長期債続落　10年債利回り5.30%　底堅い米景気や欧州金利の高止まりで（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOFL05B1Q0V01C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-04",
+      "time": "2026-10-06T06:10",
+      "category": "usstock",
+      "title": "米物流仲介大手C.H.ロビンソン、同業RXOを58億ドルで買収と発表　RXO株は22%高、ロビンソン株は11%安",
+      "summary": [
+        "C.H.ロビンソンは5日、トラック輸送仲介のRXOを現金と株式で買収すると発表した。企業価値は約58億ドルで、RXO株1株に30.25ドル相当（2日終値比29%上乗せ）を払う。",
+        "AIを使った業務改善で、統合後2年以内に年3億ドルのコスト削減を見込む。両社の取締役会は全会一致で承認し、完了は2027年前半の予定。",
+        "5日の米株式市場でRXO株は22.5%高の28.65ドル、C.H.ロビンソン株は10.8%安の140.61ドルで終えた。"
+      ],
+      "jackView": "買い手の株価が1割超も下がったのは、市場が統合効果に半信半疑だからだと私は見ています。年3億ドルの削減目標が決算ごとにどこまで進むかに注目してください。",
+      "sources": [
+        {
+          "title": "C.H. Robinson to Acquire RXO in $5.8 Billion Transaction（C.H. Robinson）",
+          "url": "https://www.chrobinson.com/en-us/about-us/newsroom/press-releases/2026/ch-robinson-to-acquire-rxo/"
+        },
+        {
+          "title": "CH Robinson to buy RXO for $5.8B, combining 3PL heavyweights（Yahoo Finance）",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ch-robinson-buy-rxo-5-151500681.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29880941/pexels-photo-29880941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-05",
+      "time": "2026-10-06T06:10",
+      "category": "jpstock",
+      "title": "塩野義製薬、米イントラバイオを20億ドル（約3156億円）で買収　希少神経疾患薬「AQNEURSA」の全権利を獲得",
+      "summary": [
+        "塩野義製薬は5日、米子会社を通じてテキサス州のバイオ医薬品企業イントラバイオの全株式を20億ドル（約3156億円）で取得すると発表した。",
+        "AQNEURSAはニーマン・ピック病C型の神経症状の治療薬として欧米で承認済みで、9月18日には毛細血管拡張性運動失調症で米FDAの承認を得た。",
+        "イントラバイオの25年12月期は売上高6787万ドル、営業赤字3529万ドル。取引の実行は11〜12月の予定。"
+      ],
+      "jackView": "私は買収額がイントラバイオの売上高の約30倍に当たる点に注目しています。米国で先行するALS薬ラジカヴァの販売網にどれだけ上乗せできるか、今後の売上計画の開示を確かめたいところです。",
+      "sources": [
+        {
+          "title": "米国IntraBio社の完全子会社化に関するお知らせ（塩野義製薬・TDnet）",
+          "url": "https://www.release.tdnet.info/inbs/140120261005546053.pdf"
+        },
+        {
+          "title": "塩野義、米バイオベンチャー買収　3160億円、希少疾患薬強化（時事通信）",
+          "url": "https://www.jiji.com/jc/article?k=2026100500922&g=eco"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-06",
+      "time": "2026-10-06T06:10",
+      "category": "jpstock",
+      "title": "日本M&AセンターHD、過去2回の中間配当が分配可能額を計約9億円超過　監査法人の指摘で判明、第三者委員会を設置へ",
+      "summary": [
+        "日本M&AセンターHDは5日、24年12月と25年12月に実施した中間配当（各1株14円、総額各約44億円）が会社法上の分配可能額を超えていたと発表した。",
+        "超過額は24年が約7173万円、25年が約8億3324万円。多額の自己株式の帳簿価額が分配可能額を押し下げていたが、決議時の確認が不十分だったという。",
+        "9月30日に会計監査人のトーマツから指摘を受けて判明した。株主に支払った配当金の返還は求めない方針で、近く外部専門家による第三者委員会を設ける。"
+      ],
+      "jackView": "私は今期の配当方針に影響が出るかに注目しています。株主への返還は求めないとしていますが、第三者委員会の調査結果や再発防止策、役員責任の扱いが出るまでは慎重に見たいところです。",
+      "sources": [
+        {
+          "title": "分配可能額を超えた過年度の中間配当金について（日本M&AセンターHD・TDnet）",
+          "url": "https://www.release.tdnet.info/inbs/140120261005546001.pdf"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-07",
+      "time": "2026-10-06T06:10",
+      "category": "crypto",
+      "title": "メタプラネット、7〜9月にBTC1万枚を売って1.1万枚を買い戻し　1枚あたり約116万円高く再取得、保有は4.4万BTCに",
+      "summary": [
+        "メタプラネットは5日、7〜9月期に1万BTCを平均1247万円で売却し、1.1万BTCを平均1363万円で再取得したと開示した。",
+        "純増は1000BTCで、9月30日時点の保有は4万4000BTC。保有分全体の平均取得単価は1BTCあたり約1556万円。",
+        "売却は社債や借入金の元本を上回る額のBTCを実際に現金化できると示し、格付け取得に備える目的と説明。債務の返済・償還はしていない。",
+        "同日、資本配分方針を再改定し、総資産の85〜90%をBTC、10〜15%をM&Aなどの戦略投資枠とする目安を定めた。"
+      ],
+      "jackView": "流動性を示すために割高で買い戻したコストを、信用力の向上で取り返せるかに私は注目しています。保有分の平均取得単価約1556万円が足元のBTC価格を上回っている点にも注意してください。",
+      "sources": [
+        {
+          "title": "メタプラネット「ビットコインの追加購入に関するお知らせ（流動性の実証を目的としたビットコインの売却・再取得の実施を含む）」（TDnet）",
+          "url": "https://www.release.tdnet.info/inbs/140120261005546273.pdf"
+        },
+        {
+          "title": "CoinPost「メタプラネットが資本配分方針を再改定、ビットコイン85〜90％・戦略投資10〜15％が目安」",
+          "url": "https://coinpost.jp/?p=741161"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-08",
+      "time": "2026-10-06T06:10",
+      "category": "crypto",
+      "title": "米CFTC、個人向けのレバレッジ・証拠金付き暗号資産取引に連邦ルール整備へ　専用の取引所区分も検討、60日間の意見募集",
+      "summary": [
+        "米商品先物取引委員会（CFTC）は5日、証拠金・レバレッジ・融資を伴う個人向け暗号資産取引（CTX）の規則制定に向けた事前通知を公表した。",
+        "暗号資産取引専用の指定契約市場の登録区分「暗号資産市場（CAM）」を規則で定める方法などについて意見を募る。",
+        "意見は連邦官報への掲載から60日以内に受け付ける。今回は規則案ではなく、今後の規則制定の検討に使う位置づけ。",
+        "セリグ委員長は、上院でクラリティー法案が前進しなかったことを受け、既存の権限で規則策定に着手したと説明した。"
+      ],
+      "jackView": "議会の法案が止まる中で規制当局が先に動く流れに私は注目しています。ただ今回は意見募集の段階で、実際のルールになるまで時間がかかる点に注意してください。",
+      "sources": [
+        {
+          "title": "CFTC Seeks Public Comment on Advanced Notice of Proposed Rulemaking Relating to Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets（Release 9307-26）",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26"
+        },
+        {
+          "title": "CoinPost「米CFTC、個人向けレバレッジ仮想通貨取引の規制枠組みを整備へ」",
+          "url": "https://coinpost.jp/?p=741175"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/14856614/pexels-photo-14856614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-09",
+      "time": "2026-10-06T06:10",
+      "category": "seido",
+      "title": "障害者の在宅就労支援、報酬の受け取り要件を厳格化へ　「水やりを生産活動と称する」など不適切運営に対応、厚労省が27年度改定で検討",
+      "summary": [
+        "厚生労働省は障害福祉サービスの2027年度報酬改定で、在宅就労支援の基本報酬の受け取り要件を厳しくする検討に入る。日本経済新聞が10月5日に報じた。",
+        "1日数回の植物への水やりを生産活動と称するなど、支援実績が乏しいのに報酬を受け取り、高い収益を上げる事業者が出ている。",
+        "支援が不十分な事業者の基本報酬の引き下げや、在宅で支援を受ける人の割合に上限を設けることも論点とし、26年末に方向性をまとめる。"
+      ],
+      "jackView": "私は、在宅支援を利用しているご家庭は、事業所がどんな作業と支援記録を残しているかを今のうちに確かめておくのがよいと見ています。改定後に事業所の撤退や統合が起きる可能性もあるためです。",
+      "sources": [
+        {
+          "title": "日本経済新聞　障害者在宅就労の支援報酬、受け取り要件厳しく　一部に不適切運営",
+          "url": "https://www.nikkei.com/article/DGXZQOUA053CH0V01C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-10",
+      "time": "2026-10-06T06:10",
+      "category": "point",
+      "title": "ラグジュアリーカードが初の年会費値上げ、ブラックは11万円→15万円・ゴールドは22万円→29.5万円　既存会員は27年2月請求分から",
+      "summary": [
+        "ラグジュアリーカードは、2016年の国内発行開始以来初めて年会費を改定すると発表した。",
+        "本会員はチタンが5万5000円→7万5000円、ブラックが11万円→15万円、ゴールドが22万円→29万5000円（税込）。家族会員も引き上げる。",
+        "新規は2027年1月1日以降の申し込みから、既存会員は27年2月以降の年会費請求分から順次適用。Black DiamondとJALの2券種は対象外。",
+        "現行の優待・サービスは継続し、10周年に向けて新たな優待を順次拡充するとしている。"
+      ],
+      "jackView": "私は、上げ幅に見合う新しい優待が出てくるかを見てから継続を判断したいと考えています。自分の年会費の請求月と解約の期限を、今のうちに会員ページで確かめておくと安心です。",
+      "sources": [
+        {
+          "title": "ラグジュアリーカード「年会費改定のお知らせ」",
+          "url": "https://www.luxurycard.co.jp/news/annual-fee-revision-2027/"
+        },
+        {
+          "title": "ポイ探ニュース「ラグジュアリーカード、初の年会費改定 Blackは11万円→15万円、Goldは29万5000円に」",
+          "url": "https://news.infoseek.co.jp/article/poitan_194030/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7742551/pexels-photo-7742551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-11",
+      "time": "2026-10-06T06:10",
+      "category": "sidehustle",
+      "title": "ハンドメイド作家の75%がAI使用経験、用途は作品説明文が73.4%で最多　経験者の67%が作業時間減を実感、売上好転は33.7%",
+      "summary": [
+        "GMOペパボのハンドメイドマーケット「minne」が、出品作家1002人に聞いたAI活用調査（8月6〜20日、ネット調査）を10月5日に公表した。",
+        "AIを使った経験がある作家は75.1%で、「日常的に使う」33.5%、「ときどき使う」29.4%。利用サービスはChatGPT 76.9%、Gemini 53.0%、画像生成AI 17.4%。",
+        "用途は作品説明文の作成・調整73.4%、写真の加工・背景除去51.8%、SNS投稿の文案作成43.6%の順。",
+        "経験者の67.2%が作業時間の削減を実感（半分以上減った21.9%）。売上や客の反応が良くなったは33.7%、あまり変わらないは38.4%だった。"
+      ],
+      "jackView": "作業時間が減っても売上は変わらないという人が4割近くいる点に注目しています。私は、AIで浮いた時間を新作づくりや写真の質に回せるかどうかが、副業の稼ぎを分けると見ています。",
+      "sources": [
+        {
+          "title": "GMOペパボ　ハンドメイド作家の75%がAI使用経験あり（minne byGMOペパボ調査）",
+          "url": "https://pepabo.com/news/press/202610051300/"
+        },
+        {
+          "title": "AI Watch　「75％がAI使用経験あり」GMOペパボがハンドメイド作家のAI活用を調査",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2145800.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261006-0610-12",
+      "time": "2026-10-06T06:10",
+      "category": "scam",
+      "title": "【警戒】松井証券を装い「LINE限定の投資支援情報」へ誘う偽メール　注目銘柄や売買タイミングの助言をうたい友だち追加させる手口",
+      "summary": [
+        "迷惑メール相談センターは5日、松井証券になりすました「【ご案内】松井証券 LINE 投資支援情報の配信開始」という偽メールへの注意を呼びかけた。",
+        "本文は「アナリストが厳選した注目銘柄とエントリー・利確のタイミング助言」「個別の運用相談」をうたい、利用者の体験談を並べてLINEの友だち追加へ誘導する。",
+        "同センターは2日にも野村證券・楽天証券のLINE公式アカウントを装う同様の偽メールを掲載している。いずれも実在の企業とは無関係に送信されたもの。"
+      ],
+      "jackView": "証券会社がメールでLINEに誘い、個別銘柄の売買タイミングを助言することは通常ないと私は見ています。友だち追加の後に別の投資グループへの参加や送金を求められる被害の流れに注意してください。",
+      "sources": [
+        {
+          "title": "迷惑メール相談センター「迷惑メール・詐欺メールの注意喚起」（2026/10/05 松井証券になりすました偽メール）",
+          "url": "https://www.dekyo.or.jp/soudan/contents/news/alert.html"
+        }
+      ],
+      "jackLink": {
+        "title": "投資詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "image": "https://images.pexels.com/photos/284923/pexels-photo-284923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261005-1800-01",
       "time": "2026-10-05T18:00",
@@ -980,447 +1252,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-01",
-      "time": "2026-10-04T18:00",
-      "category": "market",
-      "title": "【来週の注目】7日に新TOPIXの構成銘柄発表、9日SQ　今週は日経平均2.9%高もTOPIXは0.9%安と逆行、先物は夜間に一時7万円台",
-      "summary": [
-        "今週（9月28日〜10月2日）の日経平均は前週末比1945円（2.93%）高の6万8309円、TOPIXは37.59ポイント（0.91%）安の4091.00と逆行した。権利落ちに加え、買いが半導体・AI株に集中し、先物ベースのNT倍率は16.74倍（前週末16.12倍）に上がった",
-        "2日夜間取引で日経225先物は一時7万0190円まで上げ、8月14日の戻り高値6万9500円を上抜けた。海外投資家は9月第4週に現物・先物合算で5472億円を買い越し、4週連続の買い越し（株探）",
-        "5日に臨時国会召集と米9月ISM非製造業、6日15時35分に植田日銀総裁が全国証券大会であいさつ、7日に8月景気動向指数と新TOPIXの構成銘柄発表がある",
-        "8日未明に9月FOMC議事要旨、同日に日銀さくらリポートとファストリ（9月の国内既存店売上高は11%増）・セブン＆アイの決算、AZEC閣僚会合。9日はオプションSQと8月家計調査"
-      ],
-      "jackView": "私は今週の「日経平均だけ高くTOPIXは安い」という偏りを一番気にしています。指数が7万円に近づいても、上げているのが一部の値がさ株だけなら手元の持ち株は増えていないことも多いです。来週は7日の新TOPIX銘柄発表と9日のSQを前に、買いの裾野が広がるかを見たいと思います。",
-      "jackLink": {
-        "title": "来週の材料をマネーラボで深掘り",
-        "url": "https://jack-money-lab.com"
-      },
-      "sources": [
-        {
-          "title": "株探「株価指数先物【週間展望】―7万円台の攻防から6月高値が視野に」",
-          "url": "https://kabutan.jp/news/n202610040055/"
-        },
-        {
-          "title": "株探「今週の【重要イベント】米ISM非製造業、景気動向指数、FOMC議事録 (10月5日～11日)」",
-          "url": "https://kabutan.jp/news/n202610040056/"
-        },
-        {
-          "title": "外為どっとコム マネ育チャンネル「来週のドル円相場はどうなる？10/5週のイベント予定」",
-          "url": "https://www.gaitame.com/media/entry/2026/10/04/060300"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-02",
-      "time": "2026-10-04T18:00",
-      "category": "market",
-      "title": "OPECプラス主要7カ国、11月の生産目標を据え置きで基本合意　4日の会合で正式決定へ、8月の実生産は日量2500万バレルと戦闘前より約500万バレル少ない",
-      "summary": [
-        "サウジアラビア・ロシア・イラク・クウェート・アルジェリア・カザフスタン・オマーンの7カ国は4日にオンライン会合を開く。11月の生産目標を据え置くことで基本合意したと関係者3人が明らかにした（ロイター）",
-        "10月の生産枠は合計で日量約3100万バレルで、据え置けば2カ月連続となる（共同）",
-        "7カ国の8月の実際の生産は日量2500万バレルと7月から63万バレル増えたが、戦闘前の2月より約500万バレル少ない。湾岸産油国の輸出は平時の60〜80%にとどまる",
-        "2027年以降の生産方針は11月29日の閣僚会合で議論する"
-      ],
-      "jackView": "私は目標の据え置きより、実際の生産が枠を大きく下回ったままという点に注目しています。原油高はガソリン代や電気代を通じて家計に届くので、週明けの原油価格とあわせて見ておきたいです。",
-      "sources": [
-        {
-          "title": "Business Standard（Reuters）「Opec+ set to keep November oil output targets steady amid war disruptions」",
-          "url": "https://www.business-standard.com/world-news/opec-set-to-keep-november-oil-output-targets-steady-amid-war-disruptions-126100400207_1.html"
-        },
-        {
-          "title": "中日新聞（共同）「産油国、生産枠維持の公算　11月、2カ月連続」",
-          "url": "https://www.chunichi.co.jp/article/1320618"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/29241211/pexels-photo-29241211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-03",
-      "time": "2026-10-04T18:00",
-      "category": "usstock",
-      "title": "トランプ大統領、米国に工場を建てない外国企業に「150〜300%の関税」と警告　猶予は約1年半、オハイオ州の集会で日本・中国・韓国の名も",
-      "summary": [
-        "トランプ米大統領は米国時間3日、オハイオ州バンダリアで開いた中間選挙の応援集会で、外国企業には米国内に工場を建てるまで約1年半の猶予を与えると述べた",
-        "建てなければ「150、200、250、300%の関税を課す」と発言し、関税政策が対米投資を引き出している例として中国・日本・韓国・カナダの名を挙げた",
-        "集会での発言で、具体的な措置の発表ではない。前日2日にはアラスカ産LNG事業への参加を巡り韓国に圧力をかけていた"
-      ],
-      "jackView": "私は選挙集会での数字なので、そのまま政策になるとは受け止めていません。ただ日本企業の対米投資は決算説明でも話題が増えているので、来週以降の企業コメントで温度感を確かめたいと思います。",
-      "sources": [
-        {
-          "title": "The Korea Herald「Trump threatens tariffs of up to 300% as Korea faces pressure over US investment」",
-          "url": "https://www.koreaherald.com/article/10892919"
-        },
-        {
-          "title": "Seoul Economic Daily「Trump Threatens 300% Tariffs on Firms That Skip U.S. Plants」",
-          "url": "https://en.sedaily.com/international/2026/10/04/trump-threatens-300-percent-tariffs-on-firms-that-skip-us"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/9358292/pexels-photo-9358292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-04",
-      "time": "2026-10-04T18:00",
-      "category": "usstock",
-      "title": "OpenAIで安全性報告を主導した幹部が退社、米誌に「企業文化は壊れている」と寄稿　最先端12モデルの安全報告に関与、同社は「必要なら訓練を止めている」と反論",
-      "summary": [
-        "OpenAIに3年半在籍したデービッド・ロビンソン氏が米誌アトランティックへの寄稿で退社を明らかにした。安全対策の枠組みの起草に関わり、最先端モデル12本の安全報告を統括していた",
-        "製品を出してから直す同社の「反復的展開」を批判し、原子力や航空並みの多層的な安全策が必要だと訴えた",
-        "OpenAIの広報は「必要なら訓練を止め、モデルの公開を控えている」と反論した（ロイター）"
-      ],
-      "jackView": "私はOpenAI自体は非上場でも、出資するソフトバンクGやマイクロソフトの株価材料になりうる話として見ています。AI関連株を持つ人は、安全性を巡る規制の議論が強まるかにも目を配っておくと良いと思います。",
-      "sources": [
-        {
-          "title": "Investing.com（Reuters）「OpenAI safety employee quits, says time for trial and error is over」",
-          "url": "https://www.investing.com/news/economy-news/openai-safety-employee-quits-says-time-for-trial-and-error-is-over-4930874"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/10780842/pexels-photo-10780842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-05",
-      "time": "2026-10-04T18:00",
-      "category": "fx",
-      "title": "イラン国会議長「7条件を満たすまでホルムズ海峡は開けない」、米国の海上封鎖や資産凍結の解除を要求　トランプ大統領は「穏便な道か厳しい道か」",
-      "summary": [
-        "イランのガリバフ国会議長は4日、6月の米国との暫定合意に基づく7つの条件が満たされるまでホルムズ海峡は開けないと述べた（ロイター）",
-        "条件には米国による海上封鎖の解除、凍結資産の解除、軍事的圧力の停止が含まれる。イランは数日前、自国の外交提案に対する米国の回答を受け取っている",
-        "トランプ大統領は米国時間3日、記者団に「穏便な道か厳しい道かだけが問題で、どちらにせよやり遂げる」と述べた"
-      ],
-      "jackView": "私はホルムズ海峡の行方が、原油と円相場の両方を動かす一番大きな材料だと見ています。週明けの東京市場は、この週末の発言で原油先物がどちらに振れるかに注意してください。",
-      "sources": [
-        {
-          "title": "Oman Observer（Reuters）「Hormuz to remain closed until conditions are met: Iran」",
-          "url": "https://www.omanobserver.om/article/1197198/world/region/hormuz-to-remain-closed-until-conditions-are-met-iran"
-        },
-        {
-          "title": "SBS「Trump Hints at Imminent Decision on Iran」",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008782420"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-06",
-      "time": "2026-10-04T18:00",
-      "category": "fx",
-      "title": "来週は8日未明にFOMC議事要旨、8日にECB議事要旨　インド中銀は7日に5.5%への利上げ予想、ECB次期総裁の候補2人は5日に同じ場に登壇",
-      "summary": [
-        "9月のFOMC議事要旨は日本時間8日午前3時、ECBは8日に9月会合の議事要旨を公表する。次回FOMCは10月27〜28日",
-        "ジェファーソンFRB副議長とウィリアムズNY連銀総裁は追加利上げを急がない姿勢を示し、ブルームバーグ・エコノミクスは「10月利上げのハードルは高い」とみている",
-        "インド準備銀行は7日に政策金利を5.5%へ引き上げると予想されている。ECB次期総裁の候補とされるデコス氏とクノット氏は5日に同じイベントに登壇する"
-      ],
-      "jackView": "私は議事要旨で追加利上げに前向きな委員がどれだけいたかを、ドル円の方向感を測る材料として見ています。日米の金利差の見通しが変われば円相場も振れやすいので、8日朝の報道は確認しておきたいです。",
-      "sources": [
-        {
-          "title": "Business Standard（Bloomberg）「Fed, ECB minutes to show inflation fears as near-term rate hike bets fade」",
-          "url": "https://www.business-standard.com/amp/world-news/fed-ecb-minutes-to-show-inflation-fears-as-near-term-rate-hike-bets-fade-126100400046_1.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-07",
-      "time": "2026-10-04T18:00",
-      "category": "jpstock",
-      "title": "ドコモ、MNP契約約1万6000件で同意を得ずにRCSの情報をグーグル側へ連携　店頭システムの不備、9月のアマゾンへの約34万人分に続く無断提供",
-      "summary": [
-        "NTTドコモは4日、9月17〜25日に店頭でMNPの新規契約をした一部の客に、RCSの重要事項説明とGoogle Asia Pacificへの第三者提供の同意画面が表示されていなかったと発表した",
-        "対象は約1万6000件で、うち送受信があった225件は送受信に関する情報がグーグル側へ送られた。メッセージ本文は暗号化されている",
-        "対象者のRCSは9月30日夜から順次停止し、4日から個別に連絡している。ドコモは9月16日にもアマゾン日本法人へ約34万4000人分の情報を無断提供していたと公表している"
-      ],
-      "jackView": "私は同じ月に2件目の無断提供が出た点を重く見ています。ドコモは銀行やポイントなど金融サービスも広げているので、顧客情報の管理体制への不信が長引かないかに注目しています。",
-      "sources": [
-        {
-          "title": "NTTドコモ「【お詫び】RCS利用における重要事項説明および第三者提供同意取得未実施に関するお知らせ」",
-          "url": "https://www.docomo.ne.jp/info/notice/page/261004_00.html"
-        },
-        {
-          "title": "時事通信「顧客情報、米グーグルに無断提供　1.6万件」",
-          "url": "https://www.jiji.com/jc/article?k=2026100400256&g=eco"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-08",
-      "time": "2026-10-04T18:00",
-      "category": "crypto",
-      "title": "ステーブルコイン決済基盤の英OpenPayd、SPAC合併で年内のナスダック上場を目指す　クラーケンやOKXが基盤を利用、27年4月までに米国でサービス開始へ",
-      "summary": [
-        "英決済インフラのOpenPaydは、特別買収目的会社タイタン・アクイジションとの合併による年内のナスダック上場を目指している。米SECの審査は最終段階で、ティッカーは「OP」を予定する（CoinDesk）",
-        "2026年4月期の売上高は7300万ドルと前期の5700万ドルから増え、EBITDAは1300万ドル。クラーケン、B2C2、OKXが同社の基盤を使っている",
-        "米43州の送金業ライセンスを持つ会社を傘下に入れており、2027年4月までに米国でサービスを始める計画で、買収も検討している"
-      ],
-      "jackView": "私はステーブルコインの送金を裏側で支える会社が上場を急ぐ動きに、決済分野へのお金の流れを感じます。ただSPAC上場は上場後に株価が大きく崩れる例も多いので、話題性だけで飛びつかないよう注意してください。",
-      "sources": [
-        {
-          "title": "CoinDesk「Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions」",
-          "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8358132/pexels-photo-8358132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-09",
-      "time": "2026-10-04T18:00",
-      "category": "seido",
-      "title": "食料品の消費税を27年4月から2年間1%に下げる法案が焦点、高市首相は所信表明で「家計にゆとり」と訴えへ　自民・小林政調会長は野党への働きかけを強める",
-      "summary": [
-        "5日召集の臨時国会では、飲食料品の消費税率を2027年4月から2年間に限り8%から1%に下げる関連法案が焦点となる。高市首相は所信表明で「家計に少しでもゆとりを生み出したい」と説明し、財源は国債に頼らず確保すると訴える（共同）",
-        "代表質問は衆院が7・8日、参院が8・9日で、13日以降に衆参の予算委員会を開く。与党は今月中にも衆院で減税関連法案の審議を始めたい考え",
-        "自民党の小林政調会長は4日、佐賀県小城市で「食料品の消費税減税は物価高を乗り越えていくために必要」と述べ、法案成立へ野党への働きかけを強める考えを示した（NHK）"
-      ],
-      "jackView": "私は減税の実施が2027年4月からで、すぐに家計が楽になる話ではない点に注意したいと思います。財源をどこから確保するかで別の負担が増える可能性もあるので、代表質問での答弁を見ておきたいです。",
-      "sources": [
-        {
-          "title": "東京新聞（共同）「国会5日召集、消費減税で論戦へ　簗農相ら閣僚の資質追及」",
-          "url": "https://www.tokyo-np.co.jp/article/519597"
-        },
-        {
-          "title": "NHK「自民 小林政調会長 消費税減税法案成立へ野党に働きかけ強める」",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261004de54277"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-10",
-      "time": "2026-10-04T18:00",
-      "category": "seido",
-      "title": "米国産生鮮ジャガイモの輸入解禁、最終判断が早ければ1年程度に前倒しの可能性　当初は2〜3年との見方、トランプ政権の圧力が背景",
-      "summary": [
-        "米国産の生鮮ジャガイモの輸入解禁を巡り、当初2〜3年かかるとみられた最終判断が早ければ1年程度に前倒しされる可能性が出てきた。複数の政府・与党関係者が3日明らかにした（共同）",
-        "農林水産省は9月、3段階ある解禁手続きの最終工程となる病害虫の検疫措置の協議に入った。米側と協議が必要な病害虫は21種",
-        "検討は2020年の米側の正式要請で始まった。安いジャガイモが流通すれば消費者の選択肢は増えるが、国内産地は病害虫の侵入と価格競争を警戒している"
-      ],
-      "jackView": "私は食卓の値段に直結する通商の話として見ています。ポテトチップスなど加工品の原料価格にも関わりうるので、解禁の時期と国内産地への支援策がどう示されるかに注目しています。",
-      "sources": [
-        {
-          "title": "東京新聞（共同）「米国産ジャガイモ解禁前倒し浮上　トランプ政権の圧力が背景」",
-          "url": "https://www.tokyo-np.co.jp/article/519464"
-        },
-        {
-          "title": "農林水産省「米国産生鮮ばれいしょの輸入解禁に関する病害虫リスク管理措置案について」",
-          "url": "https://www.maff.go.jp/j/press/syouan/syokubo/260828_1.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/795602/pexels-photo-795602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-11",
-      "time": "2026-10-04T18:00",
-      "category": "point",
-      "title": "イズミの「ゆめNEOBANK」があす5日開始、先着3万人に最大1万円相当の誕生記念キャンペーン　住宅ローン利用者はゆめタウン等で100円につき7円分",
-      "summary": [
-        "ドコモSMTBネット銀行のBaaSを使い、イズミとゆめカードが組む銀行サービス「ゆめNEOBANK」が5日に始まる。対象は中四国・九州の11県で、ゆめか・ゆめアプリと連携する",
-        "誕生記念キャンペーンは5日〜11月30日にエントリーした先着3万人が対象。預金残高や給与受取などの条件を満たすと、最大1万円相当のゆめかチャージかクレジット積立がもらえる（付与は2027年2月末の予定）",
-        "住宅ローン利用者で給与受取がある月は、直営売場で100円につき6.5円分の値引積立が付き、通常の0.5円分と合わせて7円分になる"
-      ],
-      "jackView": "私は特典の付与が2027年2月末と先である点に注意したいと思います。普段ゆめタウンを使う人でも、給与受取口座を移す手間と特典の大きさを比べてから決めるのが良いと思います。",
-      "sources": [
-        {
-          "title": "ドコモSMTBネット銀行「ゆめNEOBANK」提供開始のお知らせ",
-          "url": "https://www.netbk.co.jp/contents/company/press/2026/0930_006379.html"
-        },
-        {
-          "title": "ポイ探（infoseekニュース）",
-          "url": "https://news.infoseek.co.jp/article/poitan_193577/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1800-12",
-      "time": "2026-10-04T18:00",
-      "category": "scam",
-      "title": "【警戒】日経社員のマイクロソフト365に不正ログイン、取材先などに悪性サイトへ誘導するなりすましメール約9000件　関係者を装うメールの増加に注意",
-      "summary": [
-        "日本経済新聞社は4日、社員のマイクロソフト365アカウントが不正ログインされ、9月30日に社内や取材先などへ悪性サイトに誘導するメール約9000件が送られたと発表した",
-        "送信先のメールアドレスと氏名、一部のメール本文が漏洩したとみられ、個人情報保護委員会に報告した。同社は「当社やグループ会社の関係者になりすましたメールが増える可能性がある」と注意を呼びかけている",
-        "同日、グーグルワークスペースのアカウントが7月下旬以降に不正ログインされ、1646人分のメールアドレスや氏名が漏洩した疑いがあることも公表した（読者・取材先の情報は含まない）"
-      ],
-      "jackView": "私はこの種の事件で一番怖いのは、実在する相手のアドレスから届くメールだと思います。知っている相手からでも、急にリンクを開かせたりログインを求めたりする内容なら、電話など別の手段で本人に確かめてください。",
-      "jackLink": {
-        "title": "なりすましメールの見抜き方を学ぶ",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "日本経済新聞社「サイバー攻撃による情報漏洩、不審メールの送信について」",
-          "url": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1554.html"
-        },
-        {
-          "title": "日本経済新聞社「不正ログインによる情報漏洩について」",
-          "url": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1547.html"
-        },
-        {
-          "title": "日本経済新聞「日経にサイバー攻撃　情報漏洩、不審メール9000件送信」",
-          "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5827969/pexels-photo-5827969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1200-01",
-      "time": "2026-10-04T12:00",
-      "category": "market",
-      "title": "フーシ派、サウジアラムコのリヤド製油所を攻撃と主張　炎と煙が上がる、北海ブレントは金曜に102ドル台で引け",
-      "summary": [
-        "イエメンの親イラン武装組織フーシ派が3日、首都リヤドにあるサウジアラムコの施設を弾道ミサイルと無人機で攻撃したと声明を出した。サウジによるサヌアなどへの攻撃への報復としている",
-        "AFP通信によると、リヤド南部の同社製油所から炎と煙が上がった。サウジ当局とアラムコは攻撃を確認していない",
-        "フーシ派は9月19日にもリヤドとヤンブーを標的にしたと主張しており、7月に非公式の停戦が崩れてから応酬が続いている",
-        "北海ブレント先物は2日に1バレル102.25ドルで引けた。G7による石油備蓄1億バレルの協調放出で上値が抑えられていた"
-      ],
-      "jackView": "私は週明けの原油先物の初動をまず見ます。中東の供給不安は円安やインフレ観測を通じて日本株や金利にも波及しやすいので、エネルギー関連の値動きだけで判断しないよう注意してください。",
-      "jackLink": {
-        "title": "マネーラボで深掘りを読む",
-        "url": "https://jack-money-lab.com"
-      },
-      "sources": [
-        {
-          "title": "日本経済新聞「フーシ、サウジアラムコの施設攻撃　リヤドの製油所で炎」",
-          "url": "https://www.nikkei.com/article/DGXZQOCB0406A0U6A001C2000000/"
-        },
-        {
-          "title": "東京新聞（共同）「サウジ石油会社に軍事作戦　フーシ派主張、火災発生か」",
-          "url": "https://www.tokyo-np.co.jp/article/519491"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1200-02",
-      "time": "2026-10-04T12:00",
-      "category": "fx",
-      "title": "ブラジル大統領選きょう投票、ルラ大統領とボルソナロ前大統領の長男フラビオ氏が接戦　JPモルガンはレアルの着地を5.50と4.90で両にらみ",
-      "summary": [
-        "ブラジル大統領選の第1回投票が4日に行われる。投票時間は日本時間4日20時〜5日5時で、過半数を得る候補がいなければ10月25日に決選投票となる",
-        "現職で左派のルラ大統領（80）と、右派でボルソナロ前大統領の長男フラビオ上院議員（45）が接戦となっている",
-        "市場は財政規律を掲げるフラビオ氏を好感しており、JPモルガンはドル・レアルを「ルラ氏勝利なら5.50、フラビオ氏勝利なら4.90」と予想している",
-        "下院の全513議席と上院の3分の1も同時に改選される"
-      ],
-      "jackView": "私はレアル建ての債券や投信を持つ方は、結果が出る5日の値動きに注意してほしいと考えています。高金利通貨は政治イベントひとつで為替差損が金利収入を上回ることがあります。",
-      "sources": [
-        {
-          "title": "NHK「ブラジル大統領選挙 投票へ 現職と前大統領の息子が接戦」",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261004de54142"
-        },
-        {
-          "title": "CNBC「Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election」",
-          "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/479356/pexels-photo-479356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1200-03",
-      "time": "2026-10-04T12:00",
-      "category": "fx",
-      "title": "米10月利上げ確率は週初の約7割から2割前後に低下も、ドル円は157円79銭と円高は限定的　メキシコペソは9月に対ドルで約6%安",
-      "summary": [
-        "8月のPCEが前月比0.3%上昇と予想を下回り、9月雇用統計も2.9万人増にとどまったことで、10月FOMCでの追加利上げ確率は週初の約70%から20%前後に下がった",
-        "それでも米10年債利回りは雇用統計後に5.28%台まで戻し、ドル円の週末値は157円79銭と円高は限られた",
-        "FRBが9月に3.75〜4.00%へ利上げした一方、メキシコ中銀は6.50%で据え置いた。金利差の縮小でペソは9月に対ドルで約6%下落した",
-        "金の現物は1オンス4140ドル前後で、週間でおよそ3%下げた（外為どっとコム総研、4日5時時点）"
-      ],
-      "jackView": "私は利上げ観測が後退しても長期金利が下がらない点に注目しています。円高を見込む場合も、金利差だけでなく財政不安による米金利の上昇まで織り込んで考えてください。",
-      "sources": [
-        {
-          "title": "外為どっとコム マネ育チャンネル「弱い雇用でもドル円157円台　なぜ米10年金利は5％超？ メキシコペソ急落も整理【相場の現在地】2026/10/4」",
-          "url": "https://www.gaitame.com/media/entry/2026/10/04/060200"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1200-04",
-      "time": "2026-10-04T12:00",
-      "category": "usstock",
-      "title": "テスラの無人タクシー「サイバーキャブ」、投入1カ月でテキサス州の認可台数が45台から169台に　先行するウェイモは同州で1154台",
-      "summary": [
-        "テスラが9月3日にオースティンで商用サービスを始めた無人タクシー「サイバーキャブ」は、テキサス州の商用認可台数が2日時点で45台から169台に増えた（州自動車局の記録）",
-        "先行するウェイモはテキサス州で1154台の認可を持ち、全米で週50万回超の有料乗車をこなしている",
-        "米運輸省道路交通安全局（NHTSA）はサイバーキャブの安全基準への適合を確認する照会を出しており、テスラは9月30日だった回答期限の延長を得た",
-        "テスラ株は年初来で18%安となっている"
-      ],
-      "jackView": "私は納車台数よりも、無人タクシーの台数と規制当局の判断の方が今のテスラ株の評価を左右すると見ています。21日の決算で台数拡大の計画が示されるかに注目してください。",
-      "sources": [
-        {
-          "title": "CNBC「Tesla Cybercab under pressure to expand after rocky first month in Austin」",
-          "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/29880941/pexels-photo-29880941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1200-05",
-      "time": "2026-10-04T12:00",
-      "category": "jpstock",
-      "title": "ニトリHD、埼玉に国内最大級の家具リサイクル施設　約25億円を投じて28年度上半期に稼働、年1万トン超を回収して原材料に",
-      "summary": [
-        "ニトリホールディングスが不要家具の再資源化に乗り出し、2028年度上半期に埼玉県で国内最大規模のリサイクル施設を稼働させる",
-        "投資額は約25億円で、1万5000平方メートルの土地に再資源化施設2棟と事務所兼研究施設1棟を設ける",
-        "不要になった家具は約8割が廃棄されているとされ、年1万トン以上を回収・分解して原材料として再び使う"
-      ],
-      "jackView": "私はこの投資を環境対応だけでなく、原材料コストの安定や回収サービスによる顧客接点づくりとして見ています。稼働は28年度なので、業績への寄与は長い目で確認してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞「ニトリが国内最大級リサイクル施設　8割廃棄の家具、原材料で再活用」",
-          "url": "https://www.nikkei.com/article/DGXZQOUC299OO0Z20C26A9000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1200-06",
-      "time": "2026-10-04T12:00",
-      "category": "crypto",
-      "title": "リップル支援の新組織「XRP Asia」がシンガポールで発足、東京・ソウルにも拠点　韓国JB銀行は12月に東南アジア向け送金を開始へ",
-      "summary": [
-        "3日にソウルで開かれた「XRP Seoul 2026」で、XRPレジャー（XRPL）をアジア太平洋で広める独立組織「XRP Asia」の発足が発表された。本部はシンガポールで、リップルやXRPL財団などが支援する",
-        "開発者の研修や少額助成、初期投資、販路開拓を支援し、AIエージェント決済にも力を入れる。コミュニティ拠点はシンガポール・ソウル・東京に置く",
-        "同じイベントで韓国のJB銀行（全北銀行）は、リップルの送金サービスを使って12月第3週をめどにベトナムやフィリピン向けの個人送金を始める計画を示した",
-        "XRPは約235円で、24時間ではほぼ横ばい（4日昼）"
-      ],
-      "jackView": "私は組織の発足よりも、銀行送金のような実際の利用が始まるかを重視しています。アジア展開の話題で価格が先走ることがあるので、利用実績の数字が出るまで冷静に見てください。",
-      "sources": [
-        {
-          "title": "XRP Asia 公式サイト",
-          "url": "https://xrpasia.org/"
-        },
-        {
-          "title": "イーデイリー「全北銀行、リップルと海外送金を開始予定」",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02279606645609312&mediaCodeNo=257"
-        },
-        {
-          "title": "Bitcoin.com News「XRP Asia Launches With Ripple Backing to Accelerate XRPL Adoption」",
-          "url": "https://news.bitcoin.com/featured/xrp-asia-launches-with-ripple-backing-to-accelerate-xrpl-adoption/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8358141/pexels-photo-8358141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261004-1200-07",
-      "time": "2026-10-04T12:00",
-      "category": "crypto",
-      "title": "ビットコインは8万5000ドルが分岐点、定着なら9万ドル・割れれば8万〜8.1万ドルまで調整も　bitbankアナリストが来週を展望",
-      "summary": [
-        "bitbankの長谷川アナリストは、ビットコインが8万5000ドルを終値で保てれば次の上値目途は9万ドル、保てなければ8万ドルと一目均衡表の基準線が重なる8万〜8.1万ドルが下値目途との見方を示した",
-        "そこも割れると雲がある7万5000ドル前後まで下げる余地があるとし、日足のRSIに弱気のダイバージェンスが出ていると指摘した",
-        "来週はISM非製造業景況指数とFOMC議事要旨が控える。寄稿は米雇用統計の発表前の2日時点で書かれた",
-        "4日昼のBTCは約8万4800ドル（約1338万円）で、24時間では0.2%高"
-      ],
-      "jackView": "私は節目の価格そのものより、短期金利と長期金利のどちらが動くかに注目しています。雇用統計前に書かれた分析なので、週明けの金利の反応と合わせて確認してください。",
-      "sources": [
-        {
-          "title": "CoinPost「ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は｜bitbankアナリスト寄稿」",
-          "url": "https://coinpost.jp/?p=740798"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
