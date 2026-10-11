@@ -98,12 +98,20 @@ $(cat "$ERRFILE")"
 
   claude -p "$PROMPT" \
     --allowedTools "WebSearch" "WebFetch" "Read" "Write" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" "Bash(python3 tools/checkdraft.py:*)" "Bash(python3 tools/checkfresh.py:*)" \
-    --max-turns 40
+    --max-turns 80
   echo "claude exit: $?"
 
   if [ ! -f draft_today.json ]; then
     echo "draft_today.json が無い（試行$ATTEMPT）"
-    echo "ドラフトファイルが生成されなかった" > "$ERRFILE"
+    # 2026-10-12: 調査だけで手数を使い切り、書く前に上限へ達する失敗が10/4から続いた。
+    # やり直しでは「先に書く」ことを明示する（同じ進め方を繰り返させない）
+    cat > "$ERRFILE" <<'HINT'
+ドラフトファイルが生成されなかった。前回は調査に手数を使い切り、書き出す前に上限へ達した。
+今回は次の順で進めること:
+1. 検索・閲覧は各枠（MONEY / SIDE HUSTLE / SCAM ALERT）につき3回程度までにとどめる
+2. 3本の候補が決まった時点で、すぐ draft_today.json を書き出す
+3. 検証と手直しは書き出した後に行う
+HINT
     continue
   fi
 

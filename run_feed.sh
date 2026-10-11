@@ -60,7 +60,7 @@ rm -f feed_draft.json
 
 claude -p "$(cat FEED_PROMPT.md)" \
   --allowedTools "WebSearch" "WebFetch" "Read" "Write" "Bash(date:*)" "Bash(python3 tools/validate_feed.py:*)" \
-  --max-turns 50
+  --max-turns 80
 echo "claude exit: $?"
 
 if [ ! -f feed_draft.json ]; then

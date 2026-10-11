@@ -99,7 +99,7 @@ fi
 echo "--- AI修復フェーズ ---"
 claude -p "$(cat REPAIR_PROMPT.md)" \
   --allowedTools "Read" "Write" "WebSearch" "WebFetch" "Bash(date:*)" "Bash(python3 tools/validate.py:*)" "Bash(python3 tools/checkdraft.py:*)" "Bash(python3 tools/checkfresh.py:*)" "Bash(python3 tools/add_issue.py:*)" \
-  --max-turns 40
+  --max-turns 80
 echo "repair claude exit: $?"
 
 # ③ 修復されたドラフトを機械検証つきで追加・公開
