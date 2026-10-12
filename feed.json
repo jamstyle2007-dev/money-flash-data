@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:21",
+  "updated": "2026-10-12T18:10",
   "market": [
     {
       "symbol": "N225",
@@ -18,9 +18,9 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "158.23",
-      "change": "-0.10",
-      "changePct": "-0.06%"
+      "value": "158.44",
+      "change": "+0.04",
+      "changePct": "+0.03%"
     },
     {
       "symbol": "SPX",
@@ -38,6 +38,348 @@
     }
   ],
   "items": [
+    {
+      "id": "20261012-1800-01",
+      "time": "2026-10-12T18:00",
+      "category": "market",
+      "title": "【今週のまとめ】3連休明けの東京は半導体安の逆風の中で再開へ、大取の祝日取引で日経平均先物は6万9000円台で下げ渋り　13日は企業物価と予算委、14日に米CPI",
+      "summary": [
+        "連休前の9日は日経平均が11円19銭安の6万9030円92銭、TOPIXが13.35ポイント高の4104.81と高安まちまちで終えた。日経平均先物12月限は9日の夜間取引で日中比500円安の6万8970円で終えたが、12日の大阪取引所の祝日取引では6万9050〜6万9350円の範囲で下げ渋った。",
+        "連休中はトランプ米大統領がロシアとウクライナの「エネルギー停戦」を表明した一方、フーシ派によるリヤド空港への攻撃やイランのホルムズ海峡封鎖継続の表明が続いた。米10年債利回りは9日に5.24%と高止まりし、12日からはバンコクでIMF・世界銀行の年次総会が始まった。",
+        "12日のアジア株は韓国KOSPIが3.65%安、中国本土のCSI300が0.68%安と軟調で、欧州株は小高く始まった（ストックス600は寄り付き後0.45%高）。ドル円は夕方に158円40銭台と小動きだった。",
+        "東京市場は13日に再開し、同日8時50分に9月の国内企業物価が発表され、衆参の予算委員会も始まる。米国では13日からJPモルガンやゴールドマンなど大手銀の決算が始まり、14日21時30分（日本時間）に9月の消費者物価指数、15日にTSMC決算と8月の機械受注が控える。"
+      ],
+      "jackView": "連休中に韓国株が大きく崩れた一方、日経平均先物は6万9000円台で下げ渋ったのが私には印象的でした。13日の再開後は寄り付きの水準よりも、半導体株が韓国・台湾の流れに引きずられるかを見たいと考えています。CPIとTSMC決算を前に、持ち高を傾けすぎないよう注意してください。",
+      "sources": [
+        {
+          "title": "株価指数先物 【週間展望】―積極的な売買は手控えられ、週足の+1σと+2σとのゾーンでの推移か（株探・松井証券）",
+          "url": "https://finance.matsui.co.jp/news/626327/index"
+        },
+        {
+          "title": "Stock market today: Live updates（CNBC）",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "東京株式　9日終値（共同通信・熊本日日新聞）",
+          "url": "https://kumanichi.com/articles/2044792"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-02",
+      "time": "2026-10-12T18:00",
+      "category": "market",
+      "title": "韓国KOSPIが3.65%安の6384で引け、9月2日以来の下落率で4日続落　サムスン電子とSKハイニックスが4%超安、台湾は半導体安を金融・光通信株が補いほぼ横ばい",
+      "summary": [
+        "12日の韓国総合株価指数（KOSPI）は前営業日比241.69ポイント（3.65%）安の6384.24で終え、9月2日（3.99%安）以来の大きな下落率となった。4日続落で、10月6日からの下げ幅は619.50ポイント（8.85%）に達した。",
+        "サムスン電子が4.39%安、SKハイニックスが4.52%安と半導体2強が指数を押し下げ、新興市場のコスダックは4.83%安の849.19だった。ソウル外国為替市場ではウォン高が進み、1ドル＝1335.1ウォンと前営業日から7.7ウォンのウォン高で終えた。",
+        "台湾加権指数は一時540ポイント超下げたが、0.02%安の4万9301.96で終えた。TSMCは0.39%安だったが、CPO（光電融合）に投資する大立光電がストップ高となり、金融株指数も2.87%上昇した。",
+        "フィラデルフィア半導体株指数は8日と9日の2日間で3.77%下落しており、米オープンAIの売上高を巡る報道でAI関連への警戒が続いている。"
+      ],
+      "jackView": "韓国株はサムスン電子の過去最高益の後でも売られており、私は好決算だけでは買いが続かない局面に入っていると見ています。13日の東京では半導体関連株の寄り付きに注意してください。",
+      "sources": [
+        {
+          "title": "KOSPI plunges 3.65% despite Samsung's record earnings（The Korea Times）",
+          "url": "https://www.koreatimes.co.kr/economy/others/20261012/kospi-plunges-365-despite-samsungs-record-earnings"
+        },
+        {
+          "title": "Taiwan shares end slightly lower, while CPO, shipping stocks rally（Focus Taiwan）",
+          "url": "https://focustaiwan.tw/business/202610120017"
+        },
+        {
+          "title": "Stock market today: Live updates（CNBC）",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29241211/pexels-photo-29241211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-03",
+      "time": "2026-10-12T18:00",
+      "category": "fx",
+      "title": "ドル円は欧州時間に158円40銭台、ドル指数は1年半ぶり高値圏を維持　投機筋のドル買い越しは3週間で84億ドルから約360億ドルに急増",
+      "summary": [
+        "12日の欧州時間、ドル円は1ドル=158円40銭台で推移し、日本時間17時51分時点で158.44円、この日の値幅は158.08〜158.48円と狭かった（jp.investing.com）。東京は祝日で取引は薄い。",
+        "主要6通貨に対するドル指数は102.16とわずかに下げたが、先週付けた18カ月ぶりの高値圏にある。米商品先物取引委員会（CFTC）の集計では、投機筋のドル買い越し額は10月7日までの週に約360億ドルと、3週間前の84億ドルから急増した（ロイター）。",
+        "フランスとドイツの10年債利回り差は138bpに広がり、2012年以来の高水準に近い。CMEのFedWatchでは、10月のFOMCで金利を据え置く確率が81%と、1カ月前の51%から上昇した。",
+        "インド・ルピーは、インド中銀が石油会社のドル買いを現物市場から振り向ける措置をとり、1.1%高の1ドル=95.7ルピーに上昇した。"
+      ],
+      "jackView": "私は、投機筋のドル買いが3週間で4倍に膨らんだ点に注目しています。14日の米CPIが予想を下回ると持ち高の巻き戻しでドルが急に下がる場面もありうるので、外貨を買い増す方は時期を分けることも考えてください。",
+      "sources": [
+        {
+          "title": "Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge（Reuters/Yahoo Finance）",
+          "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-near-18-month-045141835.html"
+        },
+        {
+          "title": "USD/JPY 米ドル/円（Investing.com）",
+          "url": "https://jp.investing.com/currencies/usd-jpy"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-04",
+      "time": "2026-10-12T18:00",
+      "category": "fx",
+      "title": "IMFのゲオルギエバ専務理事、AI投資が世界の成長率を3%前後に支えていると発言　アジアの先進国は0.5〜1ポイント押し上げ、雇用の4割に影響とも警告",
+      "summary": [
+        "IMFのゲオルギエバ専務理事は12日、バンコクで始まったIMF・世界銀行の年次総会の初日の会合で、AIインフラへの強い投資が、エネルギー供給ショックの下押しにもかかわらず世界の成長率を3%前後に保っていると述べた。",
+        "AIの導入でアジアの先進国の成長率は0.5〜1ポイント、アジアの新興国は0.2〜0.8ポイント押し上げられる可能性があるとした。同日公表したアジアに関するIMFの本では、日本・中国・韓国は2050年までに生産年齢人口の25%近くを失う可能性があり、AIによる生産性向上で相殺しうるとしている。",
+        "一方でAIは時間をかけて雇用の約40%を補完・格下げ・消失させうると試算し、「ゆっくり進む津波」と表現した。同席したシンガポールのターマン大統領は、新卒者の最初の仕事への需要が減っていると指摘した。",
+        "IMFは13日に最新の世界経済見通しを公表する。7月時点の2026年の世界成長率見通しは3%だった。"
+      ],
+      "jackView": "私は、AI投資が世界景気の支えになる一方で、その恩恵が半導体などの供給国に偏る点に注目しています。13日の世界経済見通しで日本の成長率がどう修正されるかを確認してください。",
+      "sources": [
+        {
+          "title": "IMF says AI investment keeps global growth around 3%, with major Asia benefits（Reuters/Yahoo Finance）",
+          "url": "https://finance.yahoo.com/technology/ai/articles/imf-says-ai-investment-keeps-035003028.html"
+        },
+        {
+          "title": "Productivity gains from AI could help offset Asia's ageing population problem, IMF says（Reuters/Yahoo Finance）",
+          "url": "https://finance.yahoo.com/technology/ai/articles/productivity-gains-ai-could-help-082741271.html"
+        },
+        {
+          "title": "AIで最大1%成長加速　アジア経済、高齢化の影響相殺―IMFトップ（時事通信）",
+          "url": "https://www.jiji.com/jc/article?k=2026101200420&g=int"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/13651750/pexels-photo-13651750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-05",
+      "time": "2026-10-12T18:00",
+      "category": "market",
+      "title": "中国の9月新車販売は8.4%減の295万台で10カ月連続の前年割れ、国内は26%減　輸出は月間で過去最高、EUとのハイブリッド車の輸出削減合意でリチウム先物は10%安",
+      "summary": [
+        "中国自動車工業協会が12日発表した9月の新車販売台数（輸出含む）は前年同月比8.4%減の295万6000台で、前年割れは10カ月連続となった。国内販売は26%減の190万4000台で、従来型燃料車も新エネルギー車も前年を下回った一方、輸出は月間の過去最高を記録した（時事）。",
+        "乗用車市場信息連席会（CPCA）の集計では、9月の乗用車の国内販売は28.1%減の163万台、輸出は73.2%増の92万3000台だった。国内の新エネルギー車は16.7%減の108万台だった（ロイター）。",
+        "EUは先週、中国がEU向けハイブリッド車の輸出を4年で半減させうる合意に達したと発表した。12日の広州先物取引所ではリチウムの中心限月が10%安の1トン10万4740元で引けた（ブルームバーグ）。"
+      ],
+      "jackView": "私は、中国の国内需要の弱さが輸出の急増に回っている点に注目しています。安い中国車が海外市場に流れ込むと日本の自動車メーカーの海外販売にも響きうるので、決算での地域別の数字に注意してください。",
+      "sources": [
+        {
+          "title": "中国新車販売、10カ月連続減　輸出は過去最高―9月（時事通信）",
+          "url": "https://www.jiji.com/jc/article?k=2026101200368&g=int"
+        },
+        {
+          "title": "China home car sales downturn continues, exports retain momentum（Reuters/Yahoo Finance）",
+          "url": "https://finance.yahoo.com/economy/articles/china-home-car-sales-downturn-055122014.html"
+        },
+        {
+          "title": "Chinese Lithium Slumps 10% After EU Deal Slashes Hybrid Exports（Bloomberg/Yahoo Finance）",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/chinese-lithium-slumps-10-eu-073206887.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/16456838/pexels-photo-16456838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-06",
+      "time": "2026-10-12T18:00",
+      "category": "jpstock",
+      "title": "ホンダの9月の中国新車販売は前年比53%減の2万5564台、広汽ホンダは57%減・東風ホンダは49%減　新エネ車が伸びる市場でガソリン車中心の品ぞろえが苦戦",
+      "summary": [
+        "ホンダは12日、9月の中国での新車販売台数が前年同月比53%減の2万5564台だったと発表した。",
+        "合弁会社別では、広州汽車集団との広汽ホンダが57%減の1万2201台、東風汽車集団との東風ホンダが49%減の1万3363台だった。",
+        "中国市場では電気自動車など新エネルギー車の販売が伸びており、ガソリン車の品ぞろえが多いホンダは苦戦が続いている。"
+      ],
+      "jackView": "私は、ホンダの減り方が中国の国内販売全体の落ち込みの約2倍に達している点に注意しています。市場の冷え込みとホンダ固有の弱さを分けて見ると、日系他社の決算の読み方も変わると考えています。",
+      "sources": [
+        {
+          "title": "ホンダ、9月中国新車販売53%減 新エネ車シフトに苦戦（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOGM120UH0S6A011C2000000/"
+        },
+        {
+          "title": "中国新車販売、10カ月連続減 輸出は過去最高―9月（時事通信）",
+          "url": "https://www.jiji.com/jc/article?k=2026101200368&g=int"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831512/pexels-photo-5831512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-07",
+      "time": "2026-10-12T18:00",
+      "category": "usstock",
+      "title": "ブロードコムとインテルのCEO、AIブームの最大の制約は「資本」になりうると警告　計算資源の需要超過は2029〜30年まで続く可能性とも",
+      "summary": [
+        "米半導体大手ブロードコムのホック・タンCEOは12日、シンガポールで開かれたDBS主催の会議で、AI拡大の最大の制約は半導体やメモリー、電力の不足よりも資本になるかもしれないと述べた（CNBC）。",
+        "インテルのリップブー・タンCEOも、資本と資本コストが目先の課題で、長期的には投資家がAI投資の利益率を求めるようになると指摘した。",
+        "両氏ともAI向け計算資源の需要は強いとの見方で、ブロードコムのタン氏は需要が供給を上回る状態が2029年から30年まで続く可能性があり、ウエハー不足は28〜29年に和らぐとの見通しを示した。",
+        "同じ日にシンガポールで講演したマイクロソフトのジャドソン・アルソフ氏（商用事業責任者）も、AIの「誇大な期待と現実を分けたい」と述べた（ブルームバーグ）。"
+      ],
+      "jackView": "私は、金利上昇でAI投資の資金調達コストが重くなっている点に注目しています。今週から始まる決算では、設備投資の資金をどう賄うかの説明に注意してください。",
+      "sources": [
+        {
+          "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck（CNBC）",
+          "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html"
+        },
+        {
+          "title": "TikTok's Chew and Microsoft's Althoff Warn About Runaway AI Hype（Bloomberg/Yahoo Finance）",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tiktok-chew-microsoft-althoff-warn-064700816.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-08",
+      "time": "2026-10-12T18:00",
+      "category": "crypto",
+      "title": "金融安定理事会、G20への書簡でステーブルコインの国境を越えた監督・危機対応は「未成熟」と指摘　時価総額は約3000億ドルで99%がドル連動、15日の財務相会議に報告",
+      "summary": [
+        "金融安定理事会（FSB）は12日、ベイリー議長がG20財務相・中央銀行総裁に宛てた書簡と、グローバル・ステーブルコインの国境を越えた脆弱性に関する報告を公表した。G20の会議は15日に開かれる。",
+        "報告によると、2026年半ば時点のステーブルコインの時価総額は約3000億ドルで1年前からほぼ横ばい、金額ベースで99%が米ドルに連動している。発行体は保有者の所在を把握できない場合があり、取り付けが起きると準備資産の投げ売りや銀行預金の引き出しを通じて既存の金融システムに波及しうるとした。",
+        "書簡は、国境を越えた監督、危機管理、破綻時の協力の仕組みが未成熟か未整備だと指摘し、外国で発行されたステーブルコインの扱いなど各国規制の相互関係も多くの国で不明確だとした。",
+        "書簡は国債市場の変動の高まり、プライベートクレジットの脆弱性、AIを使った高度なサイバー攻撃もリスクに挙げ、金融機関のAI活用に関する実務指針の最終版をG20に提出した。"
+      ],
+      "jackView": "私は、ステーブルコインの残高が1年ほぼ横ばいでも、監督の国際連携が追いついていない点に注意が必要だと見ています。使う際は、発行体と準備資産がどの国の規制下にあるかを確認してください。",
+      "sources": [
+        {
+          "title": "FSB Chair sets out FSB work on AI and stablecoins（金融安定理事会）",
+          "url": "https://www.fsb.org/2026/10/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins/"
+        },
+        {
+          "title": "Global stablecoin arrangements: Cross-border vulnerabilities and financial stability monitoring（金融安定理事会）",
+          "url": "https://www.fsb.org/2026/10/global-stablecoin-arrangements-cross-border-vulnerabilities-and-financial-stability-monitoring/"
+        },
+        {
+          "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20（Cointelegraph）",
+          "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-09",
+      "time": "2026-10-12T18:00",
+      "category": "crypto",
+      "title": "韓国の全北銀行、国内の銀行で初めてビットコインを担保にしたウォン建て融資を実行　対象は法人の運転資金に限定、BTCは専門の保管業者が管理",
+      "summary": [
+        "JBフィナンシャルグループ傘下の全北銀行が、法人顧客を対象にビットコインを担保とするウォン建て融資を実行した。韓国の銀行で初めてと地元紙が12日に報じ、銀行側も融資の実行を認めたが、借り手企業は明かしていない。",
+        "担保のビットコインは専門の保管・管理業者が預かり、銀行は所有権や直接の管理権を持たない。返済が滞った場合は、裁判所の売却命令などの執行手続きで現金化して回収する仕組みで、10月1日施行の民事執行規則の改正で暗号資産の差し押さえ・換価の手続きが定められていた。",
+        "担保は時価総額と流動性を考慮してビットコインに限り、価格急落を想定したストレステストや複数の海外取引所の価格を使う評価体系を整えた。融資額・金利・担保掛け目は公表していない。",
+        "銀行は、銀行法の与信業務の範囲内で扱ったもので革新金融サービスの指定は受けていないと説明した。韓国では2017〜18年の政府対策以降、金融機関の暗号資産担保融資が慣行的に避けられてきた。"
+      ],
+      "jackView": "私は、銀行が暗号資産を直接持たずに担保として扱う仕組みが韓国で動き出した点に注目しています。日本で同様の融資が広がるかは規制次第なので、海外の事例として冷静に見ておきたいと考えています。",
+      "sources": [
+        {
+          "title": "전북은행, 은행권 첫 비트코인 담보 원화대출 취급（亜洲経済）",
+          "url": "https://www.ajunews.com/view/20261012135644637"
+        },
+        {
+          "title": "전북은행, 국내 은행권 최초 비트코인 담보 대출 실시（ヘラルド経済）",
+          "url": "https://biz.heraldcorp.com/article/10899293"
+        },
+        {
+          "title": "South Korean bank launches Bitcoin-backed business loans: Report（Cointelegraph）",
+          "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-10",
+      "time": "2026-10-12T18:00",
+      "category": "seido",
+      "title": "政府、防衛関連経費の「公共インフラ整備」に鉄道を加える検討と共同報道　年末の安保3文書改定で明記へ、宇宙・AIなどを含めてGDP比を算出する案も",
+      "summary": [
+        "政府は防衛力強化のための防衛関連経費を構成する「公共インフラ整備」の対象に、鉄道を加える検討に入った。複数の関係者が11日に明らかにしたと共同通信が報じた。",
+        "年末に改定する安全保障関連3文書に鉄道整備の重要性を明記する方向で、有事の部隊への物資補給や防衛装備品の輸送ルートを確保する狙いがある。現在の対象は主に空港と港湾である。",
+        "現行3文書は防衛費と関連経費を合わせてGDP比2%を目標とする。改定では宇宙利用やAI開発、エネルギー供給網など経済安保の予算を加えた「総合的な安保関係費」としてGDP比を算出する案も検討する。",
+        "米国は同盟国に防衛費をGDP比3.5%へ引き上げるよう求めており、比率の底上げを図る思惑がある。鉄道が加われば、民間需要が少ない路線の維持なども想定される。"
+      ],
+      "jackView": "私は、GDP比の目標に対して何を防衛関連に数えるかという算定の範囲が広がっている点に注目しています。年末の3文書改定で、増える予算の財源をどう手当てするのかも合わせて見ておいてください。",
+      "sources": [
+        {
+          "title": "【独自】防衛関連経費で鉄道の整備検討　有事に備え物資の輸送網確保へ（共同通信／47NEWS）",
+          "url": "https://www.47news.jp/15069394.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/795602/pexels-photo-795602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-11",
+      "time": "2026-10-12T18:00",
+      "category": "point",
+      "title": "AEON Payのコード決済で10%還元の「トクトク！イオンペイ祭」が13日から7日間　上限2000ポイントで2万円の利用が満額、WAONタッチや調剤は対象外",
+      "summary": [
+        "イオンフィナンシャルサービスは10月13日から19日まで、AEON Payのコード決済（カード払い・チャージ払い）の利用額合計の10%をWAON POINTで還元する「トクトク！イオンペイ祭」を実施する。応募は不要である。",
+        "進呈上限は2000ポイントで、2万円の利用で上限に達する。ポイントは11月25日ごろに進呈される予定である。",
+        "WAONタッチでの支払い、調剤、WAON POINTで支払った分、残高へのチャージは対象外で、イオンJMBカードやJQ SUGOCA系のカードも対象外となる。",
+        "10月6日から19日までは、AEON Payに新規登録すると1000円分の残高を即時進呈する企画も行っている。この残高は11月30日までにチャージ払いでの利用が確認できない場合、減算される。"
+      ],
+      "jackView": "私は、上限が2000ポイントと決まっているので、日用品などもともと買う予定の物を2万円分までにまとめるのが無理のない使い方だと見ています。対象外のカードや支払い方法がある点に注意してください。",
+      "sources": [
+        {
+          "title": "トクトク！イオンペイ祭（iAEON公式）",
+          "url": "https://www.aeon.com/aeonapp/campaign/202610_aeonpay/"
+        },
+        {
+          "title": "AEON Pay、10月13日から10％還元　上限2000 WAON POINT、7日間限定（ポイ探ニュース）",
+          "url": "https://news.infoseek.co.jp/article/poitan_194046/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-12",
+      "time": "2026-10-12T18:00",
+      "category": "point",
+      "title": "Amazonプライム感謝祭の先行セールが13日0時から、ポイント上乗せはエントリーが必要で上限1万ポイント　Amazon Nowは期間中の配送料と小口手数料が0円に",
+      "summary": [
+        "アマゾンジャパンのプライム会員限定セール「プライム感謝祭」は、先行セールを10月13日0時から15日まで、本番を16日0時から19日23時59分まで開く。対象商品は昨年の200万点以上から400万点以上に増えた。",
+        "ポイントアップキャンペーンはエントリーが必要で、13日から19日までに合計1万円以上買うと条件に応じてポイントが上乗せされる（上限1万ポイント、期間限定ポイント、アップル製品など一部対象外）。エントリーして1万円以上買った人は全員、最大10万ポイントの大抽選会の対象になる。",
+        "Amazonアカウントとdアカウントを初めて連携した人には、dポイント最大20%還元（上限1000ポイント）の企画もある。",
+        "30分配送のAmazon Now（東京都の一部地域）では、13日6時から19日23時30分まで、プライム会員の1200円未満の注文にかかる配送料290円と小口注文手数料220円が0円になる。"
+      ],
+      "jackView": "私は、セールは安くなったから買うより、買う予定のリストを先に作ってから参加するほうが家計にはプラスだと考えています。エントリーを忘れると上乗せ分がもらえない点に注意してください。",
+      "sources": [
+        {
+          "title": "Amazon、プライム会員限定の特別なセールイベント「プライム感謝祭」を今年も4日間開催（Amazon Press Center）",
+          "url": "https://press.aboutamazon.com/jp/2026/9/prime-appreciation-sale-2026"
+        },
+        {
+          "title": "「プライム感謝祭」でAmazon Nowの配送料と小口注文手数料が0円に（アマゾンジャパン／PR TIMES）",
+          "url": "https://prtimes.jp/main/html/rd/p/000002192.000004612.html"
+        },
+        {
+          "title": "Amazon Now、プライム感謝祭で配送料・小口注文手数料が0円（ポイ探ニュース）",
+          "url": "https://news.infoseek.co.jp/article/poitan_193850/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11412587/pexels-photo-11412587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1800-13",
+      "time": "2026-10-12T18:00",
+      "category": "scam",
+      "title": "【警戒】ヤマハ発動機、電動アシスト自転車の交流サイト「PAS Life」で約1600人分の会員情報が漏えいの可能性　委託先コミューンへの不正アクセス、なりすまし詐欺に注意",
+      "summary": [
+        "ヤマハ発動機は12日、運営する電動アシスト自転車の交流サイト「YAMAHA PAS Life」の会員約1600人分の情報が閲覧・取得された可能性があると発表した。",
+        "サイトの基盤を提供するコミューンのサーバーが不正アクセスを受けたためで、同社の会員情報への不正アクセスは10月6日19時18分頃から21時02分頃にかけて行われた。ヤマハ発動機自体のシステムへの不正アクセスは確認されていない。",
+        "漏えいの可能性がある情報は氏名、生年月日、性別、住所、メールアドレス、会員IDなどで、クレジットカード情報や決済情報は含まれない。現時点で不正利用は確認されていない。",
+        "同社は、メールアドレスを使って同社や関係者を装う詐欺行為が行われるおそれがあるとして、不審な連絡のリンクや添付ファイルを開かないよう呼びかけている。コミューンは9日、サービス全体で推計約30.7万人分の会員情報が漏えいしたと公表している。"
+      ],
+      "jackView": "私は、住所と生年月日がそろって漏れた点を重く見ています。企業名を名乗る「お詫び」や「補償手続き」のメールこそ、なりすましの入り口になりやすいので注意してください。",
+      "sources": [
+        {
+          "title": "外部委託先への不正アクセスによるお客様情報漏えいの可能性について（ヤマハ発動機）",
+          "url": "https://global.yamaha-motor.com/jp/news/2026/1012/leakage.html"
+        },
+        {
+          "title": "ヤマハ発動機、交流サイト漏えい 1600人分の氏名や住所（共同通信）",
+          "url": "https://www.47news.jp/15071532.html"
+        },
+        {
+          "title": "コミュニティサービス「Commune」に不正アクセス、推計約30万人の個人情報が漏えい（INTERNET Watch）",
+          "url": "https://internet.watch.impress.co.jp/docs/news/2147291.html"
+        }
+      ],
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261012-1200-01",
       "time": "2026-10-12T12:00",
@@ -1217,97 +1559,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/8183466/pexels-photo-8183466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261011-0610-05",
-      "time": "2026-10-11T06:10",
-      "category": "jpstock",
-      "title": "今週の決算発表後、三協立山が16%高、ローツェが15%高と東証プライムで上昇率上位　ファストリは4%安、あみやき・ネクステージは7%安",
-      "summary": [
-        "株探の集計では、10月5〜9日に決算や業績・配当修正を発表したのは154社で、内容はポジティブ79社、中立17社、ネガティブ58社だった。",
-        "決算発表前日から9日終値までの上昇率は、6〜8月期の経常損益が黒字に転じた三協立山が16.19%で首位だった。上期経常68%増のローツェが14.60%、霞ヶ関キャピタルが6.42%、吉野家HDが5.95%で続いた。",
-        "下落率はあみやきが7.35%、ネクステージが6.70%、サーラが5.82%の順で、本決算を発表したファーストリテイリングは4.01%下げた。",
-        "上期経常19%増のセブン&アイHDは1.22%高にとどまった。"
-      ],
-      "jackView": "私は好決算でも株価がほとんど動かない銘柄がある点に注目しています。発表前に期待が織り込まれていることもあるので、数字の良し悪しと株価の反応を分けて見るようにしてください。",
-      "sources": [
-        {
-          "title": "決算プラス・インパクト銘柄 【東証プライム】（株探ニュース／松井証券）",
-          "url": "https://finance.matsui.co.jp/news/626292/index"
-        },
-        {
-          "title": "決算マイナス・インパクト銘柄 【東証プライム】（株探ニュース／松井証券）",
-          "url": "https://finance.matsui.co.jp/news/626291/index"
-        },
-        {
-          "title": "今週の【決算】見どころ 全チェック！（株探ニュース／松井証券）",
-          "url": "https://finance.matsui.co.jp/news/626285/index"
-        }
-      ],
-      "jackLink": {
-        "title": "決算と株価の見方をJACKと実践",
-        "url": "https://jack-invest.com/core-member"
-      },
-      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261011-0610-06",
-      "time": "2026-10-11T06:10",
-      "category": "jpstock",
-      "title": "今週の値下がり率、インフロニアHDが新株発行で17%安、アイピーエスも公募増資で14%安　暗号資産関連株も13〜15%下落、秋田銀は13%安",
-      "summary": [
-        "株探の集計では、10月9日終値の2日終値に対する下落率で、東証プライムのインフロニア・ホールディングスが16.9%安となった。新株発行による1株利益の希薄化が嫌気された。",
-        "公募増資を実施するアイピーエスは13.7%、米国子会社の元幹部2人から訴訟を起こされたACCESSは13.5%下げた。",
-        "東証スタンダード・グロースの暗号資産関連5銘柄が13〜15%下落した。地方銀行の秋田銀行は13.1%安だった。",
-        "第3四半期累計の営業利益が6.7倍になったノートは、利益確定売りで23.9%下げた。"
-      ],
-      "jackView": "私は増資を発表した銘柄が大きく売られた点に注目しています。調達した資金で利益がどれだけ伸びるかが示されるまでは、1株あたりの価値が薄まる影響を冷静に見てください。",
-      "sources": [
-        {
-          "title": "週間ランキング【値下がり率】 (10月9日)（株探ニュース／松井証券）",
-          "url": "https://finance.matsui.co.jp/news/626278/index"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831512/pexels-photo-5831512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261011-0610-07",
-      "time": "2026-10-11T06:10",
-      "category": "crypto",
-      "title": "米国の暗号資産現物ETF、先週は3種合計で約12億5000万ドルの資金流出　イーサリアムETFは1月以来の大きさ、ソラナETFも14週ぶりに流出へ",
-      "summary": [
-        "米ザ・ブロックがソーソーバリューのデータを基に集計したところ、米国のビットコイン、イーサリアム、ソラナの現物ETFは先週（10月5〜9日）、合計で約12億5000万ドルの純流出となった。",
-        "イーサリアム現物ETFの純流出は5億4210万ドルで1月以来の大きさとなった。9月29日から9営業日連続の流出で累計6億9720万ドルに達し、週の流出の約88%はブラックロックのETHAが占めた。",
-        "ビットコイン現物ETFは6億8110万ドルの純流出で、3週連続の流入が途切れた。週の流出のうち4億8710万ドルは水曜日に集中した。",
-        "ソラナ現物ETFは2480万ドルの純流出となり、過去最長だった14週連続の流入が途切れた。2025年10月下旬の上場以来で最大の週間流出である。"
-      ],
-      "jackView": "私はビットコインだけでなくイーサリアムやソラナにも流出が広がった点に注目しています。ETFの資金の流れは短期の値動きに影響しやすいので、来週の米CPI前後の流出入に注意してください。",
-      "sources": [
-        {
-          "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run（The Block）",
-          "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261011-0610-08",
-      "time": "2026-10-11T06:10",
-      "category": "crypto",
-      "title": "ロビンフッドのブロックチェーン、1日の取引件数が9月中旬比42%減とコインデスク集計　手数料の急減に続き取引高も縮小、年末までの手数料負担策が支え",
-      "summary": [
-        "米コインデスクがgrowthepieのデータを基に集計したところ、米ロビンフッドが運営するブロックチェーン「ロビンフッドチェーン」の1日平均取引件数は10月2〜8日に620万件となり、9月10〜16日の1080万件から42%減った。",
-        "同期間のチェーン上の現物取引高は74億5000万ドルで前週の94億6000万ドルから21%減った。1日あたりのネットワーク手数料は約6万5000ドルで、9月上旬に最も多かった日の800万ドルから大きく縮小した。",
-        "ロビンフッドは9月29日、自社ウォレット経由の50セント超のスワップについて、ネットワーク手数料を12月31日まで同社が負担すると表明している。"
-      ],
-      "jackView": "私はトークン化株式などの取引基盤が手数料の負担策に支えられている点に注目しています。年末に負担策が終わった後も利用が続くかどうかに注意してください。",
-      "sources": [
-        {
-          "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%（CoinDesk）",
-          "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/14856614/pexels-photo-14856614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
