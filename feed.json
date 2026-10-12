@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:21",
+  "updated": "2026-10-12T12:21",
   "market": [
     {
       "symbol": "N225",
@@ -32,12 +32,357 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥13.21M",
-      "change": "+0.6%",
-      "changePct": "+0.6%"
+      "value": "¥13.23M",
+      "change": "+0.8%",
+      "changePct": "+0.8%"
     }
   ],
   "items": [
+    {
+      "id": "20261012-1200-01",
+      "time": "2026-10-12T12:00",
+      "category": "market",
+      "title": "韓国KOSPIが12日午前に2%超下落し6500割れ、半導体株に売り　東京は休場、大阪の祝日取引で日経平均先物は210円安の6万9260円",
+      "summary": [
+        "韓国総合株価指数（KOSPI）は12日、前営業日比0.72%安の6578.17で始まり、午前9時58分時点で2.33%安の6471.57と6500を割り込んだ。",
+        "サムスン電子は2.48%安、SKハイニックスは3.81%安、SKスクエアは4.38%安と大型株が軒並み下げた。外国人投資家は寄り付き直後に本市場で1614億ウォンを売り越した。",
+        "フーシ派によるサウジアラビアへのミサイル攻撃で中東の緊張が再燃したことや、韓国の休場中に米市場でオープンAIの売上高規模を巡る論争からAI関連株が大きく振れたことが重荷になった。",
+        "正午前後の香港ハンセン指数は0.4%高、上海総合指数は横ばい圏、台湾加権指数は小幅安だった。東京の現物市場は休場で、大阪取引所の祝日取引では日経平均先物12月限が正午ごろ6万9260円と前営業日比210円安で推移した。"
+      ],
+      "jackView": "東京が休場の日は、韓国や台湾の半導体株の動きが翌日の日本株の地合いを先取りすることがあります。私は13日の東京で半導体関連が同じように売られるかに注意して見ています。",
+      "sources": [
+        {
+          "title": "KOSPI Slips Below 6,500 as Foreign Investors Keep Selling（Seoul Economic Daily）",
+          "url": "https://en.sedaily.com/news/2026/10/12/kospi-slips-below-6500-as-foreign-investors-keep-selling"
+        },
+        {
+          "title": "Seoul shares extend losses late Monday morning on tech sell-off（The Korea Times）",
+          "url": "https://www.koreatimes.co.kr/economy/20261012/seoul-shares-open-lower-on-inflation-mideast-woes"
+        },
+        {
+          "title": "株式・最新の市場情報 日経平均先物 大取26年12月限（日本経済新聞）",
+          "url": "https://www.nikkei.com/markets/stocks/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-02",
+      "time": "2026-10-12T12:00",
+      "category": "fx",
+      "title": "ドル円は158円20銭前後で小動き、日本の為替介入への警戒で円売りが一服　ユーロは財政懸念で5週続落の1.12ドル、市場は12月の米利上げ確率を85%と織り込む",
+      "summary": [
+        "12日のアジア時間の外国為替市場で、円相場は1ドル=158円20銭前後で推移した。前週末9日のニューヨーク市場の終値は158円35〜45銭だった。",
+        "ドル指数は17カ月ぶりの高値圏の102.25にあるが、日本の為替介入への警戒から対円でのドル買いは止まっているとロイターは伝えた。",
+        "ユーロは欧州の財政赤字への懸念から5週連続で下落し、1ユーロ=1.1201ドルと軟調だった。",
+        "金利市場はFRBの10月の利上げ確率を18%、12月までの利上げ確率を85%と織り込んでいる。日欧英でも年内の利上げを見込む動きがある。"
+      ],
+      "jackView": "私は、158円台で円安が止まっているのは介入への警戒が効いているためで、流れが変わったわけではないと見ています。14日の米9月CPIで大きく動く可能性に注意してください。",
+      "sources": [
+        {
+          "title": "Shares seesaw in Asia as earnings loom, oil skids（Reuters／Yahoo Finance）",
+          "url": "https://finance.yahoo.com/markets/articles/shares-cautious-asia-earnings-loom-004235699.html"
+        },
+        {
+          "title": "米ドル/円 USD/JPY（インベスティング・ドットコム）",
+          "url": "https://jp.investing.com/currencies/usd-jpy"
+        },
+        {
+          "title": "NY円相場、反落　1ドル=158円35〜45銭　米金利の上昇が重荷（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOFL09C9J0Z01C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7368308/pexels-photo-7368308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-03",
+      "time": "2026-10-12T12:00",
+      "category": "fx",
+      "title": "原油先物が月曜のアジア時間に反落、WTIは1.9%安の90ドル台・北海ブレントは103ドル前後　「エネルギー停戦」とロシア産軽油の追加供給で需給の緩みを意識",
+      "summary": [
+        "12日のアジア時間の取引で、WTI原油先物11月物は前週末比1.9%安の1バレル90.09ドル、北海ブレント先物12月物は1.65%安の102.99ドルに下げた。",
+        "トランプ米大統領がロシアとウクライナのエネルギー施設への攻撃停止を表明したことに加え、ロシア産軽油を即時に30万トン超、11月に50万トン供給させるとした米ロの合意で、供給増の思惑が出た。ICEの軽油先物は3%下げた。",
+        "一方、ゼレンスキー氏は停戦の詳細を待っているとし、ロシア側はコメントしていない。ホルムズ海峡やオマーン沖ではタンカーへの攻撃が週末も報告された。",
+        "ゴールドマン・サックスは12月の北海ブレント予想を1バレル85ドルから90ドルに引き上げ、中東の地政学リスク分の上乗せは20ドル強と試算した。"
+      ],
+      "jackView": "私は、停戦の中身がまだ固まっていない段階の下げなので、続かない可能性もあると見ています。ガソリンや灯油の値段に響くまでには時間差がある点にも注意してください。",
+      "sources": [
+        {
+          "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies（Reuters／Yahoo Finance）",
+          "url": "https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html"
+        },
+        {
+          "title": "Oil prices today（CNBC）",
+          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-04",
+      "time": "2026-10-12T12:00",
+      "category": "fx",
+      "title": "イラン、米国が要求に応じるまでホルムズ海峡の事実上の封鎖を続けると表明　一方でアラグチ外相はサウジ外相に、フーシ派との対話開始を支援する用意を伝達",
+      "summary": [
+        "イラン最高安全保障委員会のレザイ事務局長は11日、国営プレスTVのインタビューで、米国がイランの要求に応じるまでホルムズ海峡の事実上の封鎖を続ける方針を示した。",
+        "イランは海峡開放の条件として米軍による港湾封鎖の終了や凍結資産の解除を求めたが、トランプ米大統領は拒否した。イランは米側の回答を精査中としている。",
+        "アラグチ外相は11日、サウジのファイサル外相と電話で協議し、サウジとフーシ派の対話開始を支援する用意があると伝えた。",
+        "サウジ民間航空庁は12日、リヤドの空港が11日夜に攻撃を受け1人が死亡、11人が負傷したと発表した。同空港は5日間で4回攻撃され、10日の攻撃以降は閉鎖が続いている。"
+      ],
+      "jackView": "私は、イランが海峡では強硬、サウジには対話という二つの顔を見せている点に注目しています。原油の値動きは発言一つで振れやすいので、短期の値動きを追いすぎないよう注意してください。",
+      "sources": [
+        {
+          "title": "イラン高官、米国が要求受理まで「海峡封鎖」　凍結資産の解除など条件（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOCB120530S6A011C2000000/"
+        },
+        {
+          "title": "フーシが再びサウジ空港攻撃、1人死亡　イラン「緊張緩和支援の用意」（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOCB1204G0S6A011C2000000/"
+        },
+        {
+          "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport（Al Jazeera）",
+          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/13651750/pexels-photo-13651750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-05",
+      "time": "2026-10-12T12:00",
+      "category": "fx",
+      "title": "IMF・世界銀行の年次総会が12日からバンコクで、参加登録は1万8000人　ベッセント米財務長官は欠席、13日に世界経済見通し、15日にG20財務相・中央銀行総裁会議",
+      "summary": [
+        "IMFと世界銀行の年次総会が12日からタイのバンコクで開かれる。タイでの開催は35年ぶりで、ワシントン以外での開催は3年ぶりとなる。",
+        "ゲオルギエバIMF専務理事によると、参加登録は2023年のモロッコ開催より4000人多い1万8000人。米イスラエルの対イラン戦争と、それに伴うインフレの影響が主な議題になる見通しだ。",
+        "ベッセント米財務長官は国内の公務を理由に欠席し、高官2人を派遣する。FRB議長は出席し、16日にゲオルギエバ氏との公開討論に参加する予定だ。",
+        "IMFは13日に世界経済見通しと国際金融安定性報告書を公表する。15日にはG20財務相・中央銀行総裁会議が開かれる。"
+      ],
+      "jackView": "私は、米国の財務長官が不在のG20で、金利高や円安への協調した発信が出にくくなる点に注目しています。13日の成長率見通しで原油高の影響がどう見積もられるかに注意してください。",
+      "sources": [
+        {
+          "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok（Reuters／Al Jazeera）",
+          "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok"
+        },
+        {
+          "title": "CNBC Daily Open: Will America open another front in the Middle East?（CNBC）",
+          "url": "https://www.cnbc.com/2026/10/12/tensions-middle-east-and-ukraine-wars-imf-world-bank.html"
+        },
+        {
+          "title": "米、金利急上昇に危機感　日本発の市場混乱も警戒（時事ドットコム）",
+          "url": "https://www.jiji.com/jc/article?k=2026101100224&g=int"
+        }
+      ],
+      "jackLink": {
+        "title": "世界経済の見通しをマネーラボで深掘り",
+        "url": "https://jack-money-lab.com"
+      },
+      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-06",
+      "time": "2026-10-12T12:00",
+      "category": "usstock",
+      "title": "米株価指数先物は月曜のアジア時間に小幅高、S&P500先物0.3%高・ナスダック100先物0.4%高　7〜9月期は3割増益の予想も、AI向け社債の増発で信用リスクの指標は上昇",
+      "summary": [
+        "12日のアジア時間の取引で、S&P500種株価指数の先物は0.3%高、ナスダック100先物は0.4%高で推移した。12日の米国は株式市場が通常取引、債券市場はコロンバスデーで休場となる。",
+        "S&P500種の7〜9月期はLSEGの集計で3割超の増益、ファクトセットの集計で29.6%増と、4四半期連続で25%超の伸びが見込まれる。伸びの大半はハイテク株が占める。",
+        "米投資適格社債のCDS指数は、米イスラエルによる対イラン戦争の開始以来の高水準に上昇した。豪AMPのエコノミストは、AI投資向けの社債発行が借り換えコストを押し上げると指摘した。",
+        "前週末9日のS&P500種の終値は前日比46.18ポイント（0.6%）高の7811.54で、週間では1.2%上昇した。"
+      ],
+      "jackView": "私は、増益の予想が高い分、決算では数字そのものより経営陣の先行きの見方に株価が反応しやすいと見ています。金利と原油が高いままである点にも注意してください。",
+      "sources": [
+        {
+          "title": "Shares seesaw in Asia as earnings loom, oil skids（Reuters／Yahoo Finance）",
+          "url": "https://finance.yahoo.com/markets/articles/shares-cautious-asia-earnings-loom-004235699.html"
+        },
+        {
+          "title": "Stock market today: S&P 500 futures little changed（CNBC）",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "How major US stock indexes fared Friday 10/9/2026（La Nacion）",
+          "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1092026-nid09102026/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/19691984/pexels-photo-19691984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-07",
+      "time": "2026-10-12T12:00",
+      "category": "usstock",
+      "title": "アマゾン、AI新興企業デカートの買収を交渉中と米紙報道　評価額は約70億ドル、9月にはアンソロピックが約60億ドルでの買収を見送っていた",
+      "summary": [
+        "アマゾン・ドット・コムがAI新興企業のデカートAIを約70億ドルで買収する交渉を進めていると、ウォール・ストリート・ジャーナルが報じた。",
+        "交渉が決裂しなければ買収は近くまとまる可能性があるという。",
+        "デカートは2023年にイスラエル出身の技術者3人が創業した。9月には対話AI「Claude」を手がけるアンソロピックが、約60億ドルでの買収を資産査定の後に見送っていた。"
+      ],
+      "jackView": "私は、大手IT企業がAIの人材と技術を買収で取り込む流れが続いていると見ています。報道段階で確定ではないので、決算や正式発表を待ってから判断してください。",
+      "sources": [
+        {
+          "title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports（Bloomberg／Yahoo Finance）",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-talks-buy-ai-startup-204652661.html"
+        },
+        {
+          "title": "アマゾン、AI新興デカートの買収協議　約1.1兆円（ウォール・ストリート・ジャーナル／時事ドットコム）",
+          "url": "https://www.jiji.com/jc/article?k=WP-WSJ-0003967583&g=ws"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-08",
+      "time": "2026-10-12T12:00",
+      "category": "jpstock",
+      "title": "キリン「一番搾り」、韓国のハイト真露が全州工場で生産へ　資本関係のない輸入元によるアジア初のライセンス生産、初年度は500ml缶300万本",
+      "summary": [
+        "韓国の酒類大手ハイト真露は12日、キリンと7月に技術提携の覚書を結び、「一番搾り」の缶製品を韓国南西部の全州工場で生産すると発表した。",
+        "キリンと資本関係のない輸入流通会社がアジアで一番搾りをライセンス生産するのは初めてで、キリンから製法と「キリン酵母」の供給を受ける。",
+        "初年度の生産目標は約150万リットル（500ml缶300万本）で、来年までに韓国での販売量の75%を現地生産に切り替える。日本からの輸入で約1カ月半かかっていた供給期間は1〜2週間に縮まる。",
+        "韓国での一番搾りの販売は2020年から26年の年平均で82.4%伸び、25年は過去最高だった。韓国の輸入ビール市場は18年をピークに縮小しているが、日本ビールは22年以降伸びている。"
+      ],
+      "jackView": "資本を入れずにブランドと製法を貸す形なので、キリンにとっては設備投資を抑えて海外の販売を伸ばせる仕組みです。私はライセンス収入の規模が決算で見えるかどうかに注目しています。",
+      "sources": [
+        {
+          "title": "韓国ハイト真露、キリン「一番搾り」を生産　日本ビール人気受け（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOGM020S00S6A001C2000000/"
+        },
+        {
+          "title": "하이트진로, 기린 이치방 시보리 국내 캔 생산…전주공장서 아시아 첫 라이선스 생산（NextDaily）",
+          "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253749"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2893771/pexels-photo-2893771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-09",
+      "time": "2026-10-12T12:00",
+      "category": "crypto",
+      "title": "1000倍先物の新興取引所Papertrade、開始直後に1つのウォレットが約128万ドルの利益　参照先ハイパーリキッドのETH価格を動かす取引、運営は建玉上限を厳格化",
+      "summary": [
+        "ハイパーリキッドのHyperEVM上で10日（米国時間）に取引を始めた無期限先物取引所Papertradeで、1つのウォレットが開始から数時間で約128万ドル（約2億円）の利益を上げたと米The Blockが日本時間12日朝に報じた。最大レバレッジは1000倍で、約定価格はハイパーリキッドの気配値の中間値を使う。",
+        "同ウォレットは10日18時1〜2分（米東部時間）にハイパーリキッドで約6060ETHを買い、参照価格を約0.12%押し上げた。1000倍では0.1%の値動きが証拠金全額に相当する。",
+        "同ウォレットはPapertradeに120万ドルを入金し、約248万ドルを出金した。ハイパーリキッドで払った手数料は約5万2000ドルである。",
+        "Papertradeは11日、ローンチ時の混雑に備えて建玉上限を緩く設定していたことが原因とXで説明し、上限の引き締めを始めた。流動性プールの残高は500万ドルとしているが、The Blockは同社の主張を検証できていない。"
+      ],
+      "jackView": "別の取引所の気配値を参照する高レバレッジの新興DEXは、薄い板を一瞬動かすだけで相手方のプールが削られる構造です。私は「1000倍」の宣伝より、建玉上限や価格の決め方を先に確認すべきだと見ています。",
+      "sources": [
+        {
+          "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid's ETH prices（The Block）",
+          "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239"
+        },
+        {
+          "title": "ハイパーリキッド系1000倍DEX、価格操作でトレーダーが約2億円利益か（CoinPost）",
+          "url": "https://coinpost.jp/?p=742378"
+        },
+        {
+          "title": "Papertrade公式Xの説明投稿",
+          "url": "https://x.com/papertrade_xyz/status/2109308773231911359"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-10",
+      "time": "2026-10-12T12:00",
+      "category": "crypto",
+      "title": "XRPL財団、XRPを不正に生み出せた10年来の脆弱性で「新たなXRPは生成されていない」と説明　修正は投票を経ずに適用、制度導入以来初",
+      "summary": [
+        "XRPL財団は日本時間12日朝、XRPレジャーの決済エンジンで見つかった整数の桁あふれの脆弱性についてXで経緯を説明し、悪用によるXRPの新規生成は「なかった」と答えた。総供給量は上限の1000億XRPから手数料の焼却で約999.86億XRPに減っている。",
+        "脆弱性は2015年から存在したとみられ、9月22日に外部の研究者がバグ報奨金制度を通じて報告した。悪用されれば1回の取引で総供給量を大きく上回るXRPを生成できたが、公開ネットワークで悪用された証拠は見つかっていない。",
+        "修正版のxrpld 3.4.1は9月25日に公開され、通常のバリデーター投票（アメンドメント）を経ずに各サーバーの更新時点で有効になった。投票を経ない取引処理の変更は制度導入から10年余りで初めてで、財団は今後のプロトコル変更はアメンドメントを経るとしている。"
+      ],
+      "jackView": "悪用の形跡がなかったのは安心材料ですが、投票を待たずに直した判断は分散型をうたう仕組みの運営のあり方として議論を呼びます。私は財団が掲げた形式検証やAIを使った攻撃テストが実際に進むかに注目しています。",
+      "sources": [
+        {
+          "title": "XRP不正生成の脆弱性、悪用防止で投票経ず修正　XRPL財団が説明（CoinPost）",
+          "url": "https://coinpost.jp/?p=742370"
+        },
+        {
+          "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP（The Block）",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
+        },
+        {
+          "title": "XRPL財団の説明投稿（X）",
+          "url": "https://x.com/XRPLF/status/2109387797584892359"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5980599/pexels-photo-5980599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-11",
+      "time": "2026-10-12T12:00",
+      "category": "seido",
+      "title": "防災相、千葉の大雨で浸水した住宅の再建支援は「できる限り柔軟に」と表明　知事は床上浸水が支援金の対象外になるケースの弾力運用を要望",
+      "summary": [
+        "細野豪志防災相は11日、8月の豪雨と9月の台風25号に伴う大雨で千葉県内に相次いだ住宅の浸水被害について、再建支援に「被災者に寄り添い、できる限り柔軟に対応する」と述べた。",
+        "熊谷俊人知事は会談で、全壊などの場合に支援金を出す被災者生活再建支援制度は床上浸水の住宅が対象外となるケースがあるとして弾力的な運用を求め、細野氏は「被災者の納得感と制度に乖離があるなら、どう埋めていくかが重要だ」と応じた。",
+        "内閣府の制度概要では、支援金は全壊世帯が基礎支援金100万円と住宅の建設・購入時の加算支援金200万円で最大300万円、中規模半壊は補修50万円から建設・購入100万円で、通常の半壊は解体しない限り対象外となっている。",
+        "申請には罹災証明書が必要で、期限は基礎支援金が災害発生日から13カ月以内、加算支援金が37カ月以内とされている。"
+      ],
+      "jackView": "私は、浸水被害は罹災証明書の損害判定ひとつで支援額が数百万円単位で変わる点に注目しています。判定に納得できないときは自治体に再調査を申し出られることも覚えておいてください。",
+      "sources": [
+        {
+          "title": "防災相、浸水住宅支援「柔軟に」 千葉大雨の被災箇所視察（47NEWS・共同通信）",
+          "url": "https://www.47news.jp/15068982.html"
+        },
+        {
+          "title": "千葉大雨、浸水住宅支援「できる限り柔軟に対応」 細野豪志防災相（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOUA111J30R11C26A0000000/"
+        },
+        {
+          "title": "被災者生活再建支援制度の概要（内閣府 防災情報）",
+          "url": "https://www.bousai.go.jp/taisaku/seikatsusaiken/pdf/140612gaiyou.pdf"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6963053/pexels-photo-6963053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-12",
+      "time": "2026-10-12T12:00",
+      "category": "scam",
+      "title": "【警戒】海外で詐欺の「かけ子」をさせる目的で女性を連れ去った疑い、山口組系組員ら5人を福岡県警が逮捕　借金を口実に実行役を送り込む手口",
+      "summary": [
+        "福岡県警は、ニセ電話詐欺の「かけ子」として海外の拠点に送り込む目的で女性を連れ去るなどしたとして、指定暴力団山口組系の組員の男（54）ら男女5人を所在国外移送目的略取と監禁の疑いで逮捕した。",
+        "5人は6月17日、組員の男から金を借りていた34歳の女性を福岡市中洲の飲食店の個室に監禁し、タクシーで福岡空港の国際線ターミナルまで連行した疑いがある。女性は出発前に空港で警察官に保護された。",
+        "県警は組員の男を詐欺の実行役を集める「リクルーター」とみて、女性を東南アジアの犯罪拠点に送り込もうとしたとみている。読売新聞によると、県警がリクルーターをこの容疑で摘発したのは初めて。"
+      ],
+      "jackView": "借金の返済や「海外で簡単に稼げる」という誘いは、詐欺の実行役にされる入り口になりえます。私は、お金に困ったときほど一人で決めず、家族や警察相談専用電話#9110に相談してほしいと考えています。",
+      "sources": [
+        {
+          "title": "山口系組員の男ら男女5人を逮捕　34歳女性をニセ電話詐欺のかけ子として海外に送り込む目的で連れ去った疑い（TBS NEWS DIG／RKB毎日放送）",
+          "url": "https://newsdig.tbs.co.jp/articles/-/3005420"
+        },
+        {
+          "title": "海外で「かけ子」をさせるため女性連行容疑、組員ら男女5人逮捕（読売新聞）",
+          "url": "https://www.yomiuri.co.jp/national/20261012-GYT1T00081/"
+        }
+      ],
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "image": "https://images.pexels.com/photos/35076266/pexels-photo-35076266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261012-1200-13",
+      "time": "2026-10-12T12:00",
+      "category": "scam",
+      "title": "【警戒】脆弱性の公表から攻撃被害までの期間が2024年の141日から今年は35日に短縮　生成AIで攻撃が加速か、横浜国大の調査",
+      "summary": [
+        "横浜国立大学の研究グループの調査で、ソフトウエアなどの脆弱性が公表されてから、その脆弱性を狙った攻撃が確認されるまでの期間（中央値）が急速に短くなっていることが分かった。時事通信が12日に報じた。",
+        "期間は2024年の141日から、2025年は91日、2026年は35日に縮み、2年で約4分の1になった。グループは「ハニーポット」と呼ぶ独自のおとりシステムで攻撃を観測した。",
+        "グループの教授は、生成AIの普及で攻撃プログラムの作成が効率化された可能性を指摘している。おとりシステムに届いた攻撃プログラムにも生成AIに特徴的なコードの癖が確認された。",
+        "闇市場では盗んだデータだけでなく企業ネットワークへの侵入口の情報を売買するブローカーもおり、侵入、情報窃取、恐喝の分業が攻撃の効率化につながっている可能性があるという。"
+      ],
+      "jackView": "企業の修正が攻撃に追いつかない時代は、自分の情報もいつか流出する前提で備えるのが現実的だと私は見ています。パスワードの使い回しをやめ、流出のお詫びを装う連絡にも注意してください。",
+      "sources": [
+        {
+          "title": "サイバー攻撃加速、AI影響か　「猶予」は4分の1に（時事通信）",
+          "url": "https://www.jiji.com/jc/article?k=2026101100236&g=soc"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261012-0610-01",
       "time": "2026-10-12T06:10",
