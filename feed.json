@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-19T06:22",
+  "updated": "2026-10-19T12:27",
   "market": [
     {
       "symbol": "N225",
       "name": "日経平均",
-      "value": "65,324",
-      "change": "+898",
-      "changePct": "+1.39%"
+      "value": "64,534",
+      "change": "-790",
+      "changePct": "-1.21%"
     },
     {
       "symbol": "TOPIX",
       "name": "TOPIX",
-      "value": "4,066",
-      "change": "+67",
-      "changePct": "+1.67%"
+      "value": "4,050",
+      "change": "-16",
+      "changePct": "-0.39%"
     },
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "158.07",
-      "change": "+0.07",
-      "changePct": "+0.04%"
+      "value": "157.99",
+      "change": "-0.01",
+      "changePct": "-0.01%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,390 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.78M",
-      "change": "-0.9%",
-      "changePct": "-0.9%"
+      "value": "¥13.05M",
+      "change": "+1.0%",
+      "changePct": "+1.0%"
     }
   ],
   "items": [
+    {
+      "id": "20261019-1200-01",
+      "time": "2026-10-19T12:00",
+      "category": "market",
+      "title": "日経平均、前引けは790円安の6万4534円　一時1492円安から先物買いで下げ渋り、TOPIXは0.39%安にとどまる",
+      "summary": [
+        "19日前場の日経平均は前週末比790円（1.21%）安の6万4534円。9時16分には6万3831円まで下げ、6万4000円を割り込む場面があった",
+        "16日の米国でSOX指数が3.8%安、ナスダックが2%超安。米コアウィーブの社債利回り上昇でAI投資への不安が再燃し、アドテスト・SBG・東エレクが売られた",
+        "売り一巡後は海外短期筋とみられる先物の買い戻しで下げ幅を縮小。TOPIXは15.66ポイント（0.39%）安の4050.34で、値上がり656・値下がり845",
+        "業種別は鉱業・海運・石油が上昇上位、非鉄金属・電気機器・銀行が下落上位。ニトリHDなど内需株やKDDI・ベイカレントが高く、プライム売買代金は3兆2947億円"
+      ],
+      "jackView": "私は、日経平均が1%超下げてもTOPIXは0.4%安にとどまり、値上がり銘柄も4割ある点に注目しています。下げは半導体など一部の大型株に偏っているので、指数だけでなく持ち株ごとの動きを確かめてください。",
+      "jackLink": {
+        "title": "マネーラボで相場の深掘りを読む",
+        "url": "https://jack-money-lab.com"
+      },
+      "sources": [
+        {
+          "title": "日本経済新聞 東証前引け　日経平均は反落　米半導体安が重荷　底堅さも",
+          "url": "https://www.nikkei.com/article/DGXZQOFL191MP0Z11C26A0000000/"
+        },
+        {
+          "title": "松井証券（株探） 東京株式（前引け）＝大幅反落、半導体株など売られるも先物買いで下げ渋る",
+          "url": "https://finance.matsui.co.jp/news/628550/index"
+        },
+        {
+          "title": "松井証券（株探） 本日の【業種】騰落ランキング ＝ 前引け【上昇トップ】鉱業【下落トップ】非鉄金属",
+          "url": "https://finance.matsui.co.jp/news/628533/index"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-02",
+      "time": "2026-10-19T12:00",
+      "category": "fx",
+      "title": "長期金利は株安で2.895%に低下、円は正午157円99銭と小動き　植田総裁は参院で「利上げが遅れると市場が見れば金利上昇も」",
+      "summary": [
+        "新発10年国債の利回りは11時に前週末比0.035%低い2.895%。日経平均の下落で、安全資産とされる国債に買いが入った",
+        "円相場は正午に1ドル=157円99銭と前週末比1銭の円高。中値に向けた輸入企業のドル買いで円の上値は重かった",
+        "植田総裁は19日午前の参院予算委で、基調的な物価上昇率が「足元ではかなり2%に近づいている」と改めて述べた",
+        "利上げが適切なペースで進まないと市場が見れば長期金利が上がる可能性があるとも語り、利上げを続ける姿勢と受け止められた"
+      ],
+      "jackView": "私は月末の日銀会合を前に、総裁が利上げの必要性をにじませた点に注目しています。変動金利の住宅ローンを抱えている人は、年内の追加利上げも想定して返済計画を点検しておいてください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 外為10時　円相場、伸び悩み　157円台後半　中値「ドル需要」の声",
+          "url": "https://www.nikkei.com/article/DGXZQOFL191230Z11C26A0000000/"
+        },
+        {
+          "title": "日本経済新聞 債券11時　長期金利、2.895%に低下　投資家心理悪化で買い",
+          "url": "https://www.nikkei.com/article/DGXZQOFL190860Z11C26A0000000/"
+        },
+        {
+          "title": "時事ドットコム 円相場、157円99～99銭　19日正午現在",
+          "url": "https://www.jiji.com/jc/article?k=2026101900402&g=eco"
+        },
+        {
+          "title": "Reuters（Yahoo Finance配信） BOJ chief says underlying inflation 'quite close' to price goal",
+          "url": "https://finance.yahoo.com/economy/policy/articles/boj-chief-says-underlying-inflation-010049872.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/68704/pexels-photo-68704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-03",
+      "time": "2026-10-19T12:00",
+      "category": "fx",
+      "title": "中国の7〜9月GDPは4.5%増、予想の4.4%を上回るも目標の下限どまり　9月の小売りは1.1%増、1〜9月の投資は7.2%減",
+      "summary": [
+        "中国国家統計局が19日11時（日本時間）に発表。7〜9月の実質GDPは前年同期比4.5%増で、4〜6月の4.3%から伸びが拡大した",
+        "ロイター調査の予想4.4%は上回ったが、1〜9月は4.6%増で、政府が掲げる通年目標「4.5〜5.0%」の下限近くにとどまる",
+        "9月の工業生産は5.5%増、小売売上高は1.1%増（予想0.6%増）。小売りのうち自動車は21.2%減と大きく落ち込んだ",
+        "1〜9月の固定資産投資は前年同期比7.2%減で、うち民間投資は10.4%減。9月の都市部の失業率は5.2%だった"
+      ],
+      "jackView": "私は輸出と工場が支え、消費と投資が弱いという構図が変わっていない点に注目しています。中国の追加の景気対策が出るかどうかは、日本の機械や素材の株にも響くので気にかけてください。",
+      "sources": [
+        {
+          "title": "中国国家統計局 前三季度经济运行总体平稳 高质量发展取得新成效",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html"
+        },
+        {
+          "title": "中国国家統計局 2026年1—9月份社会消费品零售总额增长1.1%",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html"
+        },
+        {
+          "title": "中国国家統計局 2026年1—9月份全国固定资产投资基本情况",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965616.html"
+        },
+        {
+          "title": "日本経済新聞 中国実質GDP、7〜9月4.5%増　政府目標の下限どまり",
+          "url": "https://www.nikkei.com/article/DGXZQOGM168OY0W6A011C2000000/"
+        },
+        {
+          "title": "CNBC China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+          "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-04",
+      "time": "2026-10-19T12:00",
+      "category": "seido",
+      "title": "高市首相、消費減税の財源で「国債発行を否定するものではない」と答弁　官房長官は「予算編成全体の話」と赤字国債に頼らない方針を維持",
+      "summary": [
+        "高市首相は19日の参院予算委で、食料品の消費税減税の財源について「国債の発行を否定するものではない」と答弁した。国民民主党の浜野喜史氏への答弁",
+        "当初と補正予算を通じた通年の国債発行額を「昨年度同様、適切にコントロールする」とし、GDP比の債務残高を下げる中で財政規模を精査するとした",
+        "消費減税と新たな給付で2年間に約10兆円の財源が要る。首相はこれまで「特例公債（赤字国債）に頼らない」と説明してきた",
+        "木原官房長官は会見で「あくまでも予算編成全体について答弁したもの」と述べ、従来の方針は変わらないとした"
+      ],
+      "jackView": "私は、財源をめぐる言い回しが揺れるたびに長期金利と円が反応しやすい局面だと見ています。20日からの衆院審議で財源の具体策が示されるかに注目してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 高市首相、減税の財源「国債発行否定せず」　予算全体で適切に管理",
+          "url": "https://www.nikkei.com/article/DGXZQOUA191NX0Z11C26A0000000/"
+        },
+        {
+          "title": "時事ドットコム 高市首相、減税財源「国債否定せず」　円の信認向上目指す―参院予算委",
+          "url": "https://www.jiji.com/jc/article?k=2026101900098&g=eco"
+        },
+        {
+          "title": "47NEWS（共同通信） 国債発行額、適切に管理　首相、消費減税財源巡り",
+          "url": "https://www.47news.jp/15103477.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31969951/pexels-photo-31969951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-05",
+      "time": "2026-10-19T12:00",
+      "category": "jpstock",
+      "title": "第一ライフの豪州子会社、豪チャレンジャーに1株11.80豪ドルで全株取得を提案　取得額は7000億円規模、第一ライフ株は前場1.4%高",
+      "summary": [
+        "豪州の年金保険大手チャレンジャーは19日（日本時間6時1分）、第一ライフ傘下の豪TALから法的拘束力のない買収提案を受けたと豪証券取引所に開示した",
+        "TALは既に約2割を持ち、残る79.5%を1株11.80豪ドルで取得して完全子会社にする案。直近1カ月の平均株価10.03豪ドルに対し17.7%上乗せした水準",
+        "日経によると取得額は7000億円規模で、実現すれば第一ライフにとって過去最大規模の海外M&A。チャレンジャー取締役会は検討中で、資産査定や当局の承認が条件",
+        "第一ライフは8時に「提案の提出は確認したが、拘束力のある取引を進める決定はしていない」と開示。株価の前引けは26円（1.41%）高の1866円"
+      ],
+      "jackView": "私は、人口減で国内の伸びが限られる生保が、海外の年金保険で稼ぐ流れの一つと見ています。まだ拘束力のない提案の段階なので、価格の上積みや破談も含めて続報と買収額の妥当性を見てください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 第一ライフ、豪州保険会社に買収提案　取得額7000億円規模",
+          "url": "https://www.nikkei.com/article/DGXZQOUB1906T0Z11C26A0000000/"
+        },
+        {
+          "title": "第一ライフグループ 一部報道について（適時開示）",
+          "url": "https://www.release.tdnet.info/inbs/140120261016552543.pdf"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-06",
+      "time": "2026-10-19T12:00",
+      "category": "jpstock",
+      "title": "情報漏えいの発表が続き、前場はテリロジHD・アズジェントなどセキュリティ株がストップ高　先週急騰のサイバーセキは11%安と明暗",
+      "summary": [
+        "19日前場はテリロジHD（20.0%高）、アズジェント（16.1%高）、セキュアヴェイル（15.8%高）、ショーケース（14.8%高）がストップ高をつけた",
+        "一方で先週買われたサイバーセキュリティクラウドは11.4%安、ゼンムテックは9.7%安、FFRIは7.2%安と、同じテーマの中で売られる銘柄も目立った",
+        "リクルートも中古車サイト「カーセンサーnet」などを不審なアクセスで停止していると日経が19日朝に報じた"
+      ],
+      "jackView": "私は、同じセキュリティ関連でも急騰の翌週に大きく下げる銘柄が出ている点に注意しています。漏えいのニュースで連想買いが集まる局面は値動きが荒いので、業績の裏付けがあるかを確かめてください。",
+      "sources": [
+        {
+          "title": "松井証券（株探） 前場のランキング【値上がり率】（10月19日）",
+          "url": "https://finance.matsui.co.jp/news/628532/index"
+        },
+        {
+          "title": "松井証券（株探） 前場のランキング【値下がり率】（10月19日）",
+          "url": "https://finance.matsui.co.jp/news/628531/index"
+        },
+        {
+          "title": "日本経済新聞 リクルートの「カーセンサーnet」、不審なアクセスでサービス停止",
+          "url": "https://www.nikkei.com/article/DGXZQOUC190QN0Z11C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831256/pexels-photo-5831256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-07",
+      "time": "2026-10-19T12:00",
+      "category": "usstock",
+      "title": "米株先物は月曜アジア時間に反発、ナスダック100先物は1%超高　今週はメタ・テスラなどS&P500の70社超が決算",
+      "summary": [
+        "日本時間19日正午ごろ、S&P500先物は前週末比0.75%高の7762、ナスダック100先物は約1.2%高、ダウ先物は約0.5%高で推移した",
+        "前週末はAI関連株が売られ、S&P500は週間で2%近く下げて6月下旬以来の大きな下落、ナスダック総合は4.5%安だった",
+        "今週はS&P500の70社超が決算を発表する。米国時間21日にはメタ、テスラ、ラムリサーチ、テキサス・インスツルメンツが予定される",
+        "米10年債利回りは5.06%台に低下。FRBは28日の政策決定を前に、発言を控える期間に入った"
+      ],
+      "jackView": "私は先物の戻りが続くかどうかは、21日のメタの設備投資の見通し次第と見ています。日本の半導体株も連動しやすいので、決算の前後は値動きが大きくなる点に注意してください。",
+      "sources": [
+        {
+          "title": "CNBC Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
+          "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Bloomberg（Yahoo Finance配信） US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ahead-220725997.html"
+        },
+        {
+          "title": "Reuters（Yahoo Finance配信） Asian stocks skid, Wall Street and bonds aided by oil slip",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-skid-wall-street-003817318.html"
+        },
+        {
+          "title": "Investing.com 米SPX500先物",
+          "url": "https://jp.investing.com/indices/us-spx-500-futures"
+        },
+        {
+          "title": "Tesla Third Quarter 2026 Production, Deliveries & Deployments（決算日程の告知）",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-2-tesla-third-quarter-2026-production-deliveries-and-deployments"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-08",
+      "time": "2026-10-19T12:00",
+      "category": "crypto",
+      "title": "ビットコイン、月曜午前に8万2700ドル台へ反発し1300万円台を回復　清算寸前と報じられた1205BTCの買い手は早朝に全量を損切り",
+      "summary": [
+        "ビットコインは19日5時台の8万0644ドルを底に切り返し、11時45分に8万2782ドルを付けた（Hyperliquidの15分足）",
+        "円建ては12時すぎに約1305万円（CoinGecko）で24時間比1.0%高と、16日夜以来の1300万円台に戻した",
+        "週末に40倍で1205BTCの買いを抱え清算価格まで1%余りと報じられたアドレスは、取引所の公開データでは19日1時17分〜6時12分に約1356BTCを全て決済",
+        "決済の平均は8万0945ドル、確定損失は約131万ドルで強制決済ではない。7時台からはテスラ株などに連動する先物で約4600万ドルの買いに転じた"
+      ],
+      "jackView": "私は、高いレバレッジだと方向が合っていても途中の下げで撤退を迫られる典型例だと見ています。借りたお金を使う売買は、退場しない大きさに抑えてください。",
+      "sources": [
+        {
+          "title": "Hyperliquid Explorer 該当アドレスの取引履歴",
+          "url": "https://app.hyperliquid.xyz/explorer/address/0x30afce2f6842bf183c7e3fe7162e279ff0b6393e"
+        },
+        {
+          "title": "Bitcoin.com News A $98 Million Bitcoin Long Bet on Hyperliquid Hangs by a Thin Thread",
+          "url": "https://news.bitcoin.com/featured/a-98-million-bitcoin-long-bet-on-hyperliquid-hangs-by-a-thin-thread/"
+        },
+        {
+          "title": "CoinGecko ビットコイン（BTC）価格",
+          "url": "https://www.coingecko.com/ja/coins/bitcoin"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/14856614/pexels-photo-14856614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-09",
+      "time": "2026-10-19T12:00",
+      "category": "crypto",
+      "title": "ビットコイン、年初来で古参の売りがETFと企業の買いを12.7万BTC上回る＝ギャラクシー　10月も約2万BTCの売り越し",
+      "summary": [
+        "ギャラクシーのリサーチ責任者が18日夜にXで、ETFと企業の買いから5年以上動いていないBTCの放出量を差し引く需給指標を公表",
+        "10月18日時点の年初来の差し引きは12万7319BTCのマイナスで、古参の保有者の放出がETFと企業の吸収を上回った",
+        "4月は企業の大口購入で約6万BTCのプラスだったが、6月はETFから約7万BTCが流出し、差し引き約10万BTCのマイナスに膨らんだ",
+        "10月はETFが純流出、企業の購入も小規模で約2万BTCのマイナス。ETFの年初来の純流入は3億5500万ドルとかろうじてプラス"
+      ],
+      "jackView": "私は、ETFや企業の買いが細ると、昔からの保有者の売りを吸収しきれない構図だと見ています。ETFの資金の出入りを週ごとに確かめてください。",
+      "sources": [
+        {
+          "title": "CoinPost ビットコイン軟調、ETF流出と企業の買い鈍化が一因＝ギャラクシー・リサーチ",
+          "url": "https://coinpost.jp/?p=743489"
+        },
+        {
+          "title": "X アレックス・ソーン氏（ギャラクシー）の投稿",
+          "url": "https://x.com/intangiblecoins/status/2111817682656124984"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-10",
+      "time": "2026-10-19T12:00",
+      "category": "seido",
+      "title": "政府、データセンターとクラウドに国の安全認証を創設へ　金融・医療の企業に認証済みサービスの利用を促し、中国・ロシア系は事実上排除",
+      "summary": [
+        "政府はデータセンター（DC）やクラウドの安全性について認証制度を創設する。総務・経済産業両省が2027年度以降に導入すると日経が報じた",
+        "金融や医療など重要な個人情報を扱う企業には国が認証したサービスを使うよう促し、中国やロシアなどの影響下にある企業を事実上排除する仕組みになる",
+        "認証の対象は、国内に立地するDC事業者と、国内にサーバーを保有するクラウドサービスの提供者とする"
+      ],
+      "jackView": "私は、情報流出が相次ぐ中で、お金を預ける金融機関がどんな基盤でデータを守っているかが今後の安心材料の一つになると見ています。制度の中身と開始時期の続報に注目してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 データセンター・クラウド、国が安全認証へ　中国系を事実上排除",
+          "url": "https://www.nikkei.com/article/DGXZQOUA171BY0X11C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/40084396/pexels-photo-40084396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-11",
+      "time": "2026-10-19T12:00",
+      "category": "point",
+      "title": "「d払い」の電話料金合算払い、18〜19歳の限度額を最大1万円→3万円に　11月1日から、自分で設定した額は自動で上がらず",
+      "summary": [
+        "NTTドコモは19日、d払いとdocomoコンテンツ決済の電話料金合算払いで、設定できる限度額の基準を11月1日に改定すると発表した",
+        "18歳以上20歳未満の上限は月最大1万円から最大3万円に上がる場合がある。18歳未満は1万円、20歳以上は10万円のままで、法人契約も1万円で変わらない",
+        "新しい上限は対象者に自動で適用され手続きは不要。ただし利用者が自分で限度額を設定している場合、その額は自動では引き上げられない",
+        "限度額は上限の範囲内で1000円単位で変更でき、My docomoかd払いアプリの設定画面で確認できる"
+      ],
+      "jackView": "18〜19歳は学生が多く、家族の回線で合算払いを使っている方もいます。上限が広がる前に、ご家族で限度額を自分で決めて設定しておくと安心だと私は思います。",
+      "sources": [
+        {
+          "title": "NTTドコモ 「d払い・docomoコンテンツ決済」電話料金合算払いの設定可能ご利用限度額改定（上限引き上げ）のお知らせ",
+          "url": "https://www.docomo.ne.jp/info/notice/page/261019_00.html"
+        },
+        {
+          "title": "ケータイWatch 「d払い」の利用限度額が11月から変更、18～19歳は最大1万円→3万円に",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2149170.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-12",
+      "time": "2026-10-19T12:00",
+      "category": "sidehustle",
+      "title": "フリーランス経験者の58.2%が「実績を証明できず」単価や契約で不利益、400人調査　仕事の記録が手元にある人は28.3%",
+      "summary": [
+        "Standellaが業務委託・フリーランス・個人事業主の経験がある全国400人に調査し、19日に結果を公表した",
+        "実績を客観的に証明できず不利益を受けた人は58.2%。内容は「単価・報酬の交渉ができなかった」21.2%、「契約の更新・継続が見送られた」19.5%など",
+        "日々の仕事の記録が自分の手元にある人は28.3%にとどまり、17.2%は取引先のシステム内にあって自分では見られないと答えた",
+        "仕事を任せる判断材料で「稼働実績のデータ」が見られていると感じる人は25.0%で、1位は「過去の取引先からの紹介・口コミ」39.2%だった"
+      ],
+      "jackView": "私は、副業でも納品物や稼働時間、取引先からの評価を自分の手元に残しておくことが、単価交渉や次の案件探しの材料になると見ています。記録を取引先任せにしないよう気をつけてください。",
+      "sources": [
+        {
+          "title": "PR TIMES（Standella） 働いた記録が「自分の手元にある」人は28.3%　業務委託・フリーランス経験者400人調査",
+          "url": "https://prtimes.jp/main/html/rd/p/000000001.000190367.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7657728/pexels-photo-7657728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-13",
+      "time": "2026-10-19T12:00",
+      "category": "scam",
+      "title": "【警戒】「ポイントの有効期限」を口実にしたフィッシング、UC・UCS・オリコのカード会社をかたる偽メール　オリコ版は件名に翌日の「10月20日」",
+      "summary": [
+        "迷惑メール相談センターは19日、UCカード・UCSカード・オリコカードをかたり「ポイント有効期限」を知らせる偽メールが送られていると注意喚起した",
+        "オリコをかたる偽メールは件名に「有効期限のお知らせ（2026年10月20日）」と入れ、UCは「永久不滅ポイントのご確認のお願い」としている",
+        "同日にはイオンカードの「特別ポイント還元キャンペーン」、東京電力の「電気料金のお支払い期限が過ぎております」をかたる偽メールも載った",
+        "19日の掲載は20件。同センターは本文のリンクを開かず、入力した場合は公式サイトで問い合わせ先を確かめるよう呼びかけている"
+      ],
+      "jackView": "私は、ポイントの期限や支払い遅れのように「今日明日で損をする」と思わせる件名ほど危ないと見ています。気になったときは、メールではなく公式アプリで残高と期限を確かめてください。",
+      "jackLink": {
+        "title": "フィッシングの見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "迷惑メール相談センター 要注意メール（2026年10月19日掲載分）",
+          "url": "https://www.dekyo.or.jp/soudan/contents/news/alert.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261019-1200-14",
+      "time": "2026-10-19T12:00",
+      "category": "scam",
+      "title": "【警戒】電子書籍「Renta!」に外部から不正アクセスの可能性、パピレスがサービスを一時停止　再開時期は未定、なりすまし連絡に注意",
+      "summary": [
+        "パピレス（東証スタンダード）は19日11時30分、電子書籍販売サイト「Renta!」のサーバーに外部から不正アクセスの可能性があると適時開示した",
+        "18日に把握してサービスを一時停止し、緊急メンテナンス中。不正アクセスの詳細は調査中で、サービス再開時期は未定としている",
+        "業績への影響額は現時点で算定できておらず、調査結果や再開時期が分かり次第、速やかに公表するとしている",
+        "19日昼の時点でサイトは臨時メンテナンスの表示で、期間中に読めなかったレンタル作品は別途対応を検討するとしている"
+      ],
+      "jackView": "私は、個人情報への影響がまだ分からない段階でも、Renta!と同じパスワードを使っている他のサービスは先に変えておくのが安全だと見ています。お詫びや返金を名乗るメールのリンクは開かないでください。",
+      "sources": [
+        {
+          "title": "パピレス 当社が運営する電子書籍販売サイト「Renta！」のサービス一時停止に関するお知らせ（TDnet）",
+          "url": "https://www.release.tdnet.info/inbs/140120261019552777.pdf"
+        },
+        {
+          "title": "Renta! 臨時メンテナンスのお知らせ（公式サイト）",
+          "url": "https://renta.papy.co.jp/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12821630/pexels-photo-12821630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261019-0610-01",
       "time": "2026-10-19T06:10",
@@ -1140,180 +1518,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-06",
-      "time": "2026-10-18T06:10",
-      "category": "usstock",
-      "title": "バークシャー株、バフェット氏のCEO退任表明以来の高値で史上最高値まで1.4%　AI株売りの中、保有するシェブロンとコカ・コーラも最高値",
-      "summary": [
-        "米バークシャー・ハザウェイのA株は16日に79万8000ドル、B株は532.02ドルで取引を終え、バフェット氏が2025年5月の株主総会でCEO退任を表明して以来の高値となった。A株の最高値80万9350ドルまでは1.4%に迫った。",
-        "株価は14日まで10営業日続伸で5%上昇した後、15日に下げ、16日は1%超上昇した。手元資金は約3600億ドルあり、短期金利の高さが運用益を押し上げているとの見方がある。",
-        "保有株ではシェブロン（約190億ドル）が原油高で7月初めから約36%上昇し、16日に最高値をつけた。コカ・コーラ（376億ドル）も最高値で、AI・ハイテク株から旧来型の大型株への資金移動が追い風になっている。"
-      ],
-      "jackView": "私はAI株が売られる局面で、潤沢な現金と老舗の大型株を持つ銘柄に資金が向かう流れに注目しています。ただ原油高に支えられた面もあり、中東情勢しだいで振れやすい点に注意してください。",
-      "sources": [
-        {
-          "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO（CNBC）",
-          "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12291688/pexels-photo-12291688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-07",
-      "time": "2026-10-18T06:10",
-      "category": "crypto",
-      "title": "暗号資産HEXの創設者をトルコで拘束と法相が公表、米国とフィンランドで10億ドル規模の詐欺の疑い　現金715万ドルとコールドウォレット6個を押収",
-      "summary": [
-        "トルコのギュルレク法相は17日、暗号資産「HEX」「パルスチェーン」の創設者リチャード・ハート氏（本名シューラー）を14日にイスタンブールで妻とともに拘束したとSNSで公表した。",
-        "法相は同氏について、米国とフィンランドで10億ドル（約1580億円）の暗号資産詐欺を行った疑いで国際刑事警察機構（ICPO）の赤手配書が出ていたと説明し、護衛役の3人も拘束したとした。",
-        "市内15カ所の捜索で現金715万ドルと16万トルコリラ、コールドウォレット6個、腕時計28本、宝飾品97点、銃7丁などを押収し、妻名義の車9台も差し押さえた。",
-        "同氏に対する米SECの提訴は2025年2月に管轄を理由に棄却されていた。HEXの価格は18日未明までの24時間で約14%下落した。"
-      ],
-      "jackView": "私は、創設者個人への依存が大きい銘柄ほど、捜査や拘束の一報で価格が崩れやすい点に注意が必要だと見ています。",
-      "sources": [
-        {
-          "title": "Bakan Gürlek, Interpol'ün kırmızı bültenle aradığı ABD'li Schueler'in yakalandığını bildirdi（アナドル通信）",
-          "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-interpolun-kirmizi-bultenle-aradigi-abdli-schuelerin-yakalandigini-bildirdi/4091693"
-        },
-        {
-          "title": "Turkey confirms Hex founder Richard Heart's arrest, says police seized $7.15 million and six cold wallets（The Block）",
-          "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-08",
-      "time": "2026-10-18T06:10",
-      "category": "crypto",
-      "title": "米ビットコインETFは今週約2.3億ドルの純流出、イーサETFも約3.2億ドル流出　金曜はブラックロックの2本が売りを主導、ビットコインは週末1288万円で横ばい",
-      "summary": [
-        "米国の現物ビットコインETFは16日（金）に8239万ドルの純流出となり、ブラックロックのIBITが7178万ドル、フィデリティのFBTCが1061万ドル流出した（ソーソーバリュー集計）。",
-        "イーサリアムETFも同日に6968万ドルの純流出で、全額がブラックロックのETHAからだった。両ETFの合計流出は1億5207万ドルとなった。",
-        "週間ではビットコインETFが約2億2860万ドル、イーサETFが約3億2000万ドルの純流出で、ビットコインETFの純資産総額は1042億9000万ドルとなった。",
-        "ビットコインは18日朝6時すぎに1288万6359円（8万1551ドル）と24時間で0.09%安、イーサは38万2244円で0.22%高と、週末は小動きが続いた。"
-      ],
-      "jackView": "私は、価格が横ばいでもETFから資金が抜け続けている点に注目しています。週明けの米ハイテク株の戻り方が、資金の向きを左右すると見ています。",
-      "sources": [
-        {
-          "title": "Bitcoin and Ether ETFs Lose $152M as Blackrock Drives Friday Selloff（Bitcoin.com News）",
-          "url": "https://news.bitcoin.com/crypto-news/bitcoin-and-ether-etfs-lose-152m-as-blackrock-drives-friday-selloff/"
-        },
-        {
-          "title": "ビットコイン価格（CoinGecko）",
-          "url": "https://www.coingecko.com/ja/coins/bitcoin"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6765369/pexels-photo-6765369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-09",
-      "time": "2026-10-18T06:10",
-      "category": "seido",
-      "title": "国民民主の玉木代表、消費減税法案の対案として住民税減税を柱とする法案を20日にも提出へ　「8%に戻す際に中間層に大幅な負担増」と政府案を批判",
-      "summary": [
-        "国民民主党の玉木雄一郎代表は17日、兵庫県川西市などで記者団に、飲食料品の消費税減税関連法案の対案として、住民税減税を柱とした法案を20日にも提出すると明らかにした。",
-        "玉木氏は「政府案では消費税率を8%に戻す際に、中間層に大幅な負担増となるのが最大の懸念だ」と指摘し、高市首相が言及した外食向けのプレミアム付き商品券は「さらに税金がかかる。極めて非効率だ」と述べた。",
-        "政府の関連法案は20日に衆院で審議入りする。27年4月から2年間、飲食料品の消費税率を引き下げる内容で、自民党は19日以降に財源の議論を始める。"
-      ],
-      "jackView": "私は、20日からの国会論戦で減税の2年後に税率が戻るときの負担をどう和らげるかが最大の争点になると見ています。住民税と消費税のどちらが手取りに効くか、案の数字で比べてください。",
-      "jackLink": {
-        "title": "消費減税の論点をマネーラボで深掘り",
-        "url": "https://jack-money-lab.com"
-      },
-      "sources": [
-        {
-          "title": "自民党、消費減税財源議論へ　国民民主は20日にも対案提出（日本経済新聞・共同）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA172DT0X11C26A0000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-10",
-      "time": "2026-10-18T06:10",
-      "category": "seido",
-      "title": "財務省、流通経路の分からない金の輸出を差し止める仕組みを27年度にも導入へ　加工後に再輸出する密輸の手口で、消費税の脱税や不正還付の損失が金高騰で膨らむ",
-      "summary": [
-        "財務省は金の密輸を減らすため税関の権限を拡大し、流通経路が不明な金の輸出を差し止める仕組みを2027年度にも導入する。",
-        "密輸した金を加工した後に再輸出する手口が横行しており、消費税の脱税や不正な還付による国庫の損失が金価格の高騰で膨らんでいる。",
-        "関税法や関連する政令の改正を検討し、有識者でつくる財務省の審議会に11月に素案を示して、年内に改正の内容をまとめる。"
-      ],
-      "jackView": "私は、金の現物を売買する個人にも購入経路の記録を求められる場面が増えると見ています。買取店や地金商の明細は必ず保管してください。",
-      "sources": [
-        {
-          "title": "金の輸出、流通経路不明なら認めず　密輸による脱税を財務省が防止（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA145WV0U6A011C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/31969951/pexels-photo-31969951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-11",
-      "time": "2026-10-18T06:10",
-      "category": "scam",
-      "title": "【警戒】ゲオ、社内システムへの不正アクセスを確認し17日21時から「ゲオオンライン」などを緊急停止　新規注文と予約受付を止め店頭対応に、ゲオを装うなりすましに注意",
-      "summary": [
-        "ゲオと親会社のセカンドリテイリング（旧ゲオホールディングス）は17日、10月15日に社内システムで第三者による不正アクセスを確認したとして、「ゲオオンライン」をはじめとする各種アプリ・Webサービスを一時停止した。",
-        "二次被害を防ぐため17日21時から緊急のシステムメンテナンスに入り、終了時期は未定。外部のセキュリティ専門機関と連携して原因と影響範囲を調べている。",
-        "ゲオオンラインストアは新規注文とキャンセルの受付を止め、宅配買取は新規申し込みのほか買取代金の振込手続きも停止した。店頭の販売・買取・レンタルは通常どおりだが、会員証としてPontaカードの提示が必要になる。個人情報流出の有無は公表されていない。"
-      ],
-      "jackView": "私は、サービス停止中に「ゲオ」を名乗る返金や本人確認のメール・SMSが出回りやすい時期だと見ています。案内は公式サイトか店頭で確かめるようにしてください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "相次ぐサイバー攻撃、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認、新規注文停止など影響広がる（Game Spark／Yahoo!ニュース）",
-          "url": "https://news.yahoo.co.jp/articles/a7d49f9720c8bff82391ae094912ee9e805bfb36"
-        },
-        {
-          "title": "相次ぐサイバー攻撃、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認（Game Spark）",
-          "url": "https://www.gamespark.jp/article/2026/10/18/173749.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-12",
-      "time": "2026-10-18T06:10",
-      "category": "scam",
-      "title": "【警戒】東北電力子会社の東北電力フロンティア、マッチングイベントの問い合わせ客ら延べ182人分の氏名・電話番号が漏えいの恐れ　サイト運営の都内企業が不正アクセス被害",
-      "summary": [
-        "東北電力子会社の東北電力フロンティア（仙台市）は17日、同社主催の男女のマッチングイベントについて問い合わせた客ら延べ182人分の氏名や電話番号などの個人情報が漏えいした可能性があると発表した。",
-        "対象は2024年以降に宮城県や山形県などで開いたイベントのホームページの問い合わせフォームに入力された情報。ホームページ運営に関わる東京都内の企業が不正アクセス被害を受けた。",
-        "不正アクセスは9月30日から10月1日にかけてあり、14日まで情報が外部から取得できる状態になっていた。"
-      ],
-      "jackView": "私は、婚活や出会いの問い合わせ情報はロマンス詐欺や投資詐欺の勧誘に悪用されやすいと見ています。身に覚えのない連絡には応じないでください。",
-      "sources": [
-        {
-          "title": "東北電子会社で漏えいか　不正アクセス約180人分（共同通信・47NEWS）",
-          "url": "https://www.47news.jp/15097668.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/18783946/pexels-photo-18783946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-0610-13",
-      "time": "2026-10-18T06:10",
-      "category": "sidehustle",
-      "title": "東証上場3899社の9割は生成AIの「おすすめ」に一度も出ず、COOD調べ　ChatGPT・Gemini・Claudeに社名を伏せて891回質問、保険業は100%",
-      "summary": [
-        "COODは東証上場の事業会社3899社を対象に、ChatGPT・Gemini・Claudeへ社名を出さずに業界のおすすめ企業を尋ねる調査を2026年2月1日から10月16日まで実施し、10月17日に公表した。",
-        "33業種×3問×3回×3AIの計891回の質問で、全体の90.1%にあたる3512社が一度も社名を挙げられなかった。業種別では保険業が100%、情報・通信業が96.6%だった。",
-        "AIにおすすめとして挙げられた企業は、挙げられなかった企業に比べてGoogleニュース上の参照記事数の中央値が約4.1倍だった。"
-      ],
-      "jackView": "私は、AIに名前を出してもらえるかは、ネット上での発信量に左右されると見ています。個人で情報発信して稼ぐ人も、検索順位だけでなく発信の量と継続に注意してください。",
-      "sources": [
-        {
-          "title": "AIを「ハッキング」してわかった不都合な真実 東証上場企業3,899社の9割が、Gemini・Claude・ChatGPTの「おすすめ」に一度も出てこない（COOD／PR TIMES）",
-          "url": "https://prtimes.jp/main/html/rd/p/000000015.000160942.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3981699/pexels-photo-3981699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
