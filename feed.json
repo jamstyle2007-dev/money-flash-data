@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:57",
+  "updated": "2026-10-20T06:23",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,342 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "158.36",
-      "change": "+0.36",
-      "changePct": "+0.23%"
+      "value": "158.49",
+      "change": "+0.49",
+      "changePct": "+0.31%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,659",
-      "change": "-85",
-      "changePct": "-1.09%"
+      "value": "7,691",
+      "change": "+31",
+      "changePct": "+0.41%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥13.06M",
-      "change": "+0.9%",
-      "changePct": "+0.9%"
+      "value": "¥12.99M",
+      "change": "+1.6%",
+      "changePct": "+1.6%"
     }
   ],
   "items": [
+    {
+      "id": "20261020-0610-01",
+      "time": "2026-10-20T06:10",
+      "category": "market",
+      "title": "米国株はナスダックが1.11%高と反発、先週急落の半導体株に買い戻し　ダウは36ドル安、下げの起点のコアウィーブは続落",
+      "summary": [
+        "19日のNY市場でナスダック総合指数は前週末比290.86ポイント（1.11%）高の2万6430.89、S&P500は31.29ポイント（0.41%）高の7690.73と反発した。ダウ平均は36.38ドル（0.07%）安の5万1966.03ドルと続落した",
+        "フィラデルフィア半導体株指数（SOX）は1.61%高。マイクロンが約3%、インテルが2%、エヌビディアが1.4%上げ、アマゾンは5%高。ゴールドマンが格上げしたコアウィーブは朝高の後に0.4%安と続落した",
+        "業種別ETFでは一般消費財が1.8%高、ITが1.4%高だった一方、公益は2.0%安、不動産は1.2%安、金融は0.8%安。ウェルズ・ファーゴやシティなど銀行株が約2%下げ、上昇は一部の業種に限られた",
+        "大阪取引所の夜間取引は20日6時に終了し、日経平均先物12月物は前日清算値比140円安の6万4840円で、現物終値（6万4916円70銭）を76円70銭下回った。TOPIX先物は21.5ポイント安の4054.5、CMEの日経平均先物は6万4825円"
+      ],
+      "jackView": "私は、ナスダックが1%上げても、下げの起点となったコアウィーブが朝高を保てなかった点を重く見ています。AIへの過剰投資の不安はまだ解けておらず、今週のメタ・テスラの決算までは半導体株の戻りに追随しすぎないよう注意してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 NYダウは続落し36ドル安、景気敏感株に売り　AI関連に押し目買い",
+          "url": "https://www.nikkei.com/article/DGXZQOFL200110Q6A021C2000000/"
+        },
+        {
+          "title": "CNBC Nasdaq climbs more than 1% as AI trade makes a comeback（Live updates）",
+          "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "松井証券（株探） 日経225先物：20日夜間取引終値＝140円安、6万4840円",
+          "url": "https://finance.matsui.co.jp/news/628770/index"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-02",
+      "time": "2026-10-20T06:10",
+      "category": "fx",
+      "title": "米10年債利回りが5.14%に上昇、インフレ懸念と原油高で長期債売り　10月の米住宅市場指数は29と14年ぶり低水準",
+      "summary": [
+        "19日のNY債券市場で10年債利回りは前週末比0.07%高い5.14%で終えた。前週の米CPI・PPIがインフレ加速を示したことや、原油高が重荷となった。",
+        "全米住宅建設業協会（NAHB）が19日発表した10月の住宅市場指数は29と前月から3ポイント低下し、2012年6月以来14年4カ月ぶりの低水準だった。住宅ローン金利の上昇やエネルギー・資材費の高騰が響いた。",
+        "円は20日朝6時に1ドル＝158円51〜54銭と前日比35銭の円安・ドル高で推移した。FRBは27〜28日にFOMCを開く。"
+      ],
+      "jackView": "私は米長期金利が5%台で高止まりしている点を見ています。日米の金利差が縮まらないうちは円が買われにくいので、27〜28日のFOMCでの発言に注意してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 NY債券、長期債続落　10年債利回り5.14%　インフレ懸念や原油高が重荷",
+          "url": "https://www.nikkei.com/article/DGXZQOFL19AIN0Z11C26A0000000/"
+        },
+        {
+          "title": "日本経済新聞 10月米住宅市場指数、14年ぶり低水準　金利高やコスト増で",
+          "url": "https://www.nikkei.com/article/DGXZQOGN19ALQ0Z11C26A0000000/"
+        },
+        {
+          "title": "共同通信 為替相場　20日（日本時間　6時）",
+          "url": "https://www.47news.jp/15107058.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/479356/pexels-photo-479356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-03",
+      "time": "2026-10-20T06:10",
+      "category": "fx",
+      "title": "NY原油は8日続伸の103.66ドルと1カ月ぶり高値　フーシ派がサウジの石油施設を攻撃、サウジは26日からの国際投資会議を27年に延期",
+      "summary": [
+        "19日のNY原油先物は8営業日続伸し、WTI11月物は前週末比2.25ドル（2.2%）高の1バレル103.66ドルで終えた。一時104.18ドルと、期近物で9月中旬以来の高値を付けた。",
+        "フーシ派は19日、リヤドとアブハの空港、紅海沿岸ヤンブーのサウジアラムコ施設、シャイバ油田などを攻撃したと主張した。",
+        "サウジは26〜29日にリヤドで開く予定だった国際投資会議「FII」を2027年に延期すると発表した。10日のリヤド空港への攻撃では12人以上が死亡している。",
+        "NY金先物12月物は0.5%安の1トロイオンス4160.1ドルと3営業日ぶりに反落した。"
+      ],
+      "jackView": "私は原油が100ドルを超えたまま定着するかを見ています。日本は原油の支払いが増えるほど円安と物価高が進みやすいので、ガソリン代や電気代への波及に注意してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 NY商品、原油続伸し1カ月ぶり高値　中東の衝突拡大への懸念　金反落",
+          "url": "https://www.nikkei.com/article/DGXZQOFL19A720Z11C26A0000000/"
+        },
+        {
+          "title": "共同通信 NY原油、1カ月ぶり高値 103ドル台、中東供給不安",
+          "url": "https://www.47news.jp/15107312.html"
+        },
+        {
+          "title": "CNBC Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+          "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-04",
+      "time": "2026-10-20T06:10",
+      "category": "usstock",
+      "title": "スチール・ダイナミクス、7〜9月期の1株利益5.26ドルは自社予想に届かず時間外で5%安　鋼材出荷は過去最高、アルミ新工場の歩留まり悪化",
+      "summary": [
+        "米鉄鋼大手スチール・ダイナミクスは19日の米市場引け後、7〜9月期の純利益が7億5600万ドル（1株5.26ドル）だったと発表した。前年同期の4億400万ドル（2.74ドル）から増えたが、9月17日に示した1株5.34〜5.38ドルの予想を下回った。",
+        "売上高は65億ドルで、鋼材の出荷は過去最高の380万トン。鋼材の平均販売価格は前期比102ドル高の1トン1400ドルだった。",
+        "アルミ圧延事業は2600万ドルの営業損失。高速運転時の品質問題で歩留まりが悪化し出荷が想定を下回ったが、原因の冷却材は変更済みと説明した。",
+        "株価は通常取引で1.9%高の245.17ドルで終えた後、時間外取引で232ドル台と約5%安で推移した。"
+      ],
+      "jackView": "私は鋼材の出荷が過去最高で利益も大きく伸びたのに、会社予想に少し届かないだけで売られる点に注目しています。期待が高い銘柄ほど決算の小さなずれで大きく動くことに注意してください。",
+      "sources": [
+        {
+          "title": "Steel Dynamics Steel Dynamics Reports Third Quarter 2026 Results",
+          "url": "https://ir.steeldynamics.com/steel-dynamics-reports-third-quarter-2026-results/"
+        },
+        {
+          "title": "Steel Dynamics Steel Dynamics Provides Third Quarter 2026 Earnings Guidance",
+          "url": "https://ir.steeldynamics.com/steel-dynamics-provides-third-quarter-2026-earnings-guidance/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/13926770/pexels-photo-13926770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-05",
+      "time": "2026-10-20T06:10",
+      "category": "usstock",
+      "title": "アップル、10月28日にロサンゼルスで新製品発表会　招待状は「Pro and tell」、アナリストはタッチ画面のMacBookを予想",
+      "summary": [
+        "アップルは19日、10月28日にロサンゼルスで新製品イベントを開くと発表し、報道関係者やアナリストに招待状を送った。文言は「Pro and tell」で、自社開発チップを積む高価格帯の「Pro」製品が中心とみられる。",
+        "メリウス・リサーチのアナリストは、タッチ画面のノートパソコンを含む新型Macが今秋に出ると予想した。先月クック氏から最高経営責任者（CEO）を引き継いだターナス氏の下で3回目の発表会となる。",
+        "直近の四半期でMacの売上高は全体の約10%。アップル株は年初から26%高で、19日は0.2%安の342.94ドルで終えた。"
+      ],
+      "jackView": "私は折りたたみのiPhone Duoに続き、Macでも高価格帯の新製品が売れるかを見ています。発表会の前後は期待で株価が動きやすいので、発表の中身と株価の反応を分けて確認してください。",
+      "sources": [
+        {
+          "title": "CNBC Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+          "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-06",
+      "time": "2026-10-20T06:10",
+      "category": "jpstock",
+      "title": "東京製鉄、11月契約の鋼材を全品種で1トン3000円値上げ　全品種の値上げは7月契約以来4カ月ぶり、エネルギーと資材のコスト増を転嫁",
+      "summary": [
+        "東京製鉄は10月19日、11月契約分の鋼材販売価格を全品種で1トン3000円（2〜3%）引き上げると発表した。",
+        "全品種の値上げは7月契約以来4カ月ぶり。10月契約はホットコイルなど鋼板類だけの値上げで、今回はH形鋼や棒鋼にも対象を広げた。値上げ後の価格はH形鋼が1トン11万9000円、熱延鋼板が11万1000円。",
+        "同社は中東情勢の長期化で原油やLNGが上がり、燃料費・電力代・諸資材の価格が上昇していると説明。データセンターや半導体工場向けの大型投資で、中長期的な鉄骨需要の高まりも見込む。"
+      ],
+      "jackView": "私は東京製鉄の価格を、鉄骨や鋼板の値上がりが建設費や設備の価格に広がるかを見る先行指標と見ています。住宅や設備の発注を控えている人は、見積もりの有効期限に注意してください。",
+      "sources": [
+        {
+          "title": "東京製鉄 販売情報（11月契約販売価格）",
+          "url": "https://www.tokyosteel.co.jp/salesprice/"
+        },
+        {
+          "title": "日本経済新聞 東京製鉄が4カ月ぶり全品種値上げ　H形鋼や鋼板、1トン3000円上げ",
+          "url": "https://www.nikkei.com/article/DGXZQOUB192ID0Z11C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831512/pexels-photo-5831512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-07",
+      "time": "2026-10-20T06:10",
+      "category": "crypto",
+      "title": "ビットコイン、火曜早朝は1299万円で24時間1.6%高　ナスダック反発、ストライブ1223BTC・ビットマイン1.25万ETH買い増し",
+      "summary": [
+        "10月20日6時12分時点でビットコインは1299万円（8万1967ドル）と24時間で1.6%高、イーサは38万0516円で2.2%高（CoinGecko）。",
+        "19日の米国市場ではナスダック総合指数が1.1%高と反発し、先週急落した半導体・AI株が戻した。",
+        "米ストライブは10月14〜16日に1223BTCを約1億ドル（平均約8万1734ドル）で買い、保有は3万6818BTC。米ビットマインは1週間で1万2535ETHを買い、保有は604万ETH（流通量の4.9%）に。"
+      ],
+      "jackView": "私は、企業の買いが続いても値動きは米ハイテク株の戻りに左右されている点に注目しています。株が崩れる日は暗号資産も一緒に下がりやすいので、買い増しの見出しだけで安心しないでください。",
+      "sources": [
+        {
+          "title": "NADA NEWS ビットコイン8.2万ドル前後、企業の買い増しと米株反発が支え",
+          "url": "https://www.nadanews.com/376629/"
+        },
+        {
+          "title": "The Block Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
+          "url": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020"
+        },
+        {
+          "title": "The Block Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+          "url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-08",
+      "time": "2026-10-20T06:10",
+      "category": "crypto",
+      "title": "マスターカード、ステーブルコイン送金の詐欺・制裁リスクを送金前に判定する銀行向け新サービス　まず北米で、世界展開は2027年",
+      "summary": [
+        "マスターカードが米ラスベガスで開催中のMoney20/20で「Stablecoin Security」を発表。資金がブロックチェーン上で動く前に出所をたどり、詐欺や制裁違反などとの関わりを調べる金融機関向けサービス。",
+        "判定結果はリスクスコアとしてAPIで銀行に渡し、既存の不正検知やコンプライアンスの仕組みに組み込める。最初の提携先はBorderless.xyzとKeyrailsの2社。",
+        "提供はまず北米で始め、世界での商用提供は2027年の見込み。同社が引用したBISの調査では、2025年にイーサリアム上で5億9300万件のステーブルコイン移転があり、約6割が多段階の複雑な取引だった。"
+      ],
+      "jackView": "私は、ステーブルコインが銀行の送金網に入るほど、送金前の審査が当たり前になると見ています。個人が使う場面でも、相手先の確認が厳しくなり送金が止められることが増える点に注意してください。",
+      "sources": [
+        {
+          "title": "The Block Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
+          "url": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6765369/pexels-photo-6765369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-09",
+      "time": "2026-10-20T06:10",
+      "category": "seido",
+      "title": "ゆうちょ銀行の通常貯金、限度額1300万円を超える利用者が100万人に　超過分9.7兆円は利子がつかず、同行は上限撤廃を国に要望",
+      "summary": [
+        "ゆうちょ銀行で普通預金にあたる通常貯金の限度額1300万円を上回る利用者が100万人に達したと日本経済新聞が10月20日に報じた。",
+        "限度額を超えた分は合計9.7兆円にのぼり、利子がつかない。",
+        "ゆうちょ銀行は上限の撤廃を国に要望しており、預金の獲得を競う民間金融機関は民業圧迫として強く反発している。"
+      ],
+      "jackView": "私は、上限撤廃の議論の行方より先に、自分の通常貯金が1300万円を超えていないかを確かめることが大事だと見ています。超えた分は利子ゼロのまま置かれている点に注意してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞 「郵便貯金」の上限、100万人が超過　撤廃要望に民間金融機関は反発",
+          "url": "https://www.nikkei.com/article/DGXZQOUA153260V11C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-10",
+      "time": "2026-10-20T06:10",
+      "category": "seido",
+      "title": "旧姓の通称使用を広げる政府の法案概要が判明、行政手続きで旧姓だけを書く「単記」を省令で可能に　マイナカードや免許証は対象外の見通し",
+      "summary": [
+        "政府が今国会への提出を検討している旧姓の通称使用拡大に関する法案の概要が判明したと共同通信が10月19日夜に報じた。関係者が19日に明らかにした。",
+        "法令で氏名を書く行政手続きについて、省令で定めれば住民票に記載した旧姓のみを記す「単記」を可能にする。戸籍関係や住民票などは適用を除外する。",
+        "マイナンバーカードや運転免許証など厳格な本人確認が必要なものは対象外となる見通し。地方自治体や民間事業者には必要な施策を講じる努力義務を盛り込む。",
+        "夫婦同姓の原則は維持したうえで、結婚で改姓した人の不便解消を図る。政府は提出に向けて最終調整を進める。"
+      ],
+      "jackView": "私は、民間事業者は努力義務にとどまる点に注目しています。銀行や証券の口座名義を旧姓で扱えるかは各社の対応次第になるので、法案が通っても個別に確認してください。",
+      "sources": [
+        {
+          "title": "共同通信 旧姓単記、省令で可能　政府検討の法案概要が判明",
+          "url": "https://www.47news.jp/15106308.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31969951/pexels-photo-31969951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-11",
+      "time": "2026-10-20T06:10",
+      "category": "sidehustle",
+      "title": "退職者に副業・業務委託を仲介するハッカズーク、フリーランス協会の年会費1万円を負担　面談・稼働見込み・50歳以下が条件、賠償補償など付く",
+      "summary": [
+        "アルムナイ（退職者）向けサービスのハッカズークが、フリーランス協会に賛助会員として加盟したと10月19日に発表した。",
+        "同社の業務委託マッチング「オフィシャル・アルムナイ・パートナーズ」の利用者を対象に、協会の「ベネフィットプラン」（賠償責任補償や各種優待）の初年度年会費1万円を同社が負担する。",
+        "条件は履歴書と職務経歴書の提出、同社との個別面談、一定の案件稼働の見込み、50歳以下など。すでに協会の会員の人は企業との「3者顔合わせ」をした場合に限り2年目以降の会費を負担する。",
+        "同サービスにはエーザイ、オリエントコーポレーション、りそなHDなどが参画し、1万人以上の大手企業の元社員に副業・業務委託案件を紹介できるとしている。"
+      ],
+      "jackView": "私は、辞めた会社から業務委託で仕事を受ける形が、副業や独立の入口として広がっていると見ています。会費負担は事前の告知なく終わることがあると書かれている点に注意してください。",
+      "sources": [
+        {
+          "title": "PR TIMES 株式会社ハッカズーク、フリーランス協会に賛助会員として加盟し、ベネフィットプランを無償提供するキャンペーンを開始",
+          "url": "https://prtimes.jp/main/html/rd/p/000000263.000030026.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-12",
+      "time": "2026-10-20T06:10",
+      "category": "sidehustle",
+      "title": "金融ITでフリーランスに任せる仕事はITコンサル・PMO・PMが上位、1001人調査　重視するスキルはAIなど先端技術とCOBOL",
+      "summary": [
+        "BREXA Technologyが、金融業界で働きITフリーランスの活用経験がある1001人を対象にした調査結果を10月19日に公表した。調査は9月7〜9日にインターネットで実施。",
+        "フリーランスを活用したポジションはITコンサルティング28.2%、PMO26.8%、プロジェクトマネジメント25.1%の順。活用の決め手は「必要な専門スキルを持つ人材を確保できた」の50.4%が最多だった。",
+        "1人あたりの参画期間は「6カ月〜1年未満」35.0%、「3〜6カ月未満」30.2%。当初の想定より長くなったのは25.9%だった。",
+        "活用時に重要な条件は「AI・クラウド・セキュリティなどの先端技術スキル」47.9%、「メインフレーム・COBOL等のレガシー技術スキル」38.6%、「金融業界での実務経験・業務知識」37.5%。"
+      ],
+      "jackView": "私は、AIなどの新しい技術と並んでCOBOLのような古い技術が求められている点に注目しています。金融システムの現場経験がある人は、その経験自体が単価の交渉材料になると見ています。",
+      "sources": [
+        {
+          "title": "PR TIMES 金融ITでのITフリーランス活用、約9割が「想定通り以上」と評価　活用前の懸念と実態を調査",
+          "url": "https://prtimes.jp/main/html/rd/p/000000145.000017540.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7657728/pexels-photo-7657728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-13",
+      "time": "2026-10-20T06:10",
+      "category": "scam",
+      "title": "【警戒】東邦HD子会社のエンタッチにランサムウェア攻撃、医療従事者の氏名や連絡先が流出　製薬企業との面談予約データも、被害件数は調査中",
+      "summary": [
+        "東邦ホールディングス（8129）は10月19日、非連結子会社エンタッチ（東京）が管理するデータベースに、ランサムウェア攻撃を行う第三者の不正アクセスがあり、情報の一部が外部に流出したと発表した。発覚は10月13日16時頃。",
+        "流出が確認されたのは、医療機関向けリモートディテーリングを利用した医療従事者の氏名・所属医療機関・所在地都道府県、予約時の電話番号とメールアドレス、予約対象の製品名・製薬企業名、面談日時など。件数と範囲は調査中。",
+        "エンタッチは警視庁サイバー犯罪対策課に相談し、個人情報保護委員会に報告した。東邦HDのグループの他システムへの影響はないとし、不審なメールへの注意を呼びかけている。"
+      ],
+      "jackView": "私は面談の予約内容まで流出した点を重く見ています。製薬会社や卸の担当者を名乗り、面談日時や製品名に触れてくる連絡が来ても、なりすましを疑い、ふだんの窓口に確認してください。",
+      "sources": [
+        {
+          "title": "TDnet 東邦ホールディングス 当社子会社における不正アクセスおよび情報漏洩に関するお知らせ",
+          "url": "https://www.release.tdnet.info/inbs/140120261019553091.pdf"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261020-0610-14",
+      "time": "2026-10-20T06:10",
+      "category": "scam",
+      "title": "【警戒】マネックス証券の「配当金のお受取確認」、国税庁の「還付金の入金完了」をかたるフィッシング　お金を受け取れると思わせる偽メールが相次ぐ",
+      "summary": [
+        "迷惑メール相談センターは10月19日、マネックス証券をかたる件名「【要確認】配当金のお受取に関するご確認のお願い｜マネックス証券」の偽メールへの注意を呼びかけた。",
+        "同日、国税庁をかたる件名「【国税庁】還付金の入金が完了しました」、イオンカードをかたる「会員様限定の特別ポイント還元キャンペーンのお知らせ」の偽メールも掲載した。",
+        "同センターはメール内のURLはフィッシングサイトへの誘導の可能性が高いとして、クリックせず無視するよう求めている。同日は「社内ネットワーク（VPN）障害の再接続手順」を装ってログインさせるビジネスメール詐欺も確認された。"
+      ],
+      "jackView": "私は「受け取れるお金がある」という知らせほど慎重に扱うべきだと考えています。配当金や還付金の確認は、メールのリンクではなく、証券会社の公式アプリやe-Taxなど自分で開いた入口から行ってください。",
+      "jackLink": {
+        "title": "偽メールの見抜き方を無料で学ぶ",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "迷惑メール相談センター 注意喚起（2026年10月19日掲載分）",
+          "url": "https://www.dekyo.or.jp/soudan/contents/news/alert.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12821630/pexels-photo-12821630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261019-2157-01",
       "time": "2026-10-19T21:57",
@@ -1252,340 +1568,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261019-0610-04",
-      "time": "2026-10-19T06:10",
-      "category": "fx",
-      "title": "ゼレンスキー大統領、米特使2人と新たな和平会合を「早ければ今週」に調整　18日はサンクトペテルブルクの石油ターミナルが無人機攻撃で火災",
-      "summary": [
-        "ウクライナのゼレンスキー大統領は18日、ブルームバーグの取材に、米特使のクシュナー氏、ウィトコフ氏とこの日協議すると明らかにした。",
-        "早ければ今週にも新たな和平会合を開く狙いで、ビデオ通話で開催地と日時を話し合うとした。日程や場所はまだ決まっていない。",
-        "18日にはウクライナの大規模な無人機攻撃で、サンクトペテルブルクの石油ターミナルや石油貯蔵施設で火災が起き、1人が死亡した。"
-      ],
-      "jackView": "私は、和平協議の進み具合がロシア産原油の制裁や原油価格を左右する点に注目しています。会合の日程が決まるかどうかで、週内の原油と円相場が振れやすいことに注意してください。",
-      "sources": [
-        {
-          "title": "Bloomberg（Yahoo Finance転載）Zelenskyy Says Speaking to Witkoff, Kushner About Peace Meeting",
-          "url": "https://finance.yahoo.com/economy/policy/articles/zelenskyy-says-speaking-witkoff-kushner-134830504.html"
-        },
-        {
-          "title": "Al Jazeera Ukrainian drone attack on Russia's St Petersburg kills 1, hits energy sites",
-          "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/4968639/pexels-photo-4968639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261019-0610-05",
-      "time": "2026-10-19T06:10",
-      "category": "crypto",
-      "title": "ビットコイン、月曜早朝に再び8万0700ドル台　Hyperliquidで40倍レバの1205BTC買いが清算価格まで1%余り",
-      "summary": [
-        "ビットコインは日曜19時半ごろの8万2100ドル台から下げ、19日5時20分ごろ8万0700ドル台に。6時は約1278万円で24時間0.9%安。",
-        "NADA NEWSは19日早朝、米株安と米国のビットコイン現物ETFからの資金流出が重荷になっていると報じた。",
-        "Bitcoin.com Newsによると、Hyperliquidで1205.3BTC（約9787万ドル）を40倍で買う口座の清算価格は7万9828ドルと推計される。",
-        "同口座の平均取得価格は8万1913ドルで、7日間の損益は約978万ドルのマイナス。数字は米東部時間18日12時25分（日本時間19日1時25分）時点。"
-      ],
-      "jackView": "私は、レバレッジが高いほど小さな値動きで資金が消える点に注意してほしいと考えています。大口の清算が重なると下げが速まることがあるので、8万ドル前後の動きを落ち着いて見てください。",
-      "sources": [
-        {
-          "title": "Bitcoin.com News A $98 Million Bitcoin Long Bet on Hyperliquid Hangs by a Thin Thread",
-          "url": "https://news.bitcoin.com/featured/a-98-million-bitcoin-long-bet-on-hyperliquid-hangs-by-a-thin-thread/"
-        },
-        {
-          "title": "NADA NEWS ビットコイン8.1万ドル前後、米株安と現物ETFの資金流出が重荷",
-          "url": "https://www.nadanews.com/373030/"
-        },
-        {
-          "title": "CoinGecko ビットコイン価格",
-          "url": "https://www.coingecko.com/ja/coins/bitcoin"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261019-0610-06",
-      "time": "2026-10-19T06:10",
-      "category": "crypto",
-      "title": "週末のビットコインは落ち着き、株の不安は月曜に和らぐ可能性とCoinDesk分析　金曜にVIXが2割超上げた32回、翌月曜は25回低下",
-      "summary": [
-        "米国の恐怖指数VIXは16日（金）に21.5%上げて19.99となり、6月5日以来の大きな上昇。S&P500は1.09%下げた。",
-        "CoinDeskの集計では、1990年以降に金曜にVIXが20%以上上げた32回のうち、翌月曜は25回で低下し、典型的な下げ幅は4.5%だった。",
-        "ビットコインの予想変動率を示すBVIVは金曜に1%下げて40%弱となり、週末もほとんど動いていない。",
-        "一方でCNBCによると、VIXが11月18日満期で23を上回る方に賭けるコールオプションの買いも入っている。"
-      ],
-      "jackView": "私は、週末も取引されるビットコインの落ち着きは月曜の株の始まりを読む手がかりの一つと見ていますが、過去7回は月曜もVIXが上がっています。過去の傾向だけで判断しないよう注意してください。",
-      "sources": [
-        {
-          "title": "CoinDesk Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-          "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8358141/pexels-photo-8358141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261019-0610-07",
-      "time": "2026-10-19T06:10",
-      "category": "seido",
-      "title": "食料品の消費税1%法案に賛成56%・反対37%、読売世論調査　社会保障の維持に「不安」58%、法案に賛成の人でも47%が不安",
-      "summary": [
-        "読売新聞社の16〜18日の全国世論調査で、食料品の消費税率を来年4月から2年間1%に下げる関連法案に「賛成」56%、「反対」37%だった。",
-        "税率を下げると社会保障制度が維持できなくなる不安を「感じる」は58%、「感じない」36%。法案に賛成の人でも47%が不安を感じると答えた。",
-        "物価高への政府の対応を「評価する」は29%、「評価しない」は61%。「責任ある積極財政」は「評価する」59%が「評価しない」29%を上回った。"
-      ],
-      "jackView": "減税に賛成しながら社会保障に不安を持つ人が半数近くいる点が、私は今回の数字の肝だと見ています。20日からの審議では、2年後に税率を戻す道筋と財源の説明がどこまで具体的に出るかに注目してください。",
-      "sources": [
-        {
-          "title": "読売新聞オンライン 食料品の消費税減税「賛成」は56%、社会保障制度維持への不安「感じる」58%…読売世論調査",
-          "url": "https://www.yomiuri.co.jp/election/yoron-chosa/20261018-GYT1T00254/"
-        },
-        {
-          "title": "読売新聞オンライン 高市首相が掲げる「責任ある積極財政」を「評価する」59%…読売世論調査",
-          "url": "https://www.yomiuri.co.jp/election/yoron-chosa/20261019-GYT1T00027/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261019-0610-08",
-      "time": "2026-10-19T06:10",
-      "category": "scam",
-      "title": "【警戒】日本サッカー協会の公式アプリ「JFA Passport」に不正アクセス、約70万人が登録　個人情報への影響は調査中で機能を一部停止",
-      "summary": [
-        "日本サッカー協会は18日、公式アプリ「JFA Passport」に第三者の不正アクセスがあり、アプリの機能の一部を一時停止したと発表した。",
-        "不正アクセスは17日3時25分ごろから19時ごろまで続いた。個人情報を含む利用者情報への影響と被害の有無は調査中で、他のシステムへの影響は確認されていない。",
-        "アプリには約70万人が登録し、選手登録やイベントの申し込み、日本代表関連の動画視聴に使われている（読売新聞）。",
-        "協会は当面、アプリのログアウト・再ログイン・再インストールを控えるよう利用者に求めている。"
-      ],
-      "jackView": "選手登録に使うアプリなので、子どもの分を保護者が入力した家庭も多いと私は見ています。協会の続報が出るまでは、協会やアプリをかたるメールやSMSのリンクを開かないように注意してください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "日本サッカー協会 JFA公式アプリ「JFA Passport」への不正アクセスについて",
-          "url": "https://www.jfa.jp/news/00036934/"
-        },
-        {
-          "title": "NHK 日本サッカー協会 公式アプリに不正アクセス“影響調査中”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261019de61320"
-        },
-        {
-          "title": "読売新聞オンライン（Yahoo!ニュース配信） 70万人登録の日本サッカー協会公式アプリに不正アクセス",
-          "url": "https://news.yahoo.co.jp/articles/e2041ffd22c86259cb2ffeccdfa880022828ae40"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12821630/pexels-photo-12821630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261019-0610-09",
-      "time": "2026-10-19T06:10",
-      "category": "scam",
-      "title": "【警戒】コミックシーモアの会員情報流出、システムのログファイルも取得されたと第3報　再開日は未定、運営会社を装うフィッシングに注意",
-      "summary": [
-        "NTTソルマーレは18日、電子書籍ストア「コミックシーモア」への不正アクセスの第3報を出し、原因を特定して被害拡大の防止措置を実施中と発表した。",
-        "流出を確認した会員情報はメールアドレス、ハッシュ化したパスワード、生年月日、性別、ニックネームで件数は精査中。一部のシステムログファイルも取得された。",
-        "クレジットカード情報は対象システムに無く、流出していない。サービスは15日から停止中で再開日時は未定、再開時は全会員にパスワードの再設定を求める。",
-        "同社は、同じメールアドレスとパスワードを他社サービスで使う人に変更を求め、同社を装う偽サイトへの誘導に注意するよう呼びかけた。"
-      ],
-      "jackView": "同じメールアドレスとパスワードを使い回している人は、ネット証券や銀行のログイン情報から先に変えてください。私は「サービス再開」や「パスワード再設定」を装うメールが出てくる時期が一番危ないと見ています。",
-      "sources": [
-        {
-          "title": "NTTソルマーレ 『コミックシーモア』会員情報の流出に関するご報告（第3報）",
-          "url": "https://www.nttsolmare.com/press/2026/1016-1.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-01",
-      "time": "2026-10-18T18:00",
-      "category": "market",
-      "title": "【来週の注目】夜間の日経平均先物は1890円安の6万3630円　21日のラムリサーチ・22日のディスコ決算で半導体株の下げ止まりを探る",
-      "summary": [
-        "日経平均の16日終値は6万5324円、TOPIXは4066だった。16日夜間取引の日経平均先物12月物は日中の清算値比1890円安の6万3630円で終え、シカゴの円建ては6万3925円だった。",
-        "19日に中国の7〜9月期GDP、20日に中国の最優遇貸出金利（LPR）が発表され、22日には韓国とトルコの中銀が金利を決める。21日で高市内閣は発足から1年を迎える。",
-        "米国は21日にラムリサーチとテキサス・インスツルメンツ、22日にウエスタンデジタルが決算を発表する（米国時間）。国内は22日にディスコ、23日にファナックと、半導体・設備投資関連の決算が週後半に集まる。",
-        "株探は来週の先物の想定レンジを6万1750〜6万6000円とし、9月14日の安値6万2530円で下げ止まるかを焦点に挙げた。11月3日の米中間選挙を前に、物色がTOPIX型の銘柄へ移る可能性も指摘した。"
-      ],
-      "jackView": "私は来週、日経平均の水準より、売られた半導体株に買い戻しが入るかを見ます。21日のラムリサーチと22日のディスコの決算は、装置需要の先行きを確かめる場です。夜間の先物は大きく下げて終えているので、週明けの寄り付きの値動きだけで判断しないよう注意してください。",
-      "sources": [
-        {
-          "title": "株探ニュース 先物週間展望（松井証券）",
-          "url": "https://finance.matsui.co.jp/news/628357/index"
-        },
-        {
-          "title": "株探ニュース 今週の【重要イベント】（松井証券）",
-          "url": "https://finance.matsui.co.jp/news/628358/index"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-02",
-      "time": "2026-10-18T18:00",
-      "category": "jpstock",
-      "title": "スバル、次世代車の開発期間を4割短縮へ　部品共用率50%・電子部品の原価5割減を目標、制御用半導体は米AMDと共同開発",
-      "summary": [
-        "スバルは18日、次世代車に採用する開発手法や車台、パワートレーンの技術を報道陣に公開し、デジタルでの設計・検証を増やして開発期間を4割短くすると説明した。",
-        "次世代EVの技術検証車では、従来2年かかっていた工程を1年に縮めた。トヨタと共同開発したEV4車種に続き、28年以降に自社開発のEVを発表する予定だ。",
-        "次世代の商品群では車種間の部品共用率を50%とし、サプライチェーン全体の総工程数と電気・電子部品の原価をそれぞれ50%減らす目標を掲げた。",
-        "運転支援のアイサイトは高速道路の全車速域でハンズオフに対応させる。制御用半導体は米AMDと共同開発して電子制御ユニットを統合し、無線でのソフト更新にも対応する。"
-      ],
-      "jackView": "私は開発期間の短縮が、新車を出す間隔やコストにどう表れるかに注目しています。目標の数字は中長期のものなので、効果は今後の決算で開発費や原価率の推移を見て確かめてください。",
-      "sources": [
-        {
-          "title": "日本経済新聞 スバル、次世代車の投入期間を4割短縮　「大部屋開発」で工程効率化",
-          "url": "https://www.nikkei.com/article/DGXZQOUC1803T0Y6A011C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/2893771/pexels-photo-2893771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-03",
-      "time": "2026-10-18T18:00",
-      "category": "usstock",
-      "title": "マイクロソフト、英Nscaleの英国AIデータセンター契約から撤退と英紙報道　電力供給は2030年代の見通し、米上場を狙うNscaleに逆風",
-      "summary": [
-        "英テレグラフ紙は18日、マイクロソフトが英Nscaleとのエセックス州ラフトンのデータセンター契約を打ち切ると伝えたと報じた。ブルームバーグも後追いした。",
-        "マイクロソフトは同施設の唯一の公表顧客で、エヌビディア製AI半導体2万3000個を借りる予定だった。送電網の電力供給は2030年代になる見通しだという。",
-        "Nscaleの受注残1030億ドルの4割超はマイクロソフト向けで、英国案件はその一部とされる。同社は最大350億ドル規模の米国上場を目指している。",
-        "Nscaleの広報は「ラフトン計画と英国への関与は変わらない。マイクロソフトとの関係は強固で、ロンドンの送電網の問題はほかの契約に影響しない」とコメントした。"
-      ],
-      "jackView": "私は、AIデータセンターでは半導体より先に電力の確保が足かせになる例として見ています。データセンター関連の銘柄は受注額だけでなく、電力をいつ確保できるかも合わせて確かめてください。",
-      "sources": [
-        {
-          "title": "The Telegraph Microsoft axes AI deal in setback for UK data centre pioneer",
-          "url": "https://www.telegraph.co.uk/business/2026/10/18/microsoft-axes-ai-deal-setback-uk-data-centre-pioneer/"
-        },
-        {
-          "title": "Yahoo Finance（The Telegraph転載） Microsoft axes AI deal in setback for UK data centre pioneer",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-axes-ai-deal-setback-053000624.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/40081298/pexels-photo-40081298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-04",
-      "time": "2026-10-18T18:00",
-      "category": "fx",
-      "title": "リヤドの空港が18日に運航再開も、ルフトハンザは11月18日まで運休　フーシ派の攻撃続き、99階建てビルは入居企業に在宅勤務を指示",
-      "summary": [
-        "サウジアラビアの首都リヤドのキング・ハリド国際空港が18日に運航を再開した。イエメンの親イラン武装組織フーシ派の攻撃で閉鎖されていた。",
-        "多くの航空会社は運休を続け、エティハド航空はリヤド便を19日まで欠航、カタール航空は再開日未定、ルフトハンザはリヤド便を11月18日まで止める。",
-        "サウジ主導の連合軍は18日未明、フーシ派が南西部ハミス・ムシャイトに撃った弾道ミサイル2発と、リヤドに向かった無人機を迎撃したと発表した。",
-        "リヤドの高層ビル「キングダムセンター」は入居企業に当面の在宅勤務を求めた（AFP）。英海事貿易機関はUAE沖でタグボートが飛翔体2発を受け1人が軽傷と発表した。"
-      ],
-      "jackView": "私は、攻撃の影響が空の便だけでなくサウジの首都のオフィスにまで広がった点に注目しています。湾岸の物流や商売が止まる期間が長引くほど原油や海運の値動きが荒くなりやすいので注意してください。",
-      "sources": [
-        {
-          "title": "The National Riyadh airport reopens: Which airlines are still cancelling flights to Saudi Arabia?",
-          "url": "https://www.thenationalnews.com/travel/2026/10/18/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/"
-        },
-        {
-          "title": "CBS News Live Updates: Office workers at Riyadh skyscraper told to stay home / Tug boat struck near Strait of Hormuz",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8183466/pexels-photo-8183466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-05",
-      "time": "2026-10-18T18:00",
-      "category": "fx",
-      "title": "対ロシア制裁法の免除、トランプ氏は「60日間かけて影響を検討」とルビオ国務長官　ロシア産原油を買う国への関税ではインドに言及",
-      "summary": [
-        "ルビオ米国務長官は17日、トランプ大統領が対ロシア制裁法の関税と制裁を免除したのは、世界と米国の経済への影響を60日間かけて分析するためだと記者団に説明した。",
-        "16日の大統領令は免除の期限を示していなかった。ルビオ氏はエネルギー価格やイラン情勢も含め「どんな組み合わせが適切か見極める時間が必要だ」と述べた。",
-        "同法はロシア産エネルギーを輸入する国からの輸入品にも関税を課す。ルビオ氏は米国の重要な協力国でロシア産原油への依存が大きいインドを例に挙げた。",
-        "トランプ氏は17日、「多くの人は私の決定をまだ知らない。いずれはっきりする」と述べ、公表していない内容があることを示唆した。"
-      ],
-      "jackView": "私は、60日の検討期間が11月3日の中間選挙の後まで続く点に注目しています。制裁が再び動けばロシア産原油の流れや原油価格が変わりうるので、期限が近づいたときの発言に注意してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞（共同） ロシア制裁法停止は60日間か　ルビオ米国務長官「影響検討」",
-          "url": "https://www.nikkei.com/article/DGXZQOCB180NR0Y6A011C2000000/"
-        },
-        {
-          "title": "The Irish Times（Reuters） Trump will take up to 60 days to weigh Russia sanctions, Rubio says",
-          "url": "https://www.irishtimes.com/world/us/2026/10/18/trump-will-take-up-to-60-days-to-weigh-russia-sanctions-rubio-says/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-06",
-      "time": "2026-10-18T18:00",
-      "category": "fx",
-      "title": "ベネズエラ暫定大統領、今後5年で石油部門に約760億ドルの投資を見込む　米国との協定は17油田が対象、西部ズリア州は日量37万バレルに回復",
-      "summary": [
-        "ベネズエラのロドリゲス暫定大統領は17日、最近結んだ協定により今後5年で石油部門に約760億ドルの投資が入る見通しだと国営テレビで述べた（ロイター）。",
-        "米国との二国間協定は17の油田が対象で、両国が署名した61の協定の一部だという。投資がいつまでに実行されるかの時期は示さなかった。",
-        "西部ズリア州の産油量は日量7万バレルから37万バレルに増え、年末には40万バレルに達する見込みとした。増加にかかった期間は明らかにしていない。",
-        "ベネズエラは1月にマドゥロ前大統領が失脚して以降、トランプ米政権の後押しで石油部門を外資に開放している。確認埋蔵量は世界最大だが生産は10年前を大きく下回る。"
-      ],
-      "jackView": "私は、中東の供給不安が続く中で西半球の増産の動きが出てきた点に注目しています。ただ760億ドルは政府の見通しで時期も示されていないので、実際の産油量の推移で確かめてください。",
-      "sources": [
-        {
-          "title": "Yahoo Finance（Reuters） Venezuela expects nearly $76 billion in oil investment over five years, acting president says",
-          "url": "https://finance.yahoo.com/energy/articles/venezuela-expects-nearly-76-billion-225220894.html"
-        },
-        {
-          "title": "Investing.com（Reuters） Venezuela expects nearly $76 billion in oil investment over five years, acting president says",
-          "url": "https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/11624771/pexels-photo-11624771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-07",
-      "time": "2026-10-18T18:00",
-      "category": "crypto",
-      "title": "休場中の米半導体株に連動する24時間先物、日曜早朝の10分間で約5200万ドルが強制決済　ビットコインも一時8万0750ドルへ",
-      "summary": [
-        "18日6時22分〜32分（日本時間）、24時間取引の半導体株連動の無期限先物で、約5160万ドルの持ち高が強制決済された（CoinGlass集計）。",
-        "うち約3800万ドルは買い持ちで、3倍型ETF「SOXL」連動が約1270万ドル、サンディスクとSKハイニックス連動が各約1080万ドルだった。",
-        "売りはバイナンスで始まり、1秒足らずでハイパーリキッド上のTrade XYZにも広がった。同社の規則では、米市場が開くまで取引所内の売買で参照価格が決まる。",
-        "同じ時間帯にビットコインは8万1600ドルから8万0750ドル、イーサは2420ドルから2360ドルへ下げ、その後は下げ幅をほぼ取り戻した。"
-      ],
-      "jackView": "私は、休場中も動く株価連動の先物は、月曜に実際の株価が付いたときに値段が大きくずれることがある点に注意してほしいと考えています。レバレッジを掛けた週末の取引は強制決済に巻き込まれやすいです。",
-      "sources": [
-        {
-          "title": "CoinDesk Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-          "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
-        },
-        {
-          "title": "CryptoPotato BTC, ETH, AI Stock Perpetuals Suddenly Dump as ‘Black Monday’ Fears Surge",
-          "url": "https://cryptopotato.com/btc-eth-ai-stock-perpetuals-suddenly-dump-as-black-monday-fears-surge/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261018-1800-08",
-      "time": "2026-10-18T18:00",
-      "category": "crypto",
-      "title": "2013年から動いていなかったビットコイン計416.69BTC（約54億円）が移動、2つのアドレスが同じブロックで送金　売却の形跡はまだなし",
-      "summary": [
-        "18日2時52分（日本時間）生成のブロック971894で、2013年に作られた2つのアドレスから計416.69BTC（約3400万ドル）が動いた。",
-        "1つは2013年11月12日作成のアドレスの248.853BTC、もう1つは同年8月20日作成の167.84BTCで、複数の不明なアドレスへ送られた。",
-        "10月に動いた長期休眠のビットコインは計774.17BTCで、今回分がその大半を占める。8月・9月に比べると休眠コインの動きは鈍っている。",
-        "ビットコイン・ドットコムは、ほぼ同時の送金で連携した動きとみられる一方、売却を示す証拠は見つかっていないとしている。"
-      ],
-      "jackView": "私は、古いコインが動いたという話だけで売りが来ると決めつけないほうがよいと考えています。送金先が取引所の入金用アドレスかどうかが、売りにつながるかを見る目安になります。",
-      "sources": [
-        {
-          "title": "Bitcoin.com News Bitcoin’s Old Guard Stirs as 13-Year-Old Wallets Move Millions",
-          "url": "https://news.bitcoin.com/crypto-news/bitcoins-old-guard-stirs-as-13-year-old-wallets-move-millions/"
-        },
-        {
-          "title": "mempool.space Block 971894",
-          "url": "https://mempool.space/block/000000000000000000008bf86719e6e8d787980a3d3a48f65cdf9ad3f8c5436c"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
