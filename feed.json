@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T06:15",
+  "updated": "2026-11-03T12:06",
   "market": [
     {
       "symbol": "N225",
@@ -18,9 +18,9 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "157.91",
-      "change": "+0.38",
-      "changePct": "+0.24%"
+      "value": "157.90",
+      "change": "-0.04",
+      "changePct": "-0.03%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,256 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.13M",
-      "change": "-1.1%",
-      "changePct": "-1.1%"
+      "value": "¥12.10M",
+      "change": "-2.2%",
+      "changePct": "-2.2%"
     }
   ],
   "items": [
+    {
+      "id": "20261103-1206-01",
+      "time": "2026-11-03T12:06",
+      "category": "market",
+      "title": "米軍がイランのケシム島を攻撃とWSJ報道、ホルムズ海峡での商船攻撃を防ぐ狙い　トランプ氏は大規模攻撃の再開「急がず」",
+      "summary": [
+        "米紙WSJは2日、米軍がホルムズ海峡に近いイランのケシム島を同日攻撃したと報じた。数週間前から小規模な攻撃を続けていたという。",
+        "米当局者は、イランによる商船攻撃を防ぐのが狙いと説明。大規模攻撃の再開と受け取られないよう秘密裏に実施していたとしている。",
+        "トランプ大統領はアクシオスに大規模攻撃再開の決断は「急いでいない」と語り、中間選挙後の攻撃を検討しているかとの問いには「ノー」と答えた。"
+      ],
+      "jackView": "私は、交渉を見守る姿勢と小規模な攻撃が同時に進んでいる点に注目しています。原油は交渉への期待で大きく下げたばかりなので、ホルムズ海峡の続報で急に戻る動きに注意してください。",
+      "sources": [
+        {
+          "title": "米軍がイラン・ケシム島攻撃　トランプ氏、大規模作戦再開「急がず」―報道（時事ドットコム）",
+          "url": "https://www.jiji.com/jc/article?k=2026110300278&g=int"
+        },
+        {
+          "title": "トランプ氏、中間選挙直後のイラン再攻撃は否定　バンス氏も交渉明言（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOGN030150T01C26A1000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-02",
+      "time": "2026-11-03T12:06",
+      "category": "market",
+      "title": "アジア株は韓国が2.96%安、台湾1.21%安・上海0.92%安　香港は0.39%高、シカゴの日経先物は6万2935円",
+      "summary": [
+        "3日午前のアジア市場で、韓国総合株価指数は173ポイント（2.96%）安の5685と大きく下げた（11時44分）。",
+        "台湾加権指数は1.21%安の4万4377、上海総合指数は0.92%安の3604。香港ハンセン指数は0.39%高の2万3483。",
+        "米株先物はS&P500が横ばい、ナスダック100が0.37%高。シカゴの日経平均先物12月物は6万2935円（11時54分）。",
+        "米国は3日に中間選挙の投票で、開票は日本時間4日朝から。予測市場では民主党が上院を奪う確率が約75%（CNBC）。"
+      ],
+      "jackView": "私は韓国・台湾の大きな下げが、あすの東京の寄り付きにどう響くかを見ています。中間選挙の開票は4日朝からで、値動きが荒くなりやすい点に注意してください。",
+      "sources": [
+        {
+          "title": "CNBC KOSPI Index",
+          "url": "https://www.cnbc.com/quotes/.KS11"
+        },
+        {
+          "title": "CNBC Nikkei Futures CME",
+          "url": "https://www.cnbc.com/quotes/@NK.1"
+        },
+        {
+          "title": "CNBC Stock market today live updates",
+          "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-03",
+      "time": "2026-11-03T12:06",
+      "category": "jpstock",
+      "title": "SBIHDとフジ・メディアHDが資本業務提携　2027年1月に折半出資で合弁会社、秋元康氏主導の新プロジェクトも",
+      "summary": [
+        "SBIホールディングスとフジ・メディア・ホールディングスは2日、メディア・コンテンツ領域での資本業務提携契約を結んだと発表した。",
+        "2027年1月に折半出資で合弁会社を設立し、ライブやイベントなどの「リアルメディア」領域を中核に複数事業を検討する。",
+        "北尾吉孝社長は会見で「まずはIP創出支援モデルを構築したい」と述べた。秋元康氏主導の新プロジェクトで人材を発掘する。"
+      ],
+      "jackView": "私は、出資比率や業績への影響の数字がまだ示されていない点に注意しています。話題性で株価が動きやすい組み合わせなので、続く開示で中身を確かめてから判断してください。",
+      "sources": [
+        {
+          "title": "ＳＢＩとフジが資本業務提携　メディア事業で合弁会社（時事ドットコム）",
+          "url": "https://www.jiji.com/jc/article?k=2026110200915&g=eco"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-04",
+      "time": "2026-11-03T12:06",
+      "category": "jpstock",
+      "title": "野村アセット、議決権行使の基準を厳しく　現金が多い企業はROE10%未満で取締役選任に反対、27年11月から",
+      "summary": [
+        "野村アセットマネジメントは2日、議決権行使基準の改定を発表した。現金が多い企業へのROE基準を8%から10%に上げる。",
+        "それ以外の企業の基準も5%から6%に上げ、将来は8%への引き上げも視野に入れる。直近3期連続で基準を下回ると経営トップの再任に原則反対する。",
+        "新基準は2027年11月以降の株主総会から段階的に適用する。TOPIX100の企業にはサイバーセキュリティーの体制整備と開示も求める。"
+      ],
+      "jackView": "私は、現金をため込みROEが低い企業に、自社株買いや増配の圧力が強まると見ています。ただ適用は2027年11月からなので、すぐに株主還元が増えると決めつけないでください。",
+      "sources": [
+        {
+          "title": "野村アセット、議決権行使でROE10%基準に　現金潤沢な企業対象（日本経済新聞）",
+          "url": "https://www.nikkei.com/article/DGXZQOUB025NN0S6A101C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/27129041/pexels-photo-27129041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-05",
+      "time": "2026-11-03T12:06",
+      "category": "usstock",
+      "title": "アップル、7〜9月の売上高は12%増の1145億ドルで予想超え　粗利率の見通しが弱く時間外で約3%安",
+      "summary": [
+        "売上高は1144億7700万ドル、1株利益は14%増の2.10ドルで市場予想の1.99ドルを上回った。",
+        "iPhoneは17%増の575億ドル、サービスは10%増の316億ドル。iPadは62億ドルで予想に届かず。",
+        "10〜12月の売上高は7〜10%増の見通しだが、粗利率は45〜46%で市場予想の46.3%を下回る。",
+        "2日の通常取引は1.8%安の338ドルで終え、発表後の時間外取引では約3%安の328ドル台。ジョン・ターナスCEOの初の決算。"
+      ],
+      "jackView": "私は部品のメモリー価格の上昇が粗利率をどこまで削るかに注目しています。売上が伸びても利益率の見通しで株価が動く点に注意してください。",
+      "sources": [
+        {
+          "title": "CNBC: Apple Q4 2026 earnings live updates: Ternus' first call",
+          "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
+        },
+        {
+          "title": "Apple Form 8-K Exhibit 99.1（FY26 Q4 決算資料）",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-06",
+      "time": "2026-11-03T12:06",
+      "category": "usstock",
+      "title": "マーベル、光部品のルメンタムを企業価値1150億ドルで買収へ　全額株式、2日の株価はマーベル13%安",
+      "summary": [
+        "米半導体マーベル・テクノロジーが2日、光通信部品のルメンタムを株式交換で買収すると発表した。",
+        "ルメンタム1株にマーベル4.5株を割り当て、企業価値は1150億ドル。完了は2028年前半の見込み。",
+        "AIデータセンター向けの光接続を強化する狙い。2日の株価はマーベル12.7%安、ルメンタム18.6%安。",
+        "同じ日にオラクルも株式100億ドル・社債100億ドルの発行計画を出し、株価は8.8%安だった。"
+      ],
+      "jackView": "私はAI関連の大型買収や資金調達が続く中で、株価が下げて反応した点に注目しています。AI株の評価が変わり始めていないか、値動きに注意してください。",
+      "sources": [
+        {
+          "title": "CNBC: Marvell's Lumentum deal",
+          "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html"
+        },
+        {
+          "title": "CNBC: Stocks making the biggest moves midday: Oracle ほか",
+          "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5062141/pexels-photo-5062141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-07",
+      "time": "2026-11-03T12:06",
+      "category": "crypto",
+      "title": "バイナンス、出金再開の第2弾を日本時間13時から　9ネットワークの延べ103銘柄で順次、トークン化株式も",
+      "summary": [
+        "バイナンスは3日11時40分（日本時間）に復旧の第6報を公表し、出金再開の第2弾を3日13時（UTC4時）から始めると発表。",
+        "対象はBSC31・イーサリアム38・ソラナ22など9つのネットワークで延べ103銘柄、トークン化株式「bSTOCKS」も全て出金可能に。",
+        "一斉ではなく安全確認が済んだものから順に再開し、入金は通常どおり。盗まれた資金の損失はバイナンスが負担し利用者に転嫁しないとした。"
+      ],
+      "jackView": "私は対象が広がっても、引き出しが集中して着金まで時間がかかる場面があると見ています。送金する時は選ぶネットワークを取り違えないよう注意してください。",
+      "sources": [
+        {
+          "title": "Binance「Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)」",
+          "url": "https://www.binance.com/en/support/announcement/detail/2d83c325ab6e49c6bd6c5de8803b11a6"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-08",
+      "time": "2026-11-03T12:06",
+      "category": "crypto",
+      "title": "ビットコイン、火曜昼は1210万円で朝からほぼ横ばい　24時間では2.2%安、ドル建ては7万6600ドル台",
+      "summary": [
+        "CoinGeckoで3日12時01分時点、ビットコインは1210万1212円、ドル建ては7万6636ドル。",
+        "朝の配信時の1212万円から約2万円安とほぼ横ばい、24時間では2.2%安（前日昼は1238万円）。",
+        "イーサリアムは35万5217円（2249ドル）で24時間1.9%安。米国はきょう中間選挙の投票日で、開票は日本時間4日朝から。"
+      ],
+      "jackView": "私は中間選挙の開票が進む4日朝に値動きが荒くなる可能性があると見ています。短い時間で上下に振れることがあるので、レバレッジ取引には注意してください。",
+      "sources": [
+        {
+          "title": "CoinGecko ビットコイン（BTC）価格",
+          "url": "https://www.coingecko.com/ja/coins/bitcoin"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7267496/pexels-photo-7267496.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-09",
+      "time": "2026-11-03T12:06",
+      "category": "seido",
+      "title": "チームみらい、食料品の消費税減税法案に反対方針　税率8%から1%へ、衆院財務金融委で審議中",
+      "summary": [
+        "チームみらいは2日の党執行役員会で、食料品の消費税減税の関連法案に反対する方針を決めた。",
+        "法案は衆院財務金融委員会で審議中。みらいは減税の物価高対策としての効果を疑問視した。",
+        "法案は食料品の消費税率を2027年4月から2年間、8%から1%に下げる内容で、政府・与党は6日にも衆院で採決する方針。"
+      ],
+      "jackView": "私は法案の行方より、2027年4月の実施時に店頭価格へどこまで反映されるかに注目しています。減税分がそのまま値下がりするとは限らない点に注意してください。",
+      "sources": [
+        {
+          "title": "日経「みらい、消費税減税法案に反対方針を決定　物価高対策の効果を疑問視」",
+          "url": "https://www.nikkei.com/article/DGXZQOUA029KI0S6A101C2000000/"
+        },
+        {
+          "title": "日経「消費減税分の物価下げ効果に疑問の声、価格反映6割の試算」",
+          "url": "https://www.nikkei.com/article/DGXZQOUA29AJF0Z21C26A0000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-10",
+      "time": "2026-11-03T12:06",
+      "category": "point",
+      "title": "PayPay、12月以降の自治体キャンペーンを発表　最大25％還元、茅ヶ崎市の商品券は最大1万5000円お得",
+      "summary": [
+        "PayPayが2026年12月以降に始める地方自治体と連携したキャンペーンを発表。対象店でPayPayで払うと最大25％のポイント還元。",
+        "ポイント還元は茨城県稲敷市・栃木県鹿沼市・さくら市・山梨県上野原市。プレミアム付きのPayPay商品券は昭島市・足立区・茅ヶ崎市。",
+        "商品券は各自治体の在住者が対象で、茅ヶ崎市は最大1万5000円、昭島市は最大7500円お得。北海道北広島市はクーポンで最大20％還元。"
+      ],
+      "jackView": "商品券は対象の自治体に住む人しか買えないので、私はお住まいの市区の告知で上限額と購入期間を先に確かめることをおすすめします。",
+      "sources": [
+        {
+          "title": "PayPayの地方自治体キャンペーン、12月以降は関東圏などで最大25％還元／最大1万5000円おトク（ITmedia Mobile）",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2611/02/news068.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261103-1206-11",
+      "time": "2026-11-03T12:06",
+      "category": "scam",
+      "title": "【警戒】IPAが個人情報漏えいの被害者向けに相談窓口を拡充　フィッシング詐欺や二次被害への対処も助言",
+      "summary": [
+        "情報処理推進機構（IPA）は11月2日、個人向けの「情報セキュリティ安心相談窓口」を強化し、自分の情報が漏えいして不安な人の相談も受け付けると発表した。",
+        "従来はウイルスや不正アクセスの相談が中心だったが、フィッシング詐欺への対応や、漏えい後の二次被害のリスクを下げる対処も助言する。",
+        "相談は電話・メール・郵便・FAX・チャットボットで受け付け、日頃の対策のアドバイスも行う。"
+      ],
+      "jackView": "私は、流出の通知が相次ぐ今こそ、届いたメールやSMSのリンクを開く前に公的な窓口へ相談する習慣が大事だと見ています。お詫びや補償を装って連絡してくる手口に注意してください。",
+      "jackLink": {
+        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "sources": [
+        {
+          "title": "IPA プレスリリース 情報セキュリティ安心相談窓口の強化",
+          "url": "https://www.ipa.go.jp/pressrelease/2026/press20261102.html"
+        },
+        {
+          "title": "INTERNET Watch IPAが個人情報漏えいの被害者に向けて相談窓口を強化",
+          "url": "https://internet.watch.impress.co.jp/docs/news/2153148.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261103-0615-01",
       "time": "2026-11-03T06:15",
