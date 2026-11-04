@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T18:09",
+  "updated": "2026-11-05T06:16",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,311 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "158.30",
-      "change": "-0.36",
-      "changePct": "-0.23%"
+      "value": "158.44",
+      "change": "-0.22",
+      "changePct": "-0.14%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,569",
-      "change": "+28",
-      "changePct": "+0.36%"
+      "value": "7,689",
+      "change": "+120",
+      "changePct": "+1.58%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥12.39M",
-      "change": "+2.3%",
-      "changePct": "+2.3%"
+      "value": "¥12.71M",
+      "change": "+2.9%",
+      "changePct": "+2.9%"
     }
   ],
   "items": [
+    {
+      "id": "20261105-0616-01",
+      "time": "2026-11-05T06:16",
+      "category": "market",
+      "title": "NYダウ1569ドル高の5万3356ドル、上昇率は1年半ぶりの大きさ　大取の日経先物は夜間取引で6万3110円、4日の日中終値から660円高",
+      "summary": [
+        "4日のNYダウは前日比1569ドル40セント高の5万3356ドル12セントと3.03%上昇。ナスダックは1.44%高、S&P500は1.58%高で終えた。",
+        "民主党が上下両院を制した中間選挙を受け、トランプ大統領が敗北を認めて民主党との協力姿勢を示し、政治混乱への警戒が和らいだ。原油安も追い風で、AI関連の一角は売られた。",
+        "大取の夜間取引で日経225先物12月限は前日比660円高の6万3110円で終了。4日の日経平均終値6万2188円63銭を921円上回った。"
+      ],
+      "jackView": "私は、政治の先行き不安が和らいだ安心の買いと見ていますが、AI関連の一角は売られています。今日の東京は半導体株が戻るかどうかに注意してください。",
+      "sources": [
+        {
+          "title": "日経：NYダウが急伸1500ドル高　敗北認めたトランプ氏好感、テックは明暗",
+          "url": "https://www.nikkei.com/article/DGXZQOGN04C0D0U6A101C2000000/"
+        },
+        {
+          "title": "日経：米国株15時、ダウ大幅反発　トランプ氏が選挙結果受け入れ　原油安も支え",
+          "url": "https://www.nikkei.com/article/DGXZQOFL04C4D0U6A101C2000000/"
+        },
+        {
+          "title": "株探：日経225先物：5日夜間取引終値＝660円高、6万3110円",
+          "url": "https://s.kabutan.jp/news/n202611050070/"
+        }
+      ],
+      "jackLink": {
+        "title": "中間選挙後の相場をマネーラボで深掘り",
+        "url": "https://jack-money-lab.com"
+      },
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-02",
+      "time": "2026-11-05T06:16",
+      "category": "market",
+      "title": "NY原油が8.3%安の88.12ドル、バンス副大統領が「負けた理由は戦争」　トランプ氏がイランと合意に動くとの見方",
+      "summary": [
+        "4日のNY原油先物はWTIが8.3%安の1バレル88.12ドル、北海ブレントは8.7%安の94.62ドルで取引を終えた。",
+        "バンス副大統領がSNSで「負けた理由は戦争だ」と投稿し、中間選挙で共和党が負けた原因をイランとの戦争に求めた。",
+        "民主党が上下両院を制し、トランプ氏がイランとの合意に動く理由が強まったとの見方が広がった。原油先物は今週だけで14%超下げた。",
+        "一方で、下げすぎとの声や、軍事的な緊張が再び高まる可能性はなお大きいとの見方も出ている。"
+      ],
+      "jackView": "私は原油安がガソリン代や物価の重荷を軽くする点に注目していますが、市場では下げすぎとの声もあり、中東のニュース一つで値が戻ることに注意してください。",
+      "sources": [
+        {
+          "title": "CNBC：Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+          "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
+        },
+        {
+          "title": "日経：米国株15時、ダウ大幅反発　トランプ氏が選挙結果受け入れ　原油安も支え",
+          "url": "https://www.nikkei.com/article/DGXZQOFL04C4D0U6A101C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31249696/pexels-photo-31249696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-03",
+      "time": "2026-11-05T06:16",
+      "category": "fx",
+      "title": "米10年債利回りが4.888%に低下、円は1ドル158円40銭台　ADPの10月雇用は8万6000人増で予想上回る",
+      "summary": [
+        "4日のNY市場で米10年債利回りは前日比0.062%低い4.888%に下がった。民主党の両院制覇で財政支出が増えにくくなるとの見方と原油安が背景。",
+        "円相場は1ドル158円40銭台と前日の158円60銭台からわずかに円高。ユーロは対ドルで1.12ドル台に上げた。",
+        "ADPの10月の民間雇用は8万6000人増で、市場予想の7万5000人を上回った。転職者の賃金は前年比4.8%増。",
+        "6日発表の10月の米雇用統計は、非農業部門の雇用者数が5万9000人増と予想されている。9月は2万9000人増だった。"
+      ],
+      "jackView": "私は米金利が下がっても円高が小さい点に注目しています。6日の米雇用統計で金利も円も大きく動く可能性があるので、外貨の両替や投資の時期に注意してください。",
+      "sources": [
+        {
+          "title": "CNBC：Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+          "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html"
+        },
+        {
+          "title": "CNBC：10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+          "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-04",
+      "time": "2026-11-05T06:16",
+      "category": "usstock",
+      "title": "マイクロソフト6.7%高・アマゾン6.1%高、コアウィーブは9.9%安　米中間選挙後に巨大テックとAIクラウドで明暗",
+      "summary": [
+        "4日の米国株はマイクロソフトが6.68%高、アマゾンが6.12%高、アップルが5.31%高で終えた。選挙を巡る不透明感が後退した。",
+        "一方、AI向けクラウドのコアウィーブは9.90%安、ネビウスは6.67%安、エヌビディアは3.12%安、テスラは3.34%安だった。",
+        "テキサス州知事選でデータセンターの建設停止を掲げる民主党候補が勝ち、建設が遅れるとの見方が広がった。各地の住民投票41件のうち40件で建設に反対の結果が出た。"
+      ],
+      "jackView": "私は規制が強まると資金力のある巨大テックに有利になり、新興のAIクラウドには逆風になるという見方に注目しています。同じAI関連でも値動きが分かれる点に注意してください。",
+      "sources": [
+        {
+          "title": "CNBC：Hyperscalers and Apple surge after election results remove investor uncertainty",
+          "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html"
+        },
+        {
+          "title": "CNBC：AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
+          "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
+        },
+        {
+          "title": "日経：米国株15時、ダウ大幅反発　トランプ氏が選挙結果受け入れ　原油安も支え",
+          "url": "https://www.nikkei.com/article/DGXZQOFL04C4D0U6A101C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/10780842/pexels-photo-10780842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-05",
+      "time": "2026-11-05T06:16",
+      "category": "usstock",
+      "title": "クアルコム、10〜12月の利益見通しが市場予想に届かず時間外で約4%安　スマホ向け半導体は26%減",
+      "summary": [
+        "米クアルコムが4日発表した7〜9月期は売上高103億2000万ドル、調整後1株利益2.17ドルで、ともに市場予想を上回った。",
+        "10〜12月期の1株利益見通しは2.15〜2.35ドルで、中央値が市場予想の2.27ドルを下回った。",
+        "メモリー価格の上昇でスマホの値上げが進み、スマホ向け半導体の売上高は26%減の51億4000万ドル。車載向けは89%増の19億9000万ドルだった。",
+        "通常取引は5.33%高の173.19ドルで終え、引け後の時間外取引では約4%下げた。"
+      ],
+      "jackView": "私はデータセンター向けの売上高を27年度に50億ドルとする目標に注目していますが、本業のスマホ向けがメモリー高で伸び悩んでいる点に注意してください。",
+      "sources": [
+        {
+          "title": "CNBC：Qualcomm issues disappointing earnings forecast as memory shortage weighs on smartphone sales",
+          "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-06",
+      "time": "2026-11-05T06:16",
+      "category": "jpstock",
+      "title": "NTT、4〜9月の純利益は16%減の5001億円　通期予想は9940億円に140億円上方修正も、発表後に下げ幅を拡大",
+      "summary": [
+        "NTTが4日13時30分に発表した4〜9月期の連結決算（国際会計基準）は、売上高が8.7%増の7兆3621億円、営業利益は12.2%減の8300億円だった。",
+        "純利益は16.0%減の5001億円。グローバル・ソリューション事業が大幅な減益となり、7〜9月期だけでは32.9%減の2253億円だった。",
+        "通期予想は売上高を15兆800億円、営業利益を1兆7300億円、純利益を9940億円（従来9800億円）に引き上げた。総合ICT事業の販売好調を反映した。",
+        "株価は決算発表後の後場に下げ幅を広げた。"
+      ],
+      "jackView": "私は、通期の上方修正よりも上期の減益の重さが意識されたと見ています。個人株主の多い銘柄なので、海外事業の採算が戻るかを次の決算で確かめてください。",
+      "sources": [
+        {
+          "title": "NTT：2026年度 第2四半期（中間期）決算短信（TDnet）",
+          "url": "https://www.release.tdnet.info/inbs/140120261104563442.pdf"
+        },
+        {
+          "title": "株探：ＮＴＴは後場下げが拡大、９月中間期最終益は１６％減",
+          "url": "https://s.kabutan.jp/news/n202611040837/"
+        },
+        {
+          "title": "株探：ＮＴＴ、今期最終を1％上方修正",
+          "url": "https://s.kabutan.jp/news/k202611040019/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5833758/pexels-photo-5833758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-07",
+      "time": "2026-11-05T06:16",
+      "category": "jpstock",
+      "title": "IHI、今期純利益を1850億円に上方修正し最高益予想を上乗せ　民間航空エンジンが好調、年間配当は2円増の25円に",
+      "summary": [
+        "IHIは4日13時、2027年3月期の業績予想を引き上げ、売上高を1兆8800億円（従来1兆8400億円）、営業利益を2700億円（同2500億円）とした。",
+        "純利益は1720億円から1850億円に7.6%上方修正し、前期比14.9%増で過去最高益の予想を上乗せ。上期の民間向け航空エンジンなどの実績を踏まえた。",
+        "4〜9月期の純利益は52.0%増の849億円。年間配当予想は23円から25円に増やし、株価は5日ぶりに反発した。"
+      ],
+      "jackView": "私は、航空エンジンの需要の強さが数字に表れた決算と見ています。ただ上期の伸びに比べて下期は前年より減益の計算になるので、通期の進み具合に注意してください。",
+      "sources": [
+        {
+          "title": "IHI：2027年3月期 第2四半期（中間期）決算短信（TDnet）",
+          "url": "https://www.release.tdnet.info/inbs/140120261103563368.pdf"
+        },
+        {
+          "title": "株探：ＩＨＩは５日ぶり反発、今期業績・配当予想を上方修正",
+          "url": "https://s.kabutan.jp/news/n202611041004/"
+        },
+        {
+          "title": "株探：ＩＨＩ、今期最終を8％上方修正・最高益予想を上乗せ、配当も2円増額",
+          "url": "https://s.kabutan.jp/news/k202611040015/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/14089266/pexels-photo-14089266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-08",
+      "time": "2026-11-05T06:16",
+      "category": "crypto",
+      "title": "ビットコイン、木曜早朝は1271万円で前夕から約31万円高　米株高につれ約1週間ぶりに8万ドル台を回復",
+      "summary": [
+        "CoinGeckoで5日6時12分時点は1271万円、24時間で2.9%高。ドル建ては8万0223ドル。",
+        "日経によると米東部時間4日午前10時過ぎ（日本時間5日0時過ぎ）に一時8万1000ドル台を付け、約1週間ぶりの高水準。",
+        "米国の現物ビットコインETFは3日も1.16億ドルの純流出で3営業日連続、計11.6億ドル（SoSoValue集計）。4日分はまだ出ていない。"
+      ],
+      "jackView": "私は、米株高と原油安につられた買い戻しと見ています。現物ETFからの資金流出が3日続いたままなので、流入に戻るかどうかに注意してください。",
+      "sources": [
+        {
+          "title": "日経：ビットコイン反発、8万ドル台を回復 トランプ与党大敗でも買い戻し",
+          "url": "https://www.nikkei.com/article/DGXZQOGN04BYP0U6A101C2000000/"
+        },
+        {
+          "title": "Cointelegraph：Bitcoin hits $80.5K as US stocks rally on midterm election results",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result"
+        },
+        {
+          "title": "Cointelegraph：Bitcoin ETFs lose $1.16B as Bitwise calls selling short-term",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7267496/pexels-photo-7267496.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-09",
+      "time": "2026-11-05T06:16",
+      "category": "seido",
+      "title": "消費減税法案、民主改革の会も反対の方向で代表一任　国民民主の玉木代表は「今のままで賛成はあり得ない」",
+      "summary": [
+        "民主改革の会は4日の議員総会で、消費税減税の関連法案に反対する方向で代表らに対応を一任した。政府が財源を示していないことを踏まえた。",
+        "国民民主党の玉木代表は4日の総務会で「今のままで賛成はあり得ない」と述べた。統一会派を組む公明党も衆院の採決で反対する方向で調整している。",
+        "4日の衆院財務金融委で政府は国民民主の対案に応じない姿勢を示し、片山財務相は外為特会の剰余金などの活用は「予算編成過程で検討する」と述べた。"
+      ],
+      "jackView": "私は、法案が衆院を通るかに加えて中身が修正されるかどうかで、食料品の税率が下がる時期や家計への効き方が変わると見ています。採決の日程と修正協議の行方に注意してください。",
+      "sources": [
+        {
+          "title": "日本経済新聞：民主改革の会、消費税法案に反対で代表一任　政府が財源示さず",
+          "url": "https://www.nikkei.com/article/DGXZQOUA044ZL0U6A101C2000000/"
+        },
+        {
+          "title": "時事ドットコム：政府、消費減税法案「最善の方法」　国民民主の対案議論―衆院財金委",
+          "url": "https://www.jiji.com/jc/article?k=2026110401052&g=eco"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-10",
+      "time": "2026-11-05T06:16",
+      "category": "scam",
+      "title": "【警戒】e-Taxが不審な通信を検知して利用停止、4日11時40分ごろから緊急メンテナンスで復旧のめど立たず",
+      "summary": [
+        "国税庁は4日、外部からの不審な通信を検出したとして、電子申告・納税システム「e-Tax」の運用を一時停止した。",
+        "同日午前11時40分ごろから緊急メンテナンスを続けており、終了の時期は改めてe-Taxのホームページで知らせるとしている。",
+        "これまでに納税者情報の流出などは確認されていないという。マイナポータル経由でe-Taxにログインできない状態も続いている。"
+      ],
+      "jackView": "私は、こうした停止の後は国税庁やe-Taxを名乗る「再登録」「還付」のフィッシングメールが出やすいと見ています。メールやSMSのリンクから開かず、公式サイトで状況を確かめてください。",
+      "sources": [
+        {
+          "title": "時事ドットコム：e―Taxに不審な通信　国税庁、一時停止に",
+          "url": "https://www.jiji.com/jc/article?k=2026110401192&g=soc"
+        },
+        {
+          "title": "e-Tax：緊急メンテナンスのお知らせ（国税庁）",
+          "url": "https://www.e-tax.nta.go.jp/topics/2026/topics_20261104_mentenansu.htm"
+        },
+        {
+          "title": "Impress Watch：e-Taxが緊急メンテナンス　不審な通信を検知",
+          "url": "https://www.watch.impress.co.jp/docs/news/2153747.html"
+        }
+      ],
+      "jackLink": {
+        "title": "偽の還付メールの見抜き方を学ぶ（副業の番人 LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "image": "https://images.pexels.com/photos/16517404/pexels-photo-16517404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261105-0616-11",
+      "time": "2026-11-05T06:16",
+      "category": "scam",
+      "title": "【警戒】テレビ用のアンドロイド機器130万台超に出荷前から不正ソフト、警察庁とグーグルが無力化　ネットバンキング不正送金の踏み台に",
+      "summary": [
+        "警察庁は4日、家庭用IoT機器に製造段階で不正なソフトが組み込まれ、サイバー攻撃の踏み台にされていたと発表した。グーグルと連携し関連サーバーを無力化した。",
+        "不正ソフトは「アンドロイドTV」の接続機器で見つかり、製造を受けた中国の業者が無断で組み込んでいた。グーグルの調査で被害は130万台以上に上る。",
+        "福岡県警のネットバンキング不正送金事件の捜査で判明した。IoT機器を通じた不正送金は2025年に少なくとも737件、被害額は約14億円だった。"
+      ],
+      "jackView": "私は、通販の格安なテレビ用端末などは、知らないうちに自宅の回線が詐欺や不正送金に使われる恐れがあると見ています。作り手の分からない機器は買う前に確かめ、使っていない物は外すことも考えてください。",
+      "sources": [
+        {
+          "title": "時事ドットコム：家庭用IoT機器に不正ソフト　製造で仕組まれ、サイバー攻撃「踏み台」に―グーグル社と連携し無力化・警察庁",
+          "url": "https://www.jiji.com/jc/article?k=2026110401063&g=soc"
+        },
+        {
+          "title": "ITmedia NEWS：中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止",
+          "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261104-1810-01",
       "time": "2026-11-04T18:10",
@@ -910,485 +1195,6 @@
         }
       ],
       "image": "https://images.pexels.com/photos/35076266/pexels-photo-35076266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-01",
-      "time": "2026-11-03T18:07",
-      "category": "market",
-      "title": "【今週のまとめ】休場中の日経先物は6万2200円台、2日の日中終値から1030円安　韓国・台湾株はともに3.59%安",
-      "summary": [
-        "2日の日経平均は208円安の6万3081円、TOPIXは34円安の3930で終えた。3日は文化の日で休場、日経225先物12月物は祝日取引を経て18時すぎに6万2230円と、2日の日中終値（6万3260円）から1030円安。",
-        "3日のアジア株は韓国総合指数と台湾加権指数がともに3.59%安、上海総合指数は0.82%安、香港ハンセン指数は0.57%高。米半導体株安が重荷になり、米中間選挙を前に様子見も広がった。",
-        "ドル円は17時に157円80〜90銭、18時すぎは157円99銭。米株先物はダウが341ドル安、原油WTIは98ドル台に反発し、独DAXは1.2%安で推移している。",
-        "東京市場は4日に再開。米中間選挙の開票が日本時間4日朝から進み、朝にAMDの決算、夜は米10月ADP雇用統計（22時15分）と9月貿易収支、5日0時に米10月ISM非製造業景況指数が出る。"
-      ],
-      "jackView": "休場の間に先物が1000円ほど下げたため、私は4日の東京は先物の水準を意識した始まりになると見ています。再開後は、中間選挙の開票で上下両院の行方がどこまで見えてくるかと、韓国・台湾に続いて半導体株がどこまで売られるかに注意してください。",
-      "sources": [
-        {
-          "title": "株探（フィスコ）アジア株　まちまち、上海株は半導体主導で軟化",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611030256"
-        },
-        {
-          "title": "株探（フィスコ）東京為替：ドル・円は小幅安、上値の重さを意識",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611030251"
-        },
-        {
-          "title": "松井証券（株探）今週の主なマーケットイベント",
-          "url": "https://finance.matsui.co.jp/news/633369/index"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-02",
-      "time": "2026-11-03T18:07",
-      "category": "market",
-      "title": "サウジアラムコ、7〜9月の純利益は35%増の362億ドル　4年ぶり高水準、原油高が寄与",
-      "summary": [
-        "サウジアラムコが3日発表した7〜9月期の純利益は前年同期比35%増の362億ドル（約5兆7200億円）。",
-        "米国とイランの軍事衝突の後に続く原油高が寄与し、四半期ベースでは4年ぶりの高水準になった。",
-        "ホルムズ海峡では安全な通航ができない状況が続き、サウジは紅海側を迂回路にして輸出している。"
-      ],
-      "jackView": "原油高の恩恵が産油国の企業にはっきり出た決算です。私は中間選挙の後の米イラン交渉の行方で原油が大きく振れやすい点に注意しています。",
-      "sources": [
-        {
-          "title": "日本経済新聞 サウジアラムコ、7〜9月純利益35%増の362億ドル　4年ぶり高水準",
-          "url": "https://www.nikkei.com/article/DGXZQOGR02AET0S6A101C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-03",
-      "time": "2026-11-03T18:07",
-      "category": "market",
-      "title": "金の投資需要、7〜9月は14%減の479トン　WGC調べ、相場の軟調で先高観が後退",
-      "summary": [
-        "ワールド・ゴールド・カウンシル（WGC）が3日公表した7〜9月期の金需給統計で、投資需要は14%減の479トン。",
-        "ロンドン現物価格の7〜9月の平均は1トロイオンス4262.2ドル。金相場は今年に入り軟調な展開が続いている。"
-      ],
-      "jackView": "私は、金の買い手が減って相場が弱い時期こそ、値下がりだけを見て慌てて手放さず、資産全体の中での割合で考えることが大切だと見ています。",
-      "sources": [
-        {
-          "title": "日本経済新聞 金の投資需要、7〜9月は14%減　相場軟調で先高観薄れる",
-          "url": "https://www.nikkei.com/article/DGXZQOUB021NS0S6A101C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-04",
-      "time": "2026-11-03T18:07",
-      "category": "jpstock",
-      "title": "ほくほくFG、今期純利益を750億円に上方修正し27%増へ　年間配当は分割前換算で40円増の190円",
-      "summary": [
-        "ほくほくFGは2日、27年3月期の純利益見通しを620億円から750億円（前期比27%増）に引き上げた。",
-        "日銀の利上げで資金利益が堅調、与信費用も想定を下回る。4〜9月の純利益は38%増の420億円。",
-        "10月1日に1株を10株に分割済み。配当は分割後で中間・期末とも9円50銭、分割前換算で年190円。"
-      ],
-      "jackView": "地銀では金利上昇の追い風が決算の数字にはっきり出てきました。私は4日の再開後、他の地銀の決算でも同じ流れが続くかに注目しています。",
-      "sources": [
-        {
-          "title": "日本経済新聞 ほくほくＦＧ、27年3月期純利益27%増に上方修正　配当予想も上げ",
-          "url": "https://www.nikkei.com/article/DGXZQOCC026SO0S6A101C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/27129041/pexels-photo-27129041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-05",
-      "time": "2026-11-03T18:07",
-      "category": "fx",
-      "title": "豪中銀、政策金利を0.25%上げ4.85%に　2会合連続・今年5回目で18年ぶり高水準、豪ドル円は110円台前半",
-      "summary": [
-        "オーストラリア準備銀行は3日、政策金利を0.25%引き上げて4.85%にすると決めた。",
-        "利上げは2会合連続で今年5回目、年初の3.6%から18年ぶりの高い水準になった。",
-        "声明は「多くの商品・サービスでインフレ率が高止まり」と指摘、中東紛争のエネルギー高などを挙げた。",
-        "豪ドル円は18時すぎに110円04銭で前日比0.4%安、豪ドルは対ドルでも0.4%安の0.6965ドル。"
-      ],
-      "jackView": "私は利上げ後に豪ドルが下げた点に注目しています。高金利通貨は金利差だけで買われるわけではないので、豪ドル建ての預金や債券を持つ人は円換算の値動きに注意してください。",
-      "sources": [
-        {
-          "title": "オーストラリア中銀、政策金利を4.85%に引き上げ　18年ぶり水準に（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGM030XD0T01C26A1000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-06",
-      "time": "2026-11-03T18:07",
-      "category": "usstock",
-      "title": "オラクル、社債と新株で200億ドル（約3.1兆円）を調達へ　アルファベットも60億ユーロの社債でAI投資の資金確保",
-      "summary": [
-        "オラクルは2日、社債と新株発行で100億ドルずつ、計200億ドル（約3兆1600億円）を調達すると発表した。",
-        "社債は約定済みで、新株の発行日などは未定。調達した資金は人工知能（AI）投資に向ける。",
-        "アルファベットは60億ユーロ（約1兆600億円）を社債で調達し、メタも200億ドル規模の起債を検討している。"
-      ],
-      "jackView": "私は新株発行による1株あたりの価値の薄まりに注目しています。AI投資を借金と増資に頼る会社は、金利が高いままだと負担が重くなる点に注意してください。",
-      "sources": [
-        {
-          "title": "オラクルが3.1兆円調達、Googleはユーロ建社債　AI投資へ資金確保（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN030C80T01C26A1000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/17855419/pexels-photo-17855419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-07",
-      "time": "2026-11-03T18:07",
-      "category": "usstock",
-      "title": "アンソロピックのIPO評価額、1.5兆〜1.6兆ドルが妥当との見方とWSJ　当初は2兆ドル期待、11月中に上場計画",
-      "summary": [
-        "米紙WSJは2日、アンソロピックのIPO評価額は1兆5000億〜1兆6000億ドルが妥当との見方が強まっていると報じた。",
-        "円換算では約237兆〜253兆円。同社はAI「クロード」の開発元で、11月中にナスダック上場を計画する。",
-        "当初は公開価格に基づく評価額が2兆ドルに届くとの期待もあり、見方が下振れした形。"
-      ],
-      "jackView": "私は大型IPOの評価額が上場前に下振れしている点に注目しています。話題の銘柄でも公開価格が割安とは限らないので、上場直後の値動きだけで判断しないよう注意してください。",
-      "sources": [
-        {
-          "title": "アンソロピックIPO評価額、1.5兆ドル規模に下振れか　WSJ報道（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN0308V0T01C26A1000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-08",
-      "time": "2026-11-03T18:07",
-      "category": "crypto",
-      "title": "ブラジル大手交換業者メルカド・ビットコイン、流出被害約3800万ドルを全額補償へ　1100万ドルは凍結",
-      "summary": [
-        "ブラジル大手の暗号資産交換業者メルカド・ビットコインが、ハッキングによる利用者の損失を全額補償すると表明した。",
-        "同社の説明では被害は約3800万ドル（約60億円）。テザー・サークル・チェイナリシスの協力で約1100万ドルを凍結。",
-        "少なくとも10のチェーンのホットウォレットから流出し、予防措置でサービスを一時停止。顧客データの流出はないとしている。"
-      ],
-      "jackView": "私はバイナンスに続く交換業者の流出で、取引所に預けたままの資産の危うさが改めて出たと見ています。すぐ使わない分の置き場所を一度見直してください。",
-      "sources": [
-        {
-          "title": "CoinDesk: Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-          "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack"
-        },
-        {
-          "title": "CoinDesk: Brazil's Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-          "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8358132/pexels-photo-8358132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-09",
-      "time": "2026-11-03T18:07",
-      "category": "crypto",
-      "title": "バイナンスの利用者保護基金SAFU、ビットコインの半分を補償に使用　残りは7500BTC強の約5.8億ドル分",
-      "summary": [
-        "CoinDeskがブロックチェーン上の記録から集計、SAFUのビットコインは2月時点の約1万5000BTCから7500BTC強に半減。",
-        "10月31日の4回の送金で使われ、残高は約5億8000万ドル分。同社の規定で補充の目安とする8億ドルを下回った。",
-        "バイナンスは約10億ドルへの補充を約束したが時期は示しておらず、先物の保険基金をどれだけ使ったかも未公表。"
-      ],
-      "jackView": "私は基金の補充がいつ行われるかが、バイナンスの信頼回復を測る目安になると見ています。同社の次の公表で時期が示されるかに注目してください。",
-      "sources": [
-        {
-          "title": "CoinDesk: Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-          "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30547567/pexels-photo-30547567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-10",
-      "time": "2026-11-03T18:07",
-      "category": "seido",
-      "title": "公明党、消費税減税法案の衆院採決で反対調整　与党は6日までの衆院通過めざし参院は4日に特別委",
-      "summary": [
-        "公明党は消費税減税法案の衆院採決で反対する方向で調整に入った。2年限定の減税は物価高対策として効果が低いと判断した。",
-        "政府が所得連動型の新しい給付の制度設計を示していないことも理由。参院での対応は政府・与党の出方を見て決める。",
-        "与党は6日までの衆院通過を目指し、参院は4日に特別委員会を設置する。野党は首相の委員会出席を採決の前提と主張している。",
-        "法案は2027年度から2年間、食料品の消費税率を8%から1%に下げる内容。参院は与党の議席が過半数に届いていない。"
-      ],
-      "jackView": "私は、参院で与党が過半数に届かない中で公明党が反対に回る点に注目しています。27年4月の値下げが予定どおり始まるかは、来週からの参院審議を見てから家計の計画に入れてください。",
-      "sources": [
-        {
-          "title": "消費税減税法案、公明党が衆院で反対調整　政府が新給付の詳細明示なく（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA0234Q0S6A101C2000000/"
-        },
-        {
-          "title": "消費税減税、衆院通過で攻防　野党多数の参院は特別委（共同通信／47NEWS）",
-          "url": "https://www.47news.jp/15178285.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/31969951/pexels-photo-31969951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1807-11",
-      "time": "2026-11-03T18:07",
-      "category": "scam",
-      "title": "【警戒】TKCの利用者のメールアドレス最大223万件が流出、アララへの不正アクセスで　自治体の申請システムも送信停止",
-      "summary": [
-        "会計・自治体向けシステムのTKCは11月2日夜、メール配信を委託するアララの「アララメッセージ」への不正アクセスで、同社システムの利用者のメールアドレスが最大223万812件漏えいしたと発表した。",
-        "メールの送信が止まっているのは、税理士事務所・企業向けの会計システムのほか、自治体のスマート申請やマイナンバーカード交付予約のシステムなどで、再開時期は未定。",
-        "TKCのシステムやデータセンターへの不正アクセスは確認されていないとし、TKCやアララをかたる不審なメールのURLを開いたり、ID・パスワードやカード情報を入力したりしないよう呼びかけている。"
-      ],
-      "jackView": "私は、税理士や役所からの連絡を装うメールは疑われにくいと見ています。マイナンバーや税金の手続きを口実にURLへ誘う手口に注意し、公式サイトや窓口で確かめてください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "TKC メール配信委託先への不正アクセスによる情報漏えいに関する件（第2報）",
-          "url": "https://www.tkc.jp/news/2026/20261102_2/"
-        },
-        {
-          "title": "TKC メール配信委託先への不正アクセスによる情報漏えいの可能性について（第1報）",
-          "url": "https://www.tkc.jp/news/2026/20261102_1/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-01",
-      "time": "2026-11-03T12:06",
-      "category": "market",
-      "title": "米軍がイランのケシム島を攻撃とWSJ報道、ホルムズ海峡での商船攻撃を防ぐ狙い　トランプ氏は大規模攻撃の再開「急がず」",
-      "summary": [
-        "米紙WSJは2日、米軍がホルムズ海峡に近いイランのケシム島を同日攻撃したと報じた。数週間前から小規模な攻撃を続けていたという。",
-        "米当局者は、イランによる商船攻撃を防ぐのが狙いと説明。大規模攻撃の再開と受け取られないよう秘密裏に実施していたとしている。",
-        "トランプ大統領はアクシオスに大規模攻撃再開の決断は「急いでいない」と語り、中間選挙後の攻撃を検討しているかとの問いには「ノー」と答えた。"
-      ],
-      "jackView": "私は、交渉を見守る姿勢と小規模な攻撃が同時に進んでいる点に注目しています。原油は交渉への期待で大きく下げたばかりなので、ホルムズ海峡の続報で急に戻る動きに注意してください。",
-      "sources": [
-        {
-          "title": "米軍がイラン・ケシム島攻撃　トランプ氏、大規模作戦再開「急がず」―報道（時事ドットコム）",
-          "url": "https://www.jiji.com/jc/article?k=2026110300278&g=int"
-        },
-        {
-          "title": "トランプ氏、中間選挙直後のイラン再攻撃は否定　バンス氏も交渉明言（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN030150T01C26A1000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-02",
-      "time": "2026-11-03T12:06",
-      "category": "market",
-      "title": "アジア株は韓国が2.96%安、台湾1.21%安・上海0.92%安　香港は0.39%高、シカゴの日経先物は6万2935円",
-      "summary": [
-        "3日午前のアジア市場で、韓国総合株価指数は173ポイント（2.96%）安の5685と大きく下げた（11時44分）。",
-        "台湾加権指数は1.21%安の4万4377、上海総合指数は0.92%安の3604。香港ハンセン指数は0.39%高の2万3483。",
-        "米株先物はS&P500が横ばい、ナスダック100が0.37%高。シカゴの日経平均先物12月物は6万2935円（11時54分）。",
-        "米国は3日に中間選挙の投票で、開票は日本時間4日朝から。予測市場では民主党が上院を奪う確率が約75%（CNBC）。"
-      ],
-      "jackView": "私は韓国・台湾の大きな下げが、あすの東京の寄り付きにどう響くかを見ています。中間選挙の開票は4日朝からで、値動きが荒くなりやすい点に注意してください。",
-      "sources": [
-        {
-          "title": "CNBC KOSPI Index",
-          "url": "https://www.cnbc.com/quotes/.KS11"
-        },
-        {
-          "title": "CNBC Nikkei Futures CME",
-          "url": "https://www.cnbc.com/quotes/@NK.1"
-        },
-        {
-          "title": "CNBC Stock market today live updates",
-          "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-03",
-      "time": "2026-11-03T12:06",
-      "category": "jpstock",
-      "title": "SBIHDとフジ・メディアHDが資本業務提携　2027年1月に折半出資で合弁会社、秋元康氏主導の新プロジェクトも",
-      "summary": [
-        "SBIホールディングスとフジ・メディア・ホールディングスは2日、メディア・コンテンツ領域での資本業務提携契約を結んだと発表した。",
-        "2027年1月に折半出資で合弁会社を設立し、ライブやイベントなどの「リアルメディア」領域を中核に複数事業を検討する。",
-        "北尾吉孝社長は会見で「まずはIP創出支援モデルを構築したい」と述べた。秋元康氏主導の新プロジェクトで人材を発掘する。"
-      ],
-      "jackView": "私は、出資比率や業績への影響の数字がまだ示されていない点に注意しています。話題性で株価が動きやすい組み合わせなので、続く開示で中身を確かめてから判断してください。",
-      "sources": [
-        {
-          "title": "ＳＢＩとフジが資本業務提携　メディア事業で合弁会社（時事ドットコム）",
-          "url": "https://www.jiji.com/jc/article?k=2026110200915&g=eco"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-04",
-      "time": "2026-11-03T12:06",
-      "category": "jpstock",
-      "title": "野村アセット、議決権行使の基準を厳しく　現金が多い企業はROE10%未満で取締役選任に反対、27年11月から",
-      "summary": [
-        "野村アセットマネジメントは2日、議決権行使基準の改定を発表した。現金が多い企業へのROE基準を8%から10%に上げる。",
-        "それ以外の企業の基準も5%から6%に上げ、将来は8%への引き上げも視野に入れる。直近3期連続で基準を下回ると経営トップの再任に原則反対する。",
-        "新基準は2027年11月以降の株主総会から段階的に適用する。TOPIX100の企業にはサイバーセキュリティーの体制整備と開示も求める。"
-      ],
-      "jackView": "私は、現金をため込みROEが低い企業に、自社株買いや増配の圧力が強まると見ています。ただ適用は2027年11月からなので、すぐに株主還元が増えると決めつけないでください。",
-      "sources": [
-        {
-          "title": "野村アセット、議決権行使でROE10%基準に　現金潤沢な企業対象（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUB025NN0S6A101C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/27129041/pexels-photo-27129041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-05",
-      "time": "2026-11-03T12:06",
-      "category": "usstock",
-      "title": "アップル、7〜9月の売上高は12%増の1145億ドルで予想超え　粗利率の見通しが弱く時間外で約3%安",
-      "summary": [
-        "売上高は1144億7700万ドル、1株利益は14%増の2.10ドルで市場予想の1.99ドルを上回った。",
-        "iPhoneは17%増の575億ドル、サービスは10%増の316億ドル。iPadは62億ドルで予想に届かず。",
-        "10〜12月の売上高は7〜10%増の見通しだが、粗利率は45〜46%で市場予想の46.3%を下回る。",
-        "2日の通常取引は1.8%安の338ドルで終え、発表後の時間外取引では約3%安の328ドル台。ジョン・ターナスCEOの初の決算。"
-      ],
-      "jackView": "私は部品のメモリー価格の上昇が粗利率をどこまで削るかに注目しています。売上が伸びても利益率の見通しで株価が動く点に注意してください。",
-      "sources": [
-        {
-          "title": "CNBC: Apple Q4 2026 earnings live updates: Ternus' first call",
-          "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
-        },
-        {
-          "title": "Apple Form 8-K Exhibit 99.1（FY26 Q4 決算資料）",
-          "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-06",
-      "time": "2026-11-03T12:06",
-      "category": "usstock",
-      "title": "マーベル、光部品のルメンタムを企業価値1150億ドルで買収へ　全額株式、2日の株価はマーベル13%安",
-      "summary": [
-        "米半導体マーベル・テクノロジーが2日、光通信部品のルメンタムを株式交換で買収すると発表した。",
-        "ルメンタム1株にマーベル4.5株を割り当て、企業価値は1150億ドル。完了は2028年前半の見込み。",
-        "AIデータセンター向けの光接続を強化する狙い。2日の株価はマーベル12.7%安、ルメンタム18.6%安。",
-        "同じ日にオラクルも株式100億ドル・社債100億ドルの発行計画を出し、株価は8.8%安だった。"
-      ],
-      "jackView": "私はAI関連の大型買収や資金調達が続く中で、株価が下げて反応した点に注目しています。AI株の評価が変わり始めていないか、値動きに注意してください。",
-      "sources": [
-        {
-          "title": "CNBC: Marvell's Lumentum deal",
-          "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html"
-        },
-        {
-          "title": "CNBC: Stocks making the biggest moves midday: Oracle ほか",
-          "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5062141/pexels-photo-5062141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-07",
-      "time": "2026-11-03T12:06",
-      "category": "crypto",
-      "title": "バイナンス、出金再開の第2弾を日本時間13時から　9ネットワークの延べ103銘柄で順次、トークン化株式も",
-      "summary": [
-        "バイナンスは3日11時40分（日本時間）に復旧の第6報を公表し、出金再開の第2弾を3日13時（UTC4時）から始めると発表。",
-        "対象はBSC31・イーサリアム38・ソラナ22など9つのネットワークで延べ103銘柄、トークン化株式「bSTOCKS」も全て出金可能に。",
-        "一斉ではなく安全確認が済んだものから順に再開し、入金は通常どおり。盗まれた資金の損失はバイナンスが負担し利用者に転嫁しないとした。"
-      ],
-      "jackView": "私は対象が広がっても、引き出しが集中して着金まで時間がかかる場面があると見ています。送金する時は選ぶネットワークを取り違えないよう注意してください。",
-      "sources": [
-        {
-          "title": "Binance「Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)」",
-          "url": "https://www.binance.com/en/support/announcement/detail/2d83c325ab6e49c6bd6c5de8803b11a6"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-08",
-      "time": "2026-11-03T12:06",
-      "category": "crypto",
-      "title": "ビットコイン、火曜昼は1210万円で朝からほぼ横ばい　24時間では2.2%安、ドル建ては7万6600ドル台",
-      "summary": [
-        "CoinGeckoで3日12時01分時点、ビットコインは1210万1212円、ドル建ては7万6636ドル。",
-        "朝の配信時の1212万円から約2万円安とほぼ横ばい、24時間では2.2%安（前日昼は1238万円）。",
-        "イーサリアムは35万5217円（2249ドル）で24時間1.9%安。米国はきょう中間選挙の投票日で、開票は日本時間4日朝から。"
-      ],
-      "jackView": "私は中間選挙の開票が進む4日朝に値動きが荒くなる可能性があると見ています。短い時間で上下に振れることがあるので、レバレッジ取引には注意してください。",
-      "sources": [
-        {
-          "title": "CoinGecko ビットコイン（BTC）価格",
-          "url": "https://www.coingecko.com/ja/coins/bitcoin"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7267496/pexels-photo-7267496.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-09",
-      "time": "2026-11-03T12:06",
-      "category": "seido",
-      "title": "チームみらい、食料品の消費税減税法案に反対方針　税率8%から1%へ、衆院財務金融委で審議中",
-      "summary": [
-        "チームみらいは2日の党執行役員会で、食料品の消費税減税の関連法案に反対する方針を決めた。",
-        "法案は衆院財務金融委員会で審議中。みらいは減税の物価高対策としての効果を疑問視した。",
-        "法案は食料品の消費税率を2027年4月から2年間、8%から1%に下げる内容で、政府・与党は6日にも衆院で採決する方針。"
-      ],
-      "jackView": "私は法案の行方より、2027年4月の実施時に店頭価格へどこまで反映されるかに注目しています。減税分がそのまま値下がりするとは限らない点に注意してください。",
-      "sources": [
-        {
-          "title": "日経「みらい、消費税減税法案に反対方針を決定　物価高対策の効果を疑問視」",
-          "url": "https://www.nikkei.com/article/DGXZQOUA029KI0S6A101C2000000/"
-        },
-        {
-          "title": "日経「消費減税分の物価下げ効果に疑問の声、価格反映6割の試算」",
-          "url": "https://www.nikkei.com/article/DGXZQOUA29AJF0Z21C26A0000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-10",
-      "time": "2026-11-03T12:06",
-      "category": "point",
-      "title": "PayPay、12月以降の自治体キャンペーンを発表　最大25％還元、茅ヶ崎市の商品券は最大1万5000円お得",
-      "summary": [
-        "PayPayが2026年12月以降に始める地方自治体と連携したキャンペーンを発表。対象店でPayPayで払うと最大25％のポイント還元。",
-        "ポイント還元は茨城県稲敷市・栃木県鹿沼市・さくら市・山梨県上野原市。プレミアム付きのPayPay商品券は昭島市・足立区・茅ヶ崎市。",
-        "商品券は各自治体の在住者が対象で、茅ヶ崎市は最大1万5000円、昭島市は最大7500円お得。北海道北広島市はクーポンで最大20％還元。"
-      ],
-      "jackView": "商品券は対象の自治体に住む人しか買えないので、私はお住まいの市区の告知で上限額と購入期間を先に確かめることをおすすめします。",
-      "sources": [
-        {
-          "title": "PayPayの地方自治体キャンペーン、12月以降は関東圏などで最大25％還元／最大1万5000円おトク（ITmedia Mobile）",
-          "url": "https://www.itmedia.co.jp/mobile/articles/2611/02/news068.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261103-1206-11",
-      "time": "2026-11-03T12:06",
-      "category": "scam",
-      "title": "【警戒】IPAが個人情報漏えいの被害者向けに相談窓口を拡充　フィッシング詐欺や二次被害への対処も助言",
-      "summary": [
-        "情報処理推進機構（IPA）は11月2日、個人向けの「情報セキュリティ安心相談窓口」を強化し、自分の情報が漏えいして不安な人の相談も受け付けると発表した。",
-        "従来はウイルスや不正アクセスの相談が中心だったが、フィッシング詐欺への対応や、漏えい後の二次被害のリスクを下げる対処も助言する。",
-        "相談は電話・メール・郵便・FAX・チャットボットで受け付け、日頃の対策のアドバイスも行う。"
-      ],
-      "jackView": "私は、流出の通知が相次ぐ今こそ、届いたメールやSMSのリンクを開く前に公的な窓口へ相談する習慣が大事だと見ています。お詫びや補償を装って連絡してくる手口に注意してください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "IPA プレスリリース 情報セキュリティ安心相談窓口の強化",
-          "url": "https://www.ipa.go.jp/pressrelease/2026/press20261102.html"
-        },
-        {
-          "title": "INTERNET Watch IPAが個人情報漏えいの被害者に向けて相談窓口を強化",
-          "url": "https://internet.watch.impress.co.jp/docs/news/2153148.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
