@@ -1,6 +1,78 @@
 {
   "issues": [
     {
+      "id": "2026-11-12",
+      "number": 120,
+      "date": "2026-11-12",
+      "articles": [
+        {
+          "category": "money",
+          "title": "PayPay、不足分だけを1円単位でPayPay銀行から自動チャージする「PayPay残高連携」を開始　使わなかった残高は毎日自動で口座へ戻り、預金金利が付く",
+          "sourceDate": "2026-11-11",
+          "flash": [
+            "PayPayは11日、PayPay銀行の普通預金口座とつなぐ「PayPay残高連携」の提供を順次始めた。11月中旬をめどに対象の全ユーザーへ広げる。",
+            "支払いや送金で残高が足りないとき、不足分だけを1円単位で口座から自動チャージする。この支払いは「PayPayステップ」の対象で、PayPayポイント0.5%が付く。",
+            "その日に使わなかったPayPayマネーは1日1回、手数料無料で口座へ自動出金される。口座では預金金利の最大年0.7%とポイント年0.1%で、最大年0.8%相当（税引前）になる。"
+          ],
+          "comment": "残高に寝かせていたお金が毎日口座へ戻り、利息が付くようになる点が大きいと私は見ています。一方で、口座の残高が足りないと決済エラーになります。生活費の口座とつなぐ人は、引き落とし日の前後に残高が切れないかを先に確かめておきたいところです。今日はPayPayアプリを開き、残高連携の案内が自分に届いているかを確認してみてください。給与受け取り分とPayPayマネーライトは対象外です。",
+          "sources": [
+            {
+              "title": "PayPay プレスリリース「PayPay残高連携」を提供開始",
+              "url": "https://about.paypay.ne.jp/pr/20261111/01/"
+            },
+            {
+              "title": "Impress Watch PayPay、不足分は1円単位で自動チャージ「PayPay残高連携」",
+              "url": "https://www.watch.impress.co.jp/docs/news/2155523.html"
+            }
+          ],
+          "id": "2026-11-12-money",
+          "image": "https://images.pexels.com/photos/7680549/pexels-photo-7680549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "title": "AIで副業や個人事業の管理をする人は要確認。Claudeに表計算「Claude Sheets」とホワイトボードが追加　全ての有料プランで使え、xlsxやCSVへの書き出しにも対応",
+          "sourceDate": "2026-11-11",
+          "flash": [
+            "米アンソロピックは米国時間10日、AI「Claude」の中で使える表計算「Claude Sheets」、ホワイトボード「Claude Whiteboards」、データ分析の「Claude Data」を発表した。全ての有料プランで順次使えるようになる。",
+            "Claude Sheets は、チームとClaudeが一緒に表を作ってデータを整理する道具で、数式の作成・編集や複数のタブをまたぐ作業ができる。",
+            "当初は基本的な表計算の機能に限られ、順次強化する。Excel固有の機能が要るときは、xlsxかCSVで書き出して使う。"
+          ],
+          "comment": "収支表や案件の管理表、仕入れの一覧を、文章で頼むだけで作れる道具がまた1つ増えたと私は見ています。表計算が苦手で帳簿を後回しにしてきた人ほど、恩恵が大きいはずです。ただし、AIが作った数式が正しいとは限りません。有料プランの方は、今日まず先月の売上と経費の表を1枚作らせて、合計の数式を自分の目で確かめてみてください。仕事の数字をそのまま信じない使い方をおすすめします。",
+          "sources": [
+            {
+              "title": "Impress Watch Claude、Excel的な表計算「Claude Sheets」や「Claude Data」など新機能",
+              "url": "https://www.watch.impress.co.jp/docs/news/2155330.html"
+            },
+            {
+              "title": "Anthropic Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+              "url": "https://claude.com/ja/resources/articles/sheets-whiteboards-data"
+            }
+          ],
+          "id": "2026-11-12-sidehustle",
+          "image": "https://images.pexels.com/photos/31556530/pexels-photo-31556530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "title": "【警戒】「警察庁推奨アプリ」の偽サイトを確認。送信元「NPA」のSMSで「詐欺対策アプリをダウンロードしてください」と誘導する手口　10月末以降に不審メッセージ数百件",
+          "sourceDate": "2026-11-11",
+          "flash": [
+            "警察庁は11日、詐欺対策として利用を呼びかけている「警察庁推奨アプリ」のダウンロードページを装った偽サイトを確認したと発表した。",
+            "送信元を「NPA」としたSMSに「詐欺対策アプリをダウンロードしてください」という文面とURLが書かれ、開くとグーグルのアプリストアに似せたページに移る。",
+            "ダウンロードボタンを押して手続きを進めると、不審なファイルをダウンロードさせられる恐れがある。10月末以降、少なくとも数百件の不審メッセージが確認された。"
+          ],
+          "comment": "詐欺を防ごうとする真面目な人ほど引っかかる、たちの悪い手口だと私は考えています。警察を名乗るSMSでも、書かれたURLは開かないのが基本です。アプリを入れたい時は、警察庁の公式サイトか公式のアプリストアを自分で開いて探してください。今日は家族、とくに高齢の親御さんに「警察からアプリを入れろというSMSが来ても開かないで」と一言伝えておくことをおすすめします。",
+          "sources": [
+            {
+              "title": "日本経済新聞 詐欺対策装う警察偽サイト　不審メッセージ数百件（共同）",
+              "url": "https://www.nikkei.com/article/DGXZQOUD118CV0R11C26A1000000/"
+            }
+          ],
+          "id": "2026-11-12-scam",
+          "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11",
       "number": 119,
       "date": "2026-11-11",
