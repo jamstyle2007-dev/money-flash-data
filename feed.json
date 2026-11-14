@@ -1,43 +1,210 @@
 {
-  "updated": "2026-11-14T12:07",
+  "updated": "2026-11-14T19:00",
   "market": [
-    {
-      "symbol": "N225",
-      "name": "日経平均",
-      "value": "61,142",
-      "change": "+323",
-      "changePct": "+0.53%"
-    },
-    {
-      "symbol": "TOPIX",
-      "name": "TOPIX",
-      "value": "3,942",
-      "change": "+4",
-      "changePct": "+0.11%"
-    },
-    {
-      "symbol": "USDJPY",
-      "name": "ドル円",
-      "value": "159.66",
-      "change": "-0.19",
-      "changePct": "-0.12%"
-    },
-    {
-      "symbol": "SPX",
-      "name": "S&P500",
-      "value": "7,562",
-      "change": "-31",
-      "changePct": "-0.40%"
-    },
-    {
-      "symbol": "BTC",
-      "name": "BTC",
-      "value": "¥10.8M",
-      "change": "-3.9%",
-      "changePct": "-3.9%"
-    }
+    { "symbol": "N225", "name": "日経平均", "value": "61,142", "change": "+323", "changePct": "+0.53%" },
+    { "symbol": "TOPIX", "name": "TOPIX", "value": "3,942", "change": "+4", "changePct": "+0.11%" },
+    { "symbol": "USDJPY", "name": "ドル円", "value": "159.65", "change": "-0.20", "changePct": "-0.13%" },
+    { "symbol": "SPX", "name": "S&P500", "value": "7,562", "change": "-31", "changePct": "-0.40%" },
+    { "symbol": "BTC", "name": "BTC", "value": "¥10.7M", "change": "-2.7%", "changePct": "-2.7%" }
   ],
   "items": [
+    {
+      "id": "20261114-1852-01",
+      "time": "2026-11-14T18:52",
+      "category": "market",
+      "title": "【今週のまとめ】日経平均は週間3707円高の6万1142円で2週ぶり大幅反発、TOPIXも6.3%高　前週の急落を巻き戻す",
+      "summary": [
+        "13日終値の日経平均は6万1142円35銭で、前週末比3707円58銭（6.46%）高と2週ぶりに大幅上昇した。TOPIXは3941.57で前週末比6.3%高だった",
+        "前週末6日の3643円安の急落を巻き戻す買いが続き、9〜11日は3連騰。TSMCの好調な月次売上高や韓国株高も追い風になった。12日はエヌビディアCEO辞任を巡る不安で429円安と反落した",
+        "東証33業種はすべて上昇し、銀行や証券、保険など金融株も高かった。円は13日に一時1ドル160円台前半まで下げ、新発10年国債の利回りは一時2.875%まで上がった",
+        "来週は16日に7〜9月期GDP、17日（米国時間）にエヌビディア決算、19日にアンソロピックのナスダック上場、20日に10月の全国消費者物価指数が控える"
+      ],
+      "jackView": "私は、今週の上げの多くは前週の急落の巻き戻しで、200日移動平均線がある6万2000円近辺を超えられるかが次の分かれ目だと見ています。来週はエヌビディア決算とアンソロピック上場が続くので、AI・半導体株に偏った持ち方になっていないか、週末のうちに確かめておいてください。",
+      "sources": [
+        { "title": "今週の【早わかり株式市況】大幅反発、悲観ムードから一転してセンチメント回復（株探・Yahoo!ファイナンス）", "url": "https://finance.yahoo.co.jp/news/detail/9d76194f7a09d75f9715896c68810f581f9caaea" },
+        { "title": "来週の日経平均株価の予想レンジは5万9500～6万3500円（ダイヤモンド・ザイ）", "url": "https://diamond.jp/zai/articles/-/1075498" },
+        { "title": "債券15時　長期金利、一時2.875%に上昇　米利上げ観測高まる（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL1359M0T11C26A1000000/" }
+      ]
+    },
+    {
+      "id": "20261114-1852-02",
+      "time": "2026-11-14T18:52",
+      "category": "jpstock",
+      "title": "大手銀5社の今期純利益予想は合計7兆600億円で初の7兆円超え　上場地銀73社の中間決算も9割超が増益",
+      "summary": [
+        "三菱UFJフィナンシャル・グループなど大手銀行5社の27年3月期の純利益予想が13日に出そろい、合計7兆600億円と初めて7兆円を超えた。5社とも見通しを上方修正した",
+        "日銀の段階的な利上げで貸出金利が上がったことが追い風。達成すれば過去最高だった26年3月期の合計5兆8351億円を大きく上回る",
+        "上場地銀73社の9月中間決算は、純損益の合計が前年同期比34.2%増の1兆1240億円で、68社が増益だった。千葉銀行やめぶきFGなどは中間期として最高益を更新した",
+        "減益は4社で第二地銀が中心。高知銀行は決済代行会社の破産で与信関係費用が増え、赤字に転落した"
+      ],
+      "jackView": "私は、銀行の好決算が金利上昇という追い風に大きく支えられている点を見ています。地銀ではネット銀行との預金の奪い合いや取引先の破産で明暗も出始めているので、配当だけでなく預金の増減も確かめてください。",
+      "sources": [
+        { "title": "大手銀5社の通期純利益、7兆円超え　金利上昇が追い風、全社上方修正―27年3月期予想（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111300864&g=eco" },
+        { "title": "上場地銀、9割超が増益　金利上昇追い風―73社の中間決算（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111300876&g=eco" }
+      ]
+    },
+    {
+      "id": "20261114-1852-03",
+      "time": "2026-11-14T18:52",
+      "category": "jpstock",
+      "title": "ソニーのPS5、世界累計販売が1億台を突破　発売から6年、プレイステーションで4機種目の大台",
+      "summary": [
+        "ソニーによると、家庭用ゲーム機「プレイステーション5（PS5）」の世界累計販売台数（出荷ベース）が11月10日時点で1億台を超えた。2020年11月の発売から6年での到達",
+        "1億台を超えたPSは初代PS、PS2、PS4に次いで4機種目。最多はPS2で、2012年3月末時点で1億6000万台以上",
+        "発売から2年ほどは半導体不足などで品薄が続いた。ソニーは定額制サービスを重視しており、陶琳CFOは本体の新規販売が想定通り緩やかに減っていると説明している"
+      ],
+      "jackView": "私は、台数の節目よりも、すでに本体を持つ人が定額制サービスにお金を払い続けるかが今後の稼ぎ頭になると見ています。ゲーム関連の株を見るときは、販売台数より会員数と課金額の推移に目を向けてください。",
+      "sources": [
+        { "title": "PS5、販売1億台突破　発売6年で大台―ソニー（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111400107&g=eco" }
+      ]
+    },
+    {
+      "id": "20261114-1852-04",
+      "time": "2026-11-14T18:52",
+      "category": "market",
+      "title": "日本とフィリピンが石油備蓄協力の覚書へ　国家備蓄の制度づくりを官民で支援、フィリピンの備蓄は53日分で日本は207日分",
+      "summary": [
+        "日本とフィリピンが石油備蓄の協力を強める覚書を交わすことが14日に分かった。マニラでのアジア・ゼロエミッション共同体（AZEC）首脳会合を前に、週明けにも赤沢経済産業相らが署名する見込み",
+        "国家備蓄を制度にするためのシステム整備や、サウジアラビアやUAEなど産油国との連携を共同で検討する。千代田化工建設とフィリピン国営石油会社も、備蓄施設の技術支援で近く覚書を結ぶ予定",
+        "フィリピンは原油輸入の9割超を中東に頼り、備蓄は国内消費の53日分（5月3日時点）にとどまる。日本は国家備蓄を含め207日分",
+        "日本が4月に打ち出した総額100億ドルの金融支援の枠組み「パワー・アジア」の活用も選択肢になる見通し"
+      ],
+      "jackView": "私は、アジアの国々がホルムズ海峡の混乱を教訓に石油の備えを急いでいる点に注目しています。中東の情勢しだいで原油価格は上下に振れやすいので、ガソリン代など家計への影響は長い目で見ておいてください。",
+      "sources": [
+        { "title": "【独自】日本とフィリピン、石油備蓄協力で覚書　制度整備、官民で支援へ（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111400283&g=eco" }
+      ]
+    },
+    {
+      "id": "20261114-1852-05",
+      "time": "2026-11-14T18:52",
+      "category": "crypto",
+      "title": "ビットコイン、土曜夕方は1073万円で24時間2.7%安　ドル建ては6万7162ドル、6週連続の週間下落に向かう",
+      "summary": [
+        "CoinGeckoによると14日18時40分ごろのビットコインは1072万8749円で24時間2.7%安、ドル建ては6万7162ドル。イーサリアムは1907ドルで1.6%安だった",
+        "CoinDeskは13日、ビットコインは11月に入って11%安、年初来では21%安となり、6週連続の週間下落に向かっていると伝えた",
+        "19日に上場が見込まれるアンソロピックのIPOを巡り、Xapo BankのCEOは投資家が割り当てに備えてビットコインなど換金しやすい資産を売っているとの見方を示した",
+        "Farsideの集計では、米国の現物ビットコインETFは12日まで6営業日連続の資金流出で、この間の流出額は約14億4000万ドルに達した"
+      ],
+      "jackView": "私は、超大型IPOの前に換金しやすい資産から資金が抜けているという見方に注目しています。上場後にお金が戻るとは限らないので、値下がりしたからという理由だけで買い増しを急がないよう注意してください。",
+      "sources": [
+        { "title": "Bitcoin heads for sixth weekly loss as Anthropic's blockbuster IPO looms（CoinDesk）", "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms" },
+        { "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters（CoinDesk）", "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off" },
+        { "title": "Bitcoin hits 12-week low as dollar rallies on interest rate outlook, liquidations top $1.6 billion（CoinDesk）", "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion" },
+        { "title": "CoinGecko API（simple/price ビットコイン・イーサリアム）", "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=jpy,usd&include_24hr_change=true" }
+      ]
+    },
+    {
+      "id": "20261114-1852-06",
+      "time": "2026-11-14T18:52",
+      "category": "crypto",
+      "title": "ストラテジーCEO、MSCI指数除外の影響は「限定的」　指数連動の保有は株式の3%と説明、JPモルガンは同社株を36%積み増し",
+      "summary": [
+        "ビットコインを大量に持つ米ストラテジーのフォン・リーCEOは13日、CNBCに対し、MSCI指数に連動して保有されている同社株は全体の3%にとどまると述べた",
+        "MSCIは同社を「MSCI USA」など世界の指数から外すと決めており、11月30日の取引終了時点で発効する。指数連動ファンドは同社株を売る必要があるが、同社にビットコインを売る義務は生じない",
+        "JPモルガンの13F報告によると、9月末時点のストラテジー株の保有は84万8932株で前期から36%増えた。ブラックロックの現物ビットコインETF「IBIT」も9.6%増の1140万8930株を持つ"
+      ],
+      "jackView": "私は、指数から外れる30日の前後は指数連動ファンドの売りで、ストラテジー株の値動きが荒くなりやすい点に注意しています。ビットコイン保有企業の株は、ビットコイン本体より大きく振れることがあると見ています。",
+      "sources": [
+        { "title": "ストラテジーCEO「MSCI指数連動の株式はわずか3％で除外の影響は限定的」（CoinPost）", "url": "https://coinpost.jp/?p=747940" },
+        { "title": "JPモルガン、ストラテジー株を36％積み増し、仮想通貨関連保有は1600億円近く（CoinPost）", "url": "https://coinpost.jp/?p=747926" }
+      ]
+    },
+    {
+      "id": "20261114-1852-07",
+      "time": "2026-11-14T18:52",
+      "category": "seido",
+      "title": "食料品の消費減税法案、参院では与党が過半数に届かず公明の21議席が焦点　自民は12月2日の採決をめざす",
+      "summary": [
+        "食料品の消費税を減らす関連法案の参院特別委員会での審議が始まった。自民・維新の与党は119議席で、賛成方針の日本保守党の2議席を加えても過半数の123に2議席足りない",
+        "衆院の採決では自民から4人が退席しており、確実に過半数を得るには公明の21議席が必要との判断がある",
+        "公明の西田実仁幹事長は年金生活者への給付など5項目の要求を改めて示し、政府が一括で回答しなければ厳しく対応するとしている",
+        "会期末は12月12日で、自民は12月2日の参院採決をめざす。法案は27年4月から2年間、食料品の税率を8%から1%に下げる内容"
+      ],
+      "jackView": "私は、公明の要求に年金生活者への給付が入っている点に注目しています。政府の回答しだいで支援の対象が広がる可能性もあるので、年金で暮らす家族がいる方は続報を確かめてください。",
+      "sources": [
+        { "title": "高市首相、公明取り込みへ攻勢　過半数確保に危機感―消費減税法案（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111301111&g=pol" },
+        { "title": "首相「先行支給は最大2万5000円」　所得連動給付、勤労者5割以上に（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUA135XB0T11C26A1000000/" }
+      ]
+    },
+    {
+      "id": "20261114-1852-08",
+      "time": "2026-11-14T18:52",
+      "category": "seido",
+      "title": "27〜31年度の防衛予算、5年総額60兆円を軸に調整　防衛省は最大80兆円、財務省は50兆円台を主張し財源の増税が焦点に",
+      "summary": [
+        "政府は2027〜31年度の5年間の防衛予算について、総額60兆円規模を軸に調整に入った。複数の関係者が13日に明らかにした",
+        "防衛省は70兆〜80兆円と試算し、財務省は50兆円台を主張している。現行計画は23〜27年度の5年間で43兆円",
+        "政府は恒久財源で賄う考えで、高官は必要なら増税も国債の増発も避けられないと話す。一方、高市首相は消費減税を進める中での増税に後ろ向きで、経済界は法人税の増税に反対している"
+      ],
+      "jackView": "私は、防衛費の財源の議論が、年末の税制改正で所得税や法人税、たばこ税の負担にどう表れるかを見ています。減税と増税の話が同時に進むので、家計への影響は差し引きで考えるようにしてください。",
+      "sources": [
+        { "title": "防衛予算、60兆円軸　5年総額、財務・防衛攻防へ―高市首相、増税に消極的（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111301051&g=pol" }
+      ]
+    },
+    {
+      "id": "20261114-1852-09",
+      "time": "2026-11-14T18:52",
+      "category": "point",
+      "title": "Netflixが国内で2年ぶりに値上げ、広告付きプランは11%高の月990円　既存会員は12月14日から順次新料金に",
+      "summary": [
+        "動画配信のNetflixは国内の料金を引き上げた。広告付きプランは11%高の月990円、スタンダードは13%高の月1790円、プレミアムは13%高の月2590円",
+        "新規会員は14日から新料金となり、既存会員は12月14日から順次切り替わる。国内での値上げは2024年以来",
+        "米国では2026年3月に通常プランを2ドル上げ、月19.99ドルにしている"
+      ],
+      "jackView": "私は、サブスクの値上げは1件ずつは小さくても、積み重なると家計の固定費をじわじわ押し上げると見ています。12月14日の切り替え前に、使っていないサブスクがないかクレカの明細で確かめてみてください。",
+      "sources": [
+        { "title": "Netflixが値上げ、国内2年ぶり　広告付きプランは11%高の990円（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUC13CL30T11C26A1000000/" }
+      ]
+    },
+    {
+      "id": "20261114-1852-10",
+      "time": "2026-11-14T18:52",
+      "category": "sidehustle",
+      "title": "【続報】マイクロソフト365の大規模障害が全面復旧　原因は以前の設備増強の問題がネットワーク変更で表面化、サイバー攻撃は否定",
+      "summary": [
+        "米マイクロソフトは米国時間13日夜（日本時間14日午後）、OutlookやTeamsなどに影響した「マイクロソフト365」の大規模障害が全面復旧したと発表した",
+        "原因は、以前の設備増強で生じた問題が最近のネットワーク変更で表面化したためと説明し、サイバー攻撃やAIの暴走ではないとした",
+        "国内では政府の「ガバメントソリューションサービス（GSS）」にも影響が出た。日本時間13日夜には、アジア太平洋の一部で復旧が終わっていた",
+        "同社は「顧客にもたらした混乱を深く謝罪する」とし、調査を終えた後に報告書を公表するとしている"
+      ],
+      "jackView": "私は、障害の間に届かなかったメールや、送ったつもりで相手に届いていない連絡が残っていないかが気になります。副業で納品や請求のやり取りをした方は、13〜14日の送受信を一度見直してください。",
+      "sources": [
+        { "title": "大規模障害が全面復旧　顧客に混乱「深く謝罪」―米マイクロソフト（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111400326&g=int" },
+        { "title": "大規模障害、復旧進む　根本原因は対処―米マイクロソフト（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111400263&g=eco" }
+      ]
+    },
+    {
+      "id": "20261114-1852-11",
+      "time": "2026-11-14T18:52",
+      "category": "scam",
+      "title": "【警戒】サイバー攻撃による情報漏えい、10月は193件と前月の2倍超に　ダイソーの「パスワード管理ノート」が品薄、IPAは使い回しをやめるよう助言",
+      "summary": [
+        "MM総研の集計で、サイバー攻撃による情報漏えい事故は8月72件、9月81件、10月193件と急増した。漏えいしたログイン情報は10月末までの累計で約1億6100万件にのぼる",
+        "相次ぐ漏えいを受け、ダイソーの紙の「パスワード管理ノート」が10月下旬ごろから毎週売り上げを伸ばし、一時品切れになっている。11月に再入荷の予定",
+        "IPAは、サービスごとに15文字程度の別々のパスワードを使い、多要素認証やパスキーを有効にするよう勧める。紙で管理する場合は紛失や盗み見の恐れがあるとしている",
+        "無印良品のネットストアではリスト型攻撃が確認され、宝くじ公式サイトでも疑われている。IPAは心当たりのないメールやSMSは偽物と疑うよう呼びかけている"
+      ],
+      "jackView": "私が一番警戒しているのは、漏れたIDとパスワードを別のサイトで試すリスト型攻撃が、証券口座や通販サイトの乗っ取りにつながることです。お金に関わるサービスだけでも、パスワードの使い回しをやめてください。",
+      "jackLink": { "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）", "url": "https://jack-invest.com/learning/" },
+      "sources": [
+        { "title": "相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた（ITmedia NEWS）", "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/" }
+      ]
+    },
+    {
+      "id": "20261114-1852-12",
+      "time": "2026-11-14T18:52",
+      "category": "scam",
+      "title": "【警戒】内閣府の沖縄発信サイト「OKINAWA41」で5973人分の電話番号とメールアドレスが漏えいの恐れ　レンタルサーバーに不正アクセス",
+      "summary": [
+        "内閣府によると、沖縄の魅力を発信するサイト「OKINAWA41」で、写真を投稿する人が登録した電話番号とメールアドレス5973人分が漏えいした可能性がある",
+        "原因は、さくらインターネットが運営するレンタルサーバーへの不正アクセスとしている",
+        "別に「東南アジア青年の船」「世界青年の船」事業の委託先の商船三井クルーズが外部記憶媒体を紛失し、参加者の氏名・住所・旅券番号などが流出した可能性がある"
+      ],
+      "jackView": "私は、電話番号とメールアドレスがそろって漏れると、役所や事業者を名乗るSMSや電話の詐欺に使われやすい点を警戒しています。役所を名乗ってお金や個人情報の話をする連絡は、一度切って公式の窓口に確かめてください。",
+      "sources": [
+        { "title": "個人情報5973人分漏えいか　内閣府の沖縄事業巡り（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111301053&g=pol" }
+      ]
+    },
     {
       "id": "20261114-1206-01",
       "time": "2026-11-14T12:06",
@@ -51,18 +218,9 @@
       ],
       "jackView": "私は、17日のエヌビディア決算を来週いちばんの山場と見ています。CEOが交代した直後で、業績の数字に加えて今後の見通しの語り口に市場が敏感になりやすいからです。19日のアンソロピック上場も重なるので、AI・半導体関連の投資信託を持つ方は週の後半の値動きが荒くなる前提で構えてください。",
       "sources": [
-        {
-          "title": "来週の【重要イベント】米小売売上高、エヌビディア決算、全国消費者物価 (11月16日～22日)（株探）",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611140257"
-        },
-        {
-          "title": "来週の株式相場に向けて＝「エヌビディア」と「アンソロピック」に視線集中（株探）",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611131373"
-        },
-        {
-          "title": "米中ロ首脳が19日に初会談へ　ホワイトハウス発表「核削減を協議」（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN140CS0U6A111C2000000/"
-        }
+        { "title": "来週の【重要イベント】米小売売上高、エヌビディア決算、全国消費者物価 (11月16日～22日)（株探）", "url": "https://kabutan.jp/news/marketnews/?b=n202611140257" },
+        { "title": "来週の株式相場に向けて＝「エヌビディア」と「アンソロピック」に視線集中（株探）", "url": "https://kabutan.jp/news/marketnews/?b=n202611131373" },
+        { "title": "米中ロ首脳が19日に初会談へ　ホワイトハウス発表「核削減を協議」（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOGN140CS0U6A111C2000000/" }
       ],
       "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -78,14 +236,8 @@
       ],
       "jackView": "私は、米中の個別会談で関税や半導体の話がどこまで出るかに注目しています。合意を想定しない対話とされているので、期待だけで先回りした値動きには注意してください。",
       "sources": [
-        {
-          "title": "19日に米中ロ首脳会談　史上初、核軍縮やイラン協議（時事通信）",
-          "url": "https://www.jiji.com/jc/article?k=2026111400226&g=int"
-        },
-        {
-          "title": "米中ロ首脳が19日に初会談へ　ホワイトハウス発表「核削減を協議」（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN140CS0U6A111C2000000/"
-        }
+        { "title": "19日に米中ロ首脳会談　史上初、核軍縮やイラン協議（時事通信）", "url": "https://www.jiji.com/jc/article?k=2026111400226&g=int" },
+        { "title": "米中ロ首脳が19日に初会談へ　ホワイトハウス発表「核削減を協議」（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOGN140CS0U6A111C2000000/" }
       ],
       "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -101,10 +253,7 @@
       ],
       "jackView": "私は、ホルムズ海峡を巡る緊張が週明けの原油価格に響くかを見ています。原油高はガソリン代や電気代にも及ぶので、週明けの原油の値動きに注意してください。",
       "sources": [
-        {
-          "title": "バーレーンの米施設攻撃を発表　ホルムズ巡り「重大な警告」―イラン（時事通信）",
-          "url": "https://www.jiji.com/jc/article?k=2026111300924&g=int"
-        }
+        { "title": "バーレーンの米施設攻撃を発表　ホルムズ巡り「重大な警告」―イラン（時事通信）", "url": "https://www.jiji.com/jc/article?k=2026111300924&g=int" }
       ],
       "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -121,10 +270,7 @@
       ],
       "jackView": "私は、中央銀行がAI株の高値を名指しで警戒した点を重く見ています。米国株の投資信託を持つ方は、組み入れ上位にAI関連がどれだけあるかを一度確かめておいてください。",
       "sources": [
-        {
-          "title": "金融安定リスク、「AI」最多　株価高騰に懸念―米FRB報告（時事通信）",
-          "url": "https://www.jiji.com/jc/article?k=2026111400230&g=int"
-        }
+        { "title": "金融安定リスク、「AI」最多　株価高騰に懸念―米FRB報告（時事通信）", "url": "https://www.jiji.com/jc/article?k=2026111400230&g=int" }
       ],
       "image": "https://images.pexels.com/photos/10780842/pexels-photo-10780842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -140,10 +286,7 @@
       ],
       "jackView": "私は、輸出規制の対象が広がると米半導体株の売上見通しに響くかに注目しています。規制の範囲がどこまで広がるかの続報に注意してください。",
       "sources": [
-        {
-          "title": "疑惑企業への輸出規制主張　エヌビディア半導体で―米財務長官（時事通信）",
-          "url": "https://www.jiji.com/jc/article?k=2026111400169&g=int"
-        }
+        { "title": "疑惑企業への輸出規制主張　エヌビディア半導体で―米財務長官（時事通信）", "url": "https://www.jiji.com/jc/article?k=2026111400169&g=int" }
       ],
       "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -159,10 +302,7 @@
       ],
       "jackView": "私は、本業の住宅受注への影響と、追加の調査結果や業績への影響額の開示に注目しています。保険の手数料収入は小さく見えても、信頼の傷が受注に響くことがあるので、週明けの値動きだけで判断しないようにしてください。",
       "sources": [
-        {
-          "title": "タマホームが保険代理業を廃業へ　損保各社に申し入れ、不正請求問題（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUC140J50U6A111C2000000/"
-        }
+        { "title": "タマホームが保険代理業を廃業へ　損保各社に申し入れ、不正請求問題（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUC140J50U6A111C2000000/" }
       ],
       "image": "https://images.pexels.com/photos/5833758/pexels-photo-5833758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -179,18 +319,9 @@
       ],
       "jackView": "私は、ビットコインを大量に持つ会社の株は、ビットコインの値動きと資金調達の環境の両方に左右される点に注意が要ると見ています。暗号資産関連株を持つ方は、決算の評価損益の振れ幅を一度確かめてください。",
       "sources": [
-        {
-          "title": "2026年12月期 第3四半期決算短信（メタプラネット、TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113578827.pdf"
-        },
-        {
-          "title": "業績予想の修正に関するお知らせ（メタプラネット、TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113578723.pdf"
-        },
-        {
-          "title": "営業外収益、営業外費用（ビットコイン評価損ほか）及び法人税等調整額の計上に関するお知らせ（メタプラネット、TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113578667.pdf"
-        }
+        { "title": "2026年12月期 第3四半期決算短信（メタプラネット、TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113578827.pdf" },
+        { "title": "業績予想の修正に関するお知らせ（メタプラネット、TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113578723.pdf" },
+        { "title": "営業外収益、営業外費用（ビットコイン評価損ほか）及び法人税等調整額の計上に関するお知らせ（メタプラネット、TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113578667.pdf" }
       ],
       "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -206,10 +337,7 @@
       ],
       "jackView": "私は、介護報酬の改定は職員の賃金だけでなく利用者の自己負担にもつながる点を見ておきたいです。家族が介護サービスを使っている方は、今後示される案を確かめてください。",
       "sources": [
-        {
-          "title": "生産性向上で介護の賃上げ加算上乗せ、厚労省が継続検討　27年度改定で（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA12BY20S6A111C2000000/"
-        }
+        { "title": "生産性向上で介護の賃上げ加算上乗せ、厚労省が継続検討　27年度改定で（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUA12BY20S6A111C2000000/" }
       ],
       "image": "https://images.pexels.com/photos/7247410/pexels-photo-7247410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -226,18 +354,9 @@
       ],
       "jackView": "私は、流出したLINEの情報を使って京阪を装う詐欺メッセージが届くことを心配しています。心当たりのないURLは開かず、公式アプリやサイトから確かめてください。",
       "sources": [
-        {
-          "title": "【お詫び】お客さま情報の流出に関するお詫びとお知らせ（京阪ホールディングス）",
-          "url": "https://www.keihan.co.jp/corporate/info/release/assets/261114_keihan-holdings.pdf"
-        },
-        {
-          "title": "京阪HDで情報流出か　ラインIDなど25万人分（47NEWS・共同通信）",
-          "url": "https://www.47news.jp/15229030.html"
-        },
-        {
-          "title": "「COMSBI（SaaS版）」への不正アクセスによる個人情報の漏えいに関するお知らせとお詫び（ソニックムーブ）",
-          "url": "https://sonicmoov.com/news/5ttj9ndzh"
-        }
+        { "title": "【お詫び】お客さま情報の流出に関するお詫びとお知らせ（京阪ホールディングス）", "url": "https://www.keihan.co.jp/corporate/info/release/assets/261114_keihan-holdings.pdf" },
+        { "title": "京阪HDで情報流出か　ラインIDなど25万人分（47NEWS・共同通信）", "url": "https://www.47news.jp/15229030.html" },
+        { "title": "「COMSBI（SaaS版）」への不正アクセスによる個人情報の漏えいに関するお知らせとお詫び（ソニックムーブ）", "url": "https://sonicmoov.com/news/5ttj9ndzh" }
       ],
       "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -253,19 +372,10 @@
         "4人に金銭被害はなかったが、暗号資産の口座を開いた人もいた。警視庁は「警察からこうした電話をかけることはない」としている"
       ],
       "jackView": "私は、実在する警察署の住所を使って本物らしく見せる点が厄介だと見ています。警察を名乗る電話でLINEに誘われたら一度切り、自分で調べた番号にかけ直してください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
+      "jackLink": { "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）", "url": "https://jack-invest.com/learning/" },
       "sources": [
-        {
-          "title": "「筆跡鑑定が必要」に注意　警察署へ手書きの郵送指示―特殊詐欺で新手口・警視庁（時事ドットコム）",
-          "url": "https://www.jiji.com/jc/article?k=2026111300694&g=soc"
-        },
-        {
-          "title": "「筆跡鑑定が必要」に注意、警察署へ手書き郵送指示　特殊詐欺で新手口（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUD135RZ0T11C26A1000000/"
-        }
+        { "title": "「筆跡鑑定が必要」に注意　警察署へ手書きの郵送指示―特殊詐欺で新手口・警視庁（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111300694&g=soc" },
+        { "title": "「筆跡鑑定が必要」に注意、警察署へ手書き郵送指示　特殊詐欺で新手口（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUD135RZ0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/7434621/pexels-photo-7434621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -281,23 +391,11 @@
         "大阪取引所の日経225先物12月限は夜間取引を150円安の6万1000円で終え、13日の日経平均終値を142円下回った"
       ],
       "jackView": "私は、ダウが上げる一方でSOXが3%超下げた点を重く見ています。来週の東京市場は半導体株とそれ以外で値動きが分かれやすいので、日経平均だけでなくTOPIXの動きも合わせて見てください。",
-      "jackLink": {
-        "title": "マネーラボで米国株の動きを深掘り",
-        "url": "https://jack-money-lab.com"
-      },
+      "jackLink": { "title": "マネーラボで米国株の動きを深掘り", "url": "https://jack-money-lab.com" },
       "sources": [
-        {
-          "title": "米国株15時、ダウ小幅反発　消費関連株の一角には買い　AIの先行き不透明感は重荷（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL13D6E0T11C26A1000000/"
-        },
-        {
-          "title": "日経225先物：14日夜間取引終値＝150円安、6万1000円（株探）",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611140066"
-        },
-        {
-          "title": "米長期金利5%台続く　インフレ再燃、トランプ関税以来の週間上げ幅（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN13D8L0T11C26A1000000/"
-        }
+        { "title": "米国株15時、ダウ小幅反発　消費関連株の一角には買い　AIの先行き不透明感は重荷（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL13D6E0T11C26A1000000/" },
+        { "title": "日経225先物：14日夜間取引終値＝150円安、6万1000円（株探）", "url": "https://kabutan.jp/news/marketnews/?b=n202611140066" },
+        { "title": "米長期金利5%台続く　インフレ再燃、トランプ関税以来の週間上げ幅（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOGN13D8L0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -314,14 +412,8 @@
       ],
       "jackView": "私は、前月比よりも前年比6.5%という水準のほうを重く見ています。企業の仕入れ値の上昇は遅れて店頭の値段に出やすいので、来月の物価統計まで利上げ観測は続くと見ています。",
       "sources": [
-        {
-          "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
-        },
-        {
-          "title": "10月米卸売物価、3カ月ぶり低水準　燃料費映す指数が低下（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN12CYR0S6A111C2000000/"
-        }
+        { "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years（CNBC）", "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html" },
+        { "title": "10月米卸売物価、3カ月ぶり低水準　燃料費映す指数が低下（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOGN12CYR0S6A111C2000000/" }
       ],
       "image": "https://images.pexels.com/photos/479356/pexels-photo-479356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -337,14 +429,8 @@
       ],
       "jackView": "私は、米長期金利が5%台に居座る間は円安の圧力が続きやすいと見ています。160円近辺では日本の財務省の介入への警戒も強く、急に上下に振れる点に注意してください。",
       "sources": [
-        {
-          "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
-        },
-        {
-          "title": "米長期金利5%台続く　インフレ再燃、トランプ関税以来の週間上げ幅（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN13D8L0T11C26A1000000/"
-        }
+        { "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report（CNBC）", "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html" },
+        { "title": "米長期金利5%台続く　インフレ再燃、トランプ関税以来の週間上げ幅（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOGN13D8L0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -361,14 +447,8 @@
       ],
       "jackView": "私は、後任が社内から出るか社外から来るかで市場の受け止めが大きく変わると見ています。報道で候補の名前が出るたびに株価が振れやすい点に注意してください。",
       "sources": [
-        {
-          "title": "Nvidia hasn't selected search firm for permanent Huang replacement, board tells CNBC（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
-        },
-        {
-          "title": "NVIDIAファン氏後任選び、英アームのハース氏に接触　FT報道（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN13D8S0T11C26A1000000/"
-        }
+        { "title": "Nvidia hasn't selected search firm for permanent Huang replacement, board tells CNBC（CNBC）", "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html" },
+        { "title": "NVIDIAファン氏後任選び、英アームのハース氏に接触　FT報道（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOGN13D8S0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/10780842/pexels-photo-10780842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -384,14 +464,8 @@
       ],
       "jackView": "私は、同じAI関連でも銘柄ごとに明暗が分かれ始めた点に注目しています。同じテーマの投資信託でも中身で値動きが変わるので、組み入れ上位を確かめておくと安心です。",
       "sources": [
-        {
-          "title": "米国株15時、ダウ小幅反発　消費関連株の一角には買い　AIの先行き不透明感は重荷（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL13D6E0T11C26A1000000/"
-        },
-        {
-          "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
-        }
+        { "title": "米国株15時、ダウ小幅反発　消費関連株の一角には買い　AIの先行き不透明感は重荷（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL13D6E0T11C26A1000000/" },
+        { "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal（CNBC）", "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html" }
       ],
       "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -408,18 +482,9 @@
       ],
       "jackView": "私は、優待目当てで持っている方こそ、TOB価格と市場の株価の差と優待の廃止を合わせて確かめてほしいと考えます。応募するか市場で売るかは、手数料や税金も含めて比べてください。",
       "sources": [
-        {
-          "title": "ワタミ　MBOの実施及び応募の推奨に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113580345.pdf"
-        },
-        {
-          "title": "ワタミ　配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113580317.pdf"
-        },
-        {
-          "title": "ワタミ、320億円でMBO　大株主サントリーとの資本関係は維持（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUC13BAB0T11C26A1000000/"
-        }
+        { "title": "ワタミ　MBOの実施及び応募の推奨に関するお知らせ（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113580345.pdf" },
+        { "title": "ワタミ　配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113580317.pdf" },
+        { "title": "ワタミ、320億円でMBO　大株主サントリーとの資本関係は維持（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUC13BAB0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/5833758/pexels-photo-5833758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -436,14 +501,8 @@
       ],
       "jackView": "私は、原油の売りの理由が中東からの供給回復にある点に注目しています。米イランの協議が崩れれば再び上がりうるので、ガソリン代など家計への影響は上下の両方を見ておいてください。",
       "sources": [
-        {
-          "title": "NY商品、原油反落　原油の需給緩和の思惑で　金は小反発（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL13CXE0T11C26A1000000/"
-        },
-        {
-          "title": "ＮＹ各市場　５時台　ダウ平均は小幅高　ナスダックはマイナス圏での推移（株探）",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611140057"
-        }
+        { "title": "NY商品、原油反落　原油の需給緩和の思惑で　金は小反発（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL13CXE0T11C26A1000000/" },
+        { "title": "ＮＹ各市場　５時台　ダウ平均は小幅高　ナスダックはマイナス圏での推移（株探）", "url": "https://kabutan.jp/news/marketnews/?b=n202611140057" }
       ],
       "image": "https://images.pexels.com/photos/16594725/pexels-photo-16594725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -460,14 +519,8 @@
       ],
       "jackView": "私は、米長期金利が5%台で高止まりする間は、ビットコインのような値動きの大きい資産に買いが戻りにくいと見ています。レバレッジを掛けた取引は強制決済に巻き込まれやすいので注意してください。",
       "sources": [
-        {
-          "title": "CoinGecko API（simple/price ビットコイン・イーサリアム）",
-          "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=jpy,usd&include_24hr_change=true"
-        },
-        {
-          "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters（The Block）",
-          "url": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643"
-        }
+        { "title": "CoinGecko API（simple/price ビットコイン・イーサリアム）", "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=jpy,usd&include_24hr_change=true" },
+        { "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters（The Block）", "url": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643" }
       ],
       "image": "https://images.pexels.com/photos/14358448/pexels-photo-14358448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -483,10 +536,7 @@
       ],
       "jackView": "私は、家族に心当たりがあっても制度を知らないまま期限を迎える人が多い点を気にしています。受け取るには裁判所への提訴が必要なので、まず厚生労働省の案内で条件を確かめてください。",
       "sources": [
-        {
-          "title": "B型肝炎給付金の請求期限、32年3月末まで5年延長　改正法成立（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA131QB0T11C26A1000000/"
-        }
+        { "title": "B型肝炎給付金の請求期限、32年3月末まで5年延長　改正法成立（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUA131QB0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -502,10 +552,7 @@
       ],
       "jackView": "私は、50年ローンは返済が定年後まで続きやすく、金利が上がる局面では総返済額が膨らみやすい点に注意しています。借りる前に完済時の年齢と金利上昇時の返済額を試算してください。",
       "sources": [
-        {
-          "title": "50年住宅ローン、始まった融資引き締め　金融庁が問題視「新たな火種」（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUB12C1Q0S6A111C2000000/"
-        }
+        { "title": "50年住宅ローン、始まった融資引き締め　金融庁が問題視「新たな火種」（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUB12C1Q0S6A111C2000000/" }
       ],
       "image": "https://images.pexels.com/photos/31969951/pexels-photo-31969951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -522,14 +569,8 @@
       ],
       "jackView": "私は、AIに買い物を任せる流れがカードのポイントの貯め方まで変えていくと見ています。日本で始まった時は、承認の手順と利用明細の確認をいつも以上にこまめにしてください。",
       "sources": [
-        {
-          "title": "OpenAI launches ChatGPT Wallet, allowing its dots AI agents to make purchases（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
-        },
-        {
-          "title": "Introducing ChatGPT Wallet（OpenAI）",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet"
-        }
+        { "title": "OpenAI launches ChatGPT Wallet, allowing its dots AI agents to make purchases（CNBC）", "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html" },
+        { "title": "Introducing ChatGPT Wallet（OpenAI）", "url": "https://openai.com/index/introducing-chatgpt-wallet" }
       ],
       "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -545,10 +586,7 @@
       ],
       "jackView": "私は、AI Pro会員なら受け取っていないクレジットが残っているかもしれない点に注目しています。個人でツールを作る方は、前払い5ドルの条件と12カ月の期限を先に確かめてください。",
       "sources": [
-        {
-          "title": "Claim your Google Cloud Credits in Google AI Studio（Google公式ブログ）",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/"
-        }
+        { "title": "Claim your Google Cloud Credits in Google AI Studio（Google公式ブログ）", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/" }
       ],
       "image": "https://images.pexels.com/photos/163069/mobile-phone-money-banknotes-us-dollars-163069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -564,19 +602,10 @@
         "ウェブとアプリからの口座開設は停止中で、郵送の申込は受け付けている。漏えいが確認された対象者には順次連絡する"
       ],
       "jackView": "私が心配するのは、漏れたメールアドレスに証券会社を名乗る詐欺メールが届くことです。メール内のリンクからはログインせず、公式アプリやブックマークから開くようにしてください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
+      "jackLink": { "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）", "url": "https://jack-invest.com/learning/" },
       "sources": [
-        {
-          "title": "マネックス証券の口座開設システムに不正アクセス、最大約113万件のメールアドレス・1592件の本人確認書類画像が漏えいのおそれ（INTERNET Watch）",
-          "url": "https://internet.watch.impress.co.jp/docs/news/2156446.html"
-        },
-        {
-          "title": "マネックス証券 プレスリリース（11月13日）",
-          "url": "https://info.monex.co.jp/press/pdf/press2026_11_13_monex_pr.pdf"
-        }
+        { "title": "マネックス証券の口座開設システムに不正アクセス、最大約113万件のメールアドレス・1592件の本人確認書類画像が漏えいのおそれ（INTERNET Watch）", "url": "https://internet.watch.impress.co.jp/docs/news/2156446.html" },
+        { "title": "マネックス証券 プレスリリース（11月13日）", "url": "https://info.monex.co.jp/press/pdf/press2026_11_13_monex_pr.pdf" }
       ],
       "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -592,14 +621,8 @@
       ],
       "jackView": "私は、補償の話題に便乗して「補償金の受け取り手続き」をうたう詐欺メールや偽サイトが出てくることに注意しています。手続きは必ず会社の公式サイトから確かめてください。",
       "sources": [
-        {
-          "title": "GMOへの不正アクセス影響、30.5億円　顧客の損失補償やお見舞金（時事ドットコム）",
-          "url": "https://www.jiji.com/jc/article?k=2026111300807&g=eco"
-        },
-        {
-          "title": "「お名前.com」不正アクセス、補償申請約30億円に　GMOインターネットが決算説明会で謝罪（ITmedia NEWS）",
-          "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/"
-        }
+        { "title": "GMOへの不正アクセス影響、30.5億円　顧客の損失補償やお見舞金（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111300807&g=eco" },
+        { "title": "「お名前.com」不正アクセス、補償申請約30億円に　GMOインターネットが決算説明会で謝罪（ITmedia NEWS）", "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/" }
       ],
       "image": "https://images.pexels.com/photos/12821630/pexels-photo-12821630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -616,18 +639,9 @@
       ],
       "jackView": "私は、終値がSQ値の6万1414円を下回ったまま週末を迎えた点に注目しています。来週はエヌビディアの決算とアンソロピックの上場が続き、AI・半導体株の値動きが大きくなりやすいので、日々の上げ下げに振り回されず、持ち株や投信に占める半導体の比率を一度確かめておいてください。",
       "sources": [
-        {
-          "title": "東証大引け　日経平均は反発、322円高　海外勢の先物買いが主導（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL136400T11C26A1000000/"
-        },
-        {
-          "title": "最終清算数値・最終決済価格（日本取引所グループ）",
-          "url": "https://www.jpx.co.jp/markets/derivatives/special-quotation/index.html"
-        },
-        {
-          "title": "来週の株式相場に向けて＝「エヌビディア」と「アンソロピック」に視線集中（株探）",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611131373"
-        }
+        { "title": "東証大引け　日経平均は反発、322円高　海外勢の先物買いが主導（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL136400T11C26A1000000/" },
+        { "title": "最終清算数値・最終決済価格（日本取引所グループ）", "url": "https://www.jpx.co.jp/markets/derivatives/special-quotation/index.html" },
+        { "title": "来週の株式相場に向けて＝「エヌビディア」と「アンソロピック」に視線集中（株探）", "url": "https://kabutan.jp/news/marketnews/?b=n202611131373" }
       ],
       "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -643,18 +657,9 @@
       ],
       "jackView": "私は、3グループとも金利上昇による利ざやの改善が利益を押し上げている点に注目しています。配当や自社株買いだけで判断せず、金利がさらに上がった時の保有債券の評価損の大きさも決算資料で確かめてください。",
       "sources": [
-        {
-          "title": "三菱UFJ 通期業績目標の修正および期末配当予想の修正について（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113578527.pdf"
-        },
-        {
-          "title": "みずほFG、純利益2000億円上振れ最高益　27年3月期28%増1.6兆円（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUB125FK0S6A111C2000000/"
-        },
-        {
-          "title": "三井住友FG 自己株式取得に係る事項の決定および自己株式消却に係る事項の決定に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261110570782.pdf"
-        }
+        { "title": "三菱UFJ 通期業績目標の修正および期末配当予想の修正について（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113578527.pdf" },
+        { "title": "みずほFG、純利益2000億円上振れ最高益　27年3月期28%増1.6兆円（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUB125FK0S6A111C2000000/" },
+        { "title": "三井住友FG 自己株式取得に係る事項の決定および自己株式消却に係る事項の決定に関するお知らせ（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261110570782.pdf" }
       ],
       "image": "https://images.pexels.com/photos/27351445/pexels-photo-27351445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -670,18 +675,9 @@
       ],
       "jackView": "私は、ゆうちょ銀の上方修正が政策金利の引き上げの早さに支えられている点を見ています。金利の前提が変われば数字も動くので、配当を目当てにする人は来期以降の還元方針もあわせて確かめてください。",
       "sources": [
-        {
-          "title": "ゆうちょ銀行 2027年3月期の通期業績予想および期末配当予想の修正について（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261112576401.pdf"
-        },
-        {
-          "title": "日本郵政 株式会社ゆうちょ銀行株式の一部処分に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113579853.pdf"
-        },
-        {
-          "title": "かんぽ生命保険 通期連結業績予想及び期末配当予想の修正に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261112577372.pdf"
-        }
+        { "title": "ゆうちょ銀行 2027年3月期の通期業績予想および期末配当予想の修正について（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261112576401.pdf" },
+        { "title": "日本郵政 株式会社ゆうちょ銀行株式の一部処分に関するお知らせ（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113579853.pdf" },
+        { "title": "かんぽ生命保険 通期連結業績予想及び期末配当予想の修正に関するお知らせ（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261112577372.pdf" }
       ],
       "image": "https://images.pexels.com/photos/5831252/pexels-photo-5831252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -696,10 +692,7 @@
       ],
       "jackView": "私は、営業段階の利益が増えても最終損益の赤字が続いている点に注意しています。営業利益と最終損益の差がどこから生まれているのか、決算説明資料で内訳を確かめてみてください。",
       "sources": [
-        {
-          "title": "楽天グループ 2026年12月期 第3四半期決算短信〔IFRS〕（連結）（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261109569766.pdf"
-        }
+        { "title": "楽天グループ 2026年12月期 第3四半期決算短信〔IFRS〕（連結）（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261109569766.pdf" }
       ],
       "image": "https://images.pexels.com/photos/39449167/pexels-photo-39449167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -716,18 +709,9 @@
       ],
       "jackView": "160円の節目では当局のけん制と介入への警戒で円買いも入りやすく、私は週明けにかけて上下に大きく振れる点に注意しています。外貨の両替や外貨預金は一度にまとめず、分けて考えるのが無難です。",
       "sources": [
-        {
-          "title": "外為17時　円相場、5日続落　一時160円台前半　米利上げ観測で（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL137YY0T11C26A1000000/"
-        },
-        {
-          "title": "債券15時　長期金利、一時2.875%に上昇　米利上げ観測高まる（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL1359M0T11C26A1000000/"
-        },
-        {
-          "title": "円に再び介入警戒感　160円台に下落、薄れぬ「夏の記憶」（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUB131WU0T11C26A1000000/"
-        }
+        { "title": "外為17時　円相場、5日続落　一時160円台前半　米利上げ観測で（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL137YY0T11C26A1000000/" },
+        { "title": "債券15時　長期金利、一時2.875%に上昇　米利上げ観測高まる（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL1359M0T11C26A1000000/" },
+        { "title": "円に再び介入警戒感　160円台に下落、薄れぬ「夏の記憶」（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUB131WU0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -744,10 +728,7 @@
       ],
       "jackView": "卸売物価が予想を上回ると利上げ幅0.5%の観測が強まりやすく、私は米長期金利の上昇と円安が同時に進む点に注意しています。",
       "sources": [
-        {
-          "title": "Treasury yields rise as traders strengthen Fed rate hike bets（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
-        }
+        { "title": "Treasury yields rise as traders strengthen Fed rate hike bets（CNBC）", "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html" }
       ],
       "image": "https://images.pexels.com/photos/19691984/pexels-photo-19691984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -764,10 +745,7 @@
       ],
       "jackView": "来年の売上高を3倍とする見通しは市場予想をわずかに下回っており、私は時間外の急騰が本取引でも続くかどうかに注意しています。",
       "sources": [
-        {
-          "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
-        }
+        { "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal（CNBC）", "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html" }
       ],
       "image": "https://images.pexels.com/photos/33471680/pexels-photo-33471680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -784,18 +762,9 @@
       ],
       "jackView": "私は、ドル高と米金利高が続く間は暗号資産の戻りは鈍いと見ています。強制決済が連鎖しやすい局面なので、借り入れを使った取引は控えめにしてください。",
       "sources": [
-        {
-          "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high（CoinDesk）",
-          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
-        },
-        {
-          "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year（CoinDesk）",
-          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
-        },
-        {
-          "title": "ビットコイン価格（CoinGecko）",
-          "url": "https://www.coingecko.com/ja/coins/bitcoin"
-        }
+        { "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high（CoinDesk）", "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace" },
+        { "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year（CoinDesk）", "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year" },
+        { "title": "ビットコイン価格（CoinGecko）", "url": "https://www.coingecko.com/ja/coins/bitcoin" }
       ],
       "image": "https://images.pexels.com/photos/1036636/pexels-photo-1036636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -812,14 +781,8 @@
       ],
       "jackView": "私は、支給額より所得上限額がどこで線引きされるかが大事だと見ています。年末の予算編成で示される対象の基準を確かめ、自分の世帯が入るかを見ておいてください。",
       "sources": [
-        {
-          "title": "支援金、勤労者5割対象　子2人世帯で最大6万円（時事ドットコム）",
-          "url": "https://www.jiji.com/jc/article?k=2026111300707&g=pol"
-        },
-        {
-          "title": "首相「先行支給は最大2万5000円」　所得連動給付、勤労者5割以上に（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA135XB0T11C26A1000000/"
-        }
+        { "title": "支援金、勤労者5割対象　子2人世帯で最大6万円（時事ドットコム）", "url": "https://www.jiji.com/jc/article?k=2026111300707&g=pol" },
+        { "title": "首相「先行支給は最大2万5000円」　所得連動給付、勤労者5割以上に（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUA135XB0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -835,10 +798,7 @@
       ],
       "jackView": "SNSや動画の副業をしている人には、撮影や編集の手間を減らせる道具だと私は見ています。生成した人物や映像を投稿や販売に使う前に、Flowの利用規約と商用利用の条件を確かめてください。",
       "sources": [
-        {
-          "title": "5 new Google Flow Tools designed by visual artists（Google公式ブログ）",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"
-        }
+        { "title": "5 new Google Flow Tools designed by visual artists（Google公式ブログ）", "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/" }
       ],
       "image": "https://images.pexels.com/photos/3811593/pexels-photo-3811593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -853,19 +813,10 @@
         "スマートフォンのOSアカウントが乗っ取られ、保存していた証券口座のパスワードやパスキーが悪用された疑いの事案も見つかっている。"
       ],
       "jackView": "私は、パスキーにしてもスマホ本体のアカウントを乗っ取られると守り切れない点に注意しています。AppleやGoogleのアカウントの2段階認証を確かめ、偽のログイン画面に入力させる詐欺にも気をつけてください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
+      "jackLink": { "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）", "url": "https://jack-invest.com/learning/" },
       "sources": [
-        {
-          "title": "証券会社の不正売買が増加、10月は80億円　金融庁（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUB137OI0T11C26A1000000/"
-        },
-        {
-          "title": "インターネット取引サービスへの不正アクセス・不正取引による被害にご注意ください（金融庁）",
-          "url": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html"
-        }
+        { "title": "証券会社の不正売買が増加、10月は80億円　金融庁（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUB137OI0T11C26A1000000/" },
+        { "title": "インターネット取引サービスへの不正アクセス・不正取引による被害にご注意ください（金融庁）", "url": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html" }
       ],
       "image": "https://images.pexels.com/photos/10344214/pexels-photo-10344214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -881,10 +832,7 @@
       ],
       "jackView": "私は、市役所を名乗ってIDやパスワード、生年月日を聞くメールは詐欺と見て入力しないことが大事だと考えています。この件に便乗した不審なメールが届いても、リンクは開かないでください。",
       "sources": [
-        {
-          "title": "大阪市、行政システムでメアド漏洩107万件　アララ不正アクセスで（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUF135II0T11C26A1000000/"
-        }
+        { "title": "大阪市、行政システムでメアド漏洩107万件　アララ不正アクセスで（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUF135II0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/39624/padlock-lock-chain-key-39624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -901,14 +849,8 @@
       ],
       "jackView": "私は前日の下げを先取りした分の買い戻しが中心と見ています。節目の6万2000円付近では売りも出ているので、午後に上げ幅が縮む展開にも気をつけてください。",
       "sources": [
-        {
-          "title": "東証前引け　日経平均は反発　一時上げ幅1000円超、海外勢が先物買い（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL1321T0T11C26A1000000/"
-        },
-        {
-          "title": "東京株式（前引け）＝前日比997円高、米市場下落も買い戻しが流入（株探）",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611130761"
-        }
+        { "title": "東証前引け　日経平均は反発　一時上げ幅1000円超、海外勢が先物買い（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL1321T0T11C26A1000000/" },
+        { "title": "東京株式（前引け）＝前日比997円高、米市場下落も買い戻しが流入（株探）", "url": "https://kabutan.jp/news/marketnews/?b=n202611130761" }
       ],
       "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -924,18 +866,9 @@
       ],
       "jackView": "私は上方修正の中身が国内建築の工程の前倒しである点に注目しています。株探の試算では下期の経常利益は前年同期より減る計算なので、来期の受注の勢いも確かめてください。",
       "sources": [
-        {
-          "title": "大林組 通期業績予想の修正に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261112576600.pdf"
-        },
-        {
-          "title": "大林組 自己株式取得に係る事項の決定に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261112576731.pdf"
-        },
-        {
-          "title": "大林組、今期経常を一転3%増益に上方修正・最高益更新へ（株探）",
-          "url": "https://kabutan.jp/news/marketnews/?b=k202611130039"
-        }
+        { "title": "大林組 通期業績予想の修正に関するお知らせ（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261112576600.pdf" },
+        { "title": "大林組 自己株式取得に係る事項の決定に関するお知らせ（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261112576731.pdf" },
+        { "title": "大林組、今期経常を一転3%増益に上方修正・最高益更新へ（株探）", "url": "https://kabutan.jp/news/marketnews/?b=k202611130039" }
       ],
       "image": "https://images.pexels.com/photos/3013999/pexels-photo-3013999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -951,14 +884,8 @@
       ],
       "jackView": "私は買付価格が決まる前の気配値だけで判断するのは危ういと考えています。正式な開示で価格と期間を確かめ、成立すれば上場廃止になる点にも注意してください。",
       "sources": [
-        {
-          "title": "ワタミ株価がストップ高気配　MBO報道、会社側も検討認める（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL1313D0T11C26A1000000/"
-        },
-        {
-          "title": "ワタミ 本日の一部報道について（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261113577627.pdf"
-        }
+        { "title": "ワタミ株価がストップ高気配　MBO報道、会社側も検討認める（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL1313D0T11C26A1000000/" },
+        { "title": "ワタミ 本日の一部報道について（TDnet）", "url": "https://www.release.tdnet.info/inbs/140120261113577627.pdf" }
       ],
       "image": "https://images.pexels.com/photos/5833757/pexels-photo-5833757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -975,14 +902,8 @@
       ],
       "jackView": "私は、財務相の言葉が「一方的に急激」まで強まった点に注意しています。介入が入ると円相場は短い時間で数円動くことがあるので、外貨への両替や外貨建て商品の購入は時期を分けて考えたいところです。",
       "sources": [
-        {
-          "title": "片山財務相「一方的に急激な動き」、円相場一時160円台（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA121EF0S6A111C2000000/"
-        },
-        {
-          "title": "外為10時　円相場、下げ渋り　159円台後半　片山財務相「一方的に急激な動き」（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL131AG0T11C26A1000000/"
-        }
+        { "title": "片山財務相「一方的に急激な動き」、円相場一時160円台（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUA121EF0S6A111C2000000/" },
+        { "title": "外為10時　円相場、下げ渋り　159円台後半　片山財務相「一方的に急激な動き」（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL131AG0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/4968639/pexels-photo-4968639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -998,10 +919,7 @@
       ],
       "jackView": "私は、住宅ローンの固定金利が長期金利を目安に毎月決まる点に注意しています。これから固定で借りる人や借り換えを考えている人は、来月の適用金利が上がる場合も考えて返済額を見積もっておくと安心です。",
       "sources": [
-        {
-          "title": "債券11時　長期金利、2.870%に上昇　米長期金利の上昇で（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOFL130CS0T11C26A1000000/"
-        }
+        { "title": "債券11時　長期金利、2.870%に上昇　米長期金利の上昇で（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOFL130CS0T11C26A1000000/" }
       ],
       "image": "https://images.pexels.com/photos/7412089/pexels-photo-7412089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -1018,10 +936,7 @@
       ],
       "jackView": "私は、AI向けの投資が半導体だけでなく、データセンターをつなぐ通信機器にも広がっている点を見ています。米国株の投信を持つ人は、AI関連の決算がハイテク株全体の値動きにつながりやすいことを頭に置いておいてください。",
       "sources": [
-        {
-          "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
-        }
+        { "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year（CNBC）", "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html" }
       ],
       "image": "https://images.pexels.com/photos/19691984/pexels-photo-19691984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -1038,18 +953,9 @@
       ],
       "jackView": "私は7万ドルという節目を割り込むかどうかに注目しています。MSCIの除外が発効する30日までは関連株の売りが続く恐れがあり、値動きが荒くなりやすい点に注意してください。",
       "sources": [
-        {
-          "title": "CoinGecko ビットコイン価格",
-          "url": "https://www.coingecko.com/ja/coins/bitcoin"
-        },
-        {
-          "title": "CoinPost ビットコイン約12週間ぶりの安値に、7万1200ドルまで下落",
-          "url": "https://coinpost.jp/?p=747702"
-        },
-        {
-          "title": "The Block Bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets",
-          "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
-        }
+        { "title": "CoinGecko ビットコイン価格", "url": "https://www.coingecko.com/ja/coins/bitcoin" },
+        { "title": "CoinPost ビットコイン約12週間ぶりの安値に、7万1200ドルまで下落", "url": "https://coinpost.jp/?p=747702" },
+        { "title": "The Block Bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets", "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992" }
       ],
       "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -1066,18 +972,9 @@
       ],
       "jackView": "私は凍結や押収が進んでも、盗まれた資産が全て戻るまでには時間がかかると見ています。ビデオ会議に誘われ、エラー修復を名目にソフトの導入を求められたら詐欺を疑ってください。",
       "sources": [
-        {
-          "title": "米司法省 Justice Department Announces Actions to Disrupt North Korea's Massive Theft of Cryptocurrency",
-          "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency"
-        },
-        {
-          "title": "CoinPost 米司法省、北朝鮮がバイナンスから盗んだ1910億円超の仮想通貨を差し押さえ",
-          "url": "https://coinpost.jp/?p=747698"
-        },
-        {
-          "title": "CoinPost バイナンス、ハッキング被害の補填を完了",
-          "url": "https://coinpost.jp/?p=747700"
-        }
+        { "title": "米司法省 Justice Department Announces Actions to Disrupt North Korea's Massive Theft of Cryptocurrency", "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency" },
+        { "title": "CoinPost 米司法省、北朝鮮がバイナンスから盗んだ1910億円超の仮想通貨を差し押さえ", "url": "https://coinpost.jp/?p=747698" },
+        { "title": "CoinPost バイナンス、ハッキング被害の補填を完了", "url": "https://coinpost.jp/?p=747700" }
       ],
       "image": "https://images.pexels.com/photos/1036636/pexels-photo-1036636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -1094,14 +991,8 @@
       ],
       "jackView": "私は、灯油やLPガスの支援が国の一律の値引きではなく、自治体への交付金を通じた形になる点に注意しています。対象や時期は住む市区町村で違うので、広報やサイトを確かめてください。",
       "sources": [
-        {
-          "title": "冬の電気・ガス代補助に6500億円　予備費支出を閣議決定（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA1313U0T11C26A1000000/"
-        },
-        {
-          "title": "電気・ガス補助に6519億円　灯油も支援―政府（時事通信）",
-          "url": "https://www.jiji.com/jc/article?k=2026111300437&g=eco"
-        }
+        { "title": "冬の電気・ガス代補助に6500億円　予備費支出を閣議決定（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUA1313U0T11C26A1000000/" },
+        { "title": "電気・ガス補助に6519億円　灯油も支援―政府（時事通信）", "url": "https://www.jiji.com/jc/article?k=2026111300437&g=eco" }
       ],
       "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -1118,10 +1009,7 @@
       ],
       "jackView": "私は、親の通院費を仕送りなどで支えている家庭ほど影響が大きいと見ています。結論は年内の予定なので、今のうちに親の今の負担割合と年収の目安を確かめておくとよいです。",
       "sources": [
-        {
-          "title": "70歳以上医療費、3割負担対象増へ与党に3案　年齢上げ・所得基準変更（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOUA126VX0S6A111C2000000/"
-        }
+        { "title": "70歳以上医療費、3割負担対象増へ与党に3案　年齢上げ・所得基準変更（日本経済新聞）", "url": "https://www.nikkei.com/article/DGXZQOUA126VX0S6A111C2000000/" }
       ],
       "image": "https://images.pexels.com/photos/31969951/pexels-photo-31969951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -1138,14 +1026,8 @@
       ],
       "jackView": "私は、副業で取引先と打ち合わせをする人ほど、文字起こしの同意を相手から先に取る手間が要る点に気をつけたいと見ています。",
       "sources": [
-        {
-          "title": "Introducing Claude Meetings, now in beta（Claude 公式）",
-          "url": "https://claude.com/ja/resources/articles/claude-meetings"
-        },
-        {
-          "title": "ClaudeがGoogle Meetに参加　議事録や資料作成、質問回答も（Impress Watch）",
-          "url": "https://www.watch.impress.co.jp/docs/news/2156161.html"
-        }
+        { "title": "Introducing Claude Meetings, now in beta（Claude 公式）", "url": "https://claude.com/ja/resources/articles/claude-meetings" },
+        { "title": "ClaudeがGoogle Meetに参加　議事録や資料作成、質問回答も（Impress Watch）", "url": "https://www.watch.impress.co.jp/docs/news/2156161.html" }
       ],
       "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     },
@@ -1162,311 +1044,10 @@
       ],
       "jackView": "私は、仕事のメールが届かない時に備えて、取引先へ別の連絡手段を一つ伝えておくのが現実的だと見ています。復旧の告知が出るまでは大事な送信を控えめにしてください。",
       "sources": [
-        {
-          "title": "「Microsoft 365」で大規模障害、メールやWeb会議に影響　原因と復旧状況は？（ITmedia ビジネスオンライン／ロイター）",
-          "url": "https://www.itmedia.co.jp/business/articles/2611/13/news067.html"
-        },
-        {
-          "title": "Microsoft 365 サービス状態（公式）",
-          "url": "https://status.cloud.microsoft/"
-        }
+        { "title": "「Microsoft 365」で大規模障害、メールやWeb会議に影響　原因と復旧状況は？（ITmedia ビジネスオンライン／ロイター）", "url": "https://www.itmedia.co.jp/business/articles/2611/13/news067.html" },
+        { "title": "Microsoft 365 サービス状態（公式）", "url": "https://status.cloud.microsoft/" }
       ],
       "image": "https://images.pexels.com/photos/5999786/pexels-photo-5999786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-1207-13",
-      "time": "2026-11-13T12:07",
-      "category": "scam",
-      "title": "【警戒】宝くじ公式サイト・アプリに不正ログイン、4436人の会員情報が閲覧された恐れ　13日に再開し全会員のパスワードを再設定",
-      "summary": [
-        "全国の都道府県と指定都市は13日、宝くじ公式サイト・アプリで4436人の会員アカウントに不正ログインがあったと発表した。4133人はパスワードを勝手に変えられた。",
-        "他で手に入れたメールアドレスとパスワードを使う「リスト型攻撃」とみられる。氏名や住所、当せん金の受取口座の一部、購入履歴などが閲覧された恐れがある。",
-        "不正ログインによる購入や当せん金の受け取りは確認されていない。11月5日から止めていたサイトとアプリは、13日8時に再開した。",
-        "全会員のパスワードをリセットしており、ログインには再設定が要る。同じパスワードを他のサービスで使っている人には、そちらの変更も求めている。"
-      ],
-      "jackView": "私は、この件を名乗って当せん金の手続きなどを促す詐欺メールが出てくる恐れがあると見ています。パスワードの再設定は、メールのリンクより公式サイトのトップから行う方が安心です。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "宝くじ公式サイト・公式アプリへの不正ログインについて（全国都道府県及び全指定都市・2026年11月13日）",
-          "url": "https://www.takarakuji-preliminary.jp/newsrelease_20261113.pdf"
-        },
-        {
-          "title": "宝くじ公式サイトに不正アクセス　4436アカウントに被害（Impress Watch）",
-          "url": "https://www.watch.impress.co.jp/docs/news/2156159.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-01",
-      "time": "2026-11-13T06:19",
-      "category": "market",
-      "title": "NYダウ189ドル安、エヌビディア4.3%安でナスダックも下落　日経平均先物は夜間510円高の6万1210円",
-      "summary": [
-        "12日のNYダウは189ドル40セント安の5万2297ドル、S&P500は0.35%安、ナスダック総合は0.39%安で終えた",
-        "エヌビディアはファン氏のCEO辞任を受けて4.34%安の166.19ドル。米10年債利回りは5.12%台に上昇",
-        "大阪取引所の日経平均先物12月物は夜間取引を6万1210円で終え、12日の現物終値6万819円を約390円上回った",
-        "今日13日はオプションSQ算出日。三菱UFJ・みずほ・三井住友FGなど783社が決算を発表し、今夜は米10月PPI"
-      ],
-      "jackView": "私はSQ算出日の寄り付きは売買が膨らんで値が振れやすい点に注意しています。米金利が5%台にある中で、3メガバンクの決算と今夜のPPIを見てから流れを判断したいと考えています。",
-      "sources": [
-        {
-          "title": "株探 日経225先物：13日夜間取引終値＝510円高、6万1210円",
-          "url": "https://kabutan.jp/news/marketnews/?&b=n202611130090"
-        },
-        {
-          "title": "CNBC Dow Jones Industrial Average (.DJI)",
-          "url": "https://www.cnbc.com/quotes/.DJI"
-        },
-        {
-          "title": "株探 本日の決算発表予定 三菱UFJ、みずほFG、三井住友FGなど783社",
-          "url": "https://kabutan.jp/news/marketnews/?&b=n202611130086"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-02",
-      "time": "2026-11-13T06:19",
-      "category": "usstock",
-      "title": "【続報】エヌビディアのファンCEOが即日辞任、クレスCFOが暫定CEOに　株価は一時14%安、終値は4.34%安の166.19ドル",
-      "summary": [
-        "エヌビディアは米国12日、ファン氏がCEOと取締役を即日退くと発表した。1993年の共同創業から同社を率いてきた",
-        "クレスCFOが後任の決定まで暫定CEOを務め、シノプシス元CEOのハーベイ・ジョーンズ氏が同社初の取締役会議長に就く",
-        "株価は一時14%安まで売られたが下げ幅を縮め、終値は4.34%安の166.19ドル。時価総額は4兆ドルを上回って終えた",
-        "取締役会は社内外の候補から正式な後任を探すとしており、後継の計画はまだ示していない"
-      ],
-      "jackView": "私は暫定体制が長引くほど株価の重荷が残りやすいと見ています。17日の決算でクレス氏が今後の見通しをどう語るかに注意してください。",
-      "sources": [
-        {
-          "title": "NVIDIA、ファン氏事実上解任で幕引き急ぐ　クレス暫定CEOで後任探し（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN12CMY0S6A111C2000000/"
-        },
-        {
-          "title": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO（CNBC）",
-          "url": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html"
-        },
-        {
-          "title": "NVIDIA Corp (NVDA) 株価（CNBC）",
-          "url": "https://www.cnbc.com/quotes/NVDA"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7691749/pexels-photo-7691749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-03",
-      "time": "2026-11-13T06:19",
-      "category": "fx",
-      "title": "円はNYで一時1ドル160円台、9月上旬以来2カ月半ぶりの安値　米10年債利回りは5.12%台に上がり利上げ観測が強まる",
-      "summary": [
-        "12日のNY外為市場で円が対ドルで下げ、一時1ドル160円台を付けた。9月上旬以来およそ2カ月半ぶりの円安水準",
-        "FRBの利上げが織り込まれ、ドル買いが優勢になった。CNBCの米国午後4時すぎの値は159円86銭、高値は160円04銭",
-        "米10年債利回りは5.12%台で、10日の4.98%台から0.14ポイント上がった。11日はベテランズデーで米債券市場が休場だった",
-        "米国12日の午前は、160円を前に政府・日銀の円買い介入が意識され、一進一退が続いていた"
-      ],
-      "jackView": "私は160円台では介入への警戒から急に円高へ振れる場面もあると見ています。今夜の米10月PPIで金利がさらに動くかに注意してください。",
-      "sources": [
-        {
-          "title": "円一時160円台に下落、2カ月半ぶり安値　米利上げ観測強まる（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGN12CHY0S6A111C2000000/"
-        },
-        {
-          "title": "Japanese Yen (JPY=) 相場（CNBC）",
-          "url": "https://www.cnbc.com/quotes/JPY="
-        }
-      ],
-      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-04",
-      "time": "2026-11-13T06:19",
-      "category": "market",
-      "title": "NY原油は続伸し88.74ドル、トランプ氏「イランとの合意など必要としない」と投稿　金は3日続落で2.9%安",
-      "summary": [
-        "NY原油（WTI）12月物は前日比2.21ドル（2.6%）高の1バレル88.74ドルで取引を終えた",
-        "トランプ米大統領はSNSでイランとの停戦合意は不要と主張し、バンス副大統領に内政への集中を指示した",
-        "ロイターによると、ホルムズ海峡で石油タンカー4隻が爆発に見舞われたとイランが発表した",
-        "NY金12月物は115.2ドル安の1トロイオンス3885.3ドル。米長期金利が5.1%台に上がり売りが膨らんだ"
-      ],
-      "jackView": "私は原油高と米金利の上昇が同時に進むと、物価の見通しが上ぶれしやすい点に注意しています。中東を巡る発言は一晩で変わることも多いので、値動きを追いかけすぎないようにしています。",
-      "sources": [
-        {
-          "title": "日経 NY商品、原油続伸　米イランの交渉難航　金続落",
-          "url": "https://www.nikkei.com/article/DGXZQOFL12CZO0S6A111C2000000/"
-        },
-        {
-          "title": "日経 トランプ氏、イランとの停戦合意「不要」　バンス氏に国内集中を指示",
-          "url": "https://www.nikkei.com/article/DGXZQOGN12CZ70S6A111C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5831268/pexels-photo-5831268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-05",
-      "time": "2026-11-13T06:19",
-      "category": "jpstock",
-      "title": "テルモ、今期純利益予想を1200億円から875億円に27%下方修正　アオルティック事業の製品回収・出荷停止で",
-      "summary": [
-        "純利益予想は前期実績の1359億円から36%減の見通し。売上収益予想も1兆2295億円から1兆2195億円に下げた",
-        "アオルティック（大動脈）事業の一部製品の自主回収・出荷停止と、ニューロ事業の一時的な供給制約を反映",
-        "同事業の将来の収益性を踏まえて資産価値のリスク約380億円を織り込み、営業利益への影響は合計約410億円"
-      ],
-      "jackView": "私は資産価値への影響額がまだ確定していないと会社が説明している点に注意しています。出荷再開の時期が見えるまでは、追加の修正もありうると見ています。",
-      "sources": [
-        {
-          "title": "テルモ 2027年3月期通期連結業績予想の修正に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261112576031.pdf"
-        },
-        {
-          "title": "日経 テルモの純利益36%減に下振れ　27年3月期、製品出荷停止で",
-          "url": "https://www.nikkei.com/article/DGXZQOUB121P30S6A111C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-06",
-      "time": "2026-11-13T06:19",
-      "category": "jpstock",
-      "title": "明治HD、発行済み株式の4.4%にあたる最大400億円の自社株買い　4〜9月期の純利益は35%増の290億円",
-      "summary": [
-        "取得上限は1200万株・400億円で、取得期間は11月13日から2027年3月31日まで",
-        "4〜9月期の売上高は4.1%増の5983億円、営業利益は17.0%増の478億円、経常利益は22.1%増の508億円",
-        "親会社株主に帰属する中間純利益は35.2%増の290億円で、前年同期の20.1%減から増益に転じた"
-      ],
-      "jackView": "私は自社株買いの発表を株主還元への前向きな姿勢と受け止めています。ただし枠の全額を買うとは限らないので、実際の取得の進み具合も見ておきたいです。",
-      "sources": [
-        {
-          "title": "明治HD 自己株式取得に係る事項の決定に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261015551092.pdf"
-        },
-        {
-          "title": "明治HD 2027年3月期第2四半期決算短信（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261111573238.pdf"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5833758/pexels-photo-5833758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-07",
-      "time": "2026-11-13T06:19",
-      "category": "jpstock",
-      "title": "日本マイクロニクス、今期経常利益予想を320億円から375億円に17%上方修正　期末配当は208円に30円増額",
-      "summary": [
-        "2026年12月期の売上高予想を1038億円から1100億円に、純利益予想を230億円から268億円に引き上げた",
-        "メモリー向けプローブカードの需要増に対応した増産の前倒しや、製品構成の変化が寄与する",
-        "期末配当予想は178円から208円に増額し、前期実績の95円から2倍強の水準になる"
-      ],
-      "jackView": "私はメモリー向けの需要がどこまで続くかが株価の鍵だと見ています。半導体株は前夜の米国株の動きにも左右されやすいので、決算の数字だけで判断しないよう注意しています。",
-      "sources": [
-        {
-          "title": "日本マイクロニクス 業績予想及び配当予想の修正に関するお知らせ（TDnet）",
-          "url": "https://www.release.tdnet.info/inbs/140120261112575253.pdf"
-        },
-        {
-          "title": "株探 本日の【イチオシ決算】 ニッパツ、メルカリ、日本マイクロ",
-          "url": "https://kabutan.jp/news/marketnews/?&b=n202611121270"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-08",
-      "time": "2026-11-13T06:19",
-      "category": "crypto",
-      "title": "ビットコイン、金曜早朝は1141万円で24時間4.3%安　ドル建ては一時7万1200ドルと約12週間ぶり安値",
-      "summary": [
-        "CoinGeckoで13日6時すぎ、ビットコインは1141万円・7万1384ドルで24時間4.3%安、イーサリアムも3.1%安の2012ドル",
-        "エヌビディアのファン氏がCEOと取締役を即日辞任し市場が反応する中、一時7万1200ドルと約12週間ぶりの安値をつけた",
-        "米現物ビットコインETFは11日も2億9990万ドルの流出で5日連続、5日以降の累計は約14億4000万ドルとSoSoValue",
-        "暗号資産の清算額は24時間で7億ドルを超え大半が買い持ち、MSCIのストラテジー除外や米利上げ観測も重しに"
-      ],
-      "jackView": "私はETFの流出が止まるかどうかを一番の目安にしています。MSCIの除外が発効する30日までは、ストラテジー株の売りが相場の重しになりうる点に注意してください。",
-      "sources": [
-        {
-          "title": "CoinPost：ビットコイン約12週間ぶり安値、7万1200ドルまで下落",
-          "url": "https://coinpost.jp/?p=747702"
-        },
-        {
-          "title": "CoinDesk：Bitcoin dips with Nvidia as ETF outflows reach day five",
-          "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
-        },
-        {
-          "title": "The Block：Bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets",
-          "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/1036636/pexels-photo-1036636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-09",
-      "time": "2026-11-13T06:19",
-      "category": "seido",
-      "title": "SNSの「チャット勧誘」による購入もクーリングオフの対象に、消費者庁が方針固める　悪質業者からの返金の実効性が焦点",
-      "summary": [
-        "消費者庁は、SNSを通じた不意打ちのような勧誘による商品やサービスの購入を、クーリングオフの対象に含める方針を固めた",
-        "特定の層を狙ってチャットなどで購入へ誘導する手法について、不意打ち性や拘束性を問題視する声が強まっていた",
-        "悪質な業者から確実に返金を受ける仕組み作りなど、返金の実効性が今後の焦点になると日本経済新聞が報じた"
-      ],
-      "jackView": "SNSで急に届く勧誘は、契約前に相手の会社名と住所を確かめるのが私の決まりです。クーリングオフが広がっても、業者と連絡が取れなければ返金は難しい点に注意してください。",
-      "jackLink": {
-        "title": "詐欺の見抜き方を無料で学ぶ（副業の番人 LEARNING）",
-        "url": "https://jack-invest.com/learning/"
-      },
-      "sources": [
-        {
-          "title": "日本経済新聞：SNS「チャット勧誘」にもクーリングオフ、返金の実効性課題",
-          "url": "https://www.nikkei.com/article/DGXZQOCD06BDM0W6A101C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-10",
-      "time": "2026-11-13T06:19",
-      "category": "seido",
-      "title": "所得連動の新給付、政府が27年春に自治体へ給付支援システムを提供へ　初回の支給は27年秋で日程は綱渡り",
-      "summary": [
-        "政府は所得連動の新たな支援金を巡り、2027年春に対象者の抽出などに使う給付支援システムを自治体に提供する",
-        "27年4月に食料品の消費税率を8%から1%に下げ、秋に初回の「就業者負担軽減支援金」を給付する計画",
-        "個人単位で金額を計算して配るため効率的なシステムが欠かせず、秋の給付開始に向けて日程は綱渡りとなる",
-        "共同通信によると、政府は今月上旬に予定した減税と新給付の広報動画の公開を見送った。法案成立前の配信に自民党が反対した"
-      ],
-      "jackView": "法案はまだ参院で審議中なので、私は制度の中身が変わる余地もあると見ています。給付を当てにした家計の計画は、法案の成立を確かめてからにしてください。",
-      "sources": [
-        {
-          "title": "日本経済新聞：所得連動給付、27年春に自治体支援システム提供　秋の支給へ綱渡り",
-          "url": "https://www.nikkei.com/article/DGXZQOUA042J30U6A101C2000000/"
-        },
-        {
-          "title": "【独自】消費減税の広報動画、公開見送り　法案成立前、自民が反対（47NEWS・共同通信）",
-          "url": "https://www.47news.jp/15220087.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/31969951/pexels-photo-31969951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261113-0619-11",
-      "time": "2026-11-13T06:19",
-      "category": "seido",
-      "title": "NISAで積み立てる20代、投資信託の売却率が1年で2倍に　全世代で最も高く、結婚や転勤で「資金足りない」",
-      "summary": [
-        "NISAで資産形成を狙う20歳代で、運用資産に占める取り崩し額の割合（売却率）が1年で2倍になった",
-        "売却率は70歳代の高齢者を含む全世代の中で最も高く、若者が早くも投資信託の売却に動いている",
-        "利益確定に加え、結婚や転勤など生活の出来事に伴う資金需要による不本意な売りもあると日経が報じた"
-      ],
-      "jackView": "私は、数年内に使う予定のお金は投資と分けて預金に置くのが、NISAを長く続けるコツだと考えています。株安の時に売らされる形は避けたいところです。",
-      "sources": [
-        {
-          "title": "日本経済新聞：NISA積み立て、20代の取り崩し率2倍に　結婚や転勤「資金足りない」",
-          "url": "https://www.nikkei.com/article/DGXZQOUB2962E0Z21C26A0000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6963053/pexels-photo-6963053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
