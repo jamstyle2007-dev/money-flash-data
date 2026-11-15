@@ -8,9 +8,11 @@ export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 REPO=/Users/jamstyle01/money-flash-data            # 主機
 [ -d "$REPO/.git" ] || REPO="$(cd "$(dirname "$0")/.." && pwd)"   # 待機機は自分の場所から解決
 cd "$REPO" || exit 0
+bash tools/git_heal.sh || true   # 保管場所が止まっていると印が届かず、メールが二重になる（2026-11-15・16に発生）
 echo "$DATE" > xmail_sent.txt
 git add xmail_sent.txt 2>/dev/null || exit 0
 git commit -q -m "xmail sent $DATE" -- xmail_sent.txt 2>/dev/null || exit 0
 git push -q origin main 2>/dev/null && exit 0
-git pull --rebase --autostash -q origin main 2>/dev/null && git push -q origin main 2>/dev/null
+git pull --rebase --autostash -q origin main 2>/dev/null && git push -q origin main 2>/dev/null && exit 0
+bash tools/git_heal.sh || true   # 競合で止まったままにしない
 exit 0

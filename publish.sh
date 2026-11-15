@@ -22,6 +22,12 @@ echo "▶ push 中..."
 # その場合だけ取り込んでから押し直す（--autostash で未コミットの変更があっても止まらない）
 if ! git push; then
   echo "▶ リモートが進んでいたので取り込んでから再push"
-  git pull --rebase --autostash --quiet origin main && git push
+  if ! { git pull --rebase --autostash --quiet origin main && git push; }; then
+    # 取り込みが競合で止まると、以後の公開がすべて届かなくなる（2026-11-14〜16に発生）。
+    # 止まったままにせず GitHub の本体へ合わせ直してから失敗を返す。
+    bash tools/git_heal.sh || true
+    echo "✋ 公開できませんでした。"
+    exit 1
+  fi
 fi
 echo "✅ 公開しました。アプリは次回起動時に最新号を取得します。"

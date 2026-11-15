@@ -15,6 +15,10 @@ notify_fail() {
   osascript -e "display notification \"$1\" with title \"Money Flash フィード失敗\" sound name \"Basso\"" 2>/dev/null || true
 }
 
+# 保管場所が競合で止まったままなら、判断の前に GitHub の本体へ合わせ直す（2026-11-16追加）。
+# 11/14の夜に主機が枝から外れたまま2日間なにも公開できなかった。壊れていなければ何もしない。
+bash tools/git_heal.sh || true
+
 # 待機モード（2台目のMac用）: 主機が直近3時間以内に更新していれば何もしない
 if [ "${MF_STANDBY:-0}" = "1" ]; then
   echo "[standby] リモート最新に同期"
@@ -100,6 +104,7 @@ if [ $? -eq 0 ]; then
   echo "フィード公開完了"
 else
   echo "★push失敗"
+  bash tools/git_heal.sh || true   # 取り込みが競合で止まったままにしない
   notify_fail "フィードpush失敗 $(date '+%H:%M')"
   exit 1
 fi
