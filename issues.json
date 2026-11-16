@@ -1,6 +1,86 @@
 {
   "issues": [
     {
+      "id": "2026-11-17",
+      "number": 125,
+      "date": "2026-11-17",
+      "articles": [
+        {
+          "category": "money",
+          "title": "NYダウ737ドル安、半導体株指数は5.3%安　米商務省の規制強化とエヌビディアの経営の先行き不安で売り、同社の決算は日本時間18日早朝",
+          "sourceDate": "2026-11-17",
+          "flash": [
+            "16日の米国株は、ダウ工業株30種平均が前週末比737ドル安の5万1610ドル、ナスダック総合株価指数が2.5%安、S&P500種株価指数が1.9%安で終えた。フィラデルフィア半導体株指数（SOX）は5.3%安だった",
+            "米商務省が第三国のデータセンターを経由した先端AI半導体への遠隔アクセスを規制する最終案を発表し、半導体株やアルファベット、アマゾンなどクラウド大手に売りが出た。エヌビディアは4.1%安",
+            "米CNBCは、エヌビディアの取締役会が辞任したファン前CEOの復帰を検討していないと報じた。同社は米国時間17日の取引終了後（日本時間18日早朝）に四半期決算を発表する"
+          ],
+          "comment": "私は、半導体株の急落が全世界株やS&P500の投資信託にも及ぶ点を気にしています。米国株の指数は大型ハイテク株の比率が高く、今日はNISAで持つ投資信託の基準価額も下がりやすい日です。決算の結果を受けて値動きがさらに荒れる可能性もあります。今日のうちに、自分の投資信託の上位組み入れ銘柄を運用会社の月次レポートで確かめ、下がっても積み立てを続けるかどうかを先に決めておいてください。",
+          "sources": [
+            {
+              "title": "米国株15時、ダウ反落　AI関連銘柄に売り　一時800ドル安（日本経済新聞）",
+              "url": "https://www.nikkei.com/article/DGXZQOFL16B1P0W6A111C2000000/"
+            },
+            {
+              "title": "Dow falls 700 points, Nasdaq loses 2% as Nvidia leads AI stocks lower: Live updates（CNBC）",
+              "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+            }
+          ],
+          "id": "2026-11-17-money",
+          "image": "https://images.pexels.com/photos/7680549/pexels-photo-7680549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "title": "ネットショップ運営者は要確認。EC一元管理「GoQ System」の注文情報約498万件が漏えい、店舗側にも個人情報保護委員会への報告義務　同社との連名報告は26日正午まで受け付け",
+          "sourceDate": "2026-11-16",
+          "flash": [
+            "EC一元管理システム「GoQ System」を提供するGoQSystemは13日、不正アクセスで1694社分・注文498万4595件（436万7390人分）の注文者と配送先の氏名、住所、電話番号、メールアドレスなどが持ち出されたと発表した。原因は問い合わせフォームの脆弱性で、クレジットカード情報は対象外",
+            "同社は16日の第三報で、個人データの取り扱いを委託した各店舗にも個人情報保護委員会への報告義務があると説明した。1件以上の漏えいがあったアカウントは、同社との連名報告を申し込めば個別の報告が不要になり、回答期限は26日正午",
+            "注文者と配送先へのお詫びの連絡も各店舗が行う必要があり、同社は対象者の明細データとお詫びメールのひな形を準備中としている。15日には同社を装った類似サイトや不審なメールへの注意も呼びかけた"
+          ],
+          "comment": "私は、個人でネット販売をする人ほど「システム会社の事故だから自分は関係ない」と考えがちな点を心配しています。今回は委託元の店舗にも報告とお客様への連絡の義務があり、放置すると信用を失いかねません。GoQを使っている人は、今日のうちに届いているメールで自分のアカウントの漏えい件数を確かめ、26日正午までに連名報告を申し込むかどうかを決めてください。GoQを名乗る連絡は、公式サイトの告知と照らして確かめることです。",
+          "sources": [
+            {
+              "title": "【重要】個人情報保護委員会への連名報告に関するご案内とお知らせ（第三報）（GoQSystem）",
+              "url": "https://goq.co.jp/security-incident-3.html"
+            },
+            {
+              "title": "EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい（INTERNET Watch）",
+              "url": "https://internet.watch.impress.co.jp/docs/news/2156617.html"
+            },
+            {
+              "title": "【重要】当社システムへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第二報）（GoQSystem）",
+              "url": "https://goq.co.jp/security-incident-2.html"
+            }
+          ],
+          "id": "2026-11-17-sidehustle",
+          "image": "https://images.pexels.com/photos/39733048/pexels-photo-39733048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "title": "【警戒】「一番くじ」の配送情報41万件余が漏えいの可能性、今日から対象者に通知　お詫びや配送を装う電話・郵送物の詐欺に注意",
+          "sourceDate": "2026-11-16",
+          "flash": [
+            "バンダイナムコHDなど3社は16日、物流子会社バンダイロジパルへの不正アクセスの第2報を出し、「一番くじ ONLINE」と「一番くじ倶楽部」の配送に関する氏名・住所・電話番号が漏えいした可能性を否定できないと発表した",
+            "対象は一番くじ ONLINEの配送情報38万7895件（2025年1月22日〜2026年10月22日の発送分）と、一番くじ倶楽部のキャンペーンの配送情報2万5632件。一部は重複の可能性があり、クレジットカード情報は含まれない",
+            "対象者には17日からメールか郵送で順次連絡する。同社は不審な電話や郵送物が届く可能性があるとして、心当たりのない連絡に注意するよう呼びかけている"
+          ],
+          "comment": "私は、氏名・住所・電話番号の3点がそろって漏れると、配送業者や「お詫びの補償」を名乗る電話や手紙の詐欺に使われやすいと見ています。今日から本物の通知が届き始めるので、偽物が紛れ込みやすい時期です。通知に書かれたリンクや電話番号は使わず、自分でブックマークした公式サイトから確かめてください。補償を理由に口座番号やカード番号を聞く連絡には応じないことです。",
+          "sources": [
+            {
+              "title": "株式会社バンダイロジパルへの不正アクセスについてのお知らせ（第2報）（バンダイナムコホールディングス・BANDAI SPIRITS・バンダイロジパル）",
+              "url": "https://bandai-a.akamaihd.net/corp/press/100001500720464.pdf"
+            },
+            {
+              "title": "バンダイナムコHD「一番くじ」に関する個人情報 のべ41万件余が漏えいか（NHK）",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261116de76767"
+            }
+          ],
+          "id": "2026-11-17-scam",
+          "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
       "id": "2026-11-16",
       "number": 124,
       "date": "2026-11-16",
@@ -25,7 +105,8 @@
               "url": "https://help.netflix.com/ja/node/24926"
             }
           ],
-          "id": "2026-11-16-money"
+          "id": "2026-11-16-money",
+          "image": "https://images.pexels.com/photos/7009853/pexels-photo-7009853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         },
         {
           "category": "sidehustle",
@@ -44,7 +125,8 @@
               "url": "https://developer.apple.com/news/?id=yxkh08us"
             }
           ],
-          "id": "2026-11-16-sidehustle"
+          "id": "2026-11-16-sidehustle",
+          "image": "https://images.pexels.com/photos/33741339/pexels-photo-33741339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         },
         {
           "category": "scam",
@@ -66,7 +148,8 @@
               "url": "https://www.fsa.go.jp/news/r8_news_menu.html"
             }
           ],
-          "id": "2026-11-16-scam"
+          "id": "2026-11-16-scam",
+          "image": "https://images.pexels.com/photos/18783946/pexels-photo-18783946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         }
       ]
     },
@@ -95,7 +178,8 @@
               "url": "https://www.nikkei.com/article/DGXZQOUB123JW0S6A111C2000000/"
             }
           ],
-          "id": "2026-11-15-money"
+          "id": "2026-11-15-money",
+          "image": "https://images.pexels.com/photos/7680562/pexels-photo-7680562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         },
         {
           "category": "sidehustle",
@@ -117,7 +201,8 @@
               "url": "https://claude.com/ja/resources/articles/claude-meetings"
             }
           ],
-          "id": "2026-11-15-sidehustle"
+          "id": "2026-11-15-sidehustle",
+          "image": "https://images.pexels.com/photos/11911060/pexels-photo-11911060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         },
         {
           "category": "scam",
@@ -135,7 +220,8 @@
               "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/261111/01.html"
             }
           ],
-          "id": "2026-11-15-scam"
+          "id": "2026-11-15-scam",
+          "image": "https://images.pexels.com/photos/38253536/pexels-photo-38253536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
         }
       ]
     },
