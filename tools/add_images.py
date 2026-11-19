@@ -14,6 +14,8 @@ import urllib.request
 import urllib.parse
 
 KEY_PATH = "/Users/jamstyle01/united-c-blog/.pexels_key"
+# MacBook Neo など KEY_PATH が無い Mac 用（中身は鍵の1行・リポジトリには入れない）
+KEY_PATH_FALLBACK = os.path.expanduser("~/.config/money-flash/pexels_key")
 
 # カテゴリ→検索キーワード（英語・エディトリアルに寄せた語彙）
 KEYWORDS = {
@@ -78,7 +80,8 @@ def process(path, key, used):
 
 
 def main():
-    key = open(KEY_PATH).read().strip()
+    key_path = KEY_PATH if os.path.exists(KEY_PATH) else KEY_PATH_FALLBACK
+    key = open(key_path).read().strip()
     used = set()
     total = 0
     for path in sys.argv[1:] or ["feed.json", "issues.json"]:
