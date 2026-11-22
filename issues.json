@@ -1,6 +1,86 @@
 {
   "issues": [
     {
+      "id": "2026-11-23",
+      "number": 131,
+      "date": "2026-11-23",
+      "articles": [
+        {
+          "category": "money",
+          "title": "高校生の子がいる親の扶養控除、縮小を見送る方針　所得税38万円→25万円、住民税33万円→12万円とする案は採らず、勤続20年超で退職金の控除が増える仕組みも維持　2027年度税制改正で政府・与党",
+          "sourceDate": "2026-11-19",
+          "flash": [
+            "政府・与党は2027年度税制改正で、高校生年代の子がいる親の扶養控除の縮小を見送る方針を固めた。子育て世帯の負担増を避けるためと日本経済新聞が11月19日に報じた。",
+            "議論は2024年10月分から児童手当の対象が高校生年代に広がったことが発端で、所得税の控除を38万円から25万円に、住民税の控除を33万円から12万円に縮める案が出ていた。",
+            "同じ会社に20年を超えて勤めると退職金の所得控除が大きく増える今の制度も維持する。正式には年末に向けて取りまとめる与党の税制改正大綱で決まる。"
+          ],
+          "comment": "私はこれを、子育て世帯の手取りを守る判断として歓迎する。縮小案が通れば、高校生の子1人につき所得税の控除が13万円、住民税の控除が21万円減るところだった。ただし、まだ方針の段階で、正式には年末の税制改正大綱で決まる。勤続20年を超えると退職金の控除が増える今の仕組みも残るので、転職を考える人は判断材料にしてほしい。今日は、年末調整で会社に出す扶養控除等申告書に、16歳以上の子を控除対象扶養親族として書いたかを確かめてほしい。",
+          "sources": [
+            {
+              "title": "高校生の扶養控除縮小見送り、政府・与党方針　退職金控除も維持（日本経済新聞）",
+              "url": "https://www.nikkei.com/article/DGXZQOUA18B5R0Y6A111C2000000/"
+            },
+            {
+              "title": "2027年度税制改正、くらしや企業活動どう変わる　主な最新記事まとめ（日本経済新聞）",
+              "url": "https://www.nikkei.com/article/DGXZQOUA136P30T11C26A1000000/"
+            }
+          ],
+          "id": "2026-11-23-money",
+          "image": "https://images.pexels.com/photos/7680549/pexels-photo-7680549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "sidehustle",
+          "title": "ゲームや動画を個人で作る人は要確認。GoogleがGenie 4をGemini APIとGoogle AI Studioで開発者に公開　文章や参考画像から、操作できる720p・24fpsの世界を音声付きで生成し、天候や照明もその場で変えられる",
+          "sourceDate": "2026-11-19",
+          "flash": [
+            "Googleは11月19日、世界を生成するAIモデル「Genie 4」を、Gemini API（Interactions API経由）とGoogle AI Studioで開発者が使えるようにしたと公式ブログで発表した。",
+            "文章や参考画像、またはその両方から、720p・24fpsで途切れずに続く世界を生成し、音声も同期して作る。キーボード操作やプロンプトで、天候・照明・物・出来事をその場で変えられる。",
+            "生成物にはすべて電子透かしの「SynthID」が入る。前日の11月18日からは、対象のGoogle AI Ultra加入者がProject Genieで使えるようになっている。"
+          ],
+          "comment": "私は、これを完成品を作る道具ではなく、ゲームや動画の企画を形にして見せる試作の道具として見ている。頭の中の場面を短時間で動かして見せられれば、クラウドファンディングの説明動画や、受託の提案の説得力が上がる。ただし、公式ブログには料金と日本での提供条件が書かれていない。今日やるなら、Google AI StudioのGenieの説明ページで料金と生成物の商用利用の条件を確かめてから、1本だけ試してほしい。",
+          "sources": [
+            {
+              "title": "Genie 4 now available through the Gemini API（Google公式ブログ）",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
+            },
+            {
+              "title": "Genie 4 is now available（Google公式ブログ）",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+            }
+          ],
+          "id": "2026-11-23-sidehustle",
+          "image": "https://images.pexels.com/photos/11911060/pexels-photo-11911060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        },
+        {
+          "category": "scam",
+          "title": "【警戒】証券口座を狙う詐欺が世界で増加と、IOSCOが声明　AIで作った偽メール、偽の証券会社サイト、ディープフェイクや声のなりすましで口座を乗っ取り、本人に送金や出金をさせる手口も　金融庁が18日に公表",
+          "sourceDate": "2026-11-18",
+          "flash": [
+            "金融庁は11月18日、証券監督者国際機構（IOSCO）が11月16日に出した「市場仲介業者（証券会社等）の個人顧客を標的とした詐欺の増加に係る声明」を公表した。",
+            "報道によると、声明はAIで作ったフィッシングやなりすましの文面、ボットによる口座乗っ取り、ディープフェイクや声の複製、偽の証券会社サイトを手口に挙げ、AIを使った詐欺を今後12〜24カ月で最大の新しいリスクとした。",
+            "狙われやすいのはSNSでの発信が多い人や、ネットで自分で売買する個人投資家とした。被害者自身に送金や暗号資産の出金を承認させる手口は正規の取引に見えるため、業者が見抜きにくいとしている。"
+          ],
+          "comment": "私がいちばん重く見るのは、被害者が自分の手で送金や出金を承認させられる手口が増えている点だ。本人の操作なので、証券会社の監視をすり抜けやすい。電話の声やビデオ通話の顔も、もう本人確認の決め手にならない。今日、メールやSNSのリンクではなくブックマークから証券口座に入り、出金先の銀行口座と登録メールアドレスが自分のものか確かめてほしい。見覚えのない変更があれば、すぐに証券会社の公式窓口へ連絡する。",
+          "sources": [
+            {
+              "title": "証券監督者国際機構（IOSCO）による「市場仲介業者（証券会社等）の個人顧客を標的とした詐欺の増加に係る声明」の公表について（金融庁）",
+              "url": "https://www.fsa.go.jp/inter/ios/20261118/20261118.html"
+            },
+            {
+              "title": "Retail investors facing tsunami of scams（Investment Executive）",
+              "url": "https://www.investmentexecutive.com/news/regulation/retail-investors-facing-tsunami-of-scams/"
+            },
+            {
+              "title": "IOSCO Warns Brokers to Brace for AI-Driven Account Takeovers（Finance Magnates）",
+              "url": "https://www.financemagnates.com/forex/iosco-warns-brokers-to-brace-for-ai-driven-account-takeovers/"
+            }
+          ],
+          "id": "2026-11-23-scam",
+          "image": "https://images.pexels.com/photos/30885916/pexels-photo-30885916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22",
       "number": 130,
       "date": "2026-11-22",
