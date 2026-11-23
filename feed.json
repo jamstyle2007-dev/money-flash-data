@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T06:17",
+  "updated": "2026-11-23T12:09",
   "market": [
     {
       "symbol": "N225",
@@ -18,9 +18,9 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "158.57",
-      "change": "-1.12",
-      "changePct": "-0.70%"
+      "value": "158.93",
+      "change": "+0.40",
+      "changePct": "+0.25%"
     },
     {
       "symbol": "SPX",
@@ -32,12 +32,176 @@
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥9.65M",
-      "change": "+0.8%",
-      "changePct": "+0.8%"
+      "value": "¥9.62M",
+      "change": "+2.1%",
+      "changePct": "+2.1%"
     }
   ],
   "items": [
+    {
+      "id": "20261123-1209-01",
+      "time": "2026-11-23T12:09",
+      "category": "market",
+      "title": "韓国株が5%超下げ、2営業日続けて売りのサイドカーを発動　11月1〜20日の輸出は前年の2倍超でも、AI関連の売りが香港・上海にも広がる",
+      "summary": [
+        "韓国総合株価指数（KOSPI）は23日午前11時47分時点で4599と前週末比5.56%安。韓国取引所は11時33分に、2営業日続けて売りのサイドカーを発動した（聯合ニュース、CNBC）",
+        "サムスン電子は4.72%安、SKハイニックスは4.13%安（11時20分時点）　韓国の財務相は株式市場安定基金とは別に非常時の計画があると述べたが、基金の発動には慎重な姿勢を示した",
+        "韓国の11月1〜20日の輸出は774億ドルと前年同期の2倍超で、半導体は約4倍の385億ドルと過去最高だった（韓国関税庁）",
+        "香港ハンセン指数は1.70%安、上海総合指数は1.47%安。大阪取引所は23日の祝日取引を行わず、日経平均先物の取引は24日朝に再開する（JPX）"
+      ],
+      "jackView": "私は、輸出が過去最高でも半導体株が売られている点に、AI投資の先行きへの不安の強さを見ています。24日の東京は先物の祝日取引もなく、連休中の材料を寄り付きで一度に織り込みやすい点に注意してください。",
+      "sources": [
+        {
+          "title": "聯合ニュース：Bourse operator activates sell-side sidecar for KOSPI on sharp fall",
+          "url": "https://en.yna.co.kr/view/AEN20261123001900320"
+        },
+        {
+          "title": "聯合ニュース：Exports more than double in 1st 20 days of Nov.",
+          "url": "https://en.yna.co.kr/view/AEN20261123002551320"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261123-1209-02",
+      "time": "2026-11-23T12:09",
+      "category": "market",
+      "title": "イランが湾岸で攻撃を強め、ホルムズ海峡周辺で1週間に少なくとも25隻のタンカーが被弾　バーレーンの米軍基地への攻撃は今月4度目、原油は小幅安",
+      "summary": [
+        "ホルムズ海峡とその周辺では過去7日間で少なくとも25隻のタンカーが攻撃を受け、湾岸からの原油の流れが大きく落ちた（アルジャジーラ、22日）",
+        "英国の海事当局UKMTOによると、前週に海峡を通った船のうち石油タンカーは37隻で、その前の週の52隻から減った",
+        "イラン革命防衛隊はバーレーンの米軍基地のレーダーを攻撃したと主張し、バーレーンへの攻撃は今月4度目となった（時事通信）",
+        "原油先物は23日正午前に北海ブレントが1バレル92.06ドルで0.55%安、WTIが83.01ドルで0.48%安と小動き（CNBC）"
+      ],
+      "jackView": "私は、タンカーの被弾が相次いでも原油が小幅安にとどまっている点に注目しています。市場が慣れてきた分、海峡の通航がさらに細ったときの値動きは大きくなりうるので注意してください。",
+      "sources": [
+        {
+          "title": "Al Jazeera：What's behind Iran's escalation of attacks in the Gulf?",
+          "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+        },
+        {
+          "title": "時事通信：イラン、バーレーンの米軍施設攻撃　今月4度目、「報復」主張",
+          "url": "https://www.jiji.com/jc/article?k=2026112200125&g=int"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261123-1209-03",
+      "time": "2026-11-23T12:09",
+      "category": "usstock",
+      "title": "米株先物が週明けに反発、S&P500先物は1.9%高・ナスダック100先物は2.3%高　今週はHPEとデルが決算、26日は感謝祭で休場",
+      "summary": [
+        "日本時間23日11時57分時点で、S&P500先物は7069と1.93%高、ナスダック100先物は2.28%高、ダウ先物は722ドル高だった（CNBC）",
+        "先週末20日は主要3指数がそろって直近の高値から10%以上下げた調整局面で終え、ナスダック総合は年初来でマイナスに転じていた",
+        "AI関連の売りで今月はHPEが25%、デルが34%下げている。HPEは23日、デルは24日の米取引終了後に決算を発表する",
+        "26日は感謝祭で休場、27日は午後1時までの短縮取引となる"
+      ],
+      "jackView": "私は先物の反発だけで底入れとは見ていません。HPEとデルの決算で、AI向けサーバーの受注や利益率が崩れていないかを確かめてから判断したいと考えています。",
+      "sources": [
+        {
+          "title": "CNBC: Daily Stock Market Live（11/23 01:50 UTC更新）",
+          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/40081298/pexels-photo-40081298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261123-1209-04",
+      "time": "2026-11-23T12:09",
+      "category": "usstock",
+      "title": "ベッセント米財務長官、相次ぐシステム障害で「金融機関の安全性を心配する必要はない」　クレイトン国家情報長官はAI対応の更新で障害が続く可能性を指摘",
+      "summary": [
+        "米国では航空管制やマイクロソフトのOutlookなどでシステム障害が相次ぎ、銀行の取引も遅れた。政府当局者はAIを使った組織的なサイバー攻撃との見方をおおむね否定している（CNBC）",
+        "クレイトン国家情報長官は22日のCNNの番組で、企業や政府がAI時代に合わせてシステムを更新する中で障害は続きうるとし、「でこぼこ道」への備えを呼びかけた",
+        "ベッセント財務長官はCBSの番組で、金融機関の安全性を心配すべきかと問われて「いいえ」と答えた。銀行がAI対策で当てる修正プログラムが不具合を起こすことはあるとした"
+      ],
+      "jackView": "私は感謝祭で移動や買い物が増える週に障害が重なると、航空や小売の売り上げに響くおそれがあると見ています。ネット銀行や証券の入出金は、余裕をもった日程で動かすことに注意してください。",
+      "sources": [
+        {
+          "title": "CNBC: Director of National Intelligence Jay Clayton warns Americans of bumps in the road after tech outages",
+          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29880941/pexels-photo-29880941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261123-1209-05",
+      "time": "2026-11-23T12:09",
+      "category": "crypto",
+      "title": "ゲーム用トークンACEのブリッジで不正発行、攻撃者が約200万ドルを持ち出す　安値のACEを本物に替える取引が殺到し約370万ドル分も流出",
+      "summary": [
+        "Binance Labsが出資するゲーム会社Fusionistのブリッジで、日本時間23日2時55分からACEの不正発行が起きた（The Block）",
+        "攻撃者は裏付けのないACEを大量に発行して売り抜け、約200万ドルを得た",
+        "ブリッジが動き続けたため、値崩れしたACEを買って本物のACEに替える取引が相次ぎ、約5370万ACE（約370万ドル相当）が24のアドレスに払い出された",
+        "Fusionistは4時30分にACEの送金や取引の停止を呼びかけ、取引所Gateは一部の取引を取り消す。ACEは24時間で約20%安"
+      ],
+      "jackView": "私はブリッジが暗号資産の弱点になりやすいと見ています。安値で買って大きく増やした話も出回りますが、取引所が取引を取り消す例もあるので、深追いしないように注意してください。",
+      "sources": [
+        {
+          "title": "The Block「A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist's ACE bridge」",
+          "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261123-1209-06",
+      "time": "2026-11-23T12:09",
+      "category": "crypto",
+      "title": "TRUMPコインの夕食会、順位表の130ウォレットのうち66が米国人の使えない取引所からトークンを受け取る　米消費者団体パブリック・シチズンが分析",
+      "summary": [
+        "米消費者団体パブリック・シチズンは、TRUMP夕食会の順位表の130ウォレットのうち66が、米国人の使えない取引所からトークンを受け取ったと分析",
+        "取引所はバイナンス（グローバル版）やBybit、BloFinなど。大統領との特別レセプションの対象29ウォレットのうち15も含む（Cointelegraph）",
+        "首位はシンガポール系の取引業者FastXで、11月16日の集計時点で165万ドル分を保有。同じ人物か集団が持つとみられるウォレットも14あった"
+      ],
+      "jackView": "私はミームコインの値段が、政治との近さへの期待で動きやすい点に注意しています。最高値から大きく下げた例でもあるので、話題性だけで手を出さないように気をつけてください。",
+      "sources": [
+        {
+          "title": "Cointelegraph「Half of wallets on Trump's dinner list got tokens from non-US exchanges」",
+          "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8358141/pexels-photo-8358141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261123-1209-07",
+      "time": "2026-11-23T12:09",
+      "category": "scam",
+      "title": "【警戒】動画をスクショして送る副業で引き出し費用約40万円、TikTokの「1000万円もらえます」で電子マネー20万円分　秋田で詐欺被害が相次ぐ",
+      "summary": [
+        "警察によると、秋田県大仙市の40代男性は副業紹介サイトで見つけた「動画をスクリーンショットして送る」副業を始め、当初は報酬が振り込まれていた（秋田朝日放送）",
+        "その後LINEで指示を受けて専用アプリを使うよう促され、たまった報酬を引き出そうとすると費用を求められ、約40万5千円を送金したが報酬は受け取れなかった",
+        "秋田市の60代男性はTikTokの「1000万円もらえます」という動画から投稿者とLINEでつながり、送金料の名目で電子マネー計20万円分をだまし取られた"
+      ],
+      "jackView": "「お金を受け取るために先に手数料や送金料を払う」という話が出たら、私はその時点で詐欺だと考えます。最初に少額の報酬が振り込まれても信用せず、家族や警察に相談してください。",
+      "sources": [
+        {
+          "title": "「副業で…」「1000万円を…」秋田県内で詐欺被害が相次ぐ（秋田朝日放送／Yahoo!ニュース）",
+          "url": "https://news.yahoo.co.jp/articles/d6c0afcd9a0684589a4d85904699fc5df9130799"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261123-1209-08",
+      "time": "2026-11-23T12:09",
+      "category": "scam",
+      "title": "【警戒】韓国のサムスン証券で顧客8000人超の個人情報が流出、顧客対応サイトに不正アクセス　韓国では金融会社へのサイバー攻撃が相次ぐ",
+      "summary": [
+        "韓国のサムスン証券は23日、顧客対応のウェブサイトへの不正アクセスで、8000人を超える顧客の個人情報が流出したと明らかにした（聯合ニュース）",
+        "不正アクセスは21日（土）に見つかり、氏名や住所などが漏れた。ほかのシステムの顧客情報には影響がないとしている",
+        "同社は当局に報告し、セキュリティ対策を強めたとしている。韓国ではここ数カ月、金融会社への不正アクセスが相次いでいる"
+      ],
+      "jackView": "私は、流出した氏名や住所が、証券会社をかたる偽の電話や郵便の詐欺に使われやすい点に注意しています。日本の証券口座でも、届いた連絡のリンクや番号ではなく、公式アプリや公式サイトから確かめてください。",
+      "sources": [
+        {
+          "title": "聯合ニュース：Personal information of more than 8,000 clients at Samsung Securities breached",
+          "url": "https://en.yna.co.kr/view/AEN20261123002951320"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/35869963/pexels-photo-35869963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261123-0617-01",
       "time": "2026-11-23T06:17",
