@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:10",
+  "updated": "2026-11-25T06:19",
   "market": [
     {
       "symbol": "N225",
@@ -18,26 +18,317 @@
     {
       "symbol": "USDJPY",
       "name": "ドル円",
-      "value": "159.30",
-      "change": "+0.30",
-      "changePct": "+0.19%"
+      "value": "159.22",
+      "change": "+0.22",
+      "changePct": "+0.14%"
     },
     {
       "symbol": "SPX",
       "name": "S&P500",
-      "value": "7,237",
-      "change": "+327",
-      "changePct": "+4.73%"
+      "value": "7,201",
+      "change": "-36",
+      "changePct": "-0.50%"
     },
     {
       "symbol": "BTC",
       "name": "BTC",
-      "value": "¥9.54M",
-      "change": "-2.5%",
-      "changePct": "-2.5%"
+      "value": "¥9.51M",
+      "change": "-2.4%",
+      "changePct": "-2.4%"
     }
   ],
   "items": [
+    {
+      "id": "20261125-0619-01",
+      "time": "2026-11-25T06:19",
+      "category": "market",
+      "title": "NYダウは423ドル高の5万18ドル、ナスダックは1.48%安で半導体株指数は7.88%安　大阪の日経平均先物は夜間取引で1610円安の5万7370円",
+      "summary": [
+        "24日のダウ平均は423ドル39セント（0.85%）高の5万18ドル70セント、S&P500は0.50%安、ナスダックは1.48%安だった（CNBC）",
+        "前日に急騰したAI・半導体株に売りが戻り、SOXは7.88%安。エヌビディア5.86%安、マイクロン10.97%安、デル11.83%安",
+        "マイクロンは投資判断が「中立」に下がり、メモリーの供給過剰リスクが指摘された（株探）　ダウはヘルスケアなどが支えた",
+        "大阪の日経225先物12月物は夜間取引で1610円安の5万7370円、24日の日経平均の終値を1274円下回った（株探）"
+      ],
+      "jackView": "私は、ダウが上がる一方でSOXが8%近く下げた動きから、AI株の値動きはまだ荒いと見ています。今日の東京は、前日に大きく上げた半導体株の寄り付きの下げに注意してください。",
+      "sources": [
+        {
+          "title": "株探　日経225先物：25日夜間取引終値＝1610円安、5万7370円",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202611250073"
+        },
+        {
+          "title": "CNBC　Nvidia shares fall over 5% as Huang comeback rally cools",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-02",
+      "time": "2026-11-25T06:19",
+      "category": "usstock",
+      "title": "デルの8〜10月期決算は売上高が103%増の549億ドル、通期の売上高見通しを2020億ドルに引き上げ　株価は時間外で2.3%安",
+      "summary": [
+        "デル・テクノロジーズは24日の引け後、8〜10月期の売上高が前年同期比103%増の549億ドル、調整後1株利益が9.45ドルだったと発表した（同社発表）",
+        "AI向けサーバーの売上高は291%増の220億ドル、AIサーバーの受注残は1323億ドル　自社株買いの枠を250億ドル追加する",
+        "通期の売上高見通しを1920億ドルから2020億ドルに、調整後1株利益の見通しを25.50ドルから29.68ドルに上げた",
+        "株価は24日の通常取引で11.83%安の295.28ドル、発表後の時間外は日本時間6時14分時点で2.30%安の288.50ドル（CNBC）"
+      ],
+      "jackView": "私は、受注残が1300億ドルを超えても時間外で売られた点を見ています。期待が高いと好決算でも買われにくいので、サーバーや半導体関連の日本株への波及に注意してください。",
+      "sources": [
+        {
+          "title": "Dell Technologies Delivers Third Quarter Fiscal 2027 Financial Results",
+          "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+        },
+        {
+          "title": "CNBC DELL",
+          "url": "https://www.cnbc.com/quotes/DELL"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-03",
+      "time": "2026-11-25T06:19",
+      "category": "fx",
+      "title": "ドル円は159円22銭で小幅な円安、米消費者信頼感の上振れと原油高でドル売りが一巡　米10年債利回りは4.93%でほぼ横ばい",
+      "summary": [
+        "24日のNYでドル円は159円00銭から159円35銭まで上げ、日本時間25日6時12分は159円22銭と前日比22銭の円安（CNBC）",
+        "米住宅価格の伸び鈍化で長期金利が下げてドル売りが先行、11月の消費者信頼感指数が103.3と予想92.4を上回りドル売りが後退した",
+        "WTI 1月物はフーシ派のリヤド攻撃などで2.35%高の82.05ドル　米10年債利回りは4.93%、5年債入札は最高落札4.719%で順調だった",
+        "ユーロは独IFO景況感の改善で買われ、ユーロ円は174円82銭まで上昇　ドル指数は0.47%安の103.83（CNBC）"
+      ],
+      "jackView": "私は、ドル指数が下がる中でもドル円が159円台で底堅い点に注目しています。今夜は米PCE物価など指標が集中し、感謝祭前で取引も薄くなるので値動きの荒さに注意してください。",
+      "sources": [
+        {
+          "title": "CNBC USD/JPY",
+          "url": "https://www.cnbc.com/quotes/JPY="
+        },
+        {
+          "title": "株探（フィスコ） 11月24日のNY為替概況",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202611250060"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11624905/pexels-photo-11624905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-04",
+      "time": "2026-11-25T06:19",
+      "category": "jpstock",
+      "title": "楽天グループが最大1500億円の永久劣後債の発行を見送り　27年4月に償還する約1300億円のユーロ建て債の原資は別の手を検討",
+      "summary": [
+        "楽天グループは11月下旬に条件を決める予定だった最大1500億円の永久劣後債の発行を見送る（日経）　24日付の訂正発行登録書で分かった",
+        "「諸般の事情に鑑み、当該社債の発行を中止する」としている。27年4月に償還するユーロ建て永久劣後債（約1300億円）の原資に充てる予定だった",
+        "償還は予定通り進め、原資はほかの対応策を検討するという（日経）"
+      ],
+      "jackView": "私は、借り換えの手段を一つ取り下げた点を、楽天グループの資金繰りを見るうえでの材料と見ています。同社の株や社債を持つ人は、次の調達方法の発表に注意してください。",
+      "sources": [
+        {
+          "title": "日経　楽天G、社債発行見送り　最大1500億円の永久劣後債",
+          "url": "https://www.nikkei.com/article/DGXZQOUB243640U6A121C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/27129041/pexels-photo-27129041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-05",
+      "time": "2026-11-25T06:19",
+      "category": "jpstock",
+      "title": "「日経高配当株30指数」に連動するETFを東証が初めて上場承認、12月14日に上場　運用はニッセイアセットマネジメント",
+      "summary": [
+        "東京証券取引所は24日、ETF「ニッセイETF　日経高配当株30」の上場を承認した（日経）　12月14日に上場する",
+        "「日経高配当株30指数（トータルリターン）」に連動する値動きを目指す。管理会社はニッセイアセットマネジメントで、同指数に連動するETFの上場は初めて",
+        "同指数は東証プライム市場の時価総額上位500銘柄の中から、予想配当利回りをもとに銘柄を選ぶ"
+      ],
+      "jackView": "私は、NISAで配当を重視する人の選択肢が増える点に注目しています。買う前に信託報酬や分配金の時期、すでにある高配当株ETFとの銘柄の重なりを確かめてください。",
+      "sources": [
+        {
+          "title": "日経　日経高配当株30指数のETF、東証が初の上場承認",
+          "url": "https://www.nikkei.com/article/DGXZQOUB247JA0U6A121C2000000/"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/32459956/pexels-photo-32459956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-06",
+      "time": "2026-11-25T06:19",
+      "category": "usstock",
+      "title": "アンソロピック株が6.5%安の81.91ドルで公開価格83ドルを下回る　19日の上場初日の始値111.50ドルから下げが続き、証券各社は強気の評価で調査開始",
+      "summary": [
+        "米ナスダックに上場したアンソロピックの株価は24日、6.54%安の81.91ドルで終え、公開価格の83ドルを下回った（CNBC）",
+        "19日の上場初日は111.50ドルで始まり、その後は下げが続く　調達額は813億ドルで過去最大の新規株式公開だった",
+        "24日は半導体株などの下げにつれ安　カナコードは買い・目標135ドル、オッペンハイマーはアウトパフォーム・目標150ドルで調査を始めた"
+      ],
+      "jackView": "私は、国内の募集で買った人も含めて公開価格割れの重さを感じています。人気のIPOでも上場直後は値動きが大きいので、買い増しや売りの判断は自分の決めたルールで行うことに注意してください。",
+      "sources": [
+        {
+          "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+        },
+        {
+          "title": "CNBC ANT",
+          "url": "https://www.cnbc.com/quotes/ANT"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/17855419/pexels-photo-17855419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-07",
+      "time": "2026-11-25T06:19",
+      "category": "crypto",
+      "title": "ビットコインは6万ドルを割り込み5万9600ドル台、ナスダック1.5%安と半導体株の急落につれ安　ストラテジー株は8.1%安",
+      "summary": [
+        "ビットコインは25日午前6時12分時点で5万9696ドル（約951万円）、24時間で約2.6%安だった（CoinGecko）　イーサリアムは1672ドルで約3.0%安",
+        "米24日はナスダック1.48%安、半導体株指数（SOX）7.88%安　今週にも関税を引き上げるとの米紙報道もあり、暗号資産も売られた（CoinDesk）",
+        "25日午前2時ごろに5万9291ドルまで下げた（CoinGecko）　先物の強制決済は24日夜までの24時間で約8億4400万ドルと前日比217%増（CoinGlass）",
+        "ビットコインを大量に持つ米ストラテジーの株価は8.12%安の77.55ドルで引けた（CNBC）"
+      ],
+      "jackView": "私は、ビットコインが米ハイテク株と同じ向きに動く場面が続いている点に注意しています。強制決済で値が急に振れやすいので、借り入れを使った取引は特に控えめにするのが大事だと見ています。",
+      "sources": [
+        {
+          "title": "CoinDesk: Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
+          "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto"
+        },
+        {
+          "title": "CoinDesk: Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+          "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12063230/pexels-photo-12063230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-08",
+      "time": "2026-11-25T06:19",
+      "category": "crypto",
+      "title": "韓国金融委、2017年から禁じてきたICOを認める法案の草案を公表　暗号資産取引所の大株主の持ち分は20%まで、ウォン建てステーブルコインは銀行主導に",
+      "summary": [
+        "韓国の金融委員会は24日、「デジタル資産産業の革新と利用者保護法」の草案を公表した（The Block）",
+        "発行者がホワイトペーパーを金融委に届け出れば、国内でのICO（暗号資産の新規発行・販売）を認める",
+        "暗号資産取引所の大株主1人あたりの持ち分は20%まで（金融委の承認で34%まで）とし、既存の取引所には3年の猶予を設ける",
+        "ウォン建てステーブルコインは当初、銀行が過半を持つ企業連合に限る　準備金は100%銀行に置き、利息は払えない　ハッキングなどの損失は過失がなくても業者が補償する"
+      ],
+      "jackView": "私は、発行の解禁と取引所への持ち分規制を同時に進める点に注目しています。ICOの解禁を名乗る海外発の勧誘も出やすいので、日本の登録業者かどうかを必ず確かめてください。",
+      "sources": [
+        {
+          "title": "The Block: South Korea's draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
+          "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494"
+        },
+        {
+          "title": "CoinDesk: South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+          "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-09",
+      "time": "2026-11-25T06:19",
+      "category": "seido",
+      "title": "ベビーシッターや家事支援サービスの利用者に税優遇を創設へ、利用料の一部を所得税額から差し引く案　政府・与党が27年度税制改正大綱に盛り込む方向で調整",
+      "summary": [
+        "政府・与党は、家事支援サービスやベビーシッターの利用者に対する税優遇措置を創設する方向で調整に入った（時事）",
+        "支払った利用料の一部を所得税額から差し引く案を検討している。国家資格や認定制度を作り、認定を受けた事業者の利用を対象にする方向",
+        "企業が従業員の利用を補助した場合に法人税の負担を軽くする案もある。年末までに詳細を詰め、2027年度税制改正大綱に盛り込む"
+      ],
+      "jackView": "私は、対象が認定を受けた事業者の利用に限られる見込みの点に注意しています。共働きで今シッターを使っている方は、使っている会社が対象に入るかを年末の大綱で確かめてください。",
+      "sources": [
+        {
+          "title": "時事ドットコム「ベビーシッター利用者に税優遇　共働き世帯の負担減―政府・与党調整」",
+          "url": "https://www.jiji.com/jc/article?k=2026112400909&g=eco"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-10",
+      "time": "2026-11-25T06:19",
+      "category": "point",
+      "title": "ローソン銀行が6カ月定期に年1.40%の冬キャンペーン、12月1日から1月28日まで　10万円以上の個人が対象で、満期後は通常金利に戻る",
+      "summary": [
+        "ローソン銀行は24日、12月1日〜1月28日に6カ月ものの定期に年1.40%（税引後1.115%）を適用すると発表した",
+        "個人が対象で、預け入れは10万円以上。ローソン銀行ダイレクトで普通預金から振り替える。過去に自動継続型を選んで預け入れ中の定期は対象外",
+        "100万円を預けた場合の税引後利息は5563円と同行は試算。自動継続にすると、初回満期後は同じ期間の通常の金利になる"
+      ],
+      "jackView": "私は、6カ月で終わる高い金利は、満期後のお金の置き場所まで決めてから使うのがよいと見ています。口座が無い人は開設に2週間ほどかかるので、締め切り間際の申し込みに注意してください。",
+      "sources": [
+        {
+          "title": "ローソン銀行「冬の定期預金キャンペーン2026」実施のお知らせ（PR TIMES）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000218.000038381.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-11",
+      "time": "2026-11-25T06:19",
+      "category": "point",
+      "title": "auでんきなどが冬の節電チャレンジ、12月〜2月に指定時間の節電0.1kWhごとに1Pontaポイント　前回参加した人もエントリーし直しが必要",
+      "summary": [
+        "auエネルギー＆ライフは24日、auでんきなどの契約者向けに、節電量に応じてPontaポイントを出す取り組みを発表した",
+        "実施は12月1日〜2027年2月28日。対象はauでんき・UQでんき・Pontaでんきなど27の電気サービス（同社発表）",
+        "指定の期間の節電量0.1kWhごとに1ポイント。参加には専用サイトなどからのエントリーが必要で、受付は11月24日〜2月28日。前回参加した人も改めて登録する",
+        "国の負担軽減策に基づき、家庭向けの低圧契約では12月に1kWhあたり1円、1月と2月に4.5円を値引く。値引きに手続きは要らない"
+      ],
+      "jackView": "私は、ポイントの額より、冬の電気代そのものを見直すきっかけに使うのがよいと見ています。前回参加した人も登録し直しが必要なので、エントリー漏れに注意してください。",
+      "sources": [
+        {
+          "title": "auエネルギー＆ライフ「冬の電力需給と料金高騰に対応、節電チャレンジプログラムと電気・ガス料金の値引きを実施」（PR TIMES）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000068.000124795.html"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-12",
+      "time": "2026-11-25T06:19",
+      "category": "sidehustle",
+      "title": "音楽配信のTIDALが、AIだけで作った曲を12月9日から削除へ　約2900万曲が対象で、配信代行からのAI曲の新規提出も断る",
+      "summary": [
+        "米音楽配信のTIDALは24日、AIだけで生成した曲を12月9日から削除し始めると公式Xで発表した。年初までに全て無くす",
+        "削除は約2900万曲で、1日8万〜8万5000曲の提出を拒否する見込み。直近90日に届いた曲の43%がAI曲だった",
+        "配信代行からのAI曲も、検出ツールとメタデータの確認で断る（The Verge）。AIを補助に使った曲は対象外",
+        "TIDALは今年6月から、全部AIで作った曲に表示を付け、収益化の対象から外していた"
+      ],
+      "jackView": "私は、AIで曲を量産して配信収入を狙う副業は、配信先の規約が変わると収入がゼロになりうると見ています。配信代行を使っている人は、自分の曲がどの配信先から外されるかを確かめてください。",
+      "sources": [
+        {
+          "title": "TIDAL公式X（2026年11月24日）",
+          "url": "https://x.com/TIDAL/status/2125233598714487170"
+        },
+        {
+          "title": "The Verge: Tidal will start banning AI-generated music next month",
+          "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7495198/pexels-photo-7495198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "id": "20261125-0619-13",
+      "time": "2026-11-25T06:19",
+      "category": "scam",
+      "title": "【警戒】京王電鉄グループにランサムウェア攻撃、顧客や取引先など約1063万人の個人情報が流出した可能性　訪日客のパスポート写し約160万件やカード番号も",
+      "summary": [
+        "京王電鉄は24日、9月26日に確認したランサムウェア攻撃で、グループの顧客や取引先など約1063万人分の個人情報が漏えいした可能性があると発表した（同社公式）",
+        "京王プレッソインや京王プラザホテルなどに泊まった海外客のパスポート写し約160万件、京王百貨店専用の京王クレジットカードの番号約2万件などが含まれる",
+        "従業員・退職者と扶養家族約1万2000人の氏名や人事情報は漏えいを確認した。採用に応募した約36万人の応募書類なども漏えいの可能性がある",
+        "現時点で金銭被害などの二次被害は確認されていないという。同社はグループを装った不審なメールやSMS、電話に注意するよう呼びかけている"
+      ],
+      "jackView": "私は、流出した情報を使って京王を名乗る詐欺のメールや電話が増えると見ています。案内のリンクは開かず、カードの明細はご自身でカード会社の公式アプリなどから確かめてください。",
+      "sources": [
+        {
+          "title": "京王電鉄「ランサムウェア攻撃による個人情報漏洩に関するお知らせとお詫び」（2026年11月24日）",
+          "url": "https://www.keio.co.jp/news/update/news_release/news_release2026/pdf/nr20261124_newsrelease.pdf"
+        },
+        {
+          "title": "時事ドットコム「京王電鉄、1063万人の個人情報漏えいか　ランサムウエア攻撃で」",
+          "url": "https://www.jiji.com/jc/article?k=2026112400935&g=eco"
+        }
+      ],
+      "jackLink": {
+        "title": "流出後の詐欺の見抜き方を学ぶ（LEARNING）",
+        "url": "https://jack-invest.com/learning/"
+      },
+      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
     {
       "id": "20261124-1809-01",
       "time": "2026-11-24T18:09",
@@ -829,529 +1120,6 @@
         "url": "https://jack-invest.com/core-member"
       },
       "image": "https://images.pexels.com/photos/9858904/pexels-photo-9858904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-01",
-      "time": "2026-11-23T18:11",
-      "category": "market",
-      "title": "【今週のまとめ】休場の23日、韓国株は3.31%安で1月以来の安値、台湾と上海は下げを消す　米株先物はナスダック100が3%高、24日の東京は夜間終値5万4550円から再開",
-      "summary": [
-        "20日の日経平均は3007円安の5万6436円。23日は勤労感謝の日で東京は休場、日経平均先物も祝日取引がなく、20日夜間終値の5万4550円から24日朝に再開する（株探）",
-        "韓国KOSPIはAI関連株の売りで一時5.8%安、終値は3.31%安の4708.54で1月以来の安値。台湾は2.16%高、上海は0.15%高、香港は0.12%安と下げを消した（聯合、CNBC）",
-        "18時ごろ、ナスダック100先物は3.35%高、S&P500先物は2.62%高、独DAXは0.61%高。ドル円は159円17銭、金は2.76%高、WTIは0.76%安（CNBC）",
-        "24日は月例経済報告とPMI速報、韓国は自社株買い注文の上限緩和を始める。25日に米PCE物価、26日は米感謝祭で休場、東京は権利付き最終日"
-      ],
-      "jackView": "私は24日の東京は、20日夜間の先物安と今日の米株先物の戻りのどちらに寄るかで、寄り付きが大きく振れると見ています。韓国は一時5.8%安から戻しましたが、下支え策での戻りは長続きしないこともあるので、寄り付きの値だけで判断しないよう注意してください。",
-      "sources": [
-        {
-          "title": "聯合ニュース「韓国株が3.3％急落　2日連続の一時取引停止＝新興株は約2年ぶり安値」",
-          "url": "https://jp.yna.co.kr/view/AJP20261123003600882"
-        },
-        {
-          "title": "CNBC「How Asian countries are looking to prop up markets as AI downturn sinks stocks」",
-          "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-02",
-      "time": "2026-11-23T18:11",
-      "category": "market",
-      "title": "ユーロ圏の11月PMI速報は51.7で横ばい、ドイツは55.0で2022年3月以来の高さ　フランスは46.2で6カ月ぶりの低さ、物価の伸びは続く",
-      "summary": [
-        "S&P Globalが23日発表したユーロ圏の11月総合PMI速報は51.7で前月と同じ。サービス業は51.2で5カ月ぶりの低さ、製造業PMIは52.9で2カ月ぶりの高さだった",
-        "ドイツの総合PMIは55.0（10月53.4）で2022年3月以来の高さ。フランスは46.2（10月46.6）で6カ月ぶりの低さとなり、独仏の差は6年ぶりの大きさ",
-        "原油安でコストの伸びは鈍ったが、仕入れ価格と販売価格は大きく上がり続けた。S&P Globalは、物価の強さが12月のECBの追加利上げを求める声を支えるとの見方を示した"
-      ],
-      "jackView": "私は、ECBの12月の判断がユーロ円の向きを左右しやすいと見ています。ユーロ建ての資産や旅行の両替を考えている方は、12月のECB会合の前後で相場が振れやすい点に注意してください。",
-      "sources": [
-        {
-          "title": "S&P Global：Flash Eurozone PMI（2026年11月）",
-          "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/2c032f309b2e4b41bc77568f1b97b540"
-        },
-        {
-          "title": "S&P Global：Flash Germany PMI（2026年11月）",
-          "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/f6792797b5b04f08a27727e1c3bee887"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/31485805/pexels-photo-31485805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-03",
-      "time": "2026-11-23T18:11",
-      "category": "market",
-      "title": "フーシ派がサウジ西部のラービグ製油所を攻撃したと主張、トランプ氏は交渉が決裂すれば来年以降にイランを再び攻撃しうると警告　原油は小幅安",
-      "summary": [
-        "イエメンの親イラン武装組織フーシ派は22日、サウジアラビアのラービグ製油所を狙い、施設に直撃させたと主張した。被害の程度は分かっていない（CNBC、ロイター）",
-        "サウジ主導の連合軍は西部に向けた無人機を迎撃したと発表。ラービグはジッダの北約165キロで、アラムコと住友化学が開発した施設ペトロ・ラービグがある",
-        "トランプ米大統領は22日、FOXニュースに交渉決裂なら来年以降にイランを再攻撃しうると述べ、「中間選挙前より今の方が挑戦的だ」と語った（時事）",
-        "北海ブレント先物は日本時間18時ごろ1バレル91ドル台で0.9%安、WTIは82ドル台（CNBC）"
-      ],
-      "jackView": "私は原油が小幅安にとどまっている今は、市場がこの攻撃の影響を小さく見ていると受け止めています。製油所の被害の程度と、トランプ氏の発言がカタールを通じた協議にどう響くかの続報に注意してください。",
-      "sources": [
-        {
-          "title": "時事「イラン再攻撃の可能性警告　来年以降、交渉決裂なら―米大統領」",
-          "url": "https://www.jiji.com/jc/article?k=2026112300216&g=int"
-        },
-        {
-          "title": "CNBC「Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year」",
-          "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/3070171/pexels-photo-3070171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-04",
-      "time": "2026-11-23T18:11",
-      "category": "fx",
-      "title": "ドル円は159円台に上げ、ユーロ円は174円台後半　祝日で薄商いの東京で米株先物高を受けた円売り、米10年債利回りは4.96%に上昇",
-      "summary": [
-        "祝日で薄商いの東京市場で、米株先物の強含みを受けた円売りが出て、ドル円は158円53銭から夕方に159円09銭まで上げた（株探・フィスコ）",
-        "17時時点はドル円158円90銭〜159円00銭、ユーロ円174円80〜90銭。ユーロ円は173円96銭から174円97銭まで上げた",
-        "CNBCでは日本時間18時05分時点でドル円は159円17銭と前週末比0.40%の円安。米10年債利回りは4.964%と0.05ポイント上がった"
-      ],
-      "jackView": "私は東京が休みで取引が薄い日の円安は、明日の東京再開で振れが大きくなりやすいと見ています。160円が近づくと政府の円安けん制の発言が出やすいので、外貨の両替や外貨預金は時期を分けて考えることに注意してください。",
-      "sources": [
-        {
-          "title": "株探（フィスコ）: 東京為替：ドル・円は小じっかり、クロス円に追随",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202611230032"
-        },
-        {
-          "title": "CNBC: JPY= USD/JPY quote",
-          "url": "https://www.cnbc.com/quotes/JPY="
-        }
-      ],
-      "image": "https://images.pexels.com/photos/7680548/pexels-photo-7680548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-05",
-      "time": "2026-11-23T18:11",
-      "category": "usstock",
-      "title": "米株先物の上げ幅が広がり、ナスダック100先物は3.4%高・S&P500先物は2.6%高　エヌビディアは時間外で8%超高、20日の急落から買い戻し",
-      "summary": [
-        "日本時間23日17時55分時点で、ナスダック100先物は3.37%高の2万5972、S&P500先物は2.64%高の7118、ダウ先物は909ドル高（CNBC）",
-        "昼の11時57分時点はS&P500先物1.93%高、ナスダック100先物2.28%高で、そこから上げ幅を広げた",
-        "時間外取引（日本時間18時05分時点）でエヌビディアは8.69%高の136.44ドル、マイクロンは7.61%高、AMDは6.56%高",
-        "3社は20日にそれぞれ13〜14%下げていた。アンソロピックは3.27%高、マイクロソフトは3.05%高"
-      ],
-      "jackView": "私は時間外取引は参加者が少なく、寄り付き前の値がそのまま続くとは限らないと見ています。先週の下げが大きかった半導体株ほど、戻りの勢いも反落も大きくなりやすい点に注意してください。",
-      "sources": [
-        {
-          "title": "CNBC: Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout",
-          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "CNBC: NVDA Nvidia quote",
-          "url": "https://www.cnbc.com/quotes/NVDA"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/16594725/pexels-photo-16594725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-06",
-      "time": "2026-11-23T18:11",
-      "category": "jpstock",
-      "title": "住友商事が中小企業に出資する450億円規模の新ファンドを設立、AIの知見で工場の操業などを改善　数年で30〜40社に出資",
-      "summary": [
-        "住友商事は出資先の投資会社と組み、中小企業に出資するファンドを設立した。規模は450億円程度で、住商が持つAIの知見を生かして工場の操業などを改善し企業価値を高める（日経）",
-        "新ファンドは数年で30〜40社程度に出資する。運営は住商が10%超を出資するプライベートエクイティファンド運営のリーバ（東京・千代田）",
-        "リーバの代表は住商出身で、2023年には1号ファンド（約330億円）を設けている"
-      ],
-      "jackView": "私は、商社がAIの知見を中小企業の現場の改善に生かし、投資の収益につなげようとしている点に注目しています。450億円は住商の規模から見ると小さく、業績への影響は限られる点に注意してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞：住友商事が中小企業投資の新ファンド 450億円、出資先にAI知見注入",
-          "url": "https://www.nikkei.com/article/DGXZQOUC11BK00R11C26A1000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5833758/pexels-photo-5833758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-07",
-      "time": "2026-11-23T18:11",
-      "category": "seido",
-      "title": "政府が経済安全保障の特別会計を新設へ、日銀のETF売却益を裏付けに「つなぎ国債」を発行　年明けの通常国会で特別会計法の改正を目指す",
-      "summary": [
-        "政府は経済安全保障の重要分野への投資に向け、一般会計とは別に資金を管理する特別会計を設けるため、年明けの通常国会で特別会計法の改正を目指す（共同通信、23日）",
-        "2027年度から単年度でなく複数年度にわたって予算を確保する狙い。日銀が10月に決めたETF売却の加速で増える利益を財源に使う",
-        "政府はETFの追加売却益を年間1兆円程度と見込み、これを裏付けに返済の元手を先に決める「つなぎ国債」を出して特会の財源とする。日銀は売却完了に43年程度かかると説明している",
-        "政府内では、膨らむ防衛費のうち装備品の国産化など経済安保に関わる費用を特会に組み込むべきだとの声も出ている"
-      ],
-      "jackView": "私は、ETFの売却益が日銀の決算を経て実際にどれだけ国庫に入るかが焦点だと見ています。財源の議論が売却ペースの前倒しにつながると株の需給にも響くので、その点に注意してください。",
-      "sources": [
-        {
-          "title": "経済安全保障に特別会計設置へ　複数年度の予算確保が狙い（共同通信・47NEWS）",
-          "url": "https://www.47news.jp/15273726.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8861755/pexels-photo-8861755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-08",
-      "time": "2026-11-23T18:11",
-      "category": "seido",
-      "title": "建設や医療の現場の目視・検査をAIで代替へ、政府が規制を全面的に見直す原則の原案　年内に「AI・デジタル改革原則」をまとめる",
-      "summary": [
-        "政府がAIの活用を進めるため年内にまとめる「AI・デジタル改革原則」の原案が23日、判明した。人の目視や検査を前提とする規制を全面的に見直し、AIによる代替を促す（日経）",
-        "企業が開発に必要な実証をしやすい環境も整える。政府共通の指針として5つの原則を定める",
-        "「AIを前提とした制度設計」や「人の責任」などを掲げ、積極活用と安全確保の両輪でルールづくりを進める"
-      ],
-      "jackView": "私は、目視や点検を前提にした規制が緩むと、検査や点検の仕事の中身が変わっていくと見ています。まだ原案の段階なので、どの分野でいつから変わるのかは年内の決定を待って確かめてください。",
-      "sources": [
-        {
-          "title": "日本経済新聞：建設や医療現場の目視・検査をAI代替、実用化へ規制緩和 政府改革原則案",
-          "url": "https://www.nikkei.com/article/DGXZQOUA203F80Q6A121C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8962449/pexels-photo-8962449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-09",
-      "time": "2026-11-23T18:11",
-      "category": "crypto",
-      "title": "米国のビットコイン現物ETF、先週は約17.9億ドルの純流出で4週続けて資金が流出　ブラックロックのIBITは1日の流出額が過去最大に",
-      "summary": [
-        "米国のビットコイン現物ETFは先週（16〜20日）約17.9億ドルの純流出。2024年1月の取引開始以来3番目の規模で、4週連続の流出（SoSoValue調べ）",
-        "ブラックロックのIBITは週間13.7億ドルの流出で全体の約76%。木曜5.411億ドル、金曜5.447億ドルと、1日の流出額の過去最大を上回った（Cointelegraph）",
-        "11月の累計流出は20日時点で41.4億ドルと、月間最大だった6月の45.1億ドルに近づく。イーサリアムのETFも週間3.14億ドルの流出（The Block）",
-        "ビットコインは23日午後6時時点で6万1394ドル（約977万円）と、円建てで24時間に約3.3%高（CoinGecko）"
-      ],
-      "jackView": "私は、値段が少し戻しても大口の資金が戻っていない点に注意しています。25日の米PCE物価で12月の利上げ観測がどう動き、ETFの資金の向きが変わるかを見たいと思います。",
-      "sources": [
-        {
-          "title": "The Block：Spot bitcoin ETFs shed $1.8 billion in past week as outflows become structural",
-          "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
-        },
-        {
-          "title": "Cointelegraph：Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
-          "url": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-10",
-      "time": "2026-11-23T18:11",
-      "category": "crypto",
-      "title": "ビットバンク、24日からMEXCへの暗号資産の出金を制限　12月10日からはMEXCからの入金も制限、米財務省の資金洗浄懸念先の指定を受けて",
-      "summary": [
-        "ビットバンクは24日（火）から、海外の交換業者MEXCと関連会社への暗号資産の出金を制限する。登録済みのアドレスへの出金も止まる（同社のお知らせ）",
-        "12月10日（木）からはMEXCからの入金も制限する。入金があった口座は、入出金の制限や利用契約の終了などの措置の対象になる",
-        "他のウォレットやサービスを経由した間接的な取引も制限の対象になる場合があり、入金の反映を保留して審査することもあるとしている",
-        "米財務省の金融犯罪取締ネットワーク（FinCEN）が6日、MEXC Globalを「主要なマネー・ローンダリング懸念先」に指定したことを受けた対応"
-      ],
-      "jackView": "私は、別のウォレットを経由しても審査で止まる場合がある点に特に注意が必要だと見ています。MEXCに資産を置いている方は、12月10日の入金制限より前に移す手順を確かめてください。",
-      "sources": [
-        {
-          "title": "ビットバンク：【重要】MEXC および関連事業者との暗号資産の入出金制限について",
-          "url": "https://bitbank.cc/blog/articles/135762783"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8369680/pexels-photo-8369680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1811-11",
-      "time": "2026-11-23T18:11",
-      "category": "point",
-      "title": "宝くじ売り場でのd払いで最大5000ポイントが当たるキャンペーン、24日から12月25日まで　合計6000円以上で抽選、9000円以上なら口数2倍",
-      "summary": [
-        "NTTドコモは11月24日から12月25日まで、宝くじ売り場でd払い（コード決済）を使うと抽選でdポイントが当たるキャンペーンを行う。エントリーが必要",
-        "期間中のd払いの合計が6000円以上で抽選の対象となり、9000円以上なら獲得した口数が2倍になる。口数に上限はないが、当選は1人1口まで",
-        "1等は500名に5000ポイント、2等は2000名に1000ポイント。d払い（iD）やd払いタッチでの購入は対象外で、宝くじポイントの利用分は金額に数えない"
-      ],
-      "jackView": "私は、当選は計2500名と限られるので、ポイント目当てに宝くじの購入額を増やすのはおすすめしません。もともと買う予定の分をd払いにまとめ、エントリーを忘れないよう注意してください。",
-      "sources": [
-        {
-          "title": "NTTドコモ d払い 宝くじ売り場でのd払い利用で最大5000ポイント",
-          "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_takarakuji_261124_7931/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/12935039/pexels-photo-12935039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-01",
-      "time": "2026-11-23T12:09",
-      "category": "market",
-      "title": "韓国株が5%超下げ、2営業日続けて売りのサイドカーを発動　11月1〜20日の輸出は前年の2倍超でも、AI関連の売りが香港・上海にも広がる",
-      "summary": [
-        "韓国総合株価指数（KOSPI）は23日午前11時47分時点で4599と前週末比5.56%安。韓国取引所は11時33分に、2営業日続けて売りのサイドカーを発動した（聯合ニュース、CNBC）",
-        "サムスン電子は4.72%安、SKハイニックスは4.13%安（11時20分時点）　韓国の財務相は株式市場安定基金とは別に非常時の計画があると述べたが、基金の発動には慎重な姿勢を示した",
-        "韓国の11月1〜20日の輸出は774億ドルと前年同期の2倍超で、半導体は約4倍の385億ドルと過去最高だった（韓国関税庁）",
-        "香港ハンセン指数は1.70%安、上海総合指数は1.47%安。大阪取引所は23日の祝日取引を行わず、日経平均先物の取引は24日朝に再開する（JPX）"
-      ],
-      "jackView": "私は、輸出が過去最高でも半導体株が売られている点に、AI投資の先行きへの不安の強さを見ています。24日の東京は先物の祝日取引もなく、連休中の材料を寄り付きで一度に織り込みやすい点に注意してください。",
-      "sources": [
-        {
-          "title": "聯合ニュース：Bourse operator activates sell-side sidecar for KOSPI on sharp fall",
-          "url": "https://en.yna.co.kr/view/AEN20261123001900320"
-        },
-        {
-          "title": "聯合ニュース：Exports more than double in 1st 20 days of Nov.",
-          "url": "https://en.yna.co.kr/view/AEN20261123002551320"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-02",
-      "time": "2026-11-23T12:09",
-      "category": "market",
-      "title": "イランが湾岸で攻撃を強め、ホルムズ海峡周辺で1週間に少なくとも25隻のタンカーが被弾　バーレーンの米軍基地への攻撃は今月4度目、原油は小幅安",
-      "summary": [
-        "ホルムズ海峡とその周辺では過去7日間で少なくとも25隻のタンカーが攻撃を受け、湾岸からの原油の流れが大きく落ちた（アルジャジーラ、22日）",
-        "英国の海事当局UKMTOによると、前週に海峡を通った船のうち石油タンカーは37隻で、その前の週の52隻から減った",
-        "イラン革命防衛隊はバーレーンの米軍基地のレーダーを攻撃したと主張し、バーレーンへの攻撃は今月4度目となった（時事通信）",
-        "原油先物は23日正午前に北海ブレントが1バレル92.06ドルで0.55%安、WTIが83.01ドルで0.48%安と小動き（CNBC）"
-      ],
-      "jackView": "私は、タンカーの被弾が相次いでも原油が小幅安にとどまっている点に注目しています。市場が慣れてきた分、海峡の通航がさらに細ったときの値動きは大きくなりうるので注意してください。",
-      "sources": [
-        {
-          "title": "Al Jazeera：What's behind Iran's escalation of attacks in the Gulf?",
-          "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
-        },
-        {
-          "title": "時事通信：イラン、バーレーンの米軍施設攻撃　今月4度目、「報復」主張",
-          "url": "https://www.jiji.com/jc/article?k=2026112200125&g=int"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35606520/pexels-photo-35606520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-03",
-      "time": "2026-11-23T12:09",
-      "category": "usstock",
-      "title": "米株先物が週明けに反発、S&P500先物は1.9%高・ナスダック100先物は2.3%高　今週はHPEとデルが決算、26日は感謝祭で休場",
-      "summary": [
-        "日本時間23日11時57分時点で、S&P500先物は7069と1.93%高、ナスダック100先物は2.28%高、ダウ先物は722ドル高だった（CNBC）",
-        "先週末20日は主要3指数がそろって直近の高値から10%以上下げた調整局面で終え、ナスダック総合は年初来でマイナスに転じていた",
-        "AI関連の売りで今月はHPEが25%、デルが34%下げている。HPEは23日、デルは24日の米取引終了後に決算を発表する",
-        "26日は感謝祭で休場、27日は午後1時までの短縮取引となる"
-      ],
-      "jackView": "私は先物の反発だけで底入れとは見ていません。HPEとデルの決算で、AI向けサーバーの受注や利益率が崩れていないかを確かめてから判断したいと考えています。",
-      "sources": [
-        {
-          "title": "CNBC: Daily Stock Market Live（11/23 01:50 UTC更新）",
-          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/40081298/pexels-photo-40081298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-04",
-      "time": "2026-11-23T12:09",
-      "category": "usstock",
-      "title": "ベッセント米財務長官、相次ぐシステム障害で「金融機関の安全性を心配する必要はない」　クレイトン国家情報長官はAI対応の更新で障害が続く可能性を指摘",
-      "summary": [
-        "米国では航空管制やマイクロソフトのOutlookなどでシステム障害が相次ぎ、銀行の取引も遅れた。政府当局者はAIを使った組織的なサイバー攻撃との見方をおおむね否定している（CNBC）",
-        "クレイトン国家情報長官は22日のCNNの番組で、企業や政府がAI時代に合わせてシステムを更新する中で障害は続きうるとし、「でこぼこ道」への備えを呼びかけた",
-        "ベッセント財務長官はCBSの番組で、金融機関の安全性を心配すべきかと問われて「いいえ」と答えた。銀行がAI対策で当てる修正プログラムが不具合を起こすことはあるとした"
-      ],
-      "jackView": "私は感謝祭で移動や買い物が増える週に障害が重なると、航空や小売の売り上げに響くおそれがあると見ています。ネット銀行や証券の入出金は、余裕をもった日程で動かすことに注意してください。",
-      "sources": [
-        {
-          "title": "CNBC: Director of National Intelligence Jay Clayton warns Americans of bumps in the road after tech outages",
-          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/29880941/pexels-photo-29880941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-05",
-      "time": "2026-11-23T12:09",
-      "category": "crypto",
-      "title": "ゲーム用トークンACEのブリッジで不正発行、攻撃者が約200万ドルを持ち出す　安値のACEを本物に替える取引が殺到し約370万ドル分も流出",
-      "summary": [
-        "Binance Labsが出資するゲーム会社Fusionistのブリッジで、日本時間23日2時55分からACEの不正発行が起きた（The Block）",
-        "攻撃者は裏付けのないACEを大量に発行して売り抜け、約200万ドルを得た",
-        "ブリッジが動き続けたため、値崩れしたACEを買って本物のACEに替える取引が相次ぎ、約5370万ACE（約370万ドル相当）が24のアドレスに払い出された",
-        "Fusionistは4時30分にACEの送金や取引の停止を呼びかけ、取引所Gateは一部の取引を取り消す。ACEは24時間で約20%安"
-      ],
-      "jackView": "私はブリッジが暗号資産の弱点になりやすいと見ています。安値で買って大きく増やした話も出回りますが、取引所が取引を取り消す例もあるので、深追いしないように注意してください。",
-      "sources": [
-        {
-          "title": "The Block「A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist's ACE bridge」",
-          "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30767247/pexels-photo-30767247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-06",
-      "time": "2026-11-23T12:09",
-      "category": "crypto",
-      "title": "TRUMPコインの夕食会、順位表の130ウォレットのうち66が米国人の使えない取引所からトークンを受け取る　米消費者団体パブリック・シチズンが分析",
-      "summary": [
-        "米消費者団体パブリック・シチズンは、TRUMP夕食会の順位表の130ウォレットのうち66が、米国人の使えない取引所からトークンを受け取ったと分析",
-        "取引所はバイナンス（グローバル版）やBybit、BloFinなど。大統領との特別レセプションの対象29ウォレットのうち15も含む（Cointelegraph）",
-        "首位はシンガポール系の取引業者FastXで、11月16日の集計時点で165万ドル分を保有。同じ人物か集団が持つとみられるウォレットも14あった"
-      ],
-      "jackView": "私はミームコインの値段が、政治との近さへの期待で動きやすい点に注意しています。最高値から大きく下げた例でもあるので、話題性だけで手を出さないように気をつけてください。",
-      "sources": [
-        {
-          "title": "Cointelegraph「Half of wallets on Trump's dinner list got tokens from non-US exchanges」",
-          "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/8358141/pexels-photo-8358141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-07",
-      "time": "2026-11-23T12:09",
-      "category": "scam",
-      "title": "【警戒】動画をスクショして送る副業で引き出し費用約40万円、TikTokの「1000万円もらえます」で電子マネー20万円分　秋田で詐欺被害が相次ぐ",
-      "summary": [
-        "警察によると、秋田県大仙市の40代男性は副業紹介サイトで見つけた「動画をスクリーンショットして送る」副業を始め、当初は報酬が振り込まれていた（秋田朝日放送）",
-        "その後LINEで指示を受けて専用アプリを使うよう促され、たまった報酬を引き出そうとすると費用を求められ、約40万5千円を送金したが報酬は受け取れなかった",
-        "秋田市の60代男性はTikTokの「1000万円もらえます」という動画から投稿者とLINEでつながり、送金料の名目で電子マネー計20万円分をだまし取られた"
-      ],
-      "jackView": "「お金を受け取るために先に手数料や送金料を払う」という話が出たら、私はその時点で詐欺だと考えます。最初に少額の報酬が振り込まれても信用せず、家族や警察に相談してください。",
-      "sources": [
-        {
-          "title": "「副業で…」「1000万円を…」秋田県内で詐欺被害が相次ぐ（秋田朝日放送／Yahoo!ニュース）",
-          "url": "https://news.yahoo.co.jp/articles/d6c0afcd9a0684589a4d85904699fc5df9130799"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-1209-08",
-      "time": "2026-11-23T12:09",
-      "category": "scam",
-      "title": "【警戒】韓国のサムスン証券で顧客8000人超の個人情報が流出、顧客対応サイトに不正アクセス　韓国では金融会社へのサイバー攻撃が相次ぐ",
-      "summary": [
-        "韓国のサムスン証券は23日、顧客対応のウェブサイトへの不正アクセスで、8000人を超える顧客の個人情報が流出したと明らかにした（聯合ニュース）",
-        "不正アクセスは21日（土）に見つかり、氏名や住所などが漏れた。ほかのシステムの顧客情報には影響がないとしている",
-        "同社は当局に報告し、セキュリティ対策を強めたとしている。韓国ではここ数カ月、金融会社への不正アクセスが相次いでいる"
-      ],
-      "jackView": "私は、流出した氏名や住所が、証券会社をかたる偽の電話や郵便の詐欺に使われやすい点に注意しています。日本の証券口座でも、届いた連絡のリンクや番号ではなく、公式アプリや公式サイトから確かめてください。",
-      "sources": [
-        {
-          "title": "聯合ニュース：Personal information of more than 8,000 clients at Samsung Securities breached",
-          "url": "https://en.yna.co.kr/view/AEN20261123002951320"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/35869963/pexels-photo-35869963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-0617-01",
-      "time": "2026-11-23T06:17",
-      "category": "market",
-      "title": "COP31は成果文書を採択できずに閉幕、「化石燃料からの脱却」の扱いで折り合えず　会期を2日延ばしても全会一致に届かず",
-      "summary": [
-        "トルコのアンタルヤで開かれたCOP31は22日、成果文書の採択を断念して閉幕した。会期を2日延ばして協議したが、全会一致に至らなかった（時事通信）",
-        "議長国の最終案は「化石燃料からの脱却に向けた行動の加速」の文言を産油国の反発で削っており、EUや島しょ国が相次いで反対した",
-        "最終案にあった電化率を35年までに35%へ上げる目標や、CO2を回収・活用するCCUSで35年までに10億トン規模を処理する目標も採択されなかった"
-      ],
-      "jackView": "私は、脱化石燃料の国際的なルールづくりが止まったことで、原油や天然ガスの需要が長く続くとの見方が出やすくなると見ています。エネルギー関連株を見るときは、各国が独自に出す政策の方を確かめてください。",
-      "sources": [
-        {
-          "title": "成果文書の採択断念　脱化石燃料で合意できず―COP31閉幕（時事通信）",
-          "url": "https://www.jiji.com/jc/article?k=2026112300082&g=eco"
-        },
-        {
-          "title": "COP31決裂、埋まらぬ各国の溝（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOGR20AOA0Q6A121C2000000/"
-        }
-      ],
-      "jackLink": {
-        "title": "脱炭素と資源の行方をマネーラボで深掘り",
-        "url": "https://jack-money-lab.com"
-      },
-      "image": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-0617-02",
-      "time": "2026-11-23T06:17",
-      "category": "market",
-      "title": "米中間選挙の下院、民主党が258議席を確保　AP通信の集計で共和党は173議席、民主党は1992年以来の大勝",
-      "summary": [
-        "AP通信は22日、米中間選挙の下院選で野党の民主党が258議席を確保したと報じた。与党の共和党は173議席（共同通信）",
-        "民主党の258議席は、1992年の大統領選と同時に行われた下院選で258議席を得て以来の大勝となる"
-      ],
-      "jackView": "私は、下院で野党が大差で多数を握ったことで、予算や関税をめぐる法案で政権との駆け引きが増えると見ています。年明けに新しい議会が始まってからの予算審議と、米国債の利回りの動きに注意してください。",
-      "sources": [
-        {
-          "title": "【速報】米民主、下院で1992年以来の大勝（共同通信・47NEWS）",
-          "url": "https://www.47news.jp/15271404.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/28716593/pexels-photo-28716593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-0617-03",
-      "time": "2026-11-23T06:17",
-      "category": "jpstock",
-      "title": "東京電力HD、柏崎刈羽原発で協力企業の作業員が死亡　安全が確認できるまでテロ対策施設を含む全工事を中止",
-      "summary": [
-        "東京電力ホールディングスは22日、柏崎刈羽原子力発電所（新潟県）で協力企業の作業員の死亡事故があったと発表した（日本経済新聞）",
-        "新事務本館の建設エリアでガラスの荷解き中に荷崩れが起き、作業員が下敷きになった。同原発での死亡事故は1997年6月以来",
-        "東電は安全が確認できるまで、7号機のテロ対策施設を含む同原発の工事をすべて止める。テロ対策施設は29年8月としていた完成を延ばす方向で調整していた"
-      ],
-      "jackView": "私は、工事の中止が長引くと7号機の稼働の時期が見えにくくなり、東電の収支や進めている資本提携の交渉にも響くと見ています。24日の取引再開後の株価の反応と、工事を再開する時期に注意してください。",
-      "sources": [
-        {
-          "title": "東電、柏崎刈羽原発で死亡事故　安全確認まで全工事を中止（日本経済新聞）",
-          "url": "https://www.nikkei.com/article/DGXZQOCC2222X0S6A121C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/5833757/pexels-photo-5833757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-0617-04",
-      "time": "2026-11-23T06:17",
-      "category": "usstock",
-      "title": "アンソロピックの「クロード」、国内の導入企業・団体が1年で10倍に　上場で得た資金でデータセンター建設などアジア市場の開拓へ",
-      "summary": [
-        "米ナスダック市場に上場した米アンソロピックの生成AI「クロード」は、この1年間で国内の導入企業・団体の数が10倍に伸びた（日経）",
-        "同社は中国を念頭に、市場で調達した資金を使い、データセンターの建設などでアジア市場の開拓も狙う"
-      ],
-      "jackView": "私は導入企業の数よりも、日本の企業が実際の業務で使い続けるかどうかを見ています。株価は上場直後で値動きが荒いので、話題性だけで判断しないよう注意してください。",
-      "sources": [
-        {
-          "title": "日本経済新聞：アンソロピックのClaude、日本の導入企業10倍に IPO資金でアジア開拓",
-          "url": "https://www.nikkei.com/article/DGXZQOUC205XI0Q6A121C2000000/"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/10780842/pexels-photo-10780842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-0617-05",
-      "time": "2026-11-23T06:17",
-      "category": "usstock",
-      "title": "米ドラフトキングスの空売りがNFL開幕後に17%増、浮動株の約10.8%に　予測市場の広がりで株価は昨年9月から60%超の下落",
-      "summary": [
-        "米スポーツ賭け大手ドラフトキングス株の空売りは、NFLの今季開幕から11月16日までに17%増えた（S3パートナーズの推計）",
-        "売り建てられた株は浮動株の10.8%弱にあたる4440万株。11月6日の決算で利益見通しを下げて20%超下落した後、空売りは180万株増えた",
-        "見通しの引き下げは予測市場への参入費用のため。株価はスポーツの予測市場の取引が増え始めた2025年9月から60%超下げ、52週安値にある"
-      ],
-      "jackView": "私は空売りの多い銘柄は、良い材料が出ると買い戻しで急に上げることもあると見ています。予測市場の規制はまだ定まっていないので、上下どちらにも値動きが荒い点に注意してください。",
-      "sources": [
-        {
-          "title": "CNBC：As prediction markets grow, so do the number of short sellers counting on DraftKings to fall",
-          "url": "https://www.cnbc.com/2026/11/22/draftkings-short-interest-prediction-markets.html"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "id": "20261123-0617-06",
-      "time": "2026-11-23T06:17",
-      "category": "crypto",
-      "title": "ビットコインは週明けの早朝に6万800ドル台、日曜深夜には一時6万1000ドル台まで上げる　円建ては約965万円で24時間に約0.8%高",
-      "summary": [
-        "ビットコインは23日午前6時12分時点で6万825ドル（約965万円）と、24時間で約0.8%高だった（CoinGecko）",
-        "22日午後6時ごろの約5万9700ドルから上げ、23日午前2時ごろには一時6万1000ドル台をつけた（CoinGeckoの1時間ごとの値）",
-        "イーサリアムは1719ドル（約27万3000円）で、24時間で約2.1%高だった"
-      ],
-      "jackView": "週末の暗号資産は取引が薄く、値が振れやすいと私は見ています。今夜の米国株の取引と25日の米PCE物価で流れが変わりうるので、週末の戻りだけで判断しないよう注意してください。",
-      "sources": [
-        {
-          "title": "CoinGecko: ビットコイン（BTC）",
-          "url": "https://www.coingecko.com/ja/coins/bitcoin"
-        }
-      ],
-      "image": "https://images.pexels.com/photos/30547576/pexels-photo-30547576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
     }
   ]
 }
