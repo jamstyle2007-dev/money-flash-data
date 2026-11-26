@@ -2,6 +2,9 @@
 # Money Flash フィード更新（1日3回: 6:10 / 12:00 / 18:00）
 # AIはfeed_draft.jsonの生成まで。検証を通過した場合のみfeed.jsonへ反映して公開する。
 set -u
+# 本体は { } でくるむ＝bash が最後まで読んでから動かす。待機機は動いている最中に reset --hard でこのファイルを
+# 新しい版に替えるので、くるまないと読みかけの位置から新しい版の途中を読んでしまう（2026-11-26）
+{
 cd "$(dirname "$0")"
 mkdir -p logs
 LOG="logs/feed-$(date +%F).log"
@@ -15,6 +18,24 @@ notify_fail() {
   osascript -e "display notification \"$1\" with title \"Money Flash フィード失敗\" sound name \"Basso\"" 2>/dev/null || true
 }
 
+# GitHub の本体の feed.json の updated が直近3時間以内か（＝もう誰かが更新したか）。2026-11-26 変更。
+# 以前は api.github.com に聞いていたが、名乗らない問い合わせは1時間60回までで、家の2台で分け合っている。
+# 11/26 の18時台に空振りし、主機は19:00に要らない作り直しを、待機機は代わりに作ろうとして失敗通知を出した。
+# いまは公開に使う git の道で読む。git で取れない時だけ前と同じ窓口に聞き、どちらも取れなければ「古い」と見なす（前と同じ）。
+remote_feed_fresh() {
+  { if git fetch origin main --quiet 2>/dev/null; then git show origin/main:feed.json 2>/dev/null
+    else curl -s --max-time 30 "https://api.github.com/repos/jamstyle2007-dev/money-flash-data/contents/feed.json?ref=main" -H "Accept: application/vnd.github.raw"; fi; } \
+  | python3 -c "
+import json, sys
+from datetime import datetime
+try:
+    u = json.load(sys.stdin).get('updated', '')
+    fresh = (datetime.now() - datetime.strptime(u, '%Y-%m-%dT%H:%M')).total_seconds() < 3 * 3600
+except Exception:
+    fresh = False
+sys.exit(0 if fresh else 1)"
+}
+
 # 保管場所が競合で止まったままなら、判断の前に GitHub の本体へ合わせ直す（2026-11-16追加）。
 # 11/14の夜に主機が枝から外れたまま2日間なにも公開できなかった。壊れていなければ何もしない。
 bash tools/git_heal.sh || true
@@ -23,18 +44,7 @@ bash tools/git_heal.sh || true
 if [ "${MF_STANDBY:-0}" = "1" ]; then
   echo "[standby] リモート最新に同期"
   git fetch origin main --quiet && git reset --hard origin/main --quiet
-  if curl -s --max-time 30 \
-      "https://api.github.com/repos/jamstyle2007-dev/money-flash-data/contents/feed.json?ref=main" \
-      -H "Accept: application/vnd.github.raw" \
-    | python3 -c "
-import json, sys
-from datetime import datetime
-try:
-    u = json.load(sys.stdin).get('updated', '')
-    fresh = (datetime.now() - datetime.strptime(u, '%Y-%m-%dT%H:%M')).total_seconds() < 3 * 3600
-except Exception:
-    fresh = False
-sys.exit(0 if fresh else 1)"; then
+  if remote_feed_fresh; then
     echo "[standby] フィードは主機が更新済み。何もせず終了"
     exit 0
   fi
@@ -44,18 +54,7 @@ fi
 # 電源断などで取りこぼした回を起動時に埋めるための空振り防止（2026-09-04追加）。
 # 直近3時間以内に更新済みなら何もしない。通常の3回(6:10/12:00/18:00)は6時間近く空くので
 # 影響せず、再起動が続いた日にAIを何度も呼んで週間上限を食うのだけを防ぐ。
-if curl -s --max-time 30 \
-    "https://api.github.com/repos/jamstyle2007-dev/money-flash-data/contents/feed.json?ref=main" \
-    -H "Accept: application/vnd.github.raw" \
-  | python3 -c "
-import json, sys
-from datetime import datetime
-try:
-    u = json.load(sys.stdin).get('updated', '')
-    fresh = (datetime.now() - datetime.strptime(u, '%Y-%m-%dT%H:%M')).total_seconds() < 3 * 3600
-except Exception:
-    fresh = False
-sys.exit(0 if fresh else 1)"; then
+if remote_feed_fresh; then
   echo "フィードは3時間以内に更新済み。今回はスキップ"
   exit 0
 fi
@@ -108,3 +107,5 @@ else
   notify_fail "フィードpush失敗 $(date '+%H:%M')"
   exit 1
 fi
+}
+exit $?
